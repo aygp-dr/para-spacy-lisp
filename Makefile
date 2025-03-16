@@ -1,8 +1,8 @@
 # Makefile for para-spacy-lisp
 
-.PHONY: all setup run clean data paragraphs process
+.PHONY: all setup run clean data paragraphs process test test-python test-elisp
 
-all: setup
+all: setup process
 
 setup:
 	./setup.sh
@@ -27,7 +27,17 @@ processed/json/beowulf_0001.json processed/lisp/beowulf_0001.lisp: data/paragrap
 
 process: paragraphs processed/json/beowulf_0001.json
 
-all: process
+# Run tests
+test: test-python test-elisp
+
+test-python:
+	python -m pytest tests/ -v
+
+test-elisp:
+	emacs --batch \
+		--eval "(add-to-list 'load-path \"$(PWD)/elisp\")" \
+		--load "$(PWD)/tests/test_elisp.el" \
+		--funcall ert-run-tests-batch-and-exit
 
 # Clean up
 clean:

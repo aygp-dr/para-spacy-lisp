@@ -1,0 +1,441 @@
+#+TITLE: para-spacy-lisp Setup
+#+AUTHOR: aygp-dr
+#+DATE: 2025-03-16
+#+PROPERTY: header-args :mkdirp yes
+#+OPTIONS: toc:2
+
+* Project Setup and Structure
+
+This org file helps you set up and organize the para-spacy-lisp project, which is a bridge between Emacs and spaCy for NLP processing.
+
+** Usage Instructions
+
+1. Clone the repository
+2. Open this file in Emacs
+3. Run =org-babel-tangle= (=C-c C-v t=) to extract all code blocks
+4. Run =./setup.sh= to install dependencies
+
+** Project Structure
+
+The project is organized according to the following structure:
+
+#+begin_src shell :results output
+find . -type d -not -path "*/\.*" | sort
+#+end_src
+
+*** Directory Descriptions
+
+- =data/= - Contains raw and processed text data
+- =docs/= - Documentation in Org format
+- =elisp/= - Emacs Lisp code for spaCy mode
+- =processed/= - Output from the text processing pipeline
+- =scripts/= - Utility scripts for text processing
+- =server/= - Python WebSocket server code
+- =src/= - Core source code
+- =tests/= - Test suite
+
+** Python Server Code
+
+#+begin_src python :mkdirp yes :tangle "../src/web/nlp_server.py"
+#!/usr/bin/env python3
+import asyncio
+import websockets
+import json
+import spacy
+import logging
+
+# Set up logging
+logging.basicConfig(
+    format="%(asctime)s %(message)s",
+    level=logging.INFO,
+)
+
+# Load spaCy model
+nlp = spacy.load("en_core_web_sm")
+
+# Store connected clients
+connected = set()
+
+async def register(websocket):
+    """Register a new client connection."""
+    connected.add(websocket)
+    logging.info(f"Client connected. Total connections: {len(connected)}")
+
+async def unregister(websocket):
+    """Unregister a client connection."""
+    connected.remove(websocket)
+    logging.info(f"Client disconnected. Total connections: {len(connected)}")
+
+async def process_text(websocket, message):
+    """Process text with spaCy and return analysis."""
+    try:
+        data = json.loads(message)
+        if "type" in data and data["type"] == "analyze":
+            text = data.get("text", "")
+            logging.info(f"Received text to analyze: '{text[:50]}...' ({len(text)} chars)")
+            
+            # Process with spaCy
+            doc = nlp(text)
+            
+            # Extract entities
+            entities = [
+                {"text": ent.text, "label": ent.label_, "start": ent.start_char, "end": ent.end_char}
+                for ent in doc.ents
+            ]
+            
+            # Extract sentences
+            sentences = [
+                {"text": sent.text, "start": sent.start_char, "end": sent.end_char}
+                for sent in doc.sents
+            ]
+            
+            # Create response
+            response = {
+                "type": "analysis",
+                "text": text,
+                "entities": entities,
+                "sentences": sentences,
+                "tokens": len(doc)
+            }
+            
+            await websocket.send(json.dumps(response))
+    except json.JSONDecodeError:
+        logging.error(f"Invalid JSON received: {message}")
+    except Exception as e:
+        logging.error(f"Error processing message: {e}")
+
+async def handler(websocket):
+    """Handle a connection and dispatch to the appropriate functions."""
+    await register(websocket)
+    try:
+        async for message in websocket:
+            await process_text(websocket, message)
+    except websockets.exceptions.ConnectionClosed:
+        pass
+    finally:
+        await unregister(websocket)
+
+async def main():
+    """Start the websocket server."""
+    port = 8765
+    host = "localhost"
+    
+    logging.info(f"Starting NLP websocket server on {host}:{port}")
+    async with websockets.serve(handler, host, port):
+        await asyncio.Future()  # Run forever
+
+if __name__ == "__main__":
+    asyncio.run(main())
+#+end_src
+
+** Emacs Lisp Code
+
+#+begin_src emacs-lisp :mkdirp yes :tangle "../elisp/spacy-mode.el"
+;;; spacy-mode.el --- Process text with spaCy via websocket
+
+;;; Commentary:
+;; This mode connects to a spaCy-powered websocket server and sends
+;; text for NLP analysis.
+
+;;; Code:
+(require 'websocket)
+(require 'json)
+
+(defgroup spacy nil
+  "Process text with spaCy."
+  :group 'text)
+
+(defcustom spacy-server-url "ws://localhost:8765"
+  "URL for the spaCy websocket server."
+  :type 'string
+  :group 'spacy)
+
+(defvar spacy-websocket nil
+  "Websocket connection to the server.")
+
+(defvar spacy-mode-map
+  (let ((map (make-sparse-keymap)))
+    (define-key map (kbd "C-c C-a") 'spacy-analyze-paragraph)
+    (define-key map (kbd "C-c C-r") 'spacy-analyze-region)
+    map)
+  "Keymap for spaCy mode.")
+
+(defun spacy-connect ()
+  "Connect to the spaCy websocket server."
+  (interactive)
+  (when (and spacy-websocket 
+             (websocket-openp spacy-websocket))
+    (websocket-close spacy-websocket))
+  
+  (setq spacy-websocket
+        (websocket-open
+         spacy-server-url
+         :on-open (lambda (ws) 
+                    (message "Connected to spaCy server"))
+         :on-message (lambda (ws frame)
+                       (let* ((json-object-type 'plist)
+                              (json-array-type 'list)
+                              (data (json-read-from-string 
+                                     (websocket-frame-text frame))))
+                         (when (equal (plist-get data :type) "analysis")
+                           (spacy-display-analysis data))))
+         :on-close (lambda (ws) 
+                     (message "Disconnected from spaCy server"))
+         :on-error (lambda (ws type err) 
+                     (message "Error: %s" err))))
+  (message "Attempting to connect to %s..." spacy-server-url))
+
+(defun spacy-disconnect ()
+  "Disconnect from the spaCy websocket server."
+  (interactive)
+  (when (and spacy-websocket 
+             (websocket-openp spacy-websocket))
+    (websocket-close spacy-websocket)
+    (setq spacy-websocket nil)
+    (message "Disconnected from spaCy server")))
+
+(defun spacy-analyze-text (text)
+  "Send TEXT to the spaCy server for analysis."
+  (if (and spacy-websocket 
+           (websocket-openp spacy-websocket))
+      (progn
+        (message "Sending text for analysis (%d chars)..." (length text))
+        (websocket-send-text 
+         spacy-websocket
+         (json-encode `(("type" . "analyze")
+                        ("text" . ,text)))))
+    (message "Not connected to server. Use M-x spacy-connect first")))
+
+(defun spacy-analyze-paragraph ()
+  "Send the current paragraph to the spaCy server."
+  (interactive)
+  (let ((para (thing-at-point 'paragraph t)))
+    (if para
+        (spacy-analyze-text para)
+      (message "No paragraph at point"))))
+
+(defun spacy-analyze-region (start end)
+  "Send the region from START to END to the spaCy server."
+  (interactive "r")
+  (let ((text (buffer-substring-no-properties start end)))
+    (spacy-analyze-text text)))
+
+(defun spacy-display-analysis (data)
+  "Display the spaCy analysis DATA in a buffer."
+  (let ((buf (get-buffer-create "*spaCy Analysis*")))
+    (with-current-buffer buf
+      (let ((inhibit-read-only t))
+        (erase-buffer)
+        (insert "# spaCy Analysis Results\n\n")
+        (insert (format "Analyzed %d tokens\n\n" (plist-get data :tokens)))
+        
+        ;; Display entities
+        (let ((entities (plist-get data :entities)))
+          (insert (format "## Named Entities (%d found)\n\n" (length entities)))
+          (if entities
+              (dolist (ent entities)
+                (insert (format "- %s (%s)\n" 
+                                (plist-get ent :text)
+                                (plist-get ent :label))))
+            (insert "No entities found\n")))
+        
+        ;; Display sentences
+        (let ((sentences (plist-get data :sentences)))
+          (insert (format "\n## Sentences (%d found)\n\n" (length sentences)))
+          (if sentences
+              (dolist (sent sentences)
+                (insert (format "- %s\n" (plist-get sent :text))))
+            (insert "No sentences found\n")))
+        
+        (goto-char (point-min))
+        (markdown-mode)))
+    
+    ;; Display the buffer
+    (display-buffer buf)))
+
+;;;###autoload
+(define-minor-mode spacy-mode
+  "Toggle spaCy mode.
+Interactively with no argument, this command toggles the mode.
+A positive prefix argument enables the mode, any other prefix
+argument disables it. From Lisp, argument omitted or nil enables
+the mode, `toggle' toggles the state.
+
+When spaCy mode is enabled, you can send text to a spaCy server
+for NLP analysis."
+  :init-value nil
+  :lighter " spaCy"
+  :keymap spacy-mode-map
+  :global nil
+  :group 'spacy
+  
+  (if spacy-mode
+      (spacy-connect)
+    (spacy-disconnect)))
+
+(provide 'spacy-mode)
+;;; spacy-mode.el ends here
+#+end_src
+
+** TRAMP-aware mkdirp Implementation
+
+#+begin_src emacs-lisp :mkdirp yes :tangle "../elisp/tramp-mkdirp.el"
+(defun tramp-mkdirp (directory)
+  "Create DIRECTORY and its parents recursively, working with both local and remote paths.
+Works with TRAMP remote paths like /ssh:user@host:/path/to/dir"
+  (interactive "DDirectory: ")
+  (let ((dir (expand-file-name directory)))
+    (unless (file-exists-p dir)
+      (make-directory dir t))
+    (message "Created directory: %s" dir)))
+
+;; Integration with org-babel tangle
+(defun org-babel-mkdirp-tangled-file ()
+  "Make parent directories for all tangled files in the current buffer."
+  (interactive)
+  (org-babel-map-src-blocks nil
+    (let* ((info (org-babel-get-src-block-info 'light))
+           (tangle-file (cdr (assq :mkdirp yes :tangle (nth 2 info)))))
+      (when (and tangle-file 
+                (not (equal tangle-file "no"))
+                (not (equal tangle-file "yes")))
+        (let ((dir (file-name-directory (expand-file-name tangle-file))))
+          (when dir (tramp-mkdirp dir)))))))
+
+;; Add to org-babel tangle hook
+(with-eval-after-load 'ob-tangle
+  (add-hook 'org-babel-pre-tangle-hook 'org-babel-mkdirp-tangled-file))
+
+(provide 'tramp-mkdirp)
+#+end_src
+
+** Shell Scripts
+
+#+begin_src sh :mkdirp yes :tangle "../setup.sh" :shebang "#!/bin/bash"
+#!/bin/bash
+
+# Setup script for para-spacy-lisp
+
+# Create virtual environment
+echo "Creating Python virtual environment..."
+python3 -m venv venv
+source venv/bin/activate
+
+# Install required packages
+echo "Installing required Python packages..."
+pip install websockets spacy pydantic click
+python -m spacy download en_core_web_sm
+
+# Create directory structure
+echo "Creating directory structure..."
+mkdir -p data/raw data/processed
+mkdir -p docs
+mkdir -p processed/json processed/lisp
+mkdir -p src/core src/parsers src/web src/schemas
+mkdir -p tests
+
+echo "Setup complete!"
+echo "To start the server:"
+echo "  source venv/bin/activate"
+echo "  python src/web/nlp_server.py"
+#+end_src
+
+#+begin_src sh :mkdirp yes :tangle "../run_server.sh" :shebang "#!/bin/bash"
+#!/bin/bash
+
+# Activate virtual environment
+source venv/bin/activate
+
+# Start NLP server
+python src/web/nlp_server.py
+#+end_src
+
+** System Diagram
+
+#+begin_src mermaid :file "../docs/architecture.png"
+flowchart TB
+    subgraph "Data Pipeline"
+        raw[Raw Text]
+        para[Paragraphs]
+        json[JSON]
+        lisp[Lisp]
+        
+        raw -->|"paragraph_parser.py"| para
+        para -->|"process_paragraphs.py"| json
+        para -->|"process_paragraphs.py"| lisp
+    end
+    
+    subgraph "Interactive Analysis"
+        emacs["Emacs\n(with spacy-mode)"] <-->|"WebSocket\n(ws://localhost:8765)"| server["Python spaCy Server"]
+        
+        subgraph "Emacs Editor"
+            buffer[Text Buffer] --> paragraph[Paragraph or Region]
+            paragraph --> analyze["C-c C-a or C-c C-r\n(analyze text)"]
+        end
+        
+        subgraph "Server Processing"
+            receive[Receive Text] --> nlp[spaCy Processing]
+            nlp --> respond[Send Analysis Result]
+        end
+        
+        analyze --> emacs
+        receive --> server
+        respond --> emacs
+    end
+#+end_src
+
+** Makefile
+
+#+begin_src makefile :mkdirp yes :tangle "../Makefile"
+# Makefile for para-spacy-lisp
+
+.PHONY: all setup run clean data paragraphs process
+
+all: setup
+
+setup:
+	./setup.sh
+
+run:
+	./run_server.sh
+
+# Download data files
+data/raw/pg2650.txt:
+	mkdir -p data/raw
+	curl -o data/raw/pg2650.txt https://www.gutenberg.org/cache/epub/2650/pg2650.txt
+
+data: data/raw/pg2650.txt
+
+# Parse book into paragraphs
+data/processed/paragraphs/beowulf_0001.txt: data/raw/pg2650.txt scripts/paragraph_parser.py
+	python3 scripts/paragraph_parser.py data/raw/pg2650.txt -o data/processed/paragraphs -p beowulf
+
+paragraphs: data/processed/paragraphs/beowulf_0001.txt
+
+# Process paragraphs to JSON and Lisp representations
+processed/json/beowulf_0001.json processed/lisp/beowulf_0001.lisp: data/processed/paragraphs/beowulf_0001.txt scripts/process_paragraphs.py
+	python3 scripts/process_paragraphs.py data/processed/paragraphs -o processed/json -l processed/lisp
+
+process: paragraphs processed/json/beowulf_0001.json
+
+# Clean up
+clean:
+	rm -rf venv data/processed processed
+	find . -type d -name __pycache__ -exec rm -rf {} +
+	find . -type f -name "*.pyc" -delete
+
+# Documentation
+docs:
+	emacs --batch --eval "(require 'org)" --eval "(org-babel-tangle-file \"docs/SETUP.org\")"
+#+end_src
+
+* Tangling Instructions
+
+To tangle all these files at once:
+
+1. Save this org file
+2. Open it in Emacs
+3. Press C-c C-v t (or M-x org-babel-tangle)
+4. All files will be created in their specified locations
+
+You can also tangle individual code blocks by placing your cursor inside the block and pressing C-c C-v t.

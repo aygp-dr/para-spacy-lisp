@@ -1,0 +1,29 @@
+[project]
+name = "para-spacy-lisp"
+version = "0.1.0"
+description = "Emacs minor mode for NLP text analysis using spaCy via WebSockets"
+authors = [
+    {name = "aygp-dr"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "websockets>=11.0.3",
+    "spacy>=3.7.2",
+    "pydantic>=2.5.2",
+    "click>=8.1.7"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.1"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

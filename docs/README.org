@@ -1,0 +1,111 @@
+#+TITLE: para-spacy-lisp
+#+AUTHOR: aygp-dr
+#+DATE: 2025-03-16
+#+PROPERTY: header-args :mkdirp yes
+
+* para-spacy-lisp
+
+A bridge between Emacs and spaCy NLP processing via WebSockets.
+
+** Overview
+
+This project provides an Emacs minor mode that connects to a Python spaCy server via WebSockets to analyze text. It allows sending paragraphs or regions of text directly from Emacs to spaCy for natural language processing.
+
+** Features
+
+- Send paragraphs or regions from Emacs to spaCy for analysis
+- View named entities, sentences, and other NLP results
+- Simple WebSocket communication between Emacs and Python
+- Easy to extend with additional NLP capabilities
+- Process text into JSON and Lisp representation for further analysis
+
+** Installation
+
+1. Clone this repository:
+   #+begin_src shell
+   git clone https://github.com/aygp-dr/para-spacy-lisp.git
+   cd para-spacy-lisp
+   #+end_src
+
+2. Set up the Python environment:
+   #+begin_src shell
+   ./setup.sh
+   #+end_src
+
+3. Add the Emacs Lisp files to your load path:
+   #+begin_src emacs-lisp
+   (add-to-list 'load-path "~/path/to/para-spacy-lisp/elisp")
+   (require 'spacy-mode)
+   #+end_src
+
+** Usage
+
+1. Start the spaCy server:
+   #+begin_src shell
+   ./run_server.sh
+   #+end_src
+
+2. In Emacs, activate the spaCy mode:
+   #+begin_src emacs-lisp
+   M-x spacy-mode
+   #+end_src
+
+3. Analyze text:
+   - =C-c C-a= - Analyze the current paragraph
+   - =C-c C-r= - Analyze the selected region
+
+4. View the results in the =*spaCy Analysis*= buffer
+
+** Text Processing
+
+To process text with the built-in pipeline:
+
+#+begin_src shell
+# Download sample text
+make data
+
+# Split into paragraphs
+make paragraphs
+
+# Process into JSON and Lisp
+make process
+#+end_src
+
+The processed files will be available in:
+- =processed/json/= - JSON format
+- =processed/lisp/= - Lisp S-expressions
+
+** Architecture
+
+The system consists of two main components:
+
+1. *Python spaCy Server* - A WebSocket server that receives text and processes it with spaCy
+2. *Emacs spaCy Mode* - A minor mode that connects to the server and provides commands for text analysis
+
+The communication happens over WebSockets, with JSON messages containing the text to analyze and the analysis results.
+
+** Project Structure
+
+#+begin_src
+.
+├── data/              # Data files
+│   ├── raw/           # Raw text files
+│   └── processed/     # Processed paragraph files
+├── docs/              # Documentation
+├── elisp/             # Emacs Lisp code
+├── processed/         # Processing output
+│   ├── json/          # JSON output files
+│   └── lisp/          # Lisp S-expression files
+├── scripts/           # Utility scripts
+├── server/            # Python WebSocket server
+├── src/               # Source code
+│   ├── core/          # Core functionality
+│   ├── parsers/       # Text parsers
+│   ├── schemas/       # Data schemas
+│   └── web/           # Web interface components
+└── tests/             # Test suite
+#+end_src
+
+** License
+
+MIT

@@ -1,0 +1,159 @@
+#+TITLE: Onboarding Guide for para-spacy-lisp
+#+AUTHOR: aygp-dr
+#+DATE: 2025-03-16
+#+PROPERTY: header-args :mkdirp yes
+#+OPTIONS: toc:2
+
+* Onboarding Guide
+
+Welcome to the para-spacy-lisp project! This guide will help you get started as a contributor or user of the project.
+
+** Project Overview
+
+para-spacy-lisp is a bridge between Emacs and spaCy NLP (Natural Language Processing) via WebSockets. It allows you to:
+
+- Send text from Emacs to a Python spaCy server for analysis
+- View NLP results directly in Emacs
+- Process text into structured JSON and Lisp representations
+
+** Quick Start
+
+*** Prerequisites
+
+- Python 3.10+
+- Emacs 26+
+- Basic knowledge of Emacs and Python
+
+*** Setup
+
+1. Clone the repository:
+   #+begin_src shell
+   git clone https://github.com/aygp-dr/para-spacy-lisp.git
+   cd para-spacy-lisp
+   #+end_src
+
+2. Run the setup script:
+   #+begin_src shell
+   ./setup.sh
+   #+end_src
+
+3. Start the server:
+   #+begin_src shell
+   ./run_server.sh
+   #+end_src
+
+4. Configure Emacs:
+   #+begin_src emacs-lisp
+   ;; Add to your .emacs or init.el
+   (add-to-list 'load-path "~/path/to/para-spacy-lisp/elisp")
+   (require 'spacy-mode)
+   #+end_src
+
+5. Activate the mode in Emacs:
+   =M-x spacy-mode=
+
+** Architecture
+
+The project consists of these main components:
+
+1. *WebSocket Server* (Python): Processes text with spaCy
+2. *Emacs Minor Mode*: Sends text and displays results
+3. *Text Processing Pipeline*: Converts text to structured formats
+
+[[file:architecture.png]]
+
+** Development Environment
+
+*** Python
+
+We recommend setting up a development environment with:
+
+#+begin_src shell
+# Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate
+
+# Install development dependencies
+pip install -e ".[dev]"
+#+end_src
+
+*** Emacs
+
+For Emacs Lisp development:
+
+#+begin_src shell
+# Start Emacs with minimal configuration
+emacs -Q -L elisp --eval "(require 'spacy-mode)" --eval "(spacy-mode 1)"
+#+end_src
+
+** Project Organization
+
+- =server/=: WebSocket server code
+- =elisp/=: Emacs Lisp code for the minor mode
+- =scripts/=: Utility scripts for text processing
+- =processed/=: Output from the text processing pipeline
+- =data/=: Input data and processed text
+- =docs/=: Project documentation
+- =tests/=: Test suite
+
+** Development Workflow
+
+1. Understand the issue or feature you want to work on
+2. Create a feature branch
+3. Make your changes
+4. Test your changes
+5. Submit a pull request
+6. Participate in code review
+
+** Common Tasks
+
+*** Adding a New NLP Feature
+
+1. Modify =server/nlp_server.py= to extract additional information
+2. Update the response JSON format
+3. Update =elisp/spacy-mode.el= to display the new information
+4. Update documentation to reflect the new feature
+
+*** Running Tests
+
+#+begin_src shell
+# Run Python tests
+python -m pytest tests/
+
+# Run specific test
+python -m pytest tests/test_specific.py::test_function
+#+end_src
+
+*** Generating Documentation
+
+#+begin_src shell
+# Tangle org files
+emacs --batch --eval "(require 'org)" --eval "(org-babel-tangle-file \"docs/SETUP.org\")"
+#+end_src
+
+** Troubleshooting
+
+*** Server Connection Issues
+
+- Check if the server is running: =ps aux | grep nlp_server=
+- Verify port is available: =netstat -tulpn | grep 8765=
+- Check Emacs connection: =M-x spacy-connect=
+
+*** Package Issues
+
+- Update spaCy: =pip install -U spacy=
+- Reinstall language model: =python -m spacy download en_core_web_sm=
+
+*** Emacs Issues
+
+- Verify websocket.el is available: =M-x describe-variable RET features=
+- Check for error messages: =M-x toggle-debug-on-error=
+
+** Getting Help
+
+- Check the project documentation
+- Join the community chat
+- File an issue on GitHub
+- Contact the maintainers directly
+
+Welcome aboard! We're excited to have you contribute to para-spacy-lisp.

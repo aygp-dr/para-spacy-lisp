@@ -1,0 +1,416 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "French Tense Analyzer Schemas",
+  "description": "JSON Schemas for the French Tense Analyzer MCP service",
+  
+  "definitions": {
+    "TenseAnalysis": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "integer"
+      },
+      "description": "Map of tense names to occurrence counts",
+      "example": {
+        "imparfait": 12,
+        "passé composé": 5,
+        "présent": 3,
+        "plus-que-parfait": 1,
+        "passé simple": 2,
+        "futur simple": 0,
+        "conditionnel présent": 1
+      }
+    },
+    "TenseExample": {
+      "type": "object",
+      "required": ["tense", "text", "verb"],
+      "properties": {
+        "tense": {
+          "type": "string",
+          "description": "Name of the French tense"
+        },
+        "text": {
+          "type": "string",
+          "description": "Example sentence with the tense"
+        },
+        "verb": {
+          "type": "string",
+          "description": "The verb used in the tense"
+        },
+        "position": {
+          "type": "integer",
+          "description": "Character position of verb in text"
+        },
+        "context": {
+          "type": "string",
+          "description": "Brief context around the verb"
+        },
+        "spacy_tag": {
+          "type": "string",
+          "description": "spaCy morphological tag for the tense"
+        }
+      }
+    },
+    "SyntaxNode": {
+      "type": "object",
+      "required": ["type", "children"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "description": "Syntactic node type (e.g., NP, VP, S)"
+        },
+        "children": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              { "$ref": "#/definitions/SyntaxNode" },
+              { "type": "string" }
+            ]
+          }
+        },
+        "features": {
+          "type": "object",
+          "description": "Linguistic features of the node",
+          "additionalProperties": true
+        }
+      }
+    },
+    "AuthorProfile": {
+      "type": "object",
+      "required": ["name", "dominant_tense", "tense_distribution"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Author name"
+        },
+        "dominant_tense": {
+          "type": "string",
+          "description": "Most frequently used tense"
+        },
+        "tense_distribution": {
+          "$ref": "#/definitions/TenseAnalysis"
+        },
+        "style_features": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Characteristic style features"
+        },
+        "sample_text": {
+          "type": "string",
+          "description": "Representative text sample"
+        }
+      }
+    },
+    "SimilarityScore": {
+      "type": "object",
+      "required": ["author", "score"],
+      "properties": {
+        "author": {
+          "type": "string",
+          "description": "Author name"
+        },
+        "score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Similarity score from 0 to 1"
+        },
+        "notes": {
+          "type": "string",
+          "description": "Additional notes about similarity"
+        }
+      }
+    },
+    "ErrorResponse": {
+      "type": "object",
+      "required": ["error", "message"],
+      "properties": {
+        "error": {
+          "type": "string",
+          "description": "Error type"
+        },
+        "message": {
+          "type": "string",
+          "description": "Error description"
+        },
+        "code": {
+          "type": "integer",
+          "description": "HTTP status code"
+        },
+        "details": {
+          "type": "object",
+          "description": "Additional error details",
+          "additionalProperties": true
+        }
+      }
+    }
+  },
+  
+  "methods": {
+    "analyzeTenses": {
+      "description": "Analyze French text for verb tenses",
+      "request": {
+        "type": "object",
+        "required": ["text"],
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "French text to analyze"
+          },
+          "language": {
+            "type": "string",
+            "default": "fr",
+            "description": "Language code (default is French)"
+          },
+          "chunk_size": {
+            "type": "integer",
+            "default": 5000,
+            "description": "Size of text chunks to process"
+          },
+          "include_examples": {
+            "type": "boolean",
+            "default": true,
+            "description": "Whether to include example sentences"
+          },
+          "include_tree": {
+            "type": "boolean",
+            "default": false,
+            "description": "Whether to include syntax tree"
+          }
+        }
+      },
+      "response": {
+        "type": "object",
+        "required": ["tense_analysis"],
+        "properties": {
+          "tense_analysis": {
+            "$ref": "#/definitions/TenseAnalysis"
+          },
+          "examples": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/TenseExample"
+            }
+          },
+          "tree_id": {
+            "type": "string",
+            "description": "ID of generated syntax tree"
+          },
+          "total_verbs": {
+            "type": "integer",
+            "description": "Total number of verbs analyzed"
+          },
+          "dominant_tense": {
+            "type": "string",
+            "description": "Most frequently used tense"
+          },
+          "processing_time": {
+            "type": "number",
+            "description": "Time taken to process in seconds"
+          }
+        }
+      },
+      "errors": {
+        "INVALID_INPUT": {
+          "description": "The input text is invalid or too short",
+          "status": 400
+        },
+        "PROCESSING_ERROR": {
+          "description": "Error occurred during text processing",
+          "status": 500
+        },
+        "LANGUAGE_UNSUPPORTED": {
+          "description": "The specified language is not supported",
+          "status": 400
+        }
+      }
+    },
+    
+    "parseText": {
+      "description": "Parse French text into syntactic tree",
+      "request": {
+        "type": "object",
+        "required": ["text"],
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "French text to parse"
+          },
+          "language": {
+            "type": "string",
+            "default": "fr",
+            "description": "Language code (default is French)"
+          },
+          "output_format": {
+            "type": "string",
+            "enum": ["sexp", "json", "tree"],
+            "default": "sexp",
+            "description": "Format of the output"
+          },
+          "simplify": {
+            "type": "boolean",
+            "default": false,
+            "description": "Whether to simplify the tree structure"
+          }
+        }
+      },
+      "response": {
+        "type": "object",
+        "required": ["tree"],
+        "properties": {
+          "tree": {
+            "oneOf": [
+              {
+                "type": "string",
+                "description": "S-expression representation of syntax tree"
+              },
+              {
+                "$ref": "#/definitions/SyntaxNode"
+              }
+            ]
+          },
+          "tree_id": {
+            "type": "string",
+            "description": "ID for retrieving the tree visualization"
+          },
+          "sentence_count": {
+            "type": "integer",
+            "description": "Number of sentences parsed"
+          },
+          "processing_time": {
+            "type": "number",
+            "description": "Time taken to process in seconds"
+          }
+        }
+      },
+      "errors": {
+        "INVALID_INPUT": {
+          "description": "The input text is invalid or too short",
+          "status": 400
+        },
+        "PROCESSING_ERROR": {
+          "description": "Error occurred during text processing",
+          "status": 500
+        },
+        "FORMAT_UNSUPPORTED": {
+          "description": "The specified output format is not supported",
+          "status": 400
+        }
+      }
+    },
+    
+    "compareWithAuthor": {
+      "description": "Compare text with known French authors",
+      "request": {
+        "type": "object",
+        "required": ["text"],
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "French text to analyze"
+          },
+          "authors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "List of authors to compare with (empty for all authors)"
+          },
+          "include_analysis": {
+            "type": "boolean",
+            "default": true,
+            "description": "Whether to include detailed analysis"
+          }
+        }
+      },
+      "response": {
+        "type": "object",
+        "required": ["similarities", "tense_analysis"],
+        "properties": {
+          "tense_analysis": {
+            "$ref": "#/definitions/TenseAnalysis"
+          },
+          "similarities": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/SimilarityScore"
+            },
+            "description": "Similarity scores with authors"
+          },
+          "closest_author": {
+            "type": "string",
+            "description": "Name of most similar author"
+          },
+          "closest_score": {
+            "type": "number",
+            "description": "Similarity score of closest author"
+          },
+          "style_notes": {
+            "type": "string",
+            "description": "Notes about the text's style"
+          }
+        }
+      },
+      "errors": {
+        "INVALID_INPUT": {
+          "description": "The input text is invalid or too short",
+          "status": 400
+        },
+        "PROCESSING_ERROR": {
+          "description": "Error occurred during analysis",
+          "status": 500
+        },
+        "AUTHOR_NOT_FOUND": {
+          "description": "One or more requested authors not found",
+          "status": 404
+        }
+      }
+    },
+    
+    "getAuthorProfile": {
+      "description": "Get tense profile for a specific author",
+      "request": {
+        "type": "object",
+        "required": ["author_name"],
+        "properties": {
+          "author_name": {
+            "type": "string",
+            "description": "Name of the author"
+          },
+          "include_samples": {
+            "type": "boolean",
+            "default": true,
+            "description": "Whether to include text samples"
+          }
+        }
+      },
+      "response": {
+        "type": "object",
+        "required": ["author_profile"],
+        "properties": {
+          "author_profile": {
+            "$ref": "#/definitions/AuthorProfile"
+          },
+          "examples": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/TenseExample"
+            },
+            "description": "Example sentences by tense"
+          }
+        }
+      },
+      "errors": {
+        "AUTHOR_NOT_FOUND": {
+          "description": "The requested author was not found",
+          "status": 404
+        },
+        "PROCESSING_ERROR": {
+          "description": "Error occurred retrieving author profile",
+          "status": 500
+        }
+      }
+    }
+  }
+}
