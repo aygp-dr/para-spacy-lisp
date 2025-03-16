@@ -1,0 +1,35 @@
+name: Publish Python Package
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: pypi
+    permissions:
+      id-token: write  # Required for OIDC PyPI publishing
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install build twine
+    
+    - name: Build and check package
+      run: |
+        python -m build
+        twine check dist/*
+    
+    - name: Publish package to PyPI
+      uses: pypa/gh-action-pypi-publish@release/v1
+      # Uses OpenID Connect (OIDC) to authenticate with PyPI via a trusted publisher
+      # No API tokens needed - PyPI will recognize GitHub Actions as a trusted publisher
