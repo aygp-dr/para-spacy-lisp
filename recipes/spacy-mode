@@ -1,0 +1,1 @@
+(spacy-mode :fetcher github :repo "defrecord/para-spacy-lisp" :files ("elisp/*.el"))

@@ -1,8 +1,7 @@
 #!/bin/bash
-#!/bin/bash
 
 # Activate virtual environment
 source venv/bin/activate
 
 # Start NLP server
-python server/nlp_server.py
+python -m defrecord.para_spacy.server "$@"

@@ -2,6 +2,10 @@
 
 A bridge between Emacs and spaCy NLP processing via WebSockets.
 
+[![MELPA](https://melpa.org/packages/spacy-mode-badge.svg)](https://melpa.org/#/spacy-mode)
+[![PyPI](https://img.shields.io/pypi/v/defrecord-para-spacy.svg)](https://pypi.org/project/defrecord-para-spacy/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Overview
 
 This project provides an Emacs minor mode that connects to a Python spaCy server via WebSockets to analyze text. It allows sending paragraphs or regions of text directly from Emacs to spaCy for natural language processing.
@@ -15,14 +19,56 @@ This project provides an Emacs minor mode that connects to a Python spaCy server
 
 ## Installation
 
+### Option 1: From package repositories (recommended)
+
+#### Python Server Installation
+
+```bash
+# Install the Python package
+pip install defrecord-para-spacy
+
+# Run the server
+python -m defrecord.para_spacy.server
+```
+
+#### Emacs Installation
+
+Using `use-package` with `straight.el`:
+
+```elisp
+(use-package spacy-mode
+  :straight t
+  :commands (spacy-mode)
+  :bind (:map spacy-mode-map
+         ("C-c C-a" . spacy-analyze-paragraph)
+         ("C-c C-r" . spacy-analyze-region))
+  :config
+  (setq spacy-server-url "ws://localhost:8765"))
+```
+
+Using `use-package` with MELPA:
+
+```elisp
+(use-package spacy-mode
+  :ensure t
+  :commands (spacy-mode)
+  :bind (:map spacy-mode-map
+         ("C-c C-a" . spacy-analyze-paragraph)
+         ("C-c C-r" . spacy-analyze-region))
+  :config
+  (setq spacy-server-url "ws://localhost:8765"))
+```
+
+### Option 2: Manual installation from source
+
 1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/para-spacy-lisp.git
+   ```bash
+   git clone https://github.com/defrecord/para-spacy-lisp.git
    cd para-spacy-lisp
    ```
 
 2. Set up the Python environment:
-   ```
+   ```bash
    ./setup.sh
    ```
 
@@ -35,7 +81,11 @@ This project provides an Emacs minor mode that connects to a Python spaCy server
 ## Usage
 
 1. Start the spaCy server:
-   ```
+   ```bash
+   # If installed from PyPI:
+   python -m defrecord.para_spacy.server
+   
+   # Or if installed from source:
    ./run_server.sh
    ```
 
@@ -59,6 +109,25 @@ The system consists of two main components:
 
 The communication happens over WebSockets, with JSON messages containing the text to analyze and the analysis results.
 
+## Development
+
+### Build and test
+
+```bash
+# Run tests
+make test
+
+# Build packages
+make build
+
+# Publish packages (maintainers only)
+make publish
+```
+
 ## License
 
 MIT
+
+## Contributing
+
+See [CONTRIBUTING.org](docs/CONTRIBUTING.org) for guidelines on how to contribute to this project.

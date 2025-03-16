@@ -1,6 +1,6 @@
 # Makefile for para-spacy-lisp
 
-.PHONY: all setup run clean data paragraphs process test test-python test-elisp
+.PHONY: all setup run clean data paragraphs process test test-python test-elisp build-python build-elisp publish publish-python publish-elisp
 
 all: setup process
 
@@ -39,8 +39,35 @@ test-elisp:
 		--load "$(PWD)/tests/test_elisp.el" \
 		--funcall ert-run-tests-batch-and-exit
 
+# Build packages
+build: build-python build-elisp
+
+build-python:
+	python -m build
+
+build-elisp:
+	mkdir -p dist
+	tar -cf dist/spacy-mode.tar elisp/spacy-mode.el elisp/tramp-mkdirp.el
+
+# Publish packages
+publish: publish-python publish-elisp
+
+publish-python:
+	@echo "Publishing Python package to PyPI..."
+	python -m twine upload dist/*.whl dist/*.tar.gz
+
+publish-elisp:
+	@echo "Publishing Emacs package to MELPA..."
+	@echo "Note: This requires a PR to the MELPA repository"
+	@echo "See https://github.com/melpa/melpa#contributing-a-new-recipe"
+	@if [ ! -f "recipes/spacy-mode" ]; then \
+		mkdir -p recipes; \
+		echo '(spacy-mode :fetcher github :repo "defrecord/para-spacy-lisp" :files ("elisp/*.el"))' > recipes/spacy-mode; \
+		echo "Recipe created at recipes/spacy-mode"; \
+	fi
+
 # Clean up
 clean:
-	rm -rf venv data/paragraphs processed
+	rm -rf venv data/paragraphs processed build dist *.egg-info
 	find . -type d -name __pycache__ -exec rm -rf {} +
 	find . -type f -name "*.pyc" -delete

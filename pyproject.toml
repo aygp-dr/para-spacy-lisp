@@ -1,11 +1,15 @@
 [project]
-name = "para-spacy-lisp"
+name = "defrecord-para-spacy"
 version = "0.1.0"
 description = "Emacs minor mode for NLP text analysis using spaCy via WebSockets"
 authors = [
-    {name = "aygp-dr"}
+    {name = "Aidan Pace", email = "apace@defrecord.com"}
+]
+maintainers = [
+    {name = "Josh Walsh", email = "jwalsh@defrecord.com"}
 ]
 readme = "README.md"
+license = {text = "MIT"}
 requires-python = ">=3.10,<3.13"
 dependencies = [
     "websockets>=11.0.3",
@@ -13,17 +17,40 @@ dependencies = [
     "pydantic>=2.5.2",
     "click>=8.1.7"
 ]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Text Processing :: Linguistic",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+keywords = ["nlp", "spacy", "emacs", "websockets"]
+
+[project.urls]
+Homepage = "https://github.com/defrecord/para-spacy-lisp"
+Documentation = "https://github.com/defrecord/para-spacy-lisp/blob/main/README.md"
+Repository = "https://github.com/defrecord/para-spacy-lisp.git"
+Issues = "https://github.com/defrecord/para-spacy-lisp/issues"
 
 [project.optional-dependencies]
 dev = [
     "pytest>=7.4.0",
-    "pytest-asyncio>=0.21.1"
+    "pytest-asyncio>=0.21.1",
+    "build>=1.0.3",
+    "twine>=4.0.2"
 ]
+
+[project.scripts]
+para-spacy-server = "defrecord.para_spacy.server:main"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 python_files = "test_*.py"
 
 [build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
