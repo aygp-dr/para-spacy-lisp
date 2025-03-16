@@ -51,7 +51,68 @@ def generate_lisp(analysis: TextAnalysis) -> str:
         lisp_sentence = f'(sentence :text "{sentence.text}" :start {sentence.start} :end {sentence.end})'
         lisp_sentences.append(lisp_sentence)
     
-    lisp_output = f'''(text-analysis
+    # Create a schema description at the top of the file
+    schema = f''';; spaCy-lisp: 1.0.0
+;; info:
+;;   title: Text Analysis Schema
+;;   description: Schema for NLP analysis of paragraphs using spaCy
+;;   version: 1.0.0
+;; components:
+;;   schemas:
+;;     TextAnalysis:
+;;       type: object
+;;       properties:
+;;         text:
+;;           type: string
+;;           description: Original text content
+;;         tokens:
+;;           type: integer
+;;           description: Number of tokens in the text
+;;         processed-at:
+;;           type: string
+;;           format: date-time
+;;           description: Timestamp of processing
+;;         entities:
+;;           type: array
+;;           items:
+;;             $ref: '#/components/schemas/Entity'
+;;           description: Named entities found in text
+;;         sentences:
+;;           type: array
+;;           items:
+;;             $ref: '#/components/schemas/Sentence'
+;;           description: Sentences in the text
+;;     Entity:
+;;       type: object
+;;       properties:
+;;         text:
+;;           type: string
+;;           description: Text of the entity
+;;         label:
+;;           type: string
+;;           description: Entity type label
+;;         start:
+;;           type: integer
+;;           description: Start character position
+;;         end:
+;;           type: integer
+;;           description: End character position
+;;     Sentence:
+;;       type: object
+;;       properties:
+;;         text:
+;;           type: string
+;;           description: Text of the sentence
+;;         start:
+;;           type: integer
+;;           description: Start character position
+;;         end:
+;;           type: integer
+;;           description: End character position
+
+'''
+    
+    lisp_output = f'''{schema}(text-analysis
  :text "{analysis.text}"
  :tokens {analysis.tokens}
  :processed-at "{analysis.processed_at.isoformat()}"
@@ -127,7 +188,7 @@ def process_paragraph_file(input_file: Path, output_dir: Path, lisp_dir: Path) -
     # Generate output filenames
     stem = input_file.stem
     json_output_path = output_dir / f"{stem}.json"
-    lisp_output_path = lisp_dir / f"{stem}.el"
+    lisp_output_path = lisp_dir / f"{stem}.lisp"
     
     # Write JSON output
     with open(json_output_path, 'w', encoding='utf-8') as f:

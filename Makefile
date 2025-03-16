@@ -22,10 +22,12 @@ paragraphs: data/pg2650.txt
 	python3 scripts/paragraph_parser.py data/pg2650.txt -o data/paragraphs -p beowulf
 
 # Process paragraphs to JSON and Lisp representations
-processed/json/beowulf_0001.json: data/paragraphs/beowulf_0001.txt scripts/process_paragraphs.py
+processed/json/beowulf_0001.json processed/lisp/beowulf_0001.lisp: data/paragraphs/beowulf_0001.txt scripts/process_paragraphs.py
 	python3 scripts/process_paragraphs.py data/paragraphs -o processed/json -l processed/lisp
 
 process: paragraphs processed/json/beowulf_0001.json
+
+all: process
 
 # Clean up
 clean:
