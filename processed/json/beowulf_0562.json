@@ -1,0 +1,74 @@
+{
+  "text": "Mais il était si timide avec elle, qu’ayant fini par la posséder ce\nsoir-là, en commençant par arranger ses catleyas, soit crainte de la\nfroisser, soit peur de paraître rétrospectivement avoir menti, soit\nmanque d’audace pour formuler une exigence plus grande que celle-là\n(qu’il pouvait renouveler puisqu’elle n’avait pas fiché Odette la\npremière fois), les jours suivants il usa du même prétexte. Si elle\navait des catleyas à son corsage, il disait: «C’est malheureux, ce\nsoir, les catleyas n’ont pas besoin d’être arrangés, ils n’ont pas été\ndéplacés comme l’autre soir; il me semble pourtant que celui-ci n’est\npas très droit. Je peux voir s’ils ne sentent pas plus que les\nautres?» Ou bien, si elle n’en avait pas: «Oh! pas de catleyas ce\nsoir, pas moyen de me livrer à mes petits arrangements.» De sorte que,\npendant quelque temps, ne fut pas changé l’ordre qu’il avait suivi le\npremier soir, en débutant par des attouchements de doigts et de lèvres\nsur la gorge d’Odette et que ce fut par eux encore que commençaient\nchaque fois ses caresses; et, bien plus tard quand l’arrangement (ou\nle simulacre d’arrangement) des catleyas, fut depuis longtemps tombé\nen désuétude, la métaphore «faire catleya», devenue un simple vocable\nqu’ils employaient sans y penser quand ils voulaient signifier l’acte\nde la possession physique--où d’ailleurs l’on ne possède rien,--survécut\ndans leur langage, où elle le commémorait, à cet usage oublié. Et\npeut-être cette manière particulière de dire «faire l’amour» ne\nsignifiait-elle pas exactement la même chose que ses synonymes. On a\nbeau être blasé sur les femmes, considérer la possession des plus\ndifférentes comme toujours la même et connue d’avance, elle devient au\ncontraire un plaisir nouveau s’il s’agit de femmes assez difficiles--ou\ncrues telles par nous--pour que nous soyons obligés de la faire naître\nde quelque épisode imprévu de nos relations avec elles, comme avait\nété la première fois pour Swann l’arrangement des catleyas. Il\nespérait en tremblant, ce soir-là (mais Odette, se disait-il, si elle\nétait dupe de sa ruse, ne pouvait le deviner), que c’était la\npossession de cette femme qui allait sortir d’entre leurs larges\npétales mauves; et le plaisir qu’il éprouvait déjà et qu’Odette ne\ntolérait peut-être, pensait-il, que parce qu’elle ne l’avait pas\nreconnu, lui semblait, à cause de cela--comme il put paraître au\npremier homme qui le goûta parmi les fleurs du paradis terrestre--un\nplaisir qui n’avait pas existé jusque-là, qu’il cherchait à créer, un\nplaisir--ainsi que le nom spécial qu’il lui donna en garda la\ntrace--entièrement particulier et nouveau.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 329,
+      "end": 335
+    },
+    {
+      "text": "«Oh!",
+      "label": "ORG",
+      "start": 720,
+      "end": 724
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1948,
+      "end": 1953
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 2025,
+      "end": 2032
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais il était si timide avec elle, qu’ayant fini par la posséder ce\nsoir-là, en commençant par arranger ses catleyas, soit crainte de la\nfroisser, soit peur de paraître rétrospectivement avoir menti, soit\nmanque d’audace pour formuler une exigence plus grande que celle-là\n(qu’il pouvait renouveler puisqu’elle n’avait pas fiché Odette la\npremière fois), les jours suivants il usa du même prétexte",
+      "start": 0,
+      "end": 397
+    },
+    {
+      "text": "Si elle\navait des catleyas à son corsage, il disait: «C’est malheureux, ce\nsoir, les catleyas n’ont pas besoin d’être arrangés, ils n’ont pas été\ndéplacés comme l’autre soir; il me semble pourtant que celui-ci n’est\npas très droit",
+      "start": 398,
+      "end": 629
+    },
+    {
+      "text": "Je peux voir s’ils ne sentent pas plus que les\nautres?» Ou bien, si elle n’en avait pas: «Oh! pas de catleyas ce\nsoir, pas moyen de me livrer à mes petits arrangements",
+      "start": 630,
+      "end": 798
+    },
+    {
+      "text": "» De sorte que,\npendant quelque temps, ne fut pas changé l’ordre qu’il avait suivi le\npremier soir, en débutant par des attouchements de doigts et de lèvres\nsur la gorge d’Odette et que ce fut par eux encore que commençaient\nchaque fois ses caresses; et, bien plus tard quand l’arrangement (ou\nle simulacre d’arrangement) des catleyas, fut depuis longtemps tombé\nen désuétude, la métaphore «faire catleya», devenue un simple vocable\nqu’ils employaient sans y penser quand ils voulaient signifier l’acte\nde la possession physique--où d’ailleurs l’on ne possède rien,--survécut\ndans leur langage, où elle le commémorait, à cet usage oublié",
+      "start": 799,
+      "end": 1436
+    },
+    {
+      "text": "Et\npeut-être cette manière particulière de dire «faire l’amour» ne\nsignifiait-elle pas exactement la même chose que ses synonymes",
+      "start": 1437,
+      "end": 1567
+    },
+    {
+      "text": "On a\nbeau être blasé sur les femmes, considérer la possession des plus\ndifférentes comme toujours la même et connue d’avance, elle devient au\ncontraire un plaisir nouveau s’il s’agit de femmes assez difficiles--ou\ncrues telles par nous--pour que nous soyons obligés de la faire naître\nde quelque épisode imprévu de nos relations avec elles, comme avait\nété la première fois pour Swann l’arrangement des catleyas",
+      "start": 1568,
+      "end": 1980
+    },
+    {
+      "text": "Il\nespérait en tremblant, ce soir-là (mais Odette, se disait-il, si elle\nétait dupe de sa ruse, ne pouvait le deviner), que c’était la\npossession de cette femme qui allait sortir d’entre leurs larges\npétales mauves; et le plaisir qu’il éprouvait déjà et qu’Odette ne\ntolérait peut-être, pensait-il, que parce qu’elle ne l’avait pas\nreconnu, lui semblait, à cause de cela--comme il put paraître au\npremier homme qui le goûta parmi les fleurs du paradis terrestre--un\nplaisir qui n’avait pas existé jusque-là, qu’il cherchait à créer, un\nplaisir--ainsi que le nom spécial qu’il lui donna en garda la\ntrace--entièrement particulier et nouveau",
+      "start": 1981,
+      "end": 2621
+    }
+  ],
+  "tokens": 421,
+  "processed_at": "2025-03-16T02:10:56.230417"
+}

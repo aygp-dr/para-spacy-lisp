@@ -1,0 +1,70 @@
+{
+  "text": "--«Oh! pas avant midi, répondait ma tante d’un ton résigné, tout en\njetant sur la pendule un coup d’œil inquiet, mais furtif pour ne pas\nlaisser voir qu’elle, qui avait renoncé à tout, trouvait pourtant, à\napprendre que Mme Goupil avait à déjeuner, un plaisir aussi vif, et\nqui se ferait malheureusement attendre encore un peu plus d’une heure.\nEt encore cela tombera pendant mon déjeuner!» ajouta-t-elle à mi-voix\npour elle-même. Son déjeuner lui était une distraction suffisante pour\nqu’elle n’en souhaitât pas une autre en même temps. «Vous n’oublierez\npas au moins de me donner mes œufs à la crème dans une assiette\nplate?» C’étaient les seules qui fussent ornées de sujets, et ma tante\ns’amusait à chaque repas à lire la légende de celle qu’on lui servait\nce jour-là. Elle mettait ses lunettes, déchiffrait: Alibaba et\nquarante voleurs, Aladin ou la Lampe merveilleuse, et disait en\nsouriant: Très bien, très bien.",
+  "entities": [
+    {
+      "text": "--«Oh!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Goupil",
+      "label": "ORG",
+      "start": 224,
+      "end": 230
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 538,
+      "end": 543
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 773,
+      "end": 777
+    },
+    {
+      "text": "Lampe",
+      "label": "ORG",
+      "start": 855,
+      "end": 860
+    },
+    {
+      "text": "Très",
+      "label": "ORG",
+      "start": 898,
+      "end": 902
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Oh! pas avant midi, répondait ma tante d’un ton résigné, tout en\njetant sur la pendule un coup d’œil inquiet, mais furtif pour ne pas\nlaisser voir qu’elle, qui avait renoncé à tout, trouvait pourtant, à\napprendre que Mme Goupil avait à déjeuner, un plaisir aussi vif, et\nqui se ferait malheureusement attendre encore un peu plus d’une heure",
+      "start": 0,
+      "end": 343
+    },
+    {
+      "text": "Et encore cela tombera pendant mon déjeuner!» ajouta-t-elle à mi-voix\npour elle-même",
+      "start": 344,
+      "end": 429
+    },
+    {
+      "text": "Son déjeuner lui était une distraction suffisante pour\nqu’elle n’en souhaitât pas une autre en même temps",
+      "start": 430,
+      "end": 536
+    },
+    {
+      "text": "«Vous n’oublierez\npas au moins de me donner mes œufs à la crème dans une assiette\nplate?» C’étaient les seules qui fussent ornées de sujets, et ma tante\ns’amusait à chaque repas à lire la légende de celle qu’on lui servait\nce jour-là",
+      "start": 537,
+      "end": 771
+    },
+    {
+      "text": "Elle mettait ses lunettes, déchiffrait: Alibaba et\nquarante voleurs, Aladin ou la Lampe merveilleuse, et disait en\nsouriant: Très bien, très bien",
+      "start": 772,
+      "end": 918
+    }
+  ],
+  "tokens": 153,
+  "processed_at": "2025-03-16T02:10:54.689564"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "--Moi, mais ils ont donc des campagnes partout, ces gens! Mais comme\nj’aimerais être à leur place!",
+  "entities": [
+    {
+      "text": "--Moi,",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 58,
+      "end": 62
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Moi, mais ils ont donc des campagnes partout, ces gens! Mais comme\nj’aimerais être à leur place!",
+      "start": 0,
+      "end": 98
+    }
+  ],
+  "tokens": 17,
+  "processed_at": "2025-03-16T02:10:57.198073"
+}

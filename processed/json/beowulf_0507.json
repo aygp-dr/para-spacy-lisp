@@ -1,0 +1,26 @@
+{
+  "text": "Si l’on n’avait pas arrangé une partie au dehors, c’est chez les\nVerdurin que Swann retrouvait le petit noyau, mais il ne venait que le\nsoir et n’acceptait presque jamais à dîner malgré les instances\nd’Odette.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 65,
+      "end": 73
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 78,
+      "end": 83
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Si l’on n’avait pas arrangé une partie au dehors, c’est chez les\nVerdurin que Swann retrouvait le petit noyau, mais il ne venait que le\nsoir et n’acceptait presque jamais à dîner malgré les instances\nd’Odette",
+      "start": 0,
+      "end": 208
+    }
+  ],
+  "tokens": 36,
+  "processed_at": "2025-03-16T02:10:56.075249"
+}

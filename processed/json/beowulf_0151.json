@@ -1,0 +1,20 @@
+{
+  "text": "Cette obscure fraîcheur de ma chambre était au plein soleil de la rue,\nce que l’ombre est au rayon, c’est-à-dire aussi lumineuse que lui, et\noffrait à mon imagination le spectacle total de l’été dont mes sens si\nj’avais été en promenade, n’auraient pu jouir que par morceaux; et\nainsi elle s’accordait bien à mon repos qui (grâce aux aventures\nracontées par mes livres et qui venaient l’émouvoir) supportait pareil\nau repos d’une main immobile au milieu d’une eau courante, le choc et\nl’animation d’un torrent d’activité.",
+  "entities": [
+    {
+      "text": "Cette",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cette obscure fraîcheur de ma chambre était au plein soleil de la rue,\nce que l’ombre est au rayon, c’est-à-dire aussi lumineuse que lui, et\noffrait à mon imagination le spectacle total de l’été dont mes sens si\nj’avais été en promenade, n’auraient pu jouir que par morceaux; et\nainsi elle s’accordait bien à mon repos qui (grâce aux aventures\nracontées par mes livres et qui venaient l’émouvoir) supportait pareil\nau repos d’une main immobile au milieu d’une eau courante, le choc et\nl’animation d’un torrent d’activité",
+      "start": 0,
+      "end": 520
+    }
+  ],
+  "tokens": 87,
+  "processed_at": "2025-03-16T02:10:54.933905"
+}

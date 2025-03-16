@@ -1,0 +1,31 @@
+{
+  "text": "--Ecoute, je vais te dire, dit-elle à Mme de Gallardon, il faut demain\nsoir que j’aille chez une amie qui m’a demandé mon jour depuis\nlongtemps. Si elle nous emmène au théâtre, il n’y aura pas, avec la\nmeilleure volonté, possibilité que j’aille chez toi; mais si nous\nrestons chez elle, comme je sais que nous serons seuls, je pourrai la\nquitter.",
+  "entities": [
+    {
+      "text": "--Ecoute,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Gallardon,",
+      "label": "ORG",
+      "start": 45,
+      "end": 55
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ecoute, je vais te dire, dit-elle à Mme de Gallardon, il faut demain\nsoir que j’aille chez une amie qui m’a demandé mon jour depuis\nlongtemps",
+      "start": 0,
+      "end": 143
+    },
+    {
+      "text": "Si elle nous emmène au théâtre, il n’y aura pas, avec la\nmeilleure volonté, possibilité que j’aille chez toi; mais si nous\nrestons chez elle, comme je sais que nous serons seuls, je pourrai la\nquitter",
+      "start": 144,
+      "end": 345
+    }
+  ],
+  "tokens": 62,
+  "processed_at": "2025-03-16T02:10:57.061475"
+}

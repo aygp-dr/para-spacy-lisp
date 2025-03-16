@@ -1,0 +1,42 @@
+{
+  "text": "--«Oui, c’est probable qu’on nous regarde à cette heure-ci, dans cette\ncampagne fréquentée, dit ironiquement son amie. Et puis quoi?\nAjouta-t-elle (en croyant devoir accompagner d’un clignement d’yeux\nmalicieux et tendre, ces mots qu’elle récita par bonté, comme un\ntexte, qu’elle savait être agréable à Mlle Vinteuil, d’un ton qu’elle\ns’efforçait de rendre cynique), quand même on nous verrait ce n’en est\nque meilleur.»",
+  "entities": [
+    {
+      "text": "--«Oui,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 304,
+      "end": 308
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 309,
+      "end": 318
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Oui, c’est probable qu’on nous regarde à cette heure-ci, dans cette\ncampagne fréquentée, dit ironiquement son amie",
+      "start": 0,
+      "end": 117
+    },
+    {
+      "text": "Et puis quoi?\nAjouta-t-elle (en croyant devoir accompagner d’un clignement d’yeux\nmalicieux et tendre, ces mots qu’elle récita par bonté, comme un\ntexte, qu’elle savait être agréable à Mlle Vinteuil, d’un ton qu’elle\ns’efforçait de rendre cynique), quand même on nous verrait ce n’en est\nque meilleur",
+      "start": 118,
+      "end": 419
+    },
+    {
+      "text": "»",
+      "start": 420,
+      "end": 421
+    }
+  ],
+  "tokens": 64,
+  "processed_at": "2025-03-16T02:10:55.591468"
+}

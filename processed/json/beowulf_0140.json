@@ -1,0 +1,20 @@
+{
+  "text": "--«Allons, voyons, il est l’heure que tu t’en ailles», me dit mon\noncle.",
+  "entities": [
+    {
+      "text": "--«Allons,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Allons, voyons, il est l’heure que tu t’en ailles», me dit mon\noncle",
+      "start": 0,
+      "end": 71
+    }
+  ],
+  "tokens": 13,
+  "processed_at": "2025-03-16T02:10:54.890227"
+}

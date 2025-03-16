@@ -1,0 +1,52 @@
+{
+  "text": "--«J’adore les artistes, répondit la dame en rose, il n’y a qu’eux qui\ncomprennent les femmes... Qu’eux et les êtres d’élite comme vous.\nExcusez mon ignorance, ami. Qui est Vaulabelle? Est-ce les volumes\ndorés qu’il y a dans la petite bibliothèque vitrée de votre boudoir?\nVous savez que vous m’avez promis de me les prêter, j’en aurai grand\nsoin.»",
+  "entities": [
+    {
+      "text": "Excusez",
+      "label": "ORG",
+      "start": 137,
+      "end": 144
+    },
+    {
+      "text": "Vaulabelle?",
+      "label": "ORG",
+      "start": 173,
+      "end": 184
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 273,
+      "end": 277
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«J’adore les artistes, répondit la dame en rose, il n’y a qu’eux qui\ncomprennent les femmes",
+      "start": 0,
+      "end": 93
+    },
+    {
+      "text": "Qu’eux et les êtres d’élite comme vous",
+      "start": 96,
+      "end": 135
+    },
+    {
+      "text": "Excusez mon ignorance, ami",
+      "start": 136,
+      "end": 163
+    },
+    {
+      "text": "Qui est Vaulabelle? Est-ce les volumes\ndorés qu’il y a dans la petite bibliothèque vitrée de votre boudoir?\nVous savez que vous m’avez promis de me les prêter, j’en aurai grand\nsoin",
+      "start": 164,
+      "end": 346
+    },
+    {
+      "text": "»",
+      "start": 347,
+      "end": 348
+    }
+  ],
+  "tokens": 59,
+  "processed_at": "2025-03-16T02:10:54.910072"
+}

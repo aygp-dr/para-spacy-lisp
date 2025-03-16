@@ -1,0 +1,168 @@
+{
+  "text": "Mais ma tante savait bien que ce n’était pas pour rien qu’elle avait\nsonné Françoise, car, à Combray, une personne «qu’on ne connaissait\npoint» était un être aussi peu croyable qu’un dieu de la mythologie,\net de fait on ne se souvenait pas que, chaque fois que s’était\nproduite, dans la rue de Saint-Esprit ou sur la place, une de ces\napparitions stupéfiantes, des recherches bien conduites n’eussent pas\nfini par réduire le personnage fabuleux aux proportions d’une\n«personne qu’on connaissait», soit personnellement, soit\nabstraitement, dans son état civil, en tant qu’ayant tel degré de\nparenté avec des gens de Combray. C’était le fils de Mme Sauton qui\nrentrait du service, la nièce de l’abbé Perdreau qui sortait de\ncouvent, le frère du curé, percepteur à Châteaudun qui venait de\nprendre sa retraite ou qui était venu passer les fêtes. On avait eu en\nles apercevant l’émotion de croire qu’il y avait à Combray des gens\nqu’on ne connaissait point simplement parce qu’on ne les avait pas\nreconnus ou identifiés tout de suite. Et pourtant, longtemps à\nl’avance, Mme Sauton et le curé avaient prévenu qu’ils attendaient\nleurs «voyageurs». Quand le soir, je montais, en rentrant, raconter\nnotre promenade à ma tante, si j’avais l’imprudence de lui dire que\nnous avions rencontré près du Pont-Vieux, un homme que mon grand-père\nne connaissait pas: «Un homme que grand-père ne connaissait point,\ns’écriait elle. Ah! je te crois bien!» Néanmoins un peu émue de cette\nnouvelle, elle voulait en avoir le cœur net, mon grand-père était\nmandé. «Qui donc est-ce que vous avez rencontré près du Pont-Vieux,\nmon oncle? un homme que vous ne connaissiez point?»--«Mais si,\nrépondait mon grand-père, c’était Prosper le frère du jardinier de Mme\nBouillebœuf.»--«Ah! bien», disait ma tante, tranquillisée et un peu\nrouge; haussant les épaules avec un sourire ironique, elle ajoutait:\n«Aussi il me disait que vous aviez rencontré un homme que vous ne\nconnaissiez point!» Et on me recommandait d’être plus circonspect une\nautre fois et de ne plus agiter ainsi ma tante par des paroles\nirréfléchies. On connaissait tellement bien tout le monde, à Combray,\nbêtes et gens, que si ma tante avait vu par hasard passer un chien\n«qu’elle ne connaissait point», elle ne cessait d’y penser et de\nconsacrer à ce fait incompréhensible ses talents d’induction et ses\nheures de liberté.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 75,
+      "end": 85
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 93,
+      "end": 101
+    },
+    {
+      "text": "Saint-Esprit",
+      "label": "ORG",
+      "start": 294,
+      "end": 306
+    },
+    {
+      "text": "Combray.",
+      "label": "ORG",
+      "start": 615,
+      "end": 623
+    },
+    {
+      "text": "Sauton",
+      "label": "ORG",
+      "start": 647,
+      "end": 653
+    },
+    {
+      "text": "Perdreau",
+      "label": "ORG",
+      "start": 698,
+      "end": 706
+    },
+    {
+      "text": "Châteaudun",
+      "label": "ORG",
+      "start": 762,
+      "end": 772
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 909,
+      "end": 916
+    },
+    {
+      "text": "Sauton",
+      "label": "ORG",
+      "start": 1070,
+      "end": 1076
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 1142,
+      "end": 1147
+    },
+    {
+      "text": "Pont-Vieux,",
+      "label": "ORG",
+      "start": 1289,
+      "end": 1300
+    },
+    {
+      "text": "Néanmoins",
+      "label": "ORG",
+      "start": 1435,
+      "end": 1444
+    },
+    {
+      "text": "«Qui",
+      "label": "ORG",
+      "start": 1539,
+      "end": 1543
+    },
+    {
+      "text": "Pont-Vieux,",
+      "label": "ORG",
+      "start": 1588,
+      "end": 1599
+    },
+    {
+      "text": "Prosper",
+      "label": "ORG",
+      "start": 1697,
+      "end": 1704
+    },
+    {
+      "text": "Bouillebœuf.»--«Ah!",
+      "label": "ORG",
+      "start": 1734,
+      "end": 1753
+    },
+    {
+      "text": "«Aussi",
+      "label": "ORG",
+      "start": 1871,
+      "end": 1877
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 2131,
+      "end": 2139
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais ma tante savait bien que ce n’était pas pour rien qu’elle avait\nsonné Françoise, car, à Combray, une personne «qu’on ne connaissait\npoint» était un être aussi peu croyable qu’un dieu de la mythologie,\net de fait on ne se souvenait pas que, chaque fois que s’était\nproduite, dans la rue de Saint-Esprit ou sur la place, une de ces\napparitions stupéfiantes, des recherches bien conduites n’eussent pas\nfini par réduire le personnage fabuleux aux proportions d’une\n«personne qu’on connaissait», soit personnellement, soit\nabstraitement, dans son état civil, en tant qu’ayant tel degré de\nparenté avec des gens de Combray",
+      "start": 0,
+      "end": 622
+    },
+    {
+      "text": "C’était le fils de Mme Sauton qui\nrentrait du service, la nièce de l’abbé Perdreau qui sortait de\ncouvent, le frère du curé, percepteur à Châteaudun qui venait de\nprendre sa retraite ou qui était venu passer les fêtes",
+      "start": 623,
+      "end": 841
+    },
+    {
+      "text": "On avait eu en\nles apercevant l’émotion de croire qu’il y avait à Combray des gens\nqu’on ne connaissait point simplement parce qu’on ne les avait pas\nreconnus ou identifiés tout de suite",
+      "start": 842,
+      "end": 1029
+    },
+    {
+      "text": "Et pourtant, longtemps à\nl’avance, Mme Sauton et le curé avaient prévenu qu’ils attendaient\nleurs «voyageurs»",
+      "start": 1030,
+      "end": 1140
+    },
+    {
+      "text": "Quand le soir, je montais, en rentrant, raconter\nnotre promenade à ma tante, si j’avais l’imprudence de lui dire que\nnous avions rencontré près du Pont-Vieux, un homme que mon grand-père\nne connaissait pas: «Un homme que grand-père ne connaissait point,\ns’écriait elle",
+      "start": 1141,
+      "end": 1410
+    },
+    {
+      "text": "Ah! je te crois bien!» Néanmoins un peu émue de cette\nnouvelle, elle voulait en avoir le cœur net, mon grand-père était\nmandé",
+      "start": 1411,
+      "end": 1537
+    },
+    {
+      "text": "«Qui donc est-ce que vous avez rencontré près du Pont-Vieux,\nmon oncle? un homme que vous ne connaissiez point?»--«Mais si,\nrépondait mon grand-père, c’était Prosper le frère du jardinier de Mme\nBouillebœuf",
+      "start": 1538,
+      "end": 1745
+    },
+    {
+      "text": "»--«Ah! bien», disait ma tante, tranquillisée et un peu\nrouge; haussant les épaules avec un sourire ironique, elle ajoutait:\n«Aussi il me disait que vous aviez rencontré un homme que vous ne\nconnaissiez point!» Et on me recommandait d’être plus circonspect une\nautre fois et de ne plus agiter ainsi ma tante par des paroles\nirréfléchies",
+      "start": 1746,
+      "end": 2082
+    },
+    {
+      "text": "On connaissait tellement bien tout le monde, à Combray,\nbêtes et gens, que si ma tante avait vu par hasard passer un chien\n«qu’elle ne connaissait point», elle ne cessait d’y penser et de\nconsacrer à ce fait incompréhensible ses talents d’induction et ses\nheures de liberté",
+      "start": 2083,
+      "end": 2357
+    }
+  ],
+  "tokens": 389,
+  "processed_at": "2025-03-16T02:10:54.707088"
+}

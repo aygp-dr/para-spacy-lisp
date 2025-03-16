@@ -1,0 +1,25 @@
+{
+  "text": "Et M. Verdurin lui répondit:",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 6,
+      "end": 14
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et M",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Verdurin lui répondit:",
+      "start": 5,
+      "end": 28
+    }
+  ],
+  "tokens": 5,
+  "processed_at": "2025-03-16T02:10:56.592162"
+}

@@ -1,0 +1,73 @@
+{
+  "text": "Plus tard, quand je fus au collège, chaque fois que pendant les\nclasses, je correspondais, aussitôt que le professeur avait la tête\ntournée, avec un nouvel ami, ma première question était toujours pour\nlui demander s’il était déjà allé au théâtre et s’il trouvait que le\nplus grand acteur était bien Got, le second Delaunay, etc. Et si, à\nson avis, Febvre ne venait qu’après Thiron, ou Delaunay qu’après\nCoquelin, la soudaine motilité que Coquelin, perdant la rigidité de la\npierre, contractait dans mon esprit pour y passer au deuxième rang, et\nl’agilité miraculeuse, la féconde animation dont se voyait doué\nDelaunay pour reculer au quatrième, rendait la sensation du\nfleurissement et de la vie à mon cerveau assoupli et fertilisé.",
+  "entities": [
+    {
+      "text": "Plus",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Got,",
+      "label": "ORG",
+      "start": 300,
+      "end": 304
+    },
+    {
+      "text": "Delaunay,",
+      "label": "ORG",
+      "start": 315,
+      "end": 324
+    },
+    {
+      "text": "Febvre",
+      "label": "ORG",
+      "start": 349,
+      "end": 355
+    },
+    {
+      "text": "Thiron,",
+      "label": "ORG",
+      "start": 375,
+      "end": 382
+    },
+    {
+      "text": "Delaunay",
+      "label": "ORG",
+      "start": 386,
+      "end": 394
+    },
+    {
+      "text": "Coquelin,",
+      "label": "ORG",
+      "start": 404,
+      "end": 413
+    },
+    {
+      "text": "Coquelin,",
+      "label": "ORG",
+      "start": 439,
+      "end": 448
+    },
+    {
+      "text": "Delaunay",
+      "label": "ORG",
+      "start": 610,
+      "end": 618
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Plus tard, quand je fus au collège, chaque fois que pendant les\nclasses, je correspondais, aussitôt que le professeur avait la tête\ntournée, avec un nouvel ami, ma première question était toujours pour\nlui demander s’il était déjà allé au théâtre et s’il trouvait que le\nplus grand acteur était bien Got, le second Delaunay, etc",
+      "start": 0,
+      "end": 328
+    },
+    {
+      "text": "Et si, à\nson avis, Febvre ne venait qu’après Thiron, ou Delaunay qu’après\nCoquelin, la soudaine motilité que Coquelin, perdant la rigidité de la\npierre, contractait dans mon esprit pour y passer au deuxième rang, et\nl’agilité miraculeuse, la féconde animation dont se voyait doué\nDelaunay pour reculer au quatrième, rendait la sensation du\nfleurissement et de la vie à mon cerveau assoupli et fertilisé",
+      "start": 329,
+      "end": 732
+    }
+  ],
+  "tokens": 121,
+  "processed_at": "2025-03-16T02:10:54.829043"
+}

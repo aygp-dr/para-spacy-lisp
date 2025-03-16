@@ -1,0 +1,25 @@
+{
+  "text": "Ainsi revenait-elle dans la voiture de Swann; un soir comme elle\nvenait d’en descendre et qu’il lui disait à demain, elle cueillit\nprécipitamment dans le petit jardin qui précédait la maison un dernier\nchrysanthème et le lui donna avant qu’il fût reparti. Il le tint serré\ncontre sa bouche pendant le retour, et quand au bout de quelques jours\nla fleur fut fanée, il l’enferma précieusement dans son secrétaire.",
+  "entities": [
+    {
+      "text": "Swann;",
+      "label": "ORG",
+      "start": 39,
+      "end": 45
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ainsi revenait-elle dans la voiture de Swann; un soir comme elle\nvenait d’en descendre et qu’il lui disait à demain, elle cueillit\nprécipitamment dans le petit jardin qui précédait la maison un dernier\nchrysanthème et le lui donna avant qu’il fût reparti",
+      "start": 0,
+      "end": 254
+    },
+    {
+      "text": "Il le tint serré\ncontre sa bouche pendant le retour, et quand au bout de quelques jours\nla fleur fut fanée, il l’enferma précieusement dans son secrétaire",
+      "start": 255,
+      "end": 410
+    }
+  ],
+  "tokens": 69,
+  "processed_at": "2025-03-16T02:10:56.096310"
+}

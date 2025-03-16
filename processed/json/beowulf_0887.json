@@ -1,0 +1,13 @@
+{
+  "text": "--C’est quelqu’un de très en colère et de très convenable qui n’a pas\nosé aller jusqu’au bout du premier mot.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "--C’est quelqu’un de très en colère et de très convenable qui n’a pas\nosé aller jusqu’au bout du premier mot",
+      "start": 0,
+      "end": 108
+    }
+  ],
+  "tokens": 20,
+  "processed_at": "2025-03-16T02:10:57.209397"
+}

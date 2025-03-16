@@ -1,0 +1,104 @@
+{
+  "text": "Et sans doute cela n’était pas vrai. Mais Swann et la princesse\navaient une même manière de juger les petites choses qui avait pour\neffet--à moins que ce ne fût pour cause--une grande analogie dans la\nfaçon de s’exprimer et jusque dans la prononciation. Cette\nressemblance ne frappait pas parce que rien n’était plus différent que\nleurs deux voix. Mais si on parvenait par la pensée à ôter aux propos\nde Swann la sonorité qui les enveloppait, les moustaches d’entre\nlesquelles ils sortaient, on se rendait compte que c’étaient les mêmes\nphrases, les mêmes inflexions, le tour de la coterie Guermantes. Pour\nles choses importantes, Swann et la princesse n’avaient les mêmes\nidées sur rien. Mais depuis que Swann était si triste, ressentant\ntoujours cette espèce de frisson qui précède le moment où l’on va\npleurer, il avait le même besoin de parler du chagrin qu’un assassin a\nde parler de son crime. En entendant la princesse lui dire que la vie\nétait une chose affreuse, il éprouva la même douceur que si elle lui\navait parlé d’Odette.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 37,
+      "end": 41
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 42,
+      "end": 47
+    },
+    {
+      "text": "Cette",
+      "label": "ORG",
+      "start": 254,
+      "end": 259
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 348,
+      "end": 352
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 404,
+      "end": 409
+    },
+    {
+      "text": "Guermantes.",
+      "label": "ORG",
+      "start": 590,
+      "end": 601
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 602,
+      "end": 606
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 631,
+      "end": 636
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 689,
+      "end": 693
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 705,
+      "end": 710
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et sans doute cela n’était pas vrai",
+      "start": 0,
+      "end": 35
+    },
+    {
+      "text": "Mais Swann et la princesse\navaient une même manière de juger les petites choses qui avait pour\neffet--à moins que ce ne fût pour cause--une grande analogie dans la\nfaçon de s’exprimer et jusque dans la prononciation",
+      "start": 36,
+      "end": 252
+    },
+    {
+      "text": "Cette\nressemblance ne frappait pas parce que rien n’était plus différent que\nleurs deux voix",
+      "start": 253,
+      "end": 346
+    },
+    {
+      "text": "Mais si on parvenait par la pensée à ôter aux propos\nde Swann la sonorité qui les enveloppait, les moustaches d’entre\nlesquelles ils sortaient, on se rendait compte que c’étaient les mêmes\nphrases, les mêmes inflexions, le tour de la coterie Guermantes",
+      "start": 347,
+      "end": 600
+    },
+    {
+      "text": "Pour\nles choses importantes, Swann et la princesse n’avaient les mêmes\nidées sur rien",
+      "start": 601,
+      "end": 687
+    },
+    {
+      "text": "Mais depuis que Swann était si triste, ressentant\ntoujours cette espèce de frisson qui précède le moment où l’on va\npleurer, il avait le même besoin de parler du chagrin qu’un assassin a\nde parler de son crime",
+      "start": 688,
+      "end": 898
+    },
+    {
+      "text": "En entendant la princesse lui dire que la vie\nétait une chose affreuse, il éprouva la même douceur que si elle lui\navait parlé d’Odette",
+      "start": 899,
+      "end": 1035
+    }
+  ],
+  "tokens": 178,
+  "processed_at": "2025-03-16T02:10:57.215821"
+}

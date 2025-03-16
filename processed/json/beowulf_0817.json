@@ -1,0 +1,53 @@
+{
+  "text": "L’un d’eux, d’aspect particulièrement féroce et assez semblable à\nl’exécuteur dans certains tableaux de la Renaissance qui figurent des\nsupplices, s’avança vers lui d’un air implacable pour lui prendre ses\naffaires. Mais la dureté de son regard d’acier était compensée par la\ndouceur de ses gants de fil, si bien qu’en approchant de Swann il\nsemblait témoigner du mépris pour sa personne et des égards pour son\nchapeau. Il le prit avec un soin auquel l’exactitude de sa pointure\ndonnait quelque chose de méticuleux et une délicatesse que rendait\npresque touchante l’appareil de sa force. Puis il le passa à un de ses\naides, nouveau, et timide, qui exprimait l’effroi qu’il ressentait en\nroulant en tous sens des regards furieux et montrait l’agitation d’une\nbête captive dans les premières heures de sa domesticité.",
+  "entities": [
+    {
+      "text": "Renaissance",
+      "label": "ORG",
+      "start": 107,
+      "end": 118
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 216,
+      "end": 220
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 333,
+      "end": 338
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 588,
+      "end": 592
+    }
+  ],
+  "sentences": [
+    {
+      "text": "L’un d’eux, d’aspect particulièrement féroce et assez semblable à\nl’exécuteur dans certains tableaux de la Renaissance qui figurent des\nsupplices, s’avança vers lui d’un air implacable pour lui prendre ses\naffaires",
+      "start": 0,
+      "end": 214
+    },
+    {
+      "text": "Mais la dureté de son regard d’acier était compensée par la\ndouceur de ses gants de fil, si bien qu’en approchant de Swann il\nsemblait témoigner du mépris pour sa personne et des égards pour son\nchapeau",
+      "start": 215,
+      "end": 418
+    },
+    {
+      "text": "Il le prit avec un soin auquel l’exactitude de sa pointure\ndonnait quelque chose de méticuleux et une délicatesse que rendait\npresque touchante l’appareil de sa force",
+      "start": 419,
+      "end": 586
+    },
+    {
+      "text": "Puis il le passa à un de ses\naides, nouveau, et timide, qui exprimait l’effroi qu’il ressentait en\nroulant en tous sens des regards furieux et montrait l’agitation d’une\nbête captive dans les premières heures de sa domesticité",
+      "start": 587,
+      "end": 814
+    }
+  ],
+  "tokens": 133,
+  "processed_at": "2025-03-16T02:10:57.001915"
+}

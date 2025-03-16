@@ -1,0 +1,25 @@
+{
+  "text": "--«Ah! princesse, vous savez bien qu’ils ne se tiendraient pas de\njoie...»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! princesse, vous savez bien qu’ils ne se tiendraient pas de\njoie",
+      "start": 0,
+      "end": 70
+    },
+    {
+      "text": "»",
+      "start": 73,
+      "end": 74
+    }
+  ],
+  "tokens": 12,
+  "processed_at": "2025-03-16T02:10:57.163626"
+}

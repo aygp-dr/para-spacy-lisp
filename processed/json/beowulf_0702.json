@@ -1,0 +1,25 @@
+{
+  "text": "--«Cela t’aurait peut-être fait du bien, mais enfin je n’insiste pas.»",
+  "entities": [
+    {
+      "text": "--«Cela",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Cela t’aurait peut-être fait du bien, mais enfin je n’insiste pas",
+      "start": 0,
+      "end": 68
+    },
+    {
+      "text": "»",
+      "start": 69,
+      "end": 70
+    }
+  ],
+  "tokens": 11,
+  "processed_at": "2025-03-16T02:10:56.654892"
+}

@@ -1,0 +1,140 @@
+{
+  "text": "D’autres encore, colossaux aussi, se tenaient sur les degrés d’un\nescalier monumental que leur présence décorative et leur immobilité\nmarmoréenne auraient pu faire nommer comme celui du Palais Ducal:\n«l’Escalier des Géants» et dans lequel Swann s’engagea avec la\ntristesse de penser qu’Odette ne l’avait jamais gravi. Ah! avec quelle\njoie au contraire il eût grimpé les étages noirs, mal odorants et\ncasse-cou de la petite couturière retirée, dans le «cinquième» de\nlaquelle il aurait été si heureux de payer plus cher qu’une\navant-scène hebdomadaire à l’Opéra le droit de passer la soirée quand\nOdette y venait et même les autres jours pour pouvoir parler d’elle,\nvivre avec les gens qu’elle avait l’habitude de voir quand il n’était\npas là et qui à cause de cela lui paraissaient recéler, de la vie de\nsa maîtresse, quelque chose de plus réel, de plus inaccessible et de\nplus mystérieux. Tandis que dans cet escalier pestilentiel et désiré\nde l’ancienne couturière, comme il n’y en avait pas un second pour le\nservice, on voyait le soir devant chaque porte une boîte au lait vide\net sale préparée sur le paillasson, dans l’escalier magnifique et\ndédaigné que Swann montait à ce moment, d’un côté et de l’autre, à des\nhauteurs différentes, devant chaque anfractuosité que faisait dans le\nmur la fenêtre de la loge, ou la porte d’un appartement, représentant\nle service intérieur qu’ils dirigeaient et en faisant hommage aux\ninvités, un concierge, un majordome, un argentier (braves gens qui\nvivaient le reste de la semaine un peu indépendants dans leur domaine,\ny dînaient chez eux comme de petits boutiquiers et seraient peut-être\ndemain au service bourgeois d’un médecin ou d’un industriel) attentifs\nà ne pas manquer aux recommandations qu’on leur avait faites avant de\nleur laisser endosser la livrée éclatante qu’ils ne revêtaient qu’à de\nrares intervalles et dans laquelle ils ne se sentaient pas très à leur\naise, se tenaient sous l’arcature de leur portail avec un éclat\npompeux tempéré de bonhomie populaire, comme des saints dans leur\nniche; et un énorme suisse, habillé comme à l’église, frappait les\ndalles de sa canne au passage de chaque arrivant. Parvenu en haut de\nl’escalier le long duquel l’avait suivi un domestique à face blême,\navec une petite queue de cheveux, noués d’un catogan, derrière la\ntête, comme un sacristain de Goya ou un tabellion du répertoire, Swann\npassa devant un bureau où des valets, assis comme des notaires devant\nde grands registres, se levèrent et inscrivirent son nom. Il traversa\nalors un petit vestibule qui,--tel que certaines pièces aménagées par\nleur propriétaire pour servir de cadre à une seule œuvre d’art, dont\nelles tirent leur nom, et d’une nudité voulue, ne contiennent rien\nd’autre--, exhibait à son entrée, comme quelque précieuse effigie de\nBenvenuto Cellini représentant un homme de guet, un jeune valet de\npied, le corps légèrement fléchi en avant, dressant sur son hausse-col\nrouge une figure plus rouge encore d’où s’échappaient des torrents de\nfeu, de timidité et de zèle, et qui, perçant les tapisseries\nd’Aubusson tendues devant le salon où on écoutait la musique, de son\nregard impétueux, vigilant, éperdu, avait l’air, avec une\nimpassibilité militaire ou une foi surnaturelle,--allégorie de\nl’alarme, incarnation de l’attente, commémoration du\nbranle-bas,--d’épier, ange ou vigie, d’une tour de donjon ou de\ncathédrale, l’apparition de l’ennemi ou l’heure du Jugement. Il ne\nrestait plus à Swann qu’à pénétrer dans la salle du concert dont un\nhuissier chargé de chaînes lui ouvrit les portes, en s’inclinant,\ncomme il lui aurait remis les clefs d’une ville. Mais il pensait à la\nmaison où il aurait pu se trouver en ce moment même, si Odette l’avait\npermis, et le souvenir entrevu d’une boîte au lait vide sur un\npaillasson lui serra le cœur.",
+  "entities": [
+    {
+      "text": "Palais",
+      "label": "ORG",
+      "start": 186,
+      "end": 192
+    },
+    {
+      "text": "Ducal:",
+      "label": "ORG",
+      "start": 193,
+      "end": 199
+    },
+    {
+      "text": "Géants»",
+      "label": "ORG",
+      "start": 216,
+      "end": 223
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 239,
+      "end": 244
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 286,
+      "end": 292
+    },
+    {
+      "text": "Tandis",
+      "label": "ORG",
+      "start": 890,
+      "end": 896
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1161,
+      "end": 1166
+    },
+    {
+      "text": "Parvenu",
+      "label": "ORG",
+      "start": 2163,
+      "end": 2170
+    },
+    {
+      "text": "Goya",
+      "label": "ORG",
+      "start": 2345,
+      "end": 2349
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2381,
+      "end": 2386
+    },
+    {
+      "text": "Benvenuto",
+      "label": "ORG",
+      "start": 2802,
+      "end": 2811
+    },
+    {
+      "text": "Cellini",
+      "label": "ORG",
+      "start": 2812,
+      "end": 2819
+    },
+    {
+      "text": "Jugement.",
+      "label": "ORG",
+      "start": 3429,
+      "end": 3438
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3460,
+      "end": 3465
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 3628,
+      "end": 3632
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 3705,
+      "end": 3711
+    }
+  ],
+  "sentences": [
+    {
+      "text": "D’autres encore, colossaux aussi, se tenaient sur les degrés d’un\nescalier monumental que leur présence décorative et leur immobilité\nmarmoréenne auraient pu faire nommer comme celui du Palais Ducal:\n«l’Escalier des Géants» et dans lequel Swann s’engagea avec la\ntristesse de penser qu’Odette ne l’avait jamais gravi",
+      "start": 0,
+      "end": 316
+    },
+    {
+      "text": "Ah! avec quelle\njoie au contraire il eût grimpé les étages noirs, mal odorants et\ncasse-cou de la petite couturière retirée, dans le «cinquième» de\nlaquelle il aurait été si heureux de payer plus cher qu’une\navant-scène hebdomadaire à l’Opéra le droit de passer la soirée quand\nOdette y venait et même les autres jours pour pouvoir parler d’elle,\nvivre avec les gens qu’elle avait l’habitude de voir quand il n’était\npas là et qui à cause de cela lui paraissaient recéler, de la vie de\nsa maîtresse, quelque chose de plus réel, de plus inaccessible et de\nplus mystérieux",
+      "start": 317,
+      "end": 888
+    },
+    {
+      "text": "Tandis que dans cet escalier pestilentiel et désiré\nde l’ancienne couturière, comme il n’y en avait pas un second pour le\nservice, on voyait le soir devant chaque porte une boîte au lait vide\net sale préparée sur le paillasson, dans l’escalier magnifique et\ndédaigné que Swann montait à ce moment, d’un côté et de l’autre, à des\nhauteurs différentes, devant chaque anfractuosité que faisait dans le\nmur la fenêtre de la loge, ou la porte d’un appartement, représentant\nle service intérieur qu’ils dirigeaient et en faisant hommage aux\ninvités, un concierge, un majordome, un argentier (braves gens qui\nvivaient le reste de la semaine un peu indépendants dans leur domaine,\ny dînaient chez eux comme de petits boutiquiers et seraient peut-être\ndemain au service bourgeois d’un médecin ou d’un industriel) attentifs\nà ne pas manquer aux recommandations qu’on leur avait faites avant de\nleur laisser endosser la livrée éclatante qu’ils ne revêtaient qu’à de\nrares intervalles et dans laquelle ils ne se sentaient pas très à leur\naise, se tenaient sous l’arcature de leur portail avec un éclat\npompeux tempéré de bonhomie populaire, comme des saints dans leur\nniche; et un énorme suisse, habillé comme à l’église, frappait les\ndalles de sa canne au passage de chaque arrivant",
+      "start": 889,
+      "end": 2161
+    },
+    {
+      "text": "Parvenu en haut de\nl’escalier le long duquel l’avait suivi un domestique à face blême,\navec une petite queue de cheveux, noués d’un catogan, derrière la\ntête, comme un sacristain de Goya ou un tabellion du répertoire, Swann\npassa devant un bureau où des valets, assis comme des notaires devant\nde grands registres, se levèrent et inscrivirent son nom",
+      "start": 2162,
+      "end": 2513
+    },
+    {
+      "text": "Il traversa\nalors un petit vestibule qui,--tel que certaines pièces aménagées par\nleur propriétaire pour servir de cadre à une seule œuvre d’art, dont\nelles tirent leur nom, et d’une nudité voulue, ne contiennent rien\nd’autre--, exhibait à son entrée, comme quelque précieuse effigie de\nBenvenuto Cellini représentant un homme de guet, un jeune valet de\npied, le corps légèrement fléchi en avant, dressant sur son hausse-col\nrouge une figure plus rouge encore d’où s’échappaient des torrents de\nfeu, de timidité et de zèle, et qui, perçant les tapisseries\nd’Aubusson tendues devant le salon où on écoutait la musique, de son\nregard impétueux, vigilant, éperdu, avait l’air, avec une\nimpassibilité militaire ou une foi surnaturelle,--allégorie de\nl’alarme, incarnation de l’attente, commémoration du\nbranle-bas,--d’épier, ange ou vigie, d’une tour de donjon ou de\ncathédrale, l’apparition de l’ennemi ou l’heure du Jugement",
+      "start": 2514,
+      "end": 3437
+    },
+    {
+      "text": "Il ne\nrestait plus à Swann qu’à pénétrer dans la salle du concert dont un\nhuissier chargé de chaînes lui ouvrit les portes, en s’inclinant,\ncomme il lui aurait remis les clefs d’une ville",
+      "start": 3438,
+      "end": 3626
+    },
+    {
+      "text": "Mais il pensait à la\nmaison où il aurait pu se trouver en ce moment même, si Odette l’avait\npermis, et le souvenir entrevu d’une boîte au lait vide sur un\npaillasson lui serra le cœur",
+      "start": 3627,
+      "end": 3811
+    }
+  ],
+  "tokens": 625,
+  "processed_at": "2025-03-16T02:10:57.008960"
+}

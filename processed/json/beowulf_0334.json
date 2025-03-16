@@ -1,0 +1,102 @@
+{
+  "text": "Elle était en grand deuil, car son père était mort depuis peu. Nous\nn’étions pas allés la voir, ma mère ne l’avait pas voulu à cause d’une\nvertu qui chez elle limitait seule les effets de la bonté: la pudeur;\nmais elle la plaignait profondément. Ma mère se rappelant la triste\nfin de vie de M. Vinteuil, tout absorbée d’abord par les soins de mère\net de bonne d’enfant qu’il donnait à sa fille, puis par les\nsouffrances que celle-ci lui avait causées; elle revoyait le visage\ntorturé qu’avait eu le vieillard tous les derniers temps; elle savait\nqu’il avait renoncé à jamais à achever de transcrire au net toute son\nœuvre des dernières années, pauvres morceaux d’un vieux professeur de\npiano, d’un ancien organiste de village dont nous imaginions bien\nqu’ils n’avaient guère de valeur en eux-mêmes, mais que nous ne\nméprisions pas parce qu’ils en avaient tant pour lui dont ils avaient\nété la raison de vivre avant qu’il les sacrifiât à sa fille, et qui\npour la plupart pas même notés, conservés seulement dans sa mémoire,\nquelques-uns inscrits sur des feuillets épars, illisibles, resteraient\ninconnus; ma mère pensait à cet autre renoncement plus cruel encore\nauquel M. Vinteuil avait été contraint, le renoncement à un avenir de\nbonheur honnête et respecté pour sa fille; quand elle évoquait toute\ncette détresse suprême de l’ancien maître de piano de mes tantes, elle\néprouvait un véritable chagrin et songeait avec effroi à celui\nautrement amer que devait éprouver Mlle Vinteuil tout mêlé du remords\nd’avoir à peu près tué son père. «Pauvre M. Vinteuil, disait ma mère,\nil a vécu et il est mort pour sa fille, sans avoir reçu son salaire.\nLe recevra-t-il après sa mort et sous quelle forme? Il ne pourrait lui\nvenir que d’elle.»",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 63,
+      "end": 67
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 294,
+      "end": 303
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 1172,
+      "end": 1180
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 1470,
+      "end": 1474
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 1475,
+      "end": 1483
+    },
+    {
+      "text": "«Pauvre",
+      "label": "ORG",
+      "start": 1538,
+      "end": 1545
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 1549,
+      "end": 1558
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle était en grand deuil, car son père était mort depuis peu",
+      "start": 0,
+      "end": 61
+    },
+    {
+      "text": "Nous\nn’étions pas allés la voir, ma mère ne l’avait pas voulu à cause d’une\nvertu qui chez elle limitait seule les effets de la bonté: la pudeur;\nmais elle la plaignait profondément",
+      "start": 62,
+      "end": 244
+    },
+    {
+      "text": "Ma mère se rappelant la triste\nfin de vie de M",
+      "start": 245,
+      "end": 292
+    },
+    {
+      "text": "Vinteuil, tout absorbée d’abord par les soins de mère\net de bonne d’enfant qu’il donnait à sa fille, puis par les\nsouffrances que celle-ci lui avait causées; elle revoyait le visage\ntorturé qu’avait eu le vieillard tous les derniers temps; elle savait\nqu’il avait renoncé à jamais à achever de transcrire au net toute son\nœuvre des dernières années, pauvres morceaux d’un vieux professeur de\npiano, d’un ancien organiste de village dont nous imaginions bien\nqu’ils n’avaient guère de valeur en eux-mêmes, mais que nous ne\nméprisions pas parce qu’ils en avaient tant pour lui dont ils avaient\nété la raison de vivre avant qu’il les sacrifiât à sa fille, et qui\npour la plupart pas même notés, conservés seulement dans sa mémoire,\nquelques-uns inscrits sur des feuillets épars, illisibles, resteraient\ninconnus; ma mère pensait à cet autre renoncement plus cruel encore\nauquel M",
+      "start": 293,
+      "end": 1170
+    },
+    {
+      "text": "Vinteuil avait été contraint, le renoncement à un avenir de\nbonheur honnête et respecté pour sa fille; quand elle évoquait toute\ncette détresse suprême de l’ancien maître de piano de mes tantes, elle\néprouvait un véritable chagrin et songeait avec effroi à celui\nautrement amer que devait éprouver Mlle Vinteuil tout mêlé du remords\nd’avoir à peu près tué son père",
+      "start": 1171,
+      "end": 1536
+    },
+    {
+      "text": "«Pauvre M",
+      "start": 1537,
+      "end": 1547
+    },
+    {
+      "text": "Vinteuil, disait ma mère,\nil a vécu et il est mort pour sa fille, sans avoir reçu son salaire",
+      "start": 1548,
+      "end": 1642
+    },
+    {
+      "text": "Le recevra-t-il après sa mort et sous quelle forme? Il ne pourrait lui\nvenir que d’elle",
+      "start": 1643,
+      "end": 1731
+    },
+    {
+      "text": "»",
+      "start": 1732,
+      "end": 1733
+    }
+  ],
+  "tokens": 298,
+  "processed_at": "2025-03-16T02:10:55.569388"
+}

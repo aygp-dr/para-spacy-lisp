@@ -1,0 +1,20 @@
+{
+  "text": "--Il pourrait t’en vouloir de ne plus l’inviter.",
+  "entities": [
+    {
+      "text": "--Il",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Il pourrait t’en vouloir de ne plus l’inviter",
+      "start": 0,
+      "end": 47
+    }
+  ],
+  "tokens": 8,
+  "processed_at": "2025-03-16T02:10:57.599781"
+}

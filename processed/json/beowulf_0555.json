@@ -1,0 +1,36 @@
+{
+  "text": "--Surtout, ne me parlez pas, ne me répondez que par signes pour ne pas\nvous essouffler encore davantage. Cela ne vous gêne pas que je remette\ndroites les fleurs de votre corsage qui ont été déplacées par le choc.\nJ’ai peur que vous ne les perdiez, je voudrais les enfoncer un peu.",
+  "entities": [
+    {
+      "text": "--Surtout,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Cela",
+      "label": "ORG",
+      "start": 105,
+      "end": 109
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Surtout, ne me parlez pas, ne me répondez que par signes pour ne pas\nvous essouffler encore davantage",
+      "start": 0,
+      "end": 103
+    },
+    {
+      "text": "Cela ne vous gêne pas que je remette\ndroites les fleurs de votre corsage qui ont été déplacées par le choc",
+      "start": 104,
+      "end": 211
+    },
+    {
+      "text": "J’ai peur que vous ne les perdiez, je voudrais les enfoncer un peu",
+      "start": 212,
+      "end": 279
+    }
+  ],
+  "tokens": 52,
+  "processed_at": "2025-03-16T02:10:56.213982"
+}

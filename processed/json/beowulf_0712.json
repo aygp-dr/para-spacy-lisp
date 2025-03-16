@@ -1,0 +1,25 @@
+{
+  "text": "--«Il n’avait qu’à être aimable, il serait encore ici, une bonne\ncorrection peut être utile à tout âge.»",
+  "entities": [
+    {
+      "text": "--«Il",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Il n’avait qu’à être aimable, il serait encore ici, une bonne\ncorrection peut être utile à tout âge",
+      "start": 0,
+      "end": 102
+    },
+    {
+      "text": "»",
+      "start": 103,
+      "end": 104
+    }
+  ],
+  "tokens": 18,
+  "processed_at": "2025-03-16T02:10:56.683366"
+}

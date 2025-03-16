@@ -1,0 +1,31 @@
+{
+  "text": "--Élevé... à la hauteur d’une institution, interrompit Cottard en\nlevant les bras avec une gravité simulée.",
+  "entities": [
+    {
+      "text": "--Élevé...",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 55,
+      "end": 62
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Élevé",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "à la hauteur d’une institution, interrompit Cottard en\nlevant les bras avec une gravité simulée",
+      "start": 10,
+      "end": 106
+    }
+  ],
+  "tokens": 16,
+  "processed_at": "2025-03-16T02:10:56.349668"
+}

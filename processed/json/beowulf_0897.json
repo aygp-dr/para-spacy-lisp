@@ -1,0 +1,20 @@
+{
+  "text": "Ces mots «massacré par les sauvages» percèrent douloureusement le cœur\nde Swann; aussitôt il éprouva le besoin de continuer la conversation\navec le général:",
+  "entities": [
+    {
+      "text": "Swann;",
+      "label": "ORG",
+      "start": 74,
+      "end": 80
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ces mots «massacré par les sauvages» percèrent douloureusement le cœur\nde Swann; aussitôt il éprouva le besoin de continuer la conversation\navec le général:",
+      "start": 0,
+      "end": 156
+    }
+  ],
+  "tokens": 24,
+  "processed_at": "2025-03-16T02:10:57.240284"
+}

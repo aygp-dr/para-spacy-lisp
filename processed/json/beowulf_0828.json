@@ -1,0 +1,20 @@
+{
+  "text": "--Mais le mieux du monde!",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais le mieux du monde!",
+      "start": 0,
+      "end": 25
+    }
+  ],
+  "tokens": 5,
+  "processed_at": "2025-03-16T02:10:57.040338"
+}

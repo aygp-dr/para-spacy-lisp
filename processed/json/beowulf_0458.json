@@ -1,0 +1,51 @@
+{
+  "text": "D’un rythme lent elle le dirigeait ici d’abord, puis là, puis\nailleurs, vers un bonheur noble, inintelligible et précis. Et tout\nd’un coup au point où elle était arrivée et d’où il se préparait à la\nsuivre, après une pause d’un instant, brusquement elle changeait de\ndirection et d’un mouvement nouveau, plus rapide, menu, mélancolique,\nincessant et doux, elle l’entraînait avec elle vers des perspectives\ninconnues. Puis elle disparut. Il souhaita passionnément la revoir une\ntroisième fois. Et elle reparut en effet mais sans lui parler plus\nclairement, en lui causant même une volupté moins profonde. Mais\nrentré chez lui il eut besoin d’elle, il était comme un homme dans la\nvie de qui une passante qu’il a aperçue un moment vient de faire\nentrer l’image d’une beauté nouvelle qui donne à sa propre sensibilité\nune valeur plus grande, sans qu’il sache seulement s’il pourra revoir\njamais celle qu’il aime déjà et dont il ignore jusqu’au nom.",
+  "entities": [
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 417,
+      "end": 421
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 604,
+      "end": 608
+    }
+  ],
+  "sentences": [
+    {
+      "text": "D’un rythme lent elle le dirigeait ici d’abord, puis là, puis\nailleurs, vers un bonheur noble, inintelligible et précis",
+      "start": 0,
+      "end": 119
+    },
+    {
+      "text": "Et tout\nd’un coup au point où elle était arrivée et d’où il se préparait à la\nsuivre, après une pause d’un instant, brusquement elle changeait de\ndirection et d’un mouvement nouveau, plus rapide, menu, mélancolique,\nincessant et doux, elle l’entraînait avec elle vers des perspectives\ninconnues",
+      "start": 120,
+      "end": 415
+    },
+    {
+      "text": "Puis elle disparut",
+      "start": 416,
+      "end": 435
+    },
+    {
+      "text": "Il souhaita passionnément la revoir une\ntroisième fois",
+      "start": 436,
+      "end": 491
+    },
+    {
+      "text": "Et elle reparut en effet mais sans lui parler plus\nclairement, en lui causant même une volupté moins profonde",
+      "start": 492,
+      "end": 602
+    },
+    {
+      "text": "Mais\nrentré chez lui il eut besoin d’elle, il était comme un homme dans la\nvie de qui une passante qu’il a aperçue un moment vient de faire\nentrer l’image d’une beauté nouvelle qui donne à sa propre sensibilité\nune valeur plus grande, sans qu’il sache seulement s’il pourra revoir\njamais celle qu’il aime déjà et dont il ignore jusqu’au nom",
+      "start": 603,
+      "end": 944
+    }
+  ],
+  "tokens": 157,
+  "processed_at": "2025-03-16T02:10:55.935936"
+}

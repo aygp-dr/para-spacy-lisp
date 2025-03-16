@@ -1,0 +1,80 @@
+{
+  "text": "Une ou deux fois par mois, à Paris, on m’envoyait lui faire une\nvisite, comme il finissait de déjeuner, en simple vareuse, servi par\nson domestique en veste de travail de coutil rayé violet et blanc. Il\nse plaignait en ronchonnant que je n’étais pas venu depuis longtemps,\nqu’on l’abandonnait; il m’offrait un massepain ou une mandarine, nous\ntraversions un salon dans lequel on ne s’arrêtait jamais, où on ne\nfaisait jamais de feu, dont les murs étaient ornés de moulures dorées,\nles plafonds peints d’un bleu qui prétendait imiter le ciel et les\nmeubles capitonnés en satin comme chez mes grands-parents, mais jaune;\npuis nous passions dans ce qu’il appelait son cabinet de «travail» aux\nmurs duquel étaient accrochées de ces gravures représentant sur fond\nnoir une déesse charnue et rose conduisant un char, montée sur un\nglobe, ou une étoile au front, qu’on aimait sous le second Empire\nparce qu’on leur trouvait un air pompéien, puis qu’on détesta, et\nqu’on recommence à aimer pour une seule et même raison, malgré les\nautres qu’on donne et qui est qu’elles ont l’air second Empire. Et je\nrestais avec mon oncle jusqu’à ce que son valet de chambre vînt lui\ndemander, de la part du cocher, pour quelle heure celui-ci devait\natteler. Mon oncle se plongeait alors dans une méditation qu’aurait\ncraint de troubler d’un seul mouvement son valet de chambre\némerveillé, et dont il attendait avec curiosité le résultat, toujours\nidentique. Enfin, après une hésitation suprême, mon oncle prononçait\ninfailliblement ces mots: «Deux heures et quart», que le valet de\nchambre répétait avec étonnement, mais sans discuter: «Deux heures et\nquart? bien...je vais le dire...»",
+  "entities": [
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 29,
+      "end": 35
+    },
+    {
+      "text": "Empire",
+      "label": "ORG",
+      "start": 884,
+      "end": 890
+    },
+    {
+      "text": "Empire.",
+      "label": "ORG",
+      "start": 1080,
+      "end": 1087
+    },
+    {
+      "text": "Enfin,",
+      "label": "ORG",
+      "start": 1437,
+      "end": 1443
+    },
+    {
+      "text": "«Deux",
+      "label": "ORG",
+      "start": 1521,
+      "end": 1526
+    },
+    {
+      "text": "«Deux",
+      "label": "ORG",
+      "start": 1615,
+      "end": 1620
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Une ou deux fois par mois, à Paris, on m’envoyait lui faire une\nvisite, comme il finissait de déjeuner, en simple vareuse, servi par\nson domestique en veste de travail de coutil rayé violet et blanc",
+      "start": 0,
+      "end": 198
+    },
+    {
+      "text": "Il\nse plaignait en ronchonnant que je n’étais pas venu depuis longtemps,\nqu’on l’abandonnait; il m’offrait un massepain ou une mandarine, nous\ntraversions un salon dans lequel on ne s’arrêtait jamais, où on ne\nfaisait jamais de feu, dont les murs étaient ornés de moulures dorées,\nles plafonds peints d’un bleu qui prétendait imiter le ciel et les\nmeubles capitonnés en satin comme chez mes grands-parents, mais jaune;\npuis nous passions dans ce qu’il appelait son cabinet de «travail» aux\nmurs duquel étaient accrochées de ces gravures représentant sur fond\nnoir une déesse charnue et rose conduisant un char, montée sur un\nglobe, ou une étoile au front, qu’on aimait sous le second Empire\nparce qu’on leur trouvait un air pompéien, puis qu’on détesta, et\nqu’on recommence à aimer pour une seule et même raison, malgré les\nautres qu’on donne et qui est qu’elles ont l’air second Empire",
+      "start": 199,
+      "end": 1086
+    },
+    {
+      "text": "Et je\nrestais avec mon oncle jusqu’à ce que son valet de chambre vînt lui\ndemander, de la part du cocher, pour quelle heure celui-ci devait\natteler",
+      "start": 1087,
+      "end": 1235
+    },
+    {
+      "text": "Mon oncle se plongeait alors dans une méditation qu’aurait\ncraint de troubler d’un seul mouvement son valet de chambre\némerveillé, et dont il attendait avec curiosité le résultat, toujours\nidentique",
+      "start": 1236,
+      "end": 1435
+    },
+    {
+      "text": "Enfin, après une hésitation suprême, mon oncle prononçait\ninfailliblement ces mots: «Deux heures et quart», que le valet de\nchambre répétait avec étonnement, mais sans discuter: «Deux heures et\nquart? bien",
+      "start": 1436,
+      "end": 1642
+    },
+    {
+      "text": "je vais le dire",
+      "start": 1645,
+      "end": 1660
+    },
+    {
+      "text": "»",
+      "start": 684,
+      "end": 685
+    }
+  ],
+  "tokens": 275,
+  "processed_at": "2025-03-16T02:10:54.813894"
+}

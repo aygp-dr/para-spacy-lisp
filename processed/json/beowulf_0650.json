@@ -1,0 +1,80 @@
+{
+  "text": "--«J’aimerais mieux l’avoir dans mon lit que le tonnerre», dit\nprécipitamment Cottard qui depuis quelques instants attendait en vain\nque Forcheville reprît haleine pour placer cette vieille plaisanterie\ndont il craignait que ne revînt pas l’à-propos si la conversation\nchangeait de cours, et qu’il débita avec cet excès de spontanéité et\nd’assurance qui cherche à masquer la froideur et l’émoi inséparables\nd’une récitation. Forcheville la connaissait, il la comprit et s’en\namusa. Quant à M. Verdurin, il ne marchanda pas sa gaieté, car il\navait trouvé depuis peu pour la signifier un symbole autre que celui\ndont usait sa femme, mais aussi simple et aussi clair. A peine\navait-il commencé à faire le mouvement de tête et d’épaules de\nquelqu’un qui s’esclaffe qu’aussitôt il se mettait à tousser comme\nsi, en riant trop fort, il avait avalé la fumée de sa pipe. Et la\ngardant toujours au coin de sa bouche, il prolongeait indéfiniment le\nsimulacre de suffocation et d’hilarité. Ainsi lui et Mme Verdurin, qui\nen face, écoutant le peintre qui lui racontait une histoire, fermait\nles yeux avant de précipiter son visage dans ses mains, avaient l’air\nde deux masques de théâtre qui figuraient différemment la gaieté.",
+  "entities": [
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 78,
+      "end": 85
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 137,
+      "end": 148
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 425,
+      "end": 436
+    },
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 482,
+      "end": 487
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 493,
+      "end": 502
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 996,
+      "end": 1005
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«J’aimerais mieux l’avoir dans mon lit que le tonnerre», dit\nprécipitamment Cottard qui depuis quelques instants attendait en vain\nque Forcheville reprît haleine pour placer cette vieille plaisanterie\ndont il craignait que ne revînt pas l’à-propos si la conversation\nchangeait de cours, et qu’il débita avec cet excès de spontanéité et\nd’assurance qui cherche à masquer la froideur et l’émoi inséparables\nd’une récitation",
+      "start": 0,
+      "end": 423
+    },
+    {
+      "text": "Forcheville la connaissait, il la comprit et s’en\namusa",
+      "start": 424,
+      "end": 480
+    },
+    {
+      "text": "Quant à M",
+      "start": 481,
+      "end": 491
+    },
+    {
+      "text": "Verdurin, il ne marchanda pas sa gaieté, car il\navait trouvé depuis peu pour la signifier un symbole autre que celui\ndont usait sa femme, mais aussi simple et aussi clair",
+      "start": 492,
+      "end": 663
+    },
+    {
+      "text": "A peine\navait-il commencé à faire le mouvement de tête et d’épaules de\nquelqu’un qui s’esclaffe qu’aussitôt il se mettait à tousser comme\nsi, en riant trop fort, il avait avalé la fumée de sa pipe",
+      "start": 664,
+      "end": 861
+    },
+    {
+      "text": "Et la\ngardant toujours au coin de sa bouche, il prolongeait indéfiniment le\nsimulacre de suffocation et d’hilarité",
+      "start": 862,
+      "end": 977
+    },
+    {
+      "text": "Ainsi lui et Mme Verdurin, qui\nen face, écoutant le peintre qui lui racontait une histoire, fermait\nles yeux avant de précipiter son visage dans ses mains, avaient l’air\nde deux masques de théâtre qui figuraient différemment la gaieté",
+      "start": 978,
+      "end": 1213
+    }
+  ],
+  "tokens": 199,
+  "processed_at": "2025-03-16T02:10:56.496963"
+}

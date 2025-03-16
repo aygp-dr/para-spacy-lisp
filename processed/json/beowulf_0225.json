@@ -1,0 +1,26 @@
+{
+  "text": "--Mme Amédée, c’est toujours tout l’extrême des autres, disait\nFrançoise avec douceur, réservant pour le moment où elle serait seule\navec les autres domestiques, de dire qu’elle croyait ma grand’mère un\npeu «piquée».",
+  "entities": [
+    {
+      "text": "--Mme",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 63,
+      "end": 72
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mme Amédée, c’est toujours tout l’extrême des autres, disait\nFrançoise avec douceur, réservant pour le moment où elle serait seule\navec les autres domestiques, de dire qu’elle croyait ma grand’mère un\npeu «piquée»",
+      "start": 0,
+      "end": 215
+    }
+  ],
+  "tokens": 33,
+  "processed_at": "2025-03-16T02:10:55.207247"
+}

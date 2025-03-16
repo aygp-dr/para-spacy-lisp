@@ -1,0 +1,41 @@
+{
+  "text": "Mes remords étaient calmés, je me laissais aller à la douceur de cette\nnuit où j’avais ma mère auprès de moi. Je savais qu’une telle nuit ne\npourrait se renouveler; que le plus grand désir que j’eusse au monde,\ngarder ma mère dans ma chambre pendant ces tristes heures nocturnes,\nétait trop en opposition avec les nécessités de la vie et le vœu de\ntous, pour que l’accomplissement qu’on lui avait accordé ce soir pût\nêtre autre chose que factice et exceptionnel. Demain mes angoisses\nreprendraient et maman ne resterait pas là. Mais quand mes angoisses\nétaient calmées, je ne les comprenais plus; puis demain soir était\nencore lointain; je me disais que j’aurais le temps d’aviser, bien que\nce temps-là ne pût m’apporter aucun pouvoir de plus, qu’il s’agissait\nde choses qui ne dépendaient pas de ma volonté et que seul me faisait\nparaître plus évitables l’intervalle qui les séparait encore de moi.",
+  "entities": [
+    {
+      "text": "Demain",
+      "label": "ORG",
+      "start": 463,
+      "end": 469
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 528,
+      "end": 532
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mes remords étaient calmés, je me laissais aller à la douceur de cette\nnuit où j’avais ma mère auprès de moi",
+      "start": 0,
+      "end": 108
+    },
+    {
+      "text": "Je savais qu’une telle nuit ne\npourrait se renouveler; que le plus grand désir que j’eusse au monde,\ngarder ma mère dans ma chambre pendant ces tristes heures nocturnes,\nétait trop en opposition avec les nécessités de la vie et le vœu de\ntous, pour que l’accomplissement qu’on lui avait accordé ce soir pût\nêtre autre chose que factice et exceptionnel",
+      "start": 109,
+      "end": 461
+    },
+    {
+      "text": "Demain mes angoisses\nreprendraient et maman ne resterait pas là",
+      "start": 462,
+      "end": 526
+    },
+    {
+      "text": "Mais quand mes angoisses\nétaient calmées, je ne les comprenais plus; puis demain soir était\nencore lointain; je me disais que j’aurais le temps d’aviser, bien que\nce temps-là ne pût m’apporter aucun pouvoir de plus, qu’il s’agissait\nde choses qui ne dépendaient pas de ma volonté et que seul me faisait\nparaître plus évitables l’intervalle qui les séparait encore de moi",
+      "start": 527,
+      "end": 898
+    }
+  ],
+  "tokens": 154,
+  "processed_at": "2025-03-16T02:10:54.531866"
+}

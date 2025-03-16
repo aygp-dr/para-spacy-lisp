@@ -1,0 +1,32 @@
+{
+  "text": "--«Allons, Gilberte, viens; qu’est-ce que tu fais, cria d’une voix\nperçante et autoritaire une dame en blanc que je n’avais pas vue, et à\nquelque distance de laquelle un Monsieur habillé de coutil et que je\nne connaissais pas, fixait sur moi des yeux qui lui sortaient de la\ntête; et cessant brusquement de sourire, la jeune fille prit sa bêche\net s’éloigna sans se retourner de mon côté, d’un air docile,\nimpénétrable et sournois.",
+  "entities": [
+    {
+      "text": "--«Allons,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 11,
+      "end": 20
+    },
+    {
+      "text": "Monsieur",
+      "label": "ORG",
+      "start": 170,
+      "end": 178
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Allons, Gilberte, viens; qu’est-ce que tu fais, cria d’une voix\nperçante et autoritaire une dame en blanc que je n’avais pas vue, et à\nquelque distance de laquelle un Monsieur habillé de coutil et que je\nne connaissais pas, fixait sur moi des yeux qui lui sortaient de la\ntête; et cessant brusquement de sourire, la jeune fille prit sa bêche\net s’éloigna sans se retourner de mon côté, d’un air docile,\nimpénétrable et sournois",
+      "start": 0,
+      "end": 430
+    }
+  ],
+  "tokens": 75,
+  "processed_at": "2025-03-16T02:10:55.485468"
+}

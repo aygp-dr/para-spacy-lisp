@@ -1,0 +1,132 @@
+{
+  "text": "Le départ de Mlle Swann qui,--en m’ôtant la chance terrible de la voir\napparaître dans une allée, d’être connu et méprisé par la petite fille\nprivilégiée qui avait Bergotte pour ami et allait avec lui visiter des\ncathédrales--, me rendait la contemplation de Tansonville indifférente\nla première fois où elle m’était permise, semblait au contraire\najouter à cette propriété, aux yeux de mon grand-père et de mon père,\ndes commodités, un agrément passager, et, comme fait pour une\nexcursion en pays de montagnes, l’absence de tout nuage, rendre cette\njournée exceptionnellement propice à une promenade de ce côté;\nj’aurais voulu que leurs calculs fussent déjoués, qu’un miracle fît\napparaître Mlle Swann avec son père, si près de nous, que nous\nn’aurions pas le temps de l’éviter et serions obligés de faire sa\nconnaissance. Aussi, quand tout d’un coup, j’aperçus sur l’herbe,\ncomme un signe de sa présence possible, un koufin oublié à côté d’une\nligne dont le bouchon flottait sur l’eau, je m’empressai de détourner\nd’un autre côté, les regards de mon père et de mon grand-père.\nD’ailleurs Swann nous ayant dit que c’était mal à lui de s’absenter,\ncar il avait pour le moment de la famille à demeure, la ligne pouvait\nappartenir à quelque invité. On n’entendait aucun bruit de pas dans\nles allées. Divisant la hauteur d’un arbre incertain, un invisible\noiseau s’ingéniait à faire trouver la journée courte, explorait d’une\nnote prolongée, la solitude environnante, mais il recevait d’elle une\nréplique si unanime, un choc en retour si redoublé de silence et\nd’immobilité qu’on aurait dit qu’il venait d’arrêter pour toujours\nl’instant qu’il avait cherché à faire passer plus vite. La lumière\ntombait si implacable du ciel devenu fixe que l’on aurait voulu se\nsoustraire à son attention, et l’eau dormante elle-même, dont des\ninsectes irritaient perpétuellement le sommeil, rêvant sans doute de\nquelque Maelstrôm imaginaire, augmentait le trouble où m’avait jeté la\nvue du flotteur de liège en semblant l’entraîner à toute vitesse sur\nles étendues silencieuses du ciel reflété; presque vertical il\nparaissait prêt à plonger et déjà je me demandais, si, sans tenir\ncompte du désir et de la crainte que j’avais de la connaître, je\nn’avais pas le devoir de faire prévenir Mlle Swann que le poisson\nmordait,--quand il me fallut rejoindre en courant mon père et mon\ngrand-père qui m’appelaient, étonnés que je ne les eusse pas suivis\ndans le petit chemin qui monte vers les champs et où ils s’étaient\nengagés. Je le trouvai tout bourdonnant de l’odeur des aubépines. La\nhaie formait comme une suite de chapelles qui disparaissaient sous la\njonchée de leurs fleurs amoncelées en reposoir; au-dessous d’elles, le\nsoleil posait à terre un quadrillage de clarté, comme s’il venait de\ntraverser une verrière; leur parfum s’étendait aussi onctueux, aussi\ndélimité en sa forme que si j’eusse été devant l’autel de la Vierge,\net les fleurs, aussi parées, tenaient chacune d’un air distrait son\nétincelant bouquet d’étamines, fines et rayonnantes nervures de style\nflamboyant comme celles qui à l’église ajouraient la rampe du jubé ou\nles meneaux du vitrail et qui s’épanouissaient en blanche chair de\nfleur de fraisier. Combien naïves et paysannes en comparaison\nsembleraient les églantines qui, dans quelques semaines, monteraient\nelles aussi en plein soleil le même chemin rustique, en la soie unie\nde leur corsage rougissant qu’un souffle défait.",
+  "entities": [
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 13,
+      "end": 17
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 18,
+      "end": 23
+    },
+    {
+      "text": "Bergotte",
+      "label": "ORG",
+      "start": 164,
+      "end": 172
+    },
+    {
+      "text": "Tansonville",
+      "label": "ORG",
+      "start": 259,
+      "end": 270
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 692,
+      "end": 696
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 697,
+      "end": 702
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1090,
+      "end": 1095
+    },
+    {
+      "text": "Divisant",
+      "label": "ORG",
+      "start": 1298,
+      "end": 1306
+    },
+    {
+      "text": "Maelstrôm",
+      "label": "ORG",
+      "start": 1902,
+      "end": 1911
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 2268,
+      "end": 2272
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2273,
+      "end": 2278
+    },
+    {
+      "text": "Vierge,",
+      "label": "ORG",
+      "start": 2904,
+      "end": 2911
+    },
+    {
+      "text": "Combien",
+      "label": "ORG",
+      "start": 3206,
+      "end": 3213
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le départ de Mlle Swann qui,--en m’ôtant la chance terrible de la voir\napparaître dans une allée, d’être connu et méprisé par la petite fille\nprivilégiée qui avait Bergotte pour ami et allait avec lui visiter des\ncathédrales--, me rendait la contemplation de Tansonville indifférente\nla première fois où elle m’était permise, semblait au contraire\najouter à cette propriété, aux yeux de mon grand-père et de mon père,\ndes commodités, un agrément passager, et, comme fait pour une\nexcursion en pays de montagnes, l’absence de tout nuage, rendre cette\njournée exceptionnellement propice à une promenade de ce côté;\nj’aurais voulu que leurs calculs fussent déjoués, qu’un miracle fît\napparaître Mlle Swann avec son père, si près de nous, que nous\nn’aurions pas le temps de l’éviter et serions obligés de faire sa\nconnaissance",
+      "start": 0,
+      "end": 822
+    },
+    {
+      "text": "Aussi, quand tout d’un coup, j’aperçus sur l’herbe,\ncomme un signe de sa présence possible, un koufin oublié à côté d’une\nligne dont le bouchon flottait sur l’eau, je m’empressai de détourner\nd’un autre côté, les regards de mon père et de mon grand-père",
+      "start": 823,
+      "end": 1077
+    },
+    {
+      "text": "D’ailleurs Swann nous ayant dit que c’était mal à lui de s’absenter,\ncar il avait pour le moment de la famille à demeure, la ligne pouvait\nappartenir à quelque invité",
+      "start": 1078,
+      "end": 1245
+    },
+    {
+      "text": "On n’entendait aucun bruit de pas dans\nles allées",
+      "start": 1246,
+      "end": 1296
+    },
+    {
+      "text": "Divisant la hauteur d’un arbre incertain, un invisible\noiseau s’ingéniait à faire trouver la journée courte, explorait d’une\nnote prolongée, la solitude environnante, mais il recevait d’elle une\nréplique si unanime, un choc en retour si redoublé de silence et\nd’immobilité qu’on aurait dit qu’il venait d’arrêter pour toujours\nl’instant qu’il avait cherché à faire passer plus vite",
+      "start": 1297,
+      "end": 1679
+    },
+    {
+      "text": "La lumière\ntombait si implacable du ciel devenu fixe que l’on aurait voulu se\nsoustraire à son attention, et l’eau dormante elle-même, dont des\ninsectes irritaient perpétuellement le sommeil, rêvant sans doute de\nquelque Maelstrôm imaginaire, augmentait le trouble où m’avait jeté la\nvue du flotteur de liège en semblant l’entraîner à toute vitesse sur\nles étendues silencieuses du ciel reflété; presque vertical il\nparaissait prêt à plonger et déjà je me demandais, si, sans tenir\ncompte du désir et de la crainte que j’avais de la connaître, je\nn’avais pas le devoir de faire prévenir Mlle Swann que le poisson\nmordait,--quand il me fallut rejoindre en courant mon père et mon\ngrand-père qui m’appelaient, étonnés que je ne les eusse pas suivis\ndans le petit chemin qui monte vers les champs et où ils s’étaient\nengagés",
+      "start": 1680,
+      "end": 2502
+    },
+    {
+      "text": "Je le trouvai tout bourdonnant de l’odeur des aubépines",
+      "start": 2503,
+      "end": 2559
+    },
+    {
+      "text": "La\nhaie formait comme une suite de chapelles qui disparaissaient sous la\njonchée de leurs fleurs amoncelées en reposoir; au-dessous d’elles, le\nsoleil posait à terre un quadrillage de clarté, comme s’il venait de\ntraverser une verrière; leur parfum s’étendait aussi onctueux, aussi\ndélimité en sa forme que si j’eusse été devant l’autel de la Vierge,\net les fleurs, aussi parées, tenaient chacune d’un air distrait son\nétincelant bouquet d’étamines, fines et rayonnantes nervures de style\nflamboyant comme celles qui à l’église ajouraient la rampe du jubé ou\nles meneaux du vitrail et qui s’épanouissaient en blanche chair de\nfleur de fraisier",
+      "start": 2560,
+      "end": 3204
+    },
+    {
+      "text": "Combien naïves et paysannes en comparaison\nsembleraient les églantines qui, dans quelques semaines, monteraient\nelles aussi en plein soleil le même chemin rustique, en la soie unie\nde leur corsage rougissant qu’un souffle défait",
+      "start": 3205,
+      "end": 3434
+    }
+  ],
+  "tokens": 556,
+  "processed_at": "2025-03-16T02:10:55.469875"
+}

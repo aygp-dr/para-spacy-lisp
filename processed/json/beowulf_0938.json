@@ -1,0 +1,36 @@
+{
+  "text": "--Oh! Charles, mais tu ne vois pas que tu me tues, c’est tout ce qu’il\ny a de plus ancien. Je n’y avais jamais repensé, on dirait que tu veux\nabsolument me redonner ces idées-là. Tu seras bien avancé, dit-elle,\navec une sottise inconsciente et une méchanceté voulue.",
+  "entities": [
+    {
+      "text": "--Oh!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Charles,",
+      "label": "ORG",
+      "start": 6,
+      "end": 14
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Oh! Charles, mais tu ne vois pas que tu me tues, c’est tout ce qu’il\ny a de plus ancien",
+      "start": 0,
+      "end": 89
+    },
+    {
+      "text": "Je n’y avais jamais repensé, on dirait que tu veux\nabsolument me redonner ces idées-là",
+      "start": 90,
+      "end": 177
+    },
+    {
+      "text": "Tu seras bien avancé, dit-elle,\navec une sottise inconsciente et une méchanceté voulue",
+      "start": 178,
+      "end": 265
+    }
+  ],
+  "tokens": 48,
+  "processed_at": "2025-03-16T02:10:57.374156"
+}

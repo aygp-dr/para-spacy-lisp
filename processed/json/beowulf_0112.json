@@ -1,0 +1,42 @@
+{
+  "text": "L’ambition mondaine était un sentiment que ma grand’mère était si\nincapable de ressentir et presque de comprendre qu’il lui paraissait\nbien inutile de mettre tant d’ardeur à la flétrir. De plus elle ne\ntrouvait pas de très bon goût que M. Legrandin dont la sœur était\nmariée près de Balbec avec un gentilhomme bas-normand se livrât à des\nattaques aussi violentes encore les nobles, allant jusqu’à reprocher à\nla Révolution de ne les avoir pas tous guillotinés.",
+  "entities": [
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 239,
+      "end": 248
+    },
+    {
+      "text": "Balbec",
+      "label": "ORG",
+      "start": 283,
+      "end": 289
+    },
+    {
+      "text": "Révolution",
+      "label": "ORG",
+      "start": 412,
+      "end": 422
+    }
+  ],
+  "sentences": [
+    {
+      "text": "L’ambition mondaine était un sentiment que ma grand’mère était si\nincapable de ressentir et presque de comprendre qu’il lui paraissait\nbien inutile de mettre tant d’ardeur à la flétrir",
+      "start": 0,
+      "end": 184
+    },
+    {
+      "text": "De plus elle ne\ntrouvait pas de très bon goût que M",
+      "start": 185,
+      "end": 237
+    },
+    {
+      "text": "Legrandin dont la sœur était\nmariée près de Balbec avec un gentilhomme bas-normand se livrât à des\nattaques aussi violentes encore les nobles, allant jusqu’à reprocher à\nla Révolution de ne les avoir pas tous guillotinés",
+      "start": 238,
+      "end": 459
+    }
+  ],
+  "tokens": 77,
+  "processed_at": "2025-03-16T02:10:54.772875"
+}

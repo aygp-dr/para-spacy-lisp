@@ -1,0 +1,43 @@
+{
+  "text": "--Oriane (ici Mme des Laumes regarda d’un air étonné et rieur un tiers\ninvisible vis-à-vis duquel elle semblait tenir à attester qu’elle\nn’avait jamais autorisé Mme de Gallardon à l’appeler par son prénom),\nje tiendrais beaucoup à ce que tu viennes un moment demain soir chez\nmoi entendre un quintette avec clarinette de Mozart. Je voudrais avoir\nton appréciation.",
+  "entities": [
+    {
+      "text": "--Oriane",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Laumes",
+      "label": "ORG",
+      "start": 22,
+      "end": 28
+    },
+    {
+      "text": "Gallardon",
+      "label": "ORG",
+      "start": 168,
+      "end": 177
+    },
+    {
+      "text": "Mozart.",
+      "label": "ORG",
+      "start": 321,
+      "end": 328
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Oriane (ici Mme des Laumes regarda d’un air étonné et rieur un tiers\ninvisible vis-à-vis duquel elle semblait tenir à attester qu’elle\nn’avait jamais autorisé Mme de Gallardon à l’appeler par son prénom),\nje tiendrais beaucoup à ce que tu viennes un moment demain soir chez\nmoi entendre un quintette avec clarinette de Mozart",
+      "start": 0,
+      "end": 327
+    },
+    {
+      "text": "Je voudrais avoir\nton appréciation",
+      "start": 328,
+      "end": 363
+    }
+  ],
+  "tokens": 59,
+  "processed_at": "2025-03-16T02:10:57.046317"
+}

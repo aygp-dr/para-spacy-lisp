@@ -1,0 +1,61 @@
+{
+  "text": "Elle fut interrompue par Forcheville qui interpellait Swann. En effet,\ntandis que Mme Cottard parlait de Francillon, Forcheville avait\nexprimé à Mme Verdurin son admiration pour ce qu’il avait appelé le\npetit «speech» du peintre.",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 25,
+      "end": 36
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 54,
+      "end": 60
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 86,
+      "end": 93
+    },
+    {
+      "text": "Francillon,",
+      "label": "ORG",
+      "start": 105,
+      "end": 116
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 117,
+      "end": 128
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 149,
+      "end": 157
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle fut interrompue par Forcheville qui interpellait Swann",
+      "start": 0,
+      "end": 59
+    },
+    {
+      "text": "En effet,\ntandis que Mme Cottard parlait de Francillon, Forcheville avait\nexprimé à Mme Verdurin son admiration pour ce qu’il avait appelé le\npetit «speech» du peintre",
+      "start": 60,
+      "end": 228
+    }
+  ],
+  "tokens": 35,
+  "processed_at": "2025-03-16T02:10:56.415542"
+}

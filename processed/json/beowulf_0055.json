@@ -1,0 +1,61 @@
+{
+  "text": "Et je recommence à me demander quel pouvait être cet état inconnu, qui\nn’apportait aucune preuve logique, mais l’évidence de sa félicité, de\nsa réalité devant laquelle les autres s’évanouissaient. Je veux\nessayer de le faire réapparaître. Je rétrograde par la pensée au\nmoment où je pris la première cuillerée de thé. Je retrouve le même\nétat, sans une clarté nouvelle. Je demande à mon esprit un effort de\nplus, de ramener encore une fois la sensation qui s’enfuit. Et pour\nque rien ne brise l’élan dont il va tâcher de la ressaisir, j’écarte\ntout obstacle, toute idée étrangère, j’abrite mes oreilles et mon\nattention contre les bruits de la chambre voisine. Mais sentant mon\nesprit qui se fatigue sans réussir, je le force au contraire à prendre\ncette distraction que je lui refusais, à penser à autre chose, à se\nrefaire avant une tentative suprême. Puis une deuxième fois, je fais\nle vide devant lui, je remets en face de lui la saveur encore récente\nde cette première gorgée et je sens tressaillir en moi quelque chose\nqui se déplace, voudrait s’élever, quelque chose qu’on aurait\ndésancré, à une grande profondeur; je ne sais ce que c’est, mais cela\nmonte lentement; j’éprouve la résistance et j’entends la rumeur des\ndistances traversées.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 661,
+      "end": 665
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 854,
+      "end": 858
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et je recommence à me demander quel pouvait être cet état inconnu, qui\nn’apportait aucune preuve logique, mais l’évidence de sa félicité, de\nsa réalité devant laquelle les autres s’évanouissaient",
+      "start": 0,
+      "end": 195
+    },
+    {
+      "text": "Je veux\nessayer de le faire réapparaître",
+      "start": 196,
+      "end": 237
+    },
+    {
+      "text": "Je rétrograde par la pensée au\nmoment où je pris la première cuillerée de thé",
+      "start": 238,
+      "end": 316
+    },
+    {
+      "text": "Je retrouve le même\nétat, sans une clarté nouvelle",
+      "start": 317,
+      "end": 368
+    },
+    {
+      "text": "Je demande à mon esprit un effort de\nplus, de ramener encore une fois la sensation qui s’enfuit",
+      "start": 369,
+      "end": 465
+    },
+    {
+      "text": "Et pour\nque rien ne brise l’élan dont il va tâcher de la ressaisir, j’écarte\ntout obstacle, toute idée étrangère, j’abrite mes oreilles et mon\nattention contre les bruits de la chambre voisine",
+      "start": 466,
+      "end": 659
+    },
+    {
+      "text": "Mais sentant mon\nesprit qui se fatigue sans réussir, je le force au contraire à prendre\ncette distraction que je lui refusais, à penser à autre chose, à se\nrefaire avant une tentative suprême",
+      "start": 660,
+      "end": 852
+    },
+    {
+      "text": "Puis une deuxième fois, je fais\nle vide devant lui, je remets en face de lui la saveur encore récente\nde cette première gorgée et je sens tressaillir en moi quelque chose\nqui se déplace, voudrait s’élever, quelque chose qu’on aurait\ndésancré, à une grande profondeur; je ne sais ce que c’est, mais cela\nmonte lentement; j’éprouve la résistance et j’entends la rumeur des\ndistances traversées",
+      "start": 853,
+      "end": 1245
+    }
+  ],
+  "tokens": 212,
+  "processed_at": "2025-03-16T02:10:54.558421"
+}

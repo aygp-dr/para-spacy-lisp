@@ -1,0 +1,43 @@
+{
+  "text": "--«Vous, Docteur, un savant, un esprit fort, vous venez naturellement\nle vendredi saint comme un autre jour?» dit-elle à Cottard la première\nannée, d’un ton assuré comme si elle ne pouvait douter de la réponse.\nMais elle tremblait en attendant qu’il l’eût prononcée, car s’il\nn’était pas venu, elle risquait de se trouver seule.",
+  "entities": [
+    {
+      "text": "--«Vous,",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Docteur,",
+      "label": "ORG",
+      "start": 9,
+      "end": 17
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 121,
+      "end": 128
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 211,
+      "end": 215
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Vous, Docteur, un savant, un esprit fort, vous venez naturellement\nle vendredi saint comme un autre jour?» dit-elle à Cottard la première\nannée, d’un ton assuré comme si elle ne pouvait douter de la réponse",
+      "start": 0,
+      "end": 209
+    },
+    {
+      "text": "Mais elle tremblait en attendant qu’il l’eût prononcée, car s’il\nn’était pas venu, elle risquait de se trouver seule",
+      "start": 210,
+      "end": 327
+    }
+  ],
+  "tokens": 54,
+  "processed_at": "2025-03-16T02:10:55.739723"
+}

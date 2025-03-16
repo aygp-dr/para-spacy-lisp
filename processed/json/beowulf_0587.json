@@ -1,0 +1,35 @@
+{
+  "text": "--Qu’est-ce que vous dites d’un savant comme cela? avait-elle demandé à\nForcheville. Il n’y a pas moyen de causer sérieusement deux minutes\navec lui. Est-ce que vous leur en dites comme cela, à votre hôpital?\navait-elle ajouté en se tournant vers le docteur, ça ne doit pas être\nennuyeux tous les jours, alors. Je vois qu’il va falloir que je\ndemande à m’y faire admettre.",
+  "entities": [
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 72,
+      "end": 84
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Qu’est-ce que vous dites d’un savant comme cela? avait-elle demandé à\nForcheville",
+      "start": 0,
+      "end": 83
+    },
+    {
+      "text": "Il n’y a pas moyen de causer sérieusement deux minutes\navec lui",
+      "start": 84,
+      "end": 148
+    },
+    {
+      "text": "Est-ce que vous leur en dites comme cela, à votre hôpital?\navait-elle ajouté en se tournant vers le docteur, ça ne doit pas être\nennuyeux tous les jours, alors",
+      "start": 149,
+      "end": 309
+    },
+    {
+      "text": "Je vois qu’il va falloir que je\ndemande à m’y faire admettre",
+      "start": 310,
+      "end": 371
+    }
+  ],
+  "tokens": 65,
+  "processed_at": "2025-03-16T02:10:56.315946"
+}

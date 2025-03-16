@@ -1,0 +1,32 @@
+{
+  "text": "Mais cette fois-ci, les derniers mots de Swann, au lieu de lui\nprocurer l’apaisement habituel, portèrent au comble son étonnement\nqu’un homme avec qui il dînait, qui n’avait ni fonctions officielles,\nni illustration d’aucune sorte, frayât avec le Chef de l’État.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 41,
+      "end": 47
+    },
+    {
+      "text": "Chef",
+      "label": "ORG",
+      "start": 247,
+      "end": 251
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais cette fois-ci, les derniers mots de Swann, au lieu de lui\nprocurer l’apaisement habituel, portèrent au comble son étonnement\nqu’un homme avec qui il dînait, qui n’avait ni fonctions officielles,\nni illustration d’aucune sorte, frayât avec le Chef de l’État",
+      "start": 0,
+      "end": 261
+    }
+  ],
+  "tokens": 41,
+  "processed_at": "2025-03-16T02:10:56.046657"
+}

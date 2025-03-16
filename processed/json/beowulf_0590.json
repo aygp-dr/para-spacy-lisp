@@ -1,0 +1,32 @@
+{
+  "text": "--Quel est ce monsieur? demanda Forcheville à Mme Verdurin, il a l’air\nd’être de première force.",
+  "entities": [
+    {
+      "text": "--Quel",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 32,
+      "end": 43
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 50,
+      "end": 59
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Quel est ce monsieur? demanda Forcheville à Mme Verdurin, il a l’air\nd’être de première force",
+      "start": 0,
+      "end": 95
+    }
+  ],
+  "tokens": 16,
+  "processed_at": "2025-03-16T02:10:56.323417"
+}

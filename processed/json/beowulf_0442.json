@@ -1,0 +1,20 @@
+{
+  "text": "Le docteur cependant, poussait Mme Verdurin à laisser jouer le\npianiste, non pas qu’il crût feints les troubles que la musique lui\ndonnait--il y reconnaissait certains états neurasthéniques--mais par\ncette habitude qu’ont beaucoup de médecins, de faire fléchir\nimmédiatement la sévérité de leurs prescriptions dès qu’est en jeu,\nchose qui leur semble beaucoup plus importante, quelque réunion\nmondaine dont ils font partie et dont la personne à qui ils\nconseillent d’oublier pour une fois sa dyspepsie, ou sa grippe, est un\ndes facteurs essentiels.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 35,
+      "end": 43
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le docteur cependant, poussait Mme Verdurin à laisser jouer le\npianiste, non pas qu’il crût feints les troubles que la musique lui\ndonnait--il y reconnaissait certains états neurasthéniques--mais par\ncette habitude qu’ont beaucoup de médecins, de faire fléchir\nimmédiatement la sévérité de leurs prescriptions dès qu’est en jeu,\nchose qui leur semble beaucoup plus importante, quelque réunion\nmondaine dont ils font partie et dont la personne à qui ils\nconseillent d’oublier pour une fois sa dyspepsie, ou sa grippe, est un\ndes facteurs essentiels",
+      "start": 0,
+      "end": 547
+    }
+  ],
+  "tokens": 84,
+  "processed_at": "2025-03-16T02:10:55.890564"
+}

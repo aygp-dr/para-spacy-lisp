@@ -1,0 +1,60 @@
+{
+  "text": "Mais elle remarqua que seul Swann ne s’était pas déridé. Du reste il\nn’était pas très content que Cottard fît rire de lui devant\nForcheville. Mais le peintre, au lieu de répondre d’une façon\nintéressante à Swann, ce qu’il eût probablement fait s’il eût été seul\navec lui, préféra se faire admirer des convives en plaçant un morceau\nsur l’habileté du maître disparu.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 28,
+      "end": 33
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 98,
+      "end": 105
+    },
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 129,
+      "end": 141
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 142,
+      "end": 146
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 206,
+      "end": 212
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais elle remarqua que seul Swann ne s’était pas déridé",
+      "start": 0,
+      "end": 55
+    },
+    {
+      "text": "Du reste il\nn’était pas très content que Cottard fît rire de lui devant\nForcheville",
+      "start": 56,
+      "end": 140
+    },
+    {
+      "text": "Mais le peintre, au lieu de répondre d’une façon\nintéressante à Swann, ce qu’il eût probablement fait s’il eût été seul\navec lui, préféra se faire admirer des convives en plaçant un morceau\nsur l’habileté du maître disparu",
+      "start": 141,
+      "end": 364
+    }
+  ],
+  "tokens": 63,
+  "processed_at": "2025-03-16T02:10:56.357199"
+}

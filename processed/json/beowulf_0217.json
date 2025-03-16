@@ -1,0 +1,25 @@
+{
+  "text": "--«Et c’est que, quand il pleut sur la place, il n’y a pas grand abri.»",
+  "entities": [
+    {
+      "text": "--«Et",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Et c’est que, quand il pleut sur la place, il n’y a pas grand abri",
+      "start": 0,
+      "end": 69
+    },
+    {
+      "text": "»",
+      "start": 70,
+      "end": 71
+    }
+  ],
+  "tokens": 15,
+  "processed_at": "2025-03-16T02:10:55.175533"
+}

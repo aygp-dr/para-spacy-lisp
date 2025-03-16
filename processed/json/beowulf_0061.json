@@ -1,0 +1,103 @@
+{
+  "text": "Combray de loin, à dix lieues à la ronde, vu du chemin de fer quand\nnous y arrivions la dernière semaine avant Pâques, ce n’était qu’une\néglise résumant la ville, la représentant, parlant d’elle et pour elle\naux lointains, et, quand on approchait, tenant serrés autour de sa\nhaute mante sombre, en plein champ, contre le vent, comme une pastoure\nses brebis, les dos laineux et gris des maisons rassemblées qu’un\nreste de remparts du moyen âge cernait çà et là d’un trait aussi\nparfaitement circulaire qu’une petite ville dans un tableau de\nprimitif. A l’habiter, Combray était un peu triste, comme ses rues\ndont les maisons construites en pierres noirâtres du pays, précédées\nde degrés extérieurs, coiffées de pignons qui rabattaient l’ombre\ndevant elles, étaient assez obscures pour qu’il fallût dès que le jour\ncommençait à tomber relever les rideaux dans les «salles»; des rues\naux graves noms de saints (desquels plusieurs seigneurs de Combray):\nrue Saint-Hilaire, rue Saint-Jacques où était la maison de ma tante,\nrue Sainte-Hildegarde, où donnait la grille, et rue du Saint-Esprit\nsur laquelle s’ouvrait la petite porte latérale de son jardin; et ces\nrues de Combray existent dans une partie de ma mémoire si reculée,\npeinte de couleurs si différentes de celles qui maintenant revêtent\npour moi le monde, qu’en vérité elles me paraissent toutes, et\nl’église qui les dominait sur la Place, plus irréelles encore que les\nprojections de la lanterne magique; et qu’à certains moments, il me\nsemble que pouvoir encore traverser la rue Saint-Hilaire, pouvoir\nlouer une chambre rue de l’Oiseau--à la vieille hôtellerie de l’Oiseau\nflesché, des soupiraux de laquelle montait une odeur de cuisine qui\ns’élève encore par moments en moi aussi intermittente et aussi\nchaude,--serait une entrée en contact avec l’Au-delà plus\nmerveilleusement surnaturelle que de faire la connaissance de Golo et\nde causer avec Geneviève de Brabant.",
+  "entities": [
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Pâques,",
+      "label": "ORG",
+      "start": 111,
+      "end": 118
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 563,
+      "end": 570
+    },
+    {
+      "text": "Combray):",
+      "label": "ORG",
+      "start": 940,
+      "end": 949
+    },
+    {
+      "text": "Saint-Hilaire,",
+      "label": "ORG",
+      "start": 954,
+      "end": 968
+    },
+    {
+      "text": "Saint-Jacques",
+      "label": "ORG",
+      "start": 973,
+      "end": 986
+    },
+    {
+      "text": "Sainte-Hildegarde,",
+      "label": "ORG",
+      "start": 1023,
+      "end": 1041
+    },
+    {
+      "text": "Saint-Esprit",
+      "label": "ORG",
+      "start": 1074,
+      "end": 1086
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1165,
+      "end": 1172
+    },
+    {
+      "text": "Place,",
+      "label": "ORG",
+      "start": 1388,
+      "end": 1394
+    },
+    {
+      "text": "Saint-Hilaire,",
+      "label": "ORG",
+      "start": 1536,
+      "end": 1550
+    },
+    {
+      "text": "Golo",
+      "label": "ORG",
+      "start": 1881,
+      "end": 1885
+    },
+    {
+      "text": "Geneviève",
+      "label": "ORG",
+      "start": 1904,
+      "end": 1913
+    },
+    {
+      "text": "Brabant.",
+      "label": "ORG",
+      "start": 1917,
+      "end": 1925
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Combray de loin, à dix lieues à la ronde, vu du chemin de fer quand\nnous y arrivions la dernière semaine avant Pâques, ce n’était qu’une\néglise résumant la ville, la représentant, parlant d’elle et pour elle\naux lointains, et, quand on approchait, tenant serrés autour de sa\nhaute mante sombre, en plein champ, contre le vent, comme une pastoure\nses brebis, les dos laineux et gris des maisons rassemblées qu’un\nreste de remparts du moyen âge cernait çà et là d’un trait aussi\nparfaitement circulaire qu’une petite ville dans un tableau de\nprimitif",
+      "start": 0,
+      "end": 548
+    },
+    {
+      "text": "A l’habiter, Combray était un peu triste, comme ses rues\ndont les maisons construites en pierres noirâtres du pays, précédées\nde degrés extérieurs, coiffées de pignons qui rabattaient l’ombre\ndevant elles, étaient assez obscures pour qu’il fallût dès que le jour\ncommençait à tomber relever les rideaux dans les «salles»; des rues\naux graves noms de saints (desquels plusieurs seigneurs de Combray):\nrue Saint-Hilaire, rue Saint-Jacques où était la maison de ma tante,\nrue Sainte-Hildegarde, où donnait la grille, et rue du Saint-Esprit\nsur laquelle s’ouvrait la petite porte latérale de son jardin; et ces\nrues de Combray existent dans une partie de ma mémoire si reculée,\npeinte de couleurs si différentes de celles qui maintenant revêtent\npour moi le monde, qu’en vérité elles me paraissent toutes, et\nl’église qui les dominait sur la Place, plus irréelles encore que les\nprojections de la lanterne magique; et qu’à certains moments, il me\nsemble que pouvoir encore traverser la rue Saint-Hilaire, pouvoir\nlouer une chambre rue de l’Oiseau--à la vieille hôtellerie de l’Oiseau\nflesché, des soupiraux de laquelle montait une odeur de cuisine qui\ns’élève encore par moments en moi aussi intermittente et aussi\nchaude,--serait une entrée en contact avec l’Au-delà plus\nmerveilleusement surnaturelle que de faire la connaissance de Golo et\nde causer avec Geneviève de Brabant",
+      "start": 549,
+      "end": 1924
+    }
+  ],
+  "tokens": 310,
+  "processed_at": "2025-03-16T02:10:54.578984"
+}

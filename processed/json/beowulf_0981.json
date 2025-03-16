@@ -1,0 +1,111 @@
+{
+  "text": "Et jusque dans ces jours où toute autre végétation a disparu, où le\nbeau cuir vert qui enveloppe le tronc des vieux arbres est caché sous\nla neige, quand celle-ci cessait de tomber, mais que le temps restait\ntrop couvert pour espérer que Gilberte sortît, alors tout d’un coup,\nfaisant dire à ma mère: «Tiens voilà justement qu’il fait beau, vous\npourriez peut-être essayer tout de même d’aller aux Champs-Élysées»,\nsur le manteau de neige qui couvrait le balcon, le soleil apparu\nentrelaçait des fils d’or et brodait des reflets noirs. Ce jour-là\nnous ne trouvions personne ou une seule fillette prête à partir qui\nm’assurait que Gilberte ne viendrait pas. Les chaises désertées par\nl’assemblée imposante mais frileuse des institutrices étaient vides.\nSeule, près de la pelouse, était assise une dame d’un certain âge qui\nvenait par tous les temps, toujours hanachée d’une toilette\nidentique, magnifique et sombre, et pour faire la connaissance de\nlaquelle j’aurais à cette époque sacrifié, si l’échange m’avait été\npermis, tous les plus grands avantages futurs de ma vie. Car Gilberte\nallait tous les jours la saluer; elle demandait à Gilberte des\nnouvelles de «son amour de mère»; et il me semblait que si je l’avais\nconnue, j’avais été pour Gilberte quelqu’un de tout autre, quelqu’un\nqui connaissait les relations de ses parents. Pendant que ses\npetits-enfants jouaient plus loin, elle lisait toujours les Débats\nqu’elle appelait «mes vieux Débats» et, par genre aristocratique,\ndisait en parlant du sergent de ville ou de la loueuse de chaises:\n«Mon vieil ami le sergent de ville», «la loueuse de chaises et moi qui\nsommes de vieux amis».",
+  "entities": [
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 238,
+      "end": 246
+    },
+    {
+      "text": "«Tiens",
+      "label": "ORG",
+      "start": 301,
+      "end": 307
+    },
+    {
+      "text": "Champs-Élysées»,",
+      "label": "ORG",
+      "start": 398,
+      "end": 414
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 630,
+      "end": 638
+    },
+    {
+      "text": "Seule,",
+      "label": "ORG",
+      "start": 752,
+      "end": 758
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1077,
+      "end": 1085
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1136,
+      "end": 1144
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1244,
+      "end": 1252
+    },
+    {
+      "text": "Pendant",
+      "label": "ORG",
+      "start": 1334,
+      "end": 1341
+    },
+    {
+      "text": "Débats",
+      "label": "ORG",
+      "start": 1410,
+      "end": 1416
+    },
+    {
+      "text": "Débats»",
+      "label": "ORG",
+      "start": 1445,
+      "end": 1452
+    },
+    {
+      "text": "«Mon",
+      "label": "ORG",
+      "start": 1550,
+      "end": 1554
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et jusque dans ces jours où toute autre végétation a disparu, où le\nbeau cuir vert qui enveloppe le tronc des vieux arbres est caché sous\nla neige, quand celle-ci cessait de tomber, mais que le temps restait\ntrop couvert pour espérer que Gilberte sortît, alors tout d’un coup,\nfaisant dire à ma mère: «Tiens voilà justement qu’il fait beau, vous\npourriez peut-être essayer tout de même d’aller aux Champs-Élysées»,\nsur le manteau de neige qui couvrait le balcon, le soleil apparu\nentrelaçait des fils d’or et brodait des reflets noirs",
+      "start": 0,
+      "end": 534
+    },
+    {
+      "text": "Ce jour-là\nnous ne trouvions personne ou une seule fillette prête à partir qui\nm’assurait que Gilberte ne viendrait pas",
+      "start": 535,
+      "end": 655
+    },
+    {
+      "text": "Les chaises désertées par\nl’assemblée imposante mais frileuse des institutrices étaient vides",
+      "start": 656,
+      "end": 750
+    },
+    {
+      "text": "Seule, près de la pelouse, était assise une dame d’un certain âge qui\nvenait par tous les temps, toujours hanachée d’une toilette\nidentique, magnifique et sombre, et pour faire la connaissance de\nlaquelle j’aurais à cette époque sacrifié, si l’échange m’avait été\npermis, tous les plus grands avantages futurs de ma vie",
+      "start": 751,
+      "end": 1071
+    },
+    {
+      "text": "Car Gilberte\nallait tous les jours la saluer; elle demandait à Gilberte des\nnouvelles de «son amour de mère»; et il me semblait que si je l’avais\nconnue, j’avais été pour Gilberte quelqu’un de tout autre, quelqu’un\nqui connaissait les relations de ses parents",
+      "start": 1072,
+      "end": 1332
+    },
+    {
+      "text": "Pendant que ses\npetits-enfants jouaient plus loin, elle lisait toujours les Débats\nqu’elle appelait «mes vieux Débats» et, par genre aristocratique,\ndisait en parlant du sergent de ville ou de la loueuse de chaises:\n«Mon vieil ami le sergent de ville», «la loueuse de chaises et moi qui\nsommes de vieux amis»",
+      "start": 1333,
+      "end": 1642
+    }
+  ],
+  "tokens": 271,
+  "processed_at": "2025-03-16T02:10:57.520581"
+}

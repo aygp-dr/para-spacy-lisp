@@ -1,0 +1,32 @@
+{
+  "text": "Maintenant qu’après cette oscillation, Odette était naturellement\nrevenue à la place d’où la jalousie de Swann l’avait un moment\nécartée, dans l’angle où il la trouvait charmante, il se la figurait\npleine de tendresse, avec un regard de consentement, si jolie ainsi,\nqu’il ne pouvait s’empêcher d’avancer les lèvres vers elle comme si\nelle avait été là et qu’il eût pu l’embrasser; et il lui gardait de ce\nregard enchanteur et bon autant de reconnaissance que si elle venait\nde l’avoir réellement et si cela n’eût pas été seulement son\nimagination qui venait de le peindre pour donner satisfaction à son\ndésir.",
+  "entities": [
+    {
+      "text": "Maintenant",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 39,
+      "end": 45
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 105,
+      "end": 110
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Maintenant qu’après cette oscillation, Odette était naturellement\nrevenue à la place d’où la jalousie de Swann l’avait un moment\nécartée, dans l’angle où il la trouvait charmante, il se la figurait\npleine de tendresse, avec un regard de consentement, si jolie ainsi,\nqu’il ne pouvait s’empêcher d’avancer les lèvres vers elle comme si\nelle avait été là et qu’il eût pu l’embrasser; et il lui gardait de ce\nregard enchanteur et bon autant de reconnaissance que si elle venait\nde l’avoir réellement et si cela n’eût pas été seulement son\nimagination qui venait de le peindre pour donner satisfaction à son\ndésir",
+      "start": 0,
+      "end": 609
+    }
+  ],
+  "tokens": 102,
+  "processed_at": "2025-03-16T02:10:56.882619"
+}

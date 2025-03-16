@@ -1,0 +1,78 @@
+{
+  "text": "Et il tâchait de lui montrer que l’apaiser, le diriger, le faire\ntravailler, serait une noble tâche à laquelle ne demandaient qu’à se\nvouer d’autres femmes qu’elle, entre les mains desquelles il est vrai\nd’ajouter que la noble tâche ne lui eût paru plus qu’une indiscrète et\ninsupportable usurpation de sa liberté. «Si elle ne m’aimait pas un\npeu, se disait-il, elle ne souhaiterait pas de me transformer. Pour me\ntransformer, il faudra qu’elle me voie davantage.» Ainsi trouvait-il\ndans ce reproche qu’elle lui faisait, comme une preuve d’intérêt,\nd’amour peut-être; et en effet, elle lui en donnait maintenant si peu\nqu’il était obligé de considérer comme telles les défenses qu’elle lui\nfaisait d’une chose ou d’une autre. Un jour, elle lui déclara qu’elle\nn’aimait pas son cocher, qu’il lui montait peut-être la tête contre\nelle, qu’en tous cas il n’était pas avec lui de l’exactitude et de la\ndéférence qu’elle voulait. Elle sentait qu’il désirait lui entendre\ndire: «Ne le prends plus pour venir chez moi», comme il aurait désiré\nun baiser. Comme elle était de bonne humeur, elle le lui dit; il fut\nattendri. Le soir, causant avec M. de Charlus avec qui il avait la\ndouceur de pouvoir parler d’elle ouvertement (car les moindres propos\nqu’il tenait, même aux personnes qui ne la connaissaient pas, se\nrapportaient en quelque manière à elle), il lui dit:",
+  "entities": [
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 406,
+      "end": 410
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 925,
+      "end": 929
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1047,
+      "end": 1052
+    },
+    {
+      "text": "Charlus",
+      "label": "ORG",
+      "start": 1143,
+      "end": 1150
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et il tâchait de lui montrer que l’apaiser, le diriger, le faire\ntravailler, serait une noble tâche à laquelle ne demandaient qu’à se\nvouer d’autres femmes qu’elle, entre les mains desquelles il est vrai\nd’ajouter que la noble tâche ne lui eût paru plus qu’une indiscrète et\ninsupportable usurpation de sa liberté",
+      "start": 0,
+      "end": 313
+    },
+    {
+      "text": "«Si elle ne m’aimait pas un\npeu, se disait-il, elle ne souhaiterait pas de me transformer",
+      "start": 314,
+      "end": 404
+    },
+    {
+      "text": "Pour me\ntransformer, il faudra qu’elle me voie davantage",
+      "start": 405,
+      "end": 462
+    },
+    {
+      "text": "» Ainsi trouvait-il\ndans ce reproche qu’elle lui faisait, comme une preuve d’intérêt,\nd’amour peut-être; et en effet, elle lui en donnait maintenant si peu\nqu’il était obligé de considérer comme telles les défenses qu’elle lui\nfaisait d’une chose ou d’une autre",
+      "start": 463,
+      "end": 724
+    },
+    {
+      "text": "Un jour, elle lui déclara qu’elle\nn’aimait pas son cocher, qu’il lui montait peut-être la tête contre\nelle, qu’en tous cas il n’était pas avec lui de l’exactitude et de la\ndéférence qu’elle voulait",
+      "start": 725,
+      "end": 923
+    },
+    {
+      "text": "Elle sentait qu’il désirait lui entendre\ndire: «Ne le prends plus pour venir chez moi», comme il aurait désiré\nun baiser",
+      "start": 924,
+      "end": 1045
+    },
+    {
+      "text": "Comme elle était de bonne humeur, elle le lui dit; il fut\nattendri",
+      "start": 1046,
+      "end": 1113
+    },
+    {
+      "text": "Le soir, causant avec M",
+      "start": 1114,
+      "end": 1138
+    },
+    {
+      "text": "de Charlus avec qui il avait la\ndouceur de pouvoir parler d’elle ouvertement (car les moindres propos\nqu’il tenait, même aux personnes qui ne la connaissaient pas, se\nrapportaient en quelque manière à elle), il lui dit:",
+      "start": 1139,
+      "end": 1359
+    }
+  ],
+  "tokens": 228,
+  "processed_at": "2025-03-16T02:10:56.974397"
+}

@@ -1,0 +1,20 @@
+{
+  "text": "--Blague à tabac? demanda le docteur.",
+  "entities": [
+    {
+      "text": "--Blague",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Blague à tabac? demanda le docteur",
+      "start": 0,
+      "end": 36
+    }
+  ],
+  "tokens": 6,
+  "processed_at": "2025-03-16T02:10:56.462400"
+}

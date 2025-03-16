@@ -1,0 +1,238 @@
+{
+  "text": "Comme nous y rencontrions parfois M. Vinteuil, très sévère pour «le\ngenre déplorable des jeunes gens négligés, dans les idées de l’époque\nactuelle», ma mère prenait garde que rien ne clochât dans ma tenue,\npuis on partait pour l’église. C’est au mois de Marie que je me\nsouviens d’avoir commencé à aimer les aubépines. N’étant pas seulement\ndans l’église, si sainte, mais où nous avions le droit d’entrer,\nposées sur l’autel même, inséparables des mystères à la célébration\ndesquels elles prenaient part, elles faisaient courir au milieu des\nflambeaux et des vases sacrés leurs branches attachées horizontalement\nles unes aux autres en un apprêt de fête, et qu’enjolivaient encore\nles festons de leur feuillage sur lequel étaient semés à profusion,\ncomme sur une traîne de mariée, de petits bouquets de boutons d’une\nblancheur éclatante. Mais, sans oser les regarder qu’à la dérobée, je\nsentais que ces apprêts pompeux étaient vivants et que c’était la\nnature elle-même qui, en creusant ces découpures dans les feuilles, en\najoutant l’ornement suprême de ces blancs boutons, avait rendu cette\ndécoration digne de ce qui était à la fois une réjouissance populaire\net une solennité mystique. Plus haut s’ouvraient leurs corolles çà et\nlà avec une grâce insouciante, retenant si négligemment comme un\ndernier et vaporeux atour le bouquet d’étamines, fines comme des fils\nde la Vierge, qui les embrumait tout entières, qu’en suivant, qu’en\nessayant de mimer au fond de moi le geste de leur efflorescence, je\nl’imaginais comme si ç’avait été le mouvement de tête étourdi et\nrapide, au regard coquet, aux pupilles diminuées, d’une blanche jeune\nfille, distraite et vive. M. Vinteuil était venu avec sa fille se\nplacer à côté de nous. D’une bonne famille, il avait été le professeur\nde piano des sœurs de ma grand’mère et quand, après la mort de sa\nfemme et un héritage qu’il avait fait, il s’était retiré auprès de\nCombray, on le recevait souvent à la maison. Mais d’une pudibonderie\nexcessive, il cessa de venir pour ne pas rencontrer Swann qui avait\nfait ce qu’il appelait «un mariage déplacé, dans le goût du jour». Ma\nmère, ayant appris qu’il composait, lui avait dit par amabilité que,\nquand elle irait le voir, il faudrait qu’il lui fît entendre quelque\nchose de lui. M. Vinteuil en aurait eu beaucoup de joie, mais il\npoussait la politesse et la bonté jusqu’à de tels scrupules que, se\nmettant toujours à la place des autres, il craignait de les ennuyer et\nde leur paraître égoïste s’il suivait ou seulement laissait deviner\nson désir. Le jour où mes parents étaient allés chez lui en visite, je\nles avais accompagnés, mais ils m’avaient permis de rester dehors et,\ncomme la maison de M. Vinteuil, Montjouvain, était en contre-bas d’un\nmonticule buissonneux, où je m’étais caché, je m’étais trouvé de\nplain-pied avec le salon du second étage, à cinquante centimètres de\nla fenêtre. Quand on était venu lui annoncer mes parents, j’avais vu\nM. Vinteuil se hâter de mettre en évidence sur le piano un morceau de\nmusique. Mais une fois mes parents entrés, il l’avait retiré et mis\ndans un coin. Sans doute avait-il craint de leur laisser supposer\nqu’il n’était heureux de les voir que pour leur jouer de ses\ncompositions. Et chaque fois que ma mère était revenue à la charge au\ncours de la visite, il avait répété plusieurs fois «Mais je ne sais\nqui a mis cela sur le piano, ce n’est pas sa place», et avait détourné\nla conversation sur d’autres sujets, justement parce que ceux-là\nl’intéressaient moins. Sa seule passion était pour sa fille et\ncelle-ci qui avait l’air d’un garçon paraissait si robuste qu’on ne\npouvait s’empêcher de sourire en voyant les précautions que son père\nprenait pour elle, ayant toujours des châles supplémentaires à lui\njeter sur les épaules. Ma grand’mère faisait remarquer quelle\nexpression douce délicate, presque timide passait souvent dans les\nregards de cette enfant si rude, dont le visage était semé de taches\nde son. Quand elle venait de prononcer une parole elle l’entendait\navec l’esprit de ceux à qui elle l’avait dite, s’alarmait des\nmalentendus possibles et on voyait s’éclairer, se découper comme par\ntransparence, sous la figure hommasse du «bon diable», les traits plus\nfins d’une jeune fille éplorée.",
+  "entities": [
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 37,
+      "end": 46
+    },
+    {
+      "text": "Marie",
+      "label": "ORG",
+      "start": 254,
+      "end": 259
+    },
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 838,
+      "end": 843
+    },
+    {
+      "text": "Plus",
+      "label": "ORG",
+      "start": 1190,
+      "end": 1194
+    },
+    {
+      "text": "Vierge,",
+      "label": "ORG",
+      "start": 1374,
+      "end": 1381
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 1668,
+      "end": 1676
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 1909,
+      "end": 1917
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1954,
+      "end": 1958
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2030,
+      "end": 2035
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 2271,
+      "end": 2279
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 2689,
+      "end": 2698
+    },
+    {
+      "text": "Montjouvain,",
+      "label": "ORG",
+      "start": 2699,
+      "end": 2711
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 2883,
+      "end": 2888
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 2943,
+      "end": 2951
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 3019,
+      "end": 3023
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 3092,
+      "end": 3096
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 3326,
+      "end": 3331
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 3952,
+      "end": 3957
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Comme nous y rencontrions parfois M",
+      "start": 0,
+      "end": 35
+    },
+    {
+      "text": "Vinteuil, très sévère pour «le\ngenre déplorable des jeunes gens négligés, dans les idées de l’époque\nactuelle», ma mère prenait garde que rien ne clochât dans ma tenue,\npuis on partait pour l’église",
+      "start": 36,
+      "end": 235
+    },
+    {
+      "text": "C’est au mois de Marie que je me\nsouviens d’avoir commencé à aimer les aubépines",
+      "start": 236,
+      "end": 317
+    },
+    {
+      "text": "N’étant pas seulement\ndans l’église, si sainte, mais où nous avions le droit d’entrer,\nposées sur l’autel même, inséparables des mystères à la célébration\ndesquels elles prenaient part, elles faisaient courir au milieu des\nflambeaux et des vases sacrés leurs branches attachées horizontalement\nles unes aux autres en un apprêt de fête, et qu’enjolivaient encore\nles festons de leur feuillage sur lequel étaient semés à profusion,\ncomme sur une traîne de mariée, de petits bouquets de boutons d’une\nblancheur éclatante",
+      "start": 318,
+      "end": 836
+    },
+    {
+      "text": "Mais, sans oser les regarder qu’à la dérobée, je\nsentais que ces apprêts pompeux étaient vivants et que c’était la\nnature elle-même qui, en creusant ces découpures dans les feuilles, en\najoutant l’ornement suprême de ces blancs boutons, avait rendu cette\ndécoration digne de ce qui était à la fois une réjouissance populaire\net une solennité mystique",
+      "start": 837,
+      "end": 1188
+    },
+    {
+      "text": "Plus haut s’ouvraient leurs corolles çà et\nlà avec une grâce insouciante, retenant si négligemment comme un\ndernier et vaporeux atour le bouquet d’étamines, fines comme des fils\nde la Vierge, qui les embrumait tout entières, qu’en suivant, qu’en\nessayant de mimer au fond de moi le geste de leur efflorescence, je\nl’imaginais comme si ç’avait été le mouvement de tête étourdi et\nrapide, au regard coquet, aux pupilles diminuées, d’une blanche jeune\nfille, distraite et vive",
+      "start": 1189,
+      "end": 1663
+    },
+    {
+      "text": "M",
+      "start": 33,
+      "end": 35
+    },
+    {
+      "text": "Vinteuil était venu avec sa fille se\nplacer à côté de nous",
+      "start": 1667,
+      "end": 1726
+    },
+    {
+      "text": "D’une bonne famille, il avait été le professeur\nde piano des sœurs de ma grand’mère et quand, après la mort de sa\nfemme et un héritage qu’il avait fait, il s’était retiré auprès de\nCombray, on le recevait souvent à la maison",
+      "start": 1727,
+      "end": 1952
+    },
+    {
+      "text": "Mais d’une pudibonderie\nexcessive, il cessa de venir pour ne pas rencontrer Swann qui avait\nfait ce qu’il appelait «un mariage déplacé, dans le goût du jour»",
+      "start": 1953,
+      "end": 2111
+    },
+    {
+      "text": "Ma\nmère, ayant appris qu’il composait, lui avait dit par amabilité que,\nquand elle irait le voir, il faudrait qu’il lui fît entendre quelque\nchose de lui",
+      "start": 2112,
+      "end": 2266
+    },
+    {
+      "text": "M",
+      "start": 33,
+      "end": 35
+    },
+    {
+      "text": "Vinteuil en aurait eu beaucoup de joie, mais il\npoussait la politesse et la bonté jusqu’à de tels scrupules que, se\nmettant toujours à la place des autres, il craignait de les ennuyer et\nde leur paraître égoïste s’il suivait ou seulement laissait deviner\nson désir",
+      "start": 2270,
+      "end": 2535
+    },
+    {
+      "text": "Le jour où mes parents étaient allés chez lui en visite, je\nles avais accompagnés, mais ils m’avaient permis de rester dehors et,\ncomme la maison de M",
+      "start": 2536,
+      "end": 2687
+    },
+    {
+      "text": "Vinteuil, Montjouvain, était en contre-bas d’un\nmonticule buissonneux, où je m’étais caché, je m’étais trouvé de\nplain-pied avec le salon du second étage, à cinquante centimètres de\nla fenêtre",
+      "start": 2688,
+      "end": 2881
+    },
+    {
+      "text": "Quand on était venu lui annoncer mes parents, j’avais vu\nM",
+      "start": 2882,
+      "end": 2941
+    },
+    {
+      "text": "Vinteuil se hâter de mettre en évidence sur le piano un morceau de\nmusique",
+      "start": 2942,
+      "end": 3017
+    },
+    {
+      "text": "Mais une fois mes parents entrés, il l’avait retiré et mis\ndans un coin",
+      "start": 3018,
+      "end": 3090
+    },
+    {
+      "text": "Sans doute avait-il craint de leur laisser supposer\nqu’il n’était heureux de les voir que pour leur jouer de ses\ncompositions",
+      "start": 3091,
+      "end": 3217
+    },
+    {
+      "text": "Et chaque fois que ma mère était revenue à la charge au\ncours de la visite, il avait répété plusieurs fois «Mais je ne sais\nqui a mis cela sur le piano, ce n’est pas sa place», et avait détourné\nla conversation sur d’autres sujets, justement parce que ceux-là\nl’intéressaient moins",
+      "start": 3218,
+      "end": 3500
+    },
+    {
+      "text": "Sa seule passion était pour sa fille et\ncelle-ci qui avait l’air d’un garçon paraissait si robuste qu’on ne\npouvait s’empêcher de sourire en voyant les précautions que son père\nprenait pour elle, ayant toujours des châles supplémentaires à lui\njeter sur les épaules",
+      "start": 3501,
+      "end": 3767
+    },
+    {
+      "text": "Ma grand’mère faisait remarquer quelle\nexpression douce délicate, presque timide passait souvent dans les\nregards de cette enfant si rude, dont le visage était semé de taches\nde son",
+      "start": 3768,
+      "end": 3950
+    },
+    {
+      "text": "Quand elle venait de prononcer une parole elle l’entendait\navec l’esprit de ceux à qui elle l’avait dite, s’alarmait des\nmalentendus possibles et on voyait s’éclairer, se découper comme par\ntransparence, sous la figure hommasse du «bon diable», les traits plus\nfins d’une jeune fille éplorée",
+      "start": 3951,
+      "end": 4243
+    }
+  ],
+  "tokens": 711,
+  "processed_at": "2025-03-16T02:10:55.308771"
+}

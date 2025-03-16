@@ -1,0 +1,26 @@
+{
+  "text": "Swann ayant répondu qu’il n’avait pas vu ce portrait, Mme Cottard eut\npeur de l’avoir blessé en l’obligeant à le confesser.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 58,
+      "end": 65
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann ayant répondu qu’il n’avait pas vu ce portrait, Mme Cottard eut\npeur de l’avoir blessé en l’obligeant à le confesser",
+      "start": 0,
+      "end": 122
+    }
+  ],
+  "tokens": 21,
+  "processed_at": "2025-03-16T02:10:57.423826"
+}

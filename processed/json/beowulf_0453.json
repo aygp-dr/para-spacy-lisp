@@ -1,0 +1,31 @@
+{
+  "text": "--«Mais je ne dis absolument rien. Voyons docteur je vous prends à\ntémoin: est-ce que j’ai dit quelque chose?»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Voyons",
+      "label": "ORG",
+      "start": 35,
+      "end": 41
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais je ne dis absolument rien",
+      "start": 0,
+      "end": 33
+    },
+    {
+      "text": "Voyons docteur je vous prends à\ntémoin: est-ce que j’ai dit quelque chose?»",
+      "start": 34,
+      "end": 110
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:55.921525"
+}

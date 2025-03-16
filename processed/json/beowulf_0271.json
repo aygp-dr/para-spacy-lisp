@@ -1,0 +1,67 @@
+{
+  "text": "La pauvre Charité de Giotto, comme l’appelait Swann, chargée par\nFrançoise de les «plumer», les avait près d’elle dans une corbeille,\nson air était douloureux, comme si elle ressentait tous les malheurs\nde la terre; et les légères couronnes d’azur qui ceignaient les\nasperges au-dessus de leurs tuniques de rose étaient finement\ndessinées, étoile par étoile, comme le sont dans la fresque les fleurs\nbandées autour du front ou piquées dans la corbeille de la Vertu de\nPadoue. Et cependant, Françoise tournait à la broche un de ces\npoulets, comme elle seule savait en rôtir, qui avaient porté loin dans\nCombray l’odeur de ses mérites, et qui, pendant qu’elle nous les\nservait à table, faisaient prédominer la douceur dans ma conception\nspéciale de son caractère, l’arôme de cette chair qu’elle savait\nrendre si onctueuse et si tendre n’étant pour moi que le propre parfum\nd’une de ses vertus.",
+  "entities": [
+    {
+      "text": "Charité",
+      "label": "ORG",
+      "start": 10,
+      "end": 17
+    },
+    {
+      "text": "Giotto,",
+      "label": "ORG",
+      "start": 21,
+      "end": 28
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 46,
+      "end": 52
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 65,
+      "end": 74
+    },
+    {
+      "text": "Vertu",
+      "label": "ORG",
+      "start": 459,
+      "end": 464
+    },
+    {
+      "text": "Padoue.",
+      "label": "ORG",
+      "start": 468,
+      "end": 475
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 490,
+      "end": 499
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 602,
+      "end": 609
+    }
+  ],
+  "sentences": [
+    {
+      "text": "La pauvre Charité de Giotto, comme l’appelait Swann, chargée par\nFrançoise de les «plumer», les avait près d’elle dans une corbeille,\nson air était douloureux, comme si elle ressentait tous les malheurs\nde la terre; et les légères couronnes d’azur qui ceignaient les\nasperges au-dessus de leurs tuniques de rose étaient finement\ndessinées, étoile par étoile, comme le sont dans la fresque les fleurs\nbandées autour du front ou piquées dans la corbeille de la Vertu de\nPadoue",
+      "start": 0,
+      "end": 474
+    },
+    {
+      "text": "Et cependant, Françoise tournait à la broche un de ces\npoulets, comme elle seule savait en rôtir, qui avaient porté loin dans\nCombray l’odeur de ses mérites, et qui, pendant qu’elle nous les\nservait à table, faisaient prédominer la douceur dans ma conception\nspéciale de son caractère, l’arôme de cette chair qu’elle savait\nrendre si onctueuse et si tendre n’étant pour moi que le propre parfum\nd’une de ses vertus",
+      "start": 475,
+      "end": 890
+    }
+  ],
+  "tokens": 148,
+  "processed_at": "2025-03-16T02:10:55.368224"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "--«Comment vous n’avez pas rencontré devant la porte le plus beau des\nSwann»?",
+  "entities": [
+    {
+      "text": "--«Comment",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Swann»?",
+      "label": "ORG",
+      "start": 70,
+      "end": 77
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Comment vous n’avez pas rencontré devant la porte le plus beau des\nSwann»?",
+      "start": 0,
+      "end": 77
+    }
+  ],
+  "tokens": 13,
+  "processed_at": "2025-03-16T02:10:56.134553"
+}

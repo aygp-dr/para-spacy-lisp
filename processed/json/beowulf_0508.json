@@ -1,0 +1,20 @@
+{
+  "text": "--«Je pourrais même dîner seule avec vous, si vous aimiez mieux cela»,\nlui disait-elle.",
+  "entities": [
+    {
+      "text": "--«Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Je pourrais même dîner seule avec vous, si vous aimiez mieux cela»,\nlui disait-elle",
+      "start": 0,
+      "end": 86
+    }
+  ],
+  "tokens": 14,
+  "processed_at": "2025-03-16T02:10:56.076974"
+}

@@ -1,0 +1,76 @@
+{
+  "text": "--«Ah! oui, ce garçon que j’ai vu une fois ici, qui ressemble tellement\nau portrait de Mahomet II par Bellini. Oh! c’est frappant, il a les\nmêmes sourcils circonflexes, le même nez recourbé, les mêmes pommettes\nsaillantes. Quand il aura une barbiche ce sera la même personne. En\ntout cas il a du goût, car Bergotte est un charmant esprit.» Et voyant\ncombien j’avais l’air d’admirer Bergotte, Swann qui ne parlait jamais\ndes gens qu’il connaissait fit, par bonté, une exception et me dit:",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Mahomet",
+      "label": "ORG",
+      "start": 87,
+      "end": 94
+    },
+    {
+      "text": "Bellini.",
+      "label": "ORG",
+      "start": 102,
+      "end": 110
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 223,
+      "end": 228
+    },
+    {
+      "text": "Bergotte",
+      "label": "ORG",
+      "start": 306,
+      "end": 314
+    },
+    {
+      "text": "Bergotte,",
+      "label": "ORG",
+      "start": 382,
+      "end": 391
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 392,
+      "end": 397
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! oui, ce garçon que j’ai vu une fois ici, qui ressemble tellement\nau portrait de Mahomet II par Bellini",
+      "start": 0,
+      "end": 109
+    },
+    {
+      "text": "Oh! c’est frappant, il a les\nmêmes sourcils circonflexes, le même nez recourbé, les mêmes pommettes\nsaillantes",
+      "start": 110,
+      "end": 221
+    },
+    {
+      "text": "Quand il aura une barbiche ce sera la même personne",
+      "start": 222,
+      "end": 274
+    },
+    {
+      "text": "En\ntout cas il a du goût, car Bergotte est un charmant esprit",
+      "start": 275,
+      "end": 337
+    },
+    {
+      "text": "» Et voyant\ncombien j’avais l’air d’admirer Bergotte, Swann qui ne parlait jamais\ndes gens qu’il connaissait fit, par bonté, une exception et me dit:",
+      "start": 338,
+      "end": 487
+    }
+  ],
+  "tokens": 84,
+  "processed_at": "2025-03-16T02:10:55.136044"
+}

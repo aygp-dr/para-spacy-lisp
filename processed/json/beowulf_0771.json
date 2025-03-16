@@ -1,0 +1,26 @@
+{
+  "text": "Après ces tranquilles soirées, les soupçons de Swann étaient calmés;\nil bénissait Odette et le lendemain, dès le matin, il faisait envoyer\nchez elle les plus beaux bijoux, parce que ces bontés de la veille\navaient excité ou sa gratitude, ou le désir de les voir se renouveler,\nou un paroxysme d’amour qui avait besoin de se dépenser.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 47,
+      "end": 52
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 82,
+      "end": 88
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Après ces tranquilles soirées, les soupçons de Swann étaient calmés;\nil bénissait Odette et le lendemain, dès le matin, il faisait envoyer\nchez elle les plus beaux bijoux, parce que ces bontés de la veille\navaient excité ou sa gratitude, ou le désir de les voir se renouveler,\nou un paroxysme d’amour qui avait besoin de se dépenser",
+      "start": 0,
+      "end": 332
+    }
+  ],
+  "tokens": 58,
+  "processed_at": "2025-03-16T02:10:56.863404"
+}

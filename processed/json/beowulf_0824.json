@@ -1,0 +1,89 @@
+{
+  "text": "Le monocle du marquis de Forestelle était minuscule, n’avait aucune\nbordure et obligeant à une crispation incessante et douloureuse l’œil\noù il s’incrustait comme un cartilage superflu dont la présence est\ninexplicable et la matière recherchée, il donnait au visage du marquis\nune délicatesse mélancolique, et le faisait juger par les femmes comme\ncapable de grands chagrins d’amour. Mais celui de M. de Saint-Candé,\nentouré d’un gigantesque anneau, comme Saturne, était le centre de\ngravité d’une figure qui s’ordonnait à tout moment par rapport à lui,\ndont le nez frémissant et rouge et la bouche lippue et sarcastique\ntâchaient par leurs grimaces d’être à la hauteur des feux roulants\nd’esprit dont étincelait le disque de verre, et se voyait préférer aux\nplus beaux regards du monde par des jeunes femmes snobs et dépravées\nqu’il faisait rêver de charmes artificiels et d’un raffinement de\nvolupté; et cependant, derrière le sien, M. de Palancy qui avec sa\ngrosse tête de carpe aux yeux ronds, se déplaçait lentement au milieu\ndes fêtes, en desserrant d’instant en instant ses mandibules comme\npour chercher son orientation, avait l’air de transporter seulement\navec lui un fragment accidentel, et peut-être purement symbolique, du\nvitrage de son aquarium, partie destinée à figurer le tout qui rappela\nà Swann, grand admirateur des Vices et des Vertus de Giotto à Padoue,\ncet Injuste à côté duquel un rameau feuillu évoque les forêts où se\ncache son repaire.",
+  "entities": [
+    {
+      "text": "Forestelle",
+      "label": "ORG",
+      "start": 25,
+      "end": 35
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 384,
+      "end": 388
+    },
+    {
+      "text": "Saint-Candé,",
+      "label": "ORG",
+      "start": 404,
+      "end": 416
+    },
+    {
+      "text": "Saturne,",
+      "label": "ORG",
+      "start": 456,
+      "end": 464
+    },
+    {
+      "text": "Palancy",
+      "label": "ORG",
+      "start": 941,
+      "end": 948
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1309,
+      "end": 1315
+    },
+    {
+      "text": "Vices",
+      "label": "ORG",
+      "start": 1337,
+      "end": 1342
+    },
+    {
+      "text": "Vertus",
+      "label": "ORG",
+      "start": 1350,
+      "end": 1356
+    },
+    {
+      "text": "Giotto",
+      "label": "ORG",
+      "start": 1360,
+      "end": 1366
+    },
+    {
+      "text": "Padoue,",
+      "label": "ORG",
+      "start": 1369,
+      "end": 1376
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le monocle du marquis de Forestelle était minuscule, n’avait aucune\nbordure et obligeant à une crispation incessante et douloureuse l’œil\noù il s’incrustait comme un cartilage superflu dont la présence est\ninexplicable et la matière recherchée, il donnait au visage du marquis\nune délicatesse mélancolique, et le faisait juger par les femmes comme\ncapable de grands chagrins d’amour",
+      "start": 0,
+      "end": 382
+    },
+    {
+      "text": "Mais celui de M",
+      "start": 383,
+      "end": 399
+    },
+    {
+      "text": "de Saint-Candé,\nentouré d’un gigantesque anneau, comme Saturne, était le centre de\ngravité d’une figure qui s’ordonnait à tout moment par rapport à lui,\ndont le nez frémissant et rouge et la bouche lippue et sarcastique\ntâchaient par leurs grimaces d’être à la hauteur des feux roulants\nd’esprit dont étincelait le disque de verre, et se voyait préférer aux\nplus beaux regards du monde par des jeunes femmes snobs et dépravées\nqu’il faisait rêver de charmes artificiels et d’un raffinement de\nvolupté; et cependant, derrière le sien, M",
+      "start": 400,
+      "end": 936
+    },
+    {
+      "text": "de Palancy qui avec sa\ngrosse tête de carpe aux yeux ronds, se déplaçait lentement au milieu\ndes fêtes, en desserrant d’instant en instant ses mandibules comme\npour chercher son orientation, avait l’air de transporter seulement\navec lui un fragment accidentel, et peut-être purement symbolique, du\nvitrage de son aquarium, partie destinée à figurer le tout qui rappela\nà Swann, grand admirateur des Vices et des Vertus de Giotto à Padoue,\ncet Injuste à côté duquel un rameau feuillu évoque les forêts où se\ncache son repaire",
+      "start": 937,
+      "end": 1462
+    }
+  ],
+  "tokens": 237,
+  "processed_at": "2025-03-16T02:10:57.023991"
+}

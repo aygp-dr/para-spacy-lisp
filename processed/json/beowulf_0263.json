@@ -1,0 +1,36 @@
+{
+  "text": "--«Je veux profiter, dit-il, de ce que toute la famille est réunie pour\nvous faire un récit sans avoir besoin de le recommencer à chacun. J’ai\npeur que nous ne soyons fâchés avec Legrandin: il m’a à peine dit\nbonjour ce matin.»",
+  "entities": [
+    {
+      "text": "--«Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Legrandin:",
+      "label": "ORG",
+      "start": 179,
+      "end": 189
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Je veux profiter, dit-il, de ce que toute la famille est réunie pour\nvous faire un récit sans avoir besoin de le recommencer à chacun",
+      "start": 0,
+      "end": 136
+    },
+    {
+      "text": "J’ai\npeur que nous ne soyons fâchés avec Legrandin: il m’a à peine dit\nbonjour ce matin",
+      "start": 137,
+      "end": 225
+    },
+    {
+      "text": "»",
+      "start": 226,
+      "end": 227
+    }
+  ],
+  "tokens": 42,
+  "processed_at": "2025-03-16T02:10:55.339618"
+}

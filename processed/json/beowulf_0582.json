@@ -1,0 +1,37 @@
+{
+  "text": "Il aurait pourtant pu se dire qu’il y avait des anciens amis de ses\nparents aussi simples que les Verdurin, des camarades de sa jeunesse\naussi épris d’art, qu’il connaissait d’autres êtres d’un grand cœur,\net que, pourtant, depuis qu’il avait opté pour la simplicité, les arts\net la magnanimité, il ne les voyait plus jamais. Mais ceux-là ne\nconnaissaient pas Odette, et, s’ils l’avaient connue, ne se seraient\npas souciés de la rapprocher de lui.",
+  "entities": [
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 98,
+      "end": 107
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 326,
+      "end": 330
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 360,
+      "end": 367
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il aurait pourtant pu se dire qu’il y avait des anciens amis de ses\nparents aussi simples que les Verdurin, des camarades de sa jeunesse\naussi épris d’art, qu’il connaissait d’autres êtres d’un grand cœur,\net que, pourtant, depuis qu’il avait opté pour la simplicité, les arts\net la magnanimité, il ne les voyait plus jamais",
+      "start": 0,
+      "end": 324
+    },
+    {
+      "text": "Mais ceux-là ne\nconnaissaient pas Odette, et, s’ils l’avaient connue, ne se seraient\npas souciés de la rapprocher de lui",
+      "start": 325,
+      "end": 446
+    }
+  ],
+  "tokens": 76,
+  "processed_at": "2025-03-16T02:10:56.299736"
+}

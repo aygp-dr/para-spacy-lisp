@@ -1,0 +1,109 @@
+{
+  "text": "--«Il y a dans les nuages ce soir des violets et des bleus bien beaux,\nn’est-ce pas, mon compagnon, dit-il à mon père, un bleu surtout plus\nfloral qu’aérien, un bleu de cinéraire, qui surprend dans le ciel. Et\nce petit nuage rose n’a-t-il pas aussi un teint de fleur, d’œillet ou\nd’hydrangéa? Il n’y a guère que dans la Manche, entre Normandie et\nBretagne, que j’ai pu faire de plus riches observations sur cette\nsorte de règne végétal de l’atmosphère. Là-bas, près de Balbec, près\nde ces lieux sauvages, il y a une petite baie d’une douceur charmante\noù le coucher de soleil du pays d’Auge, le coucher de soleil rouge et\nor que je suis loin de dédaigner, d’ailleurs, est sans caractère,\ninsignifiant; mais dans cette atmosphère humide et douce\ns’épanouissent le soir en quelques instants de ces bouquets célestes,\nbleus et roses, qui sont incomparables et qui mettent souvent des\nheures à se faner. D’autres s’effeuillent tout de suite et c’est alors\nplus beau encore de voir le ciel entier que jonche la dispersion\nd’innombrables pétales soufrés ou roses. Dans cette baie, dite\nd’opale, les plages d’or semblent plus douces encore pour être\nattachées comme de blondes Andromèdes à ces terribles rochers des\ncôtes voisines, à ce rivage funèbre, fameux par tant de naufrages, où\ntous les hivers bien des barques trépassent au péril de la mer.\nBalbec! la plus antique ossature géologique de notre sol, vraiment\nAr-mor, la Mer, la fin de la terre, la région maudite qu’Anatole\nFrance,--un enchanteur que devrait lire notre petit ami--a si bien\npeinte, sous ses brouillards éternels, comme le véritable pays des\nCimmériens, dans l’Odyssée. De Balbec surtout, où déjà des hôtels se\nconstruisent, superposés au sol antique et charmant qu’ils n’altèrent\npas, quel délice d’excursionner à deux pas dans ces régions primitives\net si belles.»",
+  "entities": [
+    {
+      "text": "--«Il",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Manche,",
+      "label": "ORG",
+      "start": 320,
+      "end": 327
+    },
+    {
+      "text": "Normandie",
+      "label": "ORG",
+      "start": 334,
+      "end": 343
+    },
+    {
+      "text": "Bretagne,",
+      "label": "ORG",
+      "start": 347,
+      "end": 356
+    },
+    {
+      "text": "Balbec,",
+      "label": "ORG",
+      "start": 469,
+      "end": 476
+    },
+    {
+      "text": "Dans",
+      "label": "ORG",
+      "start": 1058,
+      "end": 1062
+    },
+    {
+      "text": "Balbec!",
+      "label": "ORG",
+      "start": 1343,
+      "end": 1350
+    },
+    {
+      "text": "Mer,",
+      "label": "ORG",
+      "start": 1421,
+      "end": 1425
+    },
+    {
+      "text": "Cimmériens,",
+      "label": "ORG",
+      "start": 1609,
+      "end": 1620
+    },
+    {
+      "text": "Balbec",
+      "label": "ORG",
+      "start": 1640,
+      "end": 1646
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Il y a dans les nuages ce soir des violets et des bleus bien beaux,\nn’est-ce pas, mon compagnon, dit-il à mon père, un bleu surtout plus\nfloral qu’aérien, un bleu de cinéraire, qui surprend dans le ciel",
+      "start": 0,
+      "end": 205
+    },
+    {
+      "text": "Et\nce petit nuage rose n’a-t-il pas aussi un teint de fleur, d’œillet ou\nd’hydrangéa? Il n’y a guère que dans la Manche, entre Normandie et\nBretagne, que j’ai pu faire de plus riches observations sur cette\nsorte de règne végétal de l’atmosphère",
+      "start": 206,
+      "end": 451
+    },
+    {
+      "text": "Là-bas, près de Balbec, près\nde ces lieux sauvages, il y a une petite baie d’une douceur charmante\noù le coucher de soleil du pays d’Auge, le coucher de soleil rouge et\nor que je suis loin de dédaigner, d’ailleurs, est sans caractère,\ninsignifiant; mais dans cette atmosphère humide et douce\ns’épanouissent le soir en quelques instants de ces bouquets célestes,\nbleus et roses, qui sont incomparables et qui mettent souvent des\nheures à se faner",
+      "start": 452,
+      "end": 898
+    },
+    {
+      "text": "D’autres s’effeuillent tout de suite et c’est alors\nplus beau encore de voir le ciel entier que jonche la dispersion\nd’innombrables pétales soufrés ou roses",
+      "start": 899,
+      "end": 1056
+    },
+    {
+      "text": "Dans cette baie, dite\nd’opale, les plages d’or semblent plus douces encore pour être\nattachées comme de blondes Andromèdes à ces terribles rochers des\ncôtes voisines, à ce rivage funèbre, fameux par tant de naufrages, où\ntous les hivers bien des barques trépassent au péril de la mer",
+      "start": 1057,
+      "end": 1341
+    },
+    {
+      "text": "Balbec! la plus antique ossature géologique de notre sol, vraiment\nAr-mor, la Mer, la fin de la terre, la région maudite qu’Anatole\nFrance,--un enchanteur que devrait lire notre petit ami--a si bien\npeinte, sous ses brouillards éternels, comme le véritable pays des\nCimmériens, dans l’Odyssée",
+      "start": 1342,
+      "end": 1635
+    },
+    {
+      "text": "De Balbec surtout, où déjà des hôtels se\nconstruisent, superposés au sol antique et charmant qu’ils n’altèrent\npas, quel délice d’excursionner à deux pas dans ces régions primitives\net si belles",
+      "start": 1636,
+      "end": 1831
+    },
+    {
+      "text": "»",
+      "start": 1832,
+      "end": 1833
+    }
+  ],
+  "tokens": 306,
+  "processed_at": "2025-03-16T02:10:55.414485"
+}

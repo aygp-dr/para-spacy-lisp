@@ -1,0 +1,20 @@
+{
+  "text": "--Et un font douze, s’écria trop tard le docteur dont personne ne\ncomprit l’interruption.",
+  "entities": [
+    {
+      "text": "--Et",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Et un font douze, s’écria trop tard le docteur dont personne ne\ncomprit l’interruption",
+      "start": 0,
+      "end": 88
+    }
+  ],
+  "tokens": 14,
+  "processed_at": "2025-03-16T02:10:56.363262"
+}

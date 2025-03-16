@@ -1,0 +1,37 @@
+{
+  "text": "--«La fille à M. Pupin! Oh! je vous crois bien, ma pauvre Françoise!\nAvec cela que je ne l’aurais pas reconnue?»",
+  "entities": [
+    {
+      "text": "--«La",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Pupin!",
+      "label": "ORG",
+      "start": 17,
+      "end": 23
+    },
+    {
+      "text": "Françoise!",
+      "label": "ORG",
+      "start": 58,
+      "end": 68
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«La fille à M",
+      "start": 0,
+      "end": 15
+    },
+    {
+      "text": "Pupin! Oh! je vous crois bien, ma pauvre Françoise!\nAvec cela que je ne l’aurais pas reconnue?»",
+      "start": 16,
+      "end": 112
+    }
+  ],
+  "tokens": 21,
+  "processed_at": "2025-03-16T02:10:54.666508"
+}

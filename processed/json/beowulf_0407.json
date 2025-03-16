@@ -1,0 +1,18 @@
+{
+  "text": "«VISION FUGITIVE...»",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "«VISION FUGITIVE",
+      "start": 0,
+      "end": 16
+    },
+    {
+      "text": "»",
+      "start": 19,
+      "end": 20
+    }
+  ],
+  "tokens": 2,
+  "processed_at": "2025-03-16T02:10:55.790762"
+}

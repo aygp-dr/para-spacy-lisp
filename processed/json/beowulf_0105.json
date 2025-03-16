@@ -1,0 +1,83 @@
+{
+  "text": "L’église! Familière; mitoyenne, rue Saint-Hilaire, où était sa porte\nnord, de ses deux voisines, la pharmacie de M. Rapin et la maison de\nMme Loiseau, qu’elle touchait sans aucune séparation; simple citoyenne\nde Combray qui aurait pu avoir son numéro dans la rue si les rues de\nCombray avaient eu des numéros, et où il semble que le facteur aurait\ndû s’arrêter le matin quand il faisait sa distribution, avant d’entrer\nchez Mme Loiseau et en sortant de chez M. Rapin, il y avait pourtant\nentre elle et tout ce qui n’était pas elle une démarcation que mon\nesprit n’a jamais pu arriver à franchir. Mme Loiseau avait beau avoir\nà sa fenêtre des fuchsias, qui prenaient la mauvaise habitude de\nlaisser leurs branches courir toujours partout tête baissée, et dont\nles fleurs n’avaient rien de plus pressé, quand elles étaient assez\ngrandes, que d’aller rafraîchir leurs joues violettes et\ncongestionnées contre la sombre façade de l’église, les fuchsias ne\ndevenaient pas sacrés pour cela pour moi; entre les fleurs et la\npierre noircie sur laquelle elles s’appuyaient, si mes yeux ne\npercevaient pas d’intervalle, mon esprit réservait un abîme.",
+  "entities": [
+    {
+      "text": "Familière;",
+      "label": "ORG",
+      "start": 10,
+      "end": 20
+    },
+    {
+      "text": "Saint-Hilaire,",
+      "label": "ORG",
+      "start": 36,
+      "end": 50
+    },
+    {
+      "text": "Rapin",
+      "label": "ORG",
+      "start": 116,
+      "end": 121
+    },
+    {
+      "text": "Loiseau,",
+      "label": "ORG",
+      "start": 142,
+      "end": 150
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 212,
+      "end": 219
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 278,
+      "end": 285
+    },
+    {
+      "text": "Loiseau",
+      "label": "ORG",
+      "start": 428,
+      "end": 435
+    },
+    {
+      "text": "Rapin,",
+      "label": "ORG",
+      "start": 461,
+      "end": 467
+    },
+    {
+      "text": "Loiseau",
+      "label": "ORG",
+      "start": 600,
+      "end": 607
+    }
+  ],
+  "sentences": [
+    {
+      "text": "L’église! Familière; mitoyenne, rue Saint-Hilaire, où était sa porte\nnord, de ses deux voisines, la pharmacie de M",
+      "start": 0,
+      "end": 114
+    },
+    {
+      "text": "Rapin et la maison de\nMme Loiseau, qu’elle touchait sans aucune séparation; simple citoyenne\nde Combray qui aurait pu avoir son numéro dans la rue si les rues de\nCombray avaient eu des numéros, et où il semble que le facteur aurait\ndû s’arrêter le matin quand il faisait sa distribution, avant d’entrer\nchez Mme Loiseau et en sortant de chez M",
+      "start": 115,
+      "end": 459
+    },
+    {
+      "text": "Rapin, il y avait pourtant\nentre elle et tout ce qui n’était pas elle une démarcation que mon\nesprit n’a jamais pu arriver à franchir",
+      "start": 460,
+      "end": 594
+    },
+    {
+      "text": "Mme Loiseau avait beau avoir\nà sa fenêtre des fuchsias, qui prenaient la mauvaise habitude de\nlaisser leurs branches courir toujours partout tête baissée, et dont\nles fleurs n’avaient rien de plus pressé, quand elles étaient assez\ngrandes, que d’aller rafraîchir leurs joues violettes et\ncongestionnées contre la sombre façade de l’église, les fuchsias ne\ndevenaient pas sacrés pour cela pour moi; entre les fleurs et la\npierre noircie sur laquelle elles s’appuyaient, si mes yeux ne\npercevaient pas d’intervalle, mon esprit réservait un abîme",
+      "start": 595,
+      "end": 1139
+    }
+  ],
+  "tokens": 190,
+  "processed_at": "2025-03-16T02:10:54.747582"
+}

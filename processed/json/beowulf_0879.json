@@ -1,0 +1,43 @@
+{
+  "text": "--Hé bien! je suis ravie, Charles, si mes petits fruits d’aubépine vous\nplaisent. Pourquoi est-ce que vous saluez cette Cambremer, est-ce que\nvous êtes aussi son voisin de campagne?",
+  "entities": [
+    {
+      "text": "--Hé",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Charles,",
+      "label": "ORG",
+      "start": 26,
+      "end": 34
+    },
+    {
+      "text": "Pourquoi",
+      "label": "ORG",
+      "start": 82,
+      "end": 90
+    },
+    {
+      "text": "Cambremer,",
+      "label": "ORG",
+      "start": 120,
+      "end": 130
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Hé bien! je suis ravie, Charles, si mes petits fruits d’aubépine vous\nplaisent",
+      "start": 0,
+      "end": 80
+    },
+    {
+      "text": "Pourquoi est-ce que vous saluez cette Cambremer, est-ce que\nvous êtes aussi son voisin de campagne?",
+      "start": 81,
+      "end": 181
+    }
+  ],
+  "tokens": 29,
+  "processed_at": "2025-03-16T02:10:57.189032"
+}

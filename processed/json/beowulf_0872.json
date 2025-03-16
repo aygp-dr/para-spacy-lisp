@@ -1,0 +1,82 @@
+{
+  "text": "--Mais on dit toujours l’esprit des Guermantes, je n’ai jamais pu\ncomprendre pourquoi. Vous en connaissez donc d’autres qui en aient,\najouta-t-elle dans un éclat de rire écumant et joyeux, les traits de\nson visage concentrés, accouplés dans le réseau de son animation, les\nyeux étincelants, enflammés d’un ensoleillement radieux de gaîté que\nseuls avaient le pouvoir de faire rayonner ainsi les propos,\nfussent-ils tenus par la princesse elle-même, qui étaient une louange\nde son esprit ou de sa beauté. Tenez, voilà Swann qui a l’air de\nsaluer votre Cambremer; là... il est à côté de la mère Saint-Euverte,\nvous ne voyez pas! Demandez-lui de vous présenter. Mais dépêchez-vous,\nil cherche à s’en aller!",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 36,
+      "end": 47
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 87,
+      "end": 91
+    },
+    {
+      "text": "Tenez,",
+      "label": "ORG",
+      "start": 504,
+      "end": 510
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 517,
+      "end": 522
+    },
+    {
+      "text": "Cambremer;",
+      "label": "ORG",
+      "start": 551,
+      "end": 561
+    },
+    {
+      "text": "Saint-Euverte,",
+      "label": "ORG",
+      "start": 593,
+      "end": 607
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 659,
+      "end": 663
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais on dit toujours l’esprit des Guermantes, je n’ai jamais pu\ncomprendre pourquoi",
+      "start": 0,
+      "end": 85
+    },
+    {
+      "text": "Vous en connaissez donc d’autres qui en aient,\najouta-t-elle dans un éclat de rire écumant et joyeux, les traits de\nson visage concentrés, accouplés dans le réseau de son animation, les\nyeux étincelants, enflammés d’un ensoleillement radieux de gaîté que\nseuls avaient le pouvoir de faire rayonner ainsi les propos,\nfussent-ils tenus par la princesse elle-même, qui étaient une louange\nde son esprit ou de sa beauté",
+      "start": 86,
+      "end": 502
+    },
+    {
+      "text": "Tenez, voilà Swann qui a l’air de\nsaluer votre Cambremer; là",
+      "start": 503,
+      "end": 564
+    },
+    {
+      "text": "il est à côté de la mère Saint-Euverte,\nvous ne voyez pas! Demandez-lui de vous présenter",
+      "start": 567,
+      "end": 657
+    },
+    {
+      "text": "Mais dépêchez-vous,\nil cherche à s’en aller!",
+      "start": 658,
+      "end": 703
+    }
+  ],
+  "tokens": 114,
+  "processed_at": "2025-03-16T02:10:57.169394"
+}

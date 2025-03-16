@@ -1,0 +1,37 @@
+{
+  "text": "--«Odette, nous vous ramenons, dit Mme Verdurin, nous avons une petite\nplace pour vous à côté de M. de Forcheville.",
+  "entities": [
+    {
+      "text": "--«Odette,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 39,
+      "end": 48
+    },
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 103,
+      "end": 115
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Odette, nous vous ramenons, dit Mme Verdurin, nous avons une petite\nplace pour vous à côté de M",
+      "start": 0,
+      "end": 98
+    },
+    {
+      "text": "de Forcheville",
+      "start": 99,
+      "end": 114
+    }
+  ],
+  "tokens": 20,
+  "processed_at": "2025-03-16T02:10:56.735856"
+}

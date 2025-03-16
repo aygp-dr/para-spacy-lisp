@@ -1,0 +1,130 @@
+{
+  "text": "Mes promenades de cet automne-là furent d’autant plus agréables que je\nles faisais après de longues heures passées sur un livre. Quand\nj’étais fatigué d’avoir lu toute la matinée dans la salle, jetant mon\nplaid sur mes épaules, je sortais: mon corps obligé depuis longtemps\nde garder l’immobilité, mais qui s’était chargé sur place d’animation\net de vitesse accumulées, avait besoin ensuite, comme une toupie qu’on\nlâche, de les dépenser dans toutes les directions. Les murs des\nmaisons, la haie de Tansonville, les arbres du bois de Roussainville,\nles buissons auxquels s’adosse Montjouvain, recevaient des coups de\nparapluie ou de canne, entendaient des cris joyeux, qui n’étaient, les\nuns et les autres, que des idées confuses qui m’exaltaient et qui\nn’ont pas atteint le repos dans la lumière, pour avoir préféré à un\nlent et difficile éclaircissement, le plaisir d’une dérivation plus\naisée vers une issue immédiate. La plupart des prétendues traductions\nde ce que nous avons ressenti ne font ainsi que nous en débarrasser en\nle faisant sortir de nous sous une forme indistincte qui ne nous\napprend pas à le connaître. Quand j’essaye de faire le compte de ce\nque je dois au côté de Méséglise, des humbles découvertes dont il fût\nle cadre fortuit ou le nécessaire inspirateur, je me rappelle que\nc’est, cet automne-là, dans une de ces promenades, près du talus\nbroussailleux qui protège Montjouvain, que je fus frappé pour la\npremière fois de ce désaccord entre nos impressions et leur expression\nhabituelle. Après une heure de pluie et de vent contre lesquels\nj’avais lutté avec allégresse, comme j’arrivais au bord de la mare de\nMontjouvain devant une petite cahute recouverte en tuiles où le\njardinier de M. Vinteuil serrait ses instruments de jardinage, le\nsoleil venait de reparaître, et ses dorures lavées par l’averse\nreluisaient à neuf dans le ciel, sur les arbres, sur le mur de la\ncahute, sur son toit de tuile encore mouillé, à la crête duquel se\npromenait une poule. Le vent qui soufflait tirait horizontalement les\nherbes folles qui avaient poussé dans la paroi du mur, et les plumes\nde duvet de la poule, qui, les unes et les autres se laissaient filer\nau gré de son souffle jusqu’à l’extrémité de leur longueur, avec\nl’abandon de choses inertes et légères. Le toit de tuile faisait dans\nla mare, que le soleil rendait de nouveau réfléchissante, une marbrure\nrose, à laquelle je n’avais encore jamais fait attention. Et voyant\nsur l’eau et à la face du mur un pâle sourire répondre au sourire du\nciel, je m’écriai dans mon enthousiasme en brandissant mon parapluie\nrefermé: «Zut, zut, zut, zut.» Mais en même temps je sentis que mon\ndevoir eût été de ne pas m’en tenir à ces mots opaques et de tâcher de\nvoir plus clair dans mon ravissement.",
+  "entities": [
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 129,
+      "end": 134
+    },
+    {
+      "text": "Tansonville,",
+      "label": "ORG",
+      "start": 499,
+      "end": 511
+    },
+    {
+      "text": "Roussainville,",
+      "label": "ORG",
+      "start": 534,
+      "end": 548
+    },
+    {
+      "text": "Montjouvain,",
+      "label": "ORG",
+      "start": 580,
+      "end": 592
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 1124,
+      "end": 1129
+    },
+    {
+      "text": "Méséglise,",
+      "label": "ORG",
+      "start": 1187,
+      "end": 1197
+    },
+    {
+      "text": "Montjouvain,",
+      "label": "ORG",
+      "start": 1391,
+      "end": 1403
+    },
+    {
+      "text": "Montjouvain",
+      "label": "ORG",
+      "start": 1635,
+      "end": 1646
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 1715,
+      "end": 1723
+    },
+    {
+      "text": "«Zut,",
+      "label": "ORG",
+      "start": 2592,
+      "end": 2597
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2614,
+      "end": 2618
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mes promenades de cet automne-là furent d’autant plus agréables que je\nles faisais après de longues heures passées sur un livre",
+      "start": 0,
+      "end": 127
+    },
+    {
+      "text": "Quand\nj’étais fatigué d’avoir lu toute la matinée dans la salle, jetant mon\nplaid sur mes épaules, je sortais: mon corps obligé depuis longtemps\nde garder l’immobilité, mais qui s’était chargé sur place d’animation\net de vitesse accumulées, avait besoin ensuite, comme une toupie qu’on\nlâche, de les dépenser dans toutes les directions",
+      "start": 128,
+      "end": 464
+    },
+    {
+      "text": "Les murs des\nmaisons, la haie de Tansonville, les arbres du bois de Roussainville,\nles buissons auxquels s’adosse Montjouvain, recevaient des coups de\nparapluie ou de canne, entendaient des cris joyeux, qui n’étaient, les\nuns et les autres, que des idées confuses qui m’exaltaient et qui\nn’ont pas atteint le repos dans la lumière, pour avoir préféré à un\nlent et difficile éclaircissement, le plaisir d’une dérivation plus\naisée vers une issue immédiate",
+      "start": 465,
+      "end": 920
+    },
+    {
+      "text": "La plupart des prétendues traductions\nde ce que nous avons ressenti ne font ainsi que nous en débarrasser en\nle faisant sortir de nous sous une forme indistincte qui ne nous\napprend pas à le connaître",
+      "start": 921,
+      "end": 1122
+    },
+    {
+      "text": "Quand j’essaye de faire le compte de ce\nque je dois au côté de Méséglise, des humbles découvertes dont il fût\nle cadre fortuit ou le nécessaire inspirateur, je me rappelle que\nc’est, cet automne-là, dans une de ces promenades, près du talus\nbroussailleux qui protège Montjouvain, que je fus frappé pour la\npremière fois de ce désaccord entre nos impressions et leur expression\nhabituelle",
+      "start": 1123,
+      "end": 1511
+    },
+    {
+      "text": "Après une heure de pluie et de vent contre lesquels\nj’avais lutté avec allégresse, comme j’arrivais au bord de la mare de\nMontjouvain devant une petite cahute recouverte en tuiles où le\njardinier de M",
+      "start": 1512,
+      "end": 1713
+    },
+    {
+      "text": "Vinteuil serrait ses instruments de jardinage, le\nsoleil venait de reparaître, et ses dorures lavées par l’averse\nreluisaient à neuf dans le ciel, sur les arbres, sur le mur de la\ncahute, sur son toit de tuile encore mouillé, à la crête duquel se\npromenait une poule",
+      "start": 1714,
+      "end": 1981
+    },
+    {
+      "text": "Le vent qui soufflait tirait horizontalement les\nherbes folles qui avaient poussé dans la paroi du mur, et les plumes\nde duvet de la poule, qui, les unes et les autres se laissaient filer\nau gré de son souffle jusqu’à l’extrémité de leur longueur, avec\nl’abandon de choses inertes et légères",
+      "start": 1982,
+      "end": 2274
+    },
+    {
+      "text": "Le toit de tuile faisait dans\nla mare, que le soleil rendait de nouveau réfléchissante, une marbrure\nrose, à laquelle je n’avais encore jamais fait attention",
+      "start": 2275,
+      "end": 2433
+    },
+    {
+      "text": "Et voyant\nsur l’eau et à la face du mur un pâle sourire répondre au sourire du\nciel, je m’écriai dans mon enthousiasme en brandissant mon parapluie\nrefermé: «Zut, zut, zut, zut",
+      "start": 2434,
+      "end": 2611
+    },
+    {
+      "text": "» Mais en même temps je sentis que mon\ndevoir eût été de ne pas m’en tenir à ces mots opaques et de tâcher de\nvoir plus clair dans mon ravissement",
+      "start": 2612,
+      "end": 2758
+    }
+  ],
+  "tokens": 469,
+  "processed_at": "2025-03-16T02:10:55.550392"
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Souriant, elle haussa légèrement les épaules, comme pour dire «vous\nêtes fou, vous voyez bien que ça me plaît».",
+  "entities": [
+    {
+      "text": "Souriant,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Souriant, elle haussa légèrement les épaules, comme pour dire «vous\nêtes fou, vous voyez bien que ça me plaît»",
+      "start": 0,
+      "end": 110
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:56.224656"
+}

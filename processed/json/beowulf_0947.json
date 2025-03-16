@@ -1,0 +1,57 @@
+{
+  "text": "D’ailleurs ses aveux même, quand elle lui en faisait, de fautes\nqu’elle le supposait avoir découvertes, servaient plutôt pour Swann de\npoint de départ à de nouveaux doutes qu’ils ne mettaient un terme aux\nanciens. Car ils n’étaient jamais exactement proportionnés à ceux-ci.\nOdette avait eu beau retrancher de sa confession tout l’essentiel, il\nrestait dans l’accessoire quelque chose que Swann n’avait jamais\nimaginé, qui l’accablait de sa nouveauté et allait lui permettre de\nchanger les termes du problème de sa jalousie. Et ces aveux il ne\npouvait plus les oublier. Son âme les charriait, les rejetait, les\nberçait, comme des cadavres. Et elle en était empoisonnée.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 126,
+      "end": 131
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 275,
+      "end": 281
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 389,
+      "end": 394
+    }
+  ],
+  "sentences": [
+    {
+      "text": "D’ailleurs ses aveux même, quand elle lui en faisait, de fautes\nqu’elle le supposait avoir découvertes, servaient plutôt pour Swann de\npoint de départ à de nouveaux doutes qu’ils ne mettaient un terme aux\nanciens",
+      "start": 0,
+      "end": 212
+    },
+    {
+      "text": "Car ils n’étaient jamais exactement proportionnés à ceux-ci",
+      "start": 213,
+      "end": 273
+    },
+    {
+      "text": "Odette avait eu beau retrancher de sa confession tout l’essentiel, il\nrestait dans l’accessoire quelque chose que Swann n’avait jamais\nimaginé, qui l’accablait de sa nouveauté et allait lui permettre de\nchanger les termes du problème de sa jalousie",
+      "start": 274,
+      "end": 523
+    },
+    {
+      "text": "Et ces aveux il ne\npouvait plus les oublier",
+      "start": 524,
+      "end": 568
+    },
+    {
+      "text": "Son âme les charriait, les rejetait, les\nberçait, comme des cadavres",
+      "start": 569,
+      "end": 638
+    },
+    {
+      "text": "Et elle en était empoisonnée",
+      "start": 639,
+      "end": 668
+    }
+  ],
+  "tokens": 107,
+  "processed_at": "2025-03-16T02:10:57.402042"
+}

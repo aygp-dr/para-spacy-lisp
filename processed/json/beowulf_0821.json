@@ -1,0 +1,43 @@
+{
+  "text": "--Tiens, vous voilà, mais il y a des éternités qu’on ne vous a vu, dit\nà Swann le général qui, remarquant ses traits tirés et en concluant\nque c’était peut-être une maladie grave qui l’éloignait du monde,\najouta: «Vous avez bonne mine, vous savez!» pendant que M. de Bréauté\ndemandait:",
+  "entities": [
+    {
+      "text": "--Tiens,",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 73,
+      "end": 78
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 213,
+      "end": 218
+    },
+    {
+      "text": "Bréauté",
+      "label": "ORG",
+      "start": 267,
+      "end": 274
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Tiens, vous voilà, mais il y a des éternités qu’on ne vous a vu, dit\nà Swann le général qui, remarquant ses traits tirés et en concluant\nque c’était peut-être une maladie grave qui l’éloignait du monde,\najouta: «Vous avez bonne mine, vous savez!» pendant que M",
+      "start": 0,
+      "end": 262
+    },
+    {
+      "text": "de Bréauté\ndemandait:",
+      "start": 263,
+      "end": 285
+    }
+  ],
+  "tokens": 50,
+  "processed_at": "2025-03-16T02:10:57.015832"
+}

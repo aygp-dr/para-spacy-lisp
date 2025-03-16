@@ -1,0 +1,82 @@
+{
+  "text": "Le premier de ces jours--auxquels la neige, image des puissances qui\npouvaient me priver de voir Gilberte, donnait la tristesse d’un jour\nde séparation et jusqu’à l’aspect d’un jour de départ parce qu’il\nchangeait la figure et empêchait presque l’usage du lieu habituel de\nnos seules entrevues maintenant changé, tout enveloppé de housses--, ce\njour fit pourtant faire un progrès à mon amour, car il fut comme un\npremier chagrin qu’elle eût partagé avec moi. Il n’y avait que nous\ndeux de notre bande, et être ainsi le seul qui fût avec elle, c’était\nnon seulement comme un commencement d’intimité, mais aussi de sa\npart,--comme si elle ne fût venue rien que pour moi par un temps\npareil--cela me semblait aussi touchant que si un de ces jours où elle\nétait invitée à une matinée, elle y avait renoncé pour venir me\nretrouver aux Champs-Élysées; je prenais plus de confiance en la\nvitalité et en l’avenir de notre amitié qui restait vivace au milieu\nde l’engourdissement, de la solitude et de la ruine des choses\nenvironnantes; et tandis qu’elle me mettait des boules de neige dans\nle cou, je souriais avec attendrissement à ce qui me semblait à la\nfois une prédilection qu’elle me marquait en me tolérant comme\ncompagnon de voyage dans ce pays hivernal et nouveau, et une sorte de\nfidélité qu’elle me gardait au milieu du malheur. Bientôt l’une après\nl’autre, comme des moineaux hésitants, ses amies arrivèrent toutes\nnoires sur la neige. Nous commençâmes à jouer et comme ce jour si\ntristement commencé devait finir dans la joie, comme je m’approchais,\navant de jouer aux barres, de l’amie à la voix brève que j’avais\nentendue le premier jour crier le nom de Gilberte, elle me dit: «Non,\nnon, on sait bien que vous aimez mieux être dans le camp de Gilberte,\nd’ailleurs vous voyez elle vous fait signe.» Elle m’appelait en effet\npour que je vinsse sur la pelouse de neige, dans son camp, dont le\nsoleil en lui donnant les reflets roses, l’usure métallique des\nbrocarts anciens, faisait un camp du drap d’or.",
+  "entities": [
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 97,
+      "end": 106
+    },
+    {
+      "text": "Champs-Élysées;",
+      "label": "ORG",
+      "start": 830,
+      "end": 845
+    },
+    {
+      "text": "Bientôt",
+      "label": "ORG",
+      "start": 1332,
+      "end": 1339
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 1440,
+      "end": 1444
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 1661,
+      "end": 1670
+    },
+    {
+      "text": "«Non,",
+      "label": "ORG",
+      "start": 1684,
+      "end": 1689
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 1750,
+      "end": 1759
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1805,
+      "end": 1809
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le premier de ces jours--auxquels la neige, image des puissances qui\npouvaient me priver de voir Gilberte, donnait la tristesse d’un jour\nde séparation et jusqu’à l’aspect d’un jour de départ parce qu’il\nchangeait la figure et empêchait presque l’usage du lieu habituel de\nnos seules entrevues maintenant changé, tout enveloppé de housses--, ce\njour fit pourtant faire un progrès à mon amour, car il fut comme un\npremier chagrin qu’elle eût partagé avec moi",
+      "start": 0,
+      "end": 457
+    },
+    {
+      "text": "Il n’y avait que nous\ndeux de notre bande, et être ainsi le seul qui fût avec elle, c’était\nnon seulement comme un commencement d’intimité, mais aussi de sa\npart,--comme si elle ne fût venue rien que pour moi par un temps\npareil--cela me semblait aussi touchant que si un de ces jours où elle\nétait invitée à une matinée, elle y avait renoncé pour venir me\nretrouver aux Champs-Élysées; je prenais plus de confiance en la\nvitalité et en l’avenir de notre amitié qui restait vivace au milieu\nde l’engourdissement, de la solitude et de la ruine des choses\nenvironnantes; et tandis qu’elle me mettait des boules de neige dans\nle cou, je souriais avec attendrissement à ce qui me semblait à la\nfois une prédilection qu’elle me marquait en me tolérant comme\ncompagnon de voyage dans ce pays hivernal et nouveau, et une sorte de\nfidélité qu’elle me gardait au milieu du malheur",
+      "start": 458,
+      "end": 1330
+    },
+    {
+      "text": "Bientôt l’une après\nl’autre, comme des moineaux hésitants, ses amies arrivèrent toutes\nnoires sur la neige",
+      "start": 1331,
+      "end": 1438
+    },
+    {
+      "text": "Nous commençâmes à jouer et comme ce jour si\ntristement commencé devait finir dans la joie, comme je m’approchais,\navant de jouer aux barres, de l’amie à la voix brève que j’avais\nentendue le premier jour crier le nom de Gilberte, elle me dit: «Non,\nnon, on sait bien que vous aimez mieux être dans le camp de Gilberte,\nd’ailleurs vous voyez elle vous fait signe",
+      "start": 1439,
+      "end": 1802
+    },
+    {
+      "text": "» Elle m’appelait en effet\npour que je vinsse sur la pelouse de neige, dans son camp, dont le\nsoleil en lui donnant les reflets roses, l’usure métallique des\nbrocarts anciens, faisait un camp du drap d’or",
+      "start": 1803,
+      "end": 2007
+    }
+  ],
+  "tokens": 348,
+  "processed_at": "2025-03-16T02:10:57.526379"
+}

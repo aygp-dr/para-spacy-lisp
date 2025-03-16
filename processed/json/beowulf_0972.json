@@ -1,0 +1,240 @@
+{
+  "text": "J’aurais voulu prendre dès le lendemain le beau train généreux d’une\nheure vingt-deux dont je ne pouvais jamais sans que mon cœur palpitât\nlire, dans les réclames des Compagnies de chemin de fer, dans les\nannonces de voyages circulaires, l’heure de départ: elle me semblait\ninciser à un point précis de l’après-midi une savoureuse entaille, une\nmarque mystérieuse à partir de laquelle les heures déviées\nconduisaient bien encore au soir, au matin du lendemain, mais qu’on\nverrait, au lieu de Paris, dans l’une de ces villes par où le train\npasse et entre lesquelles il nous permettait de choisir; car il\ns’arrêtait à Bayeux, à Coutances, à Vitré, à Questambert, à Pontorson,\nà Balbec, à Lannion, à Lamballe, à Benodet, à Pont-Aven, à Quimperlé,\net s’avançait magnifiquement surchargé de noms qu’il m’offrait et\nentre lesquels je ne savais lequel j’aurais préféré, par impossibilité\nd’en sacrifier aucun. Mais sans même l’attendre, j’aurais pu en\nm’habillant à la hâte partir le soir même, si mes parents me l’avaient\npermis, et arriver à Balbec quand le petit jour se lèverait sur la mer\nfurieuse, contre les écumes envolées de laquelle j’irais me réfugier\ndans l’église de style persan. Mais à l’approche des vacances de\nPâques, quand mes parents m’eurent promis de me les faire passer une\nfois dans le nord de l’Italie, voilà qu’à ces rêves de tempête dont\nj’avais été rempli tout entier, ne souhaitant voir que des vagues\naccourant de partout, toujours plus haut, sur la côte la plus sauvage,\nprès d’églises escarpées et rugueuses comme des falaises et dans les\ntours desquelles crieraient les oiseaux de mer, voilà que tout à coup\nles effaçant, leur ôtant tout charme, les excluant parce qu’ils lui\nétaient opposés et n’auraient pu que l’affaiblir, se substituaient en\nmoi le rêve contraire du printemps le plus diapré, non pas le\nprintemps de Combray qui piquait encore aigrement avec toutes les\naiguilles du givre, mais celui qui couvrait déjà de lys et d’anémones\nles champs de Fiésole et éblouissait Florence de fonds d’or pareils à\nceux de l’Angelico. Dès lors, seuls les rayons, les parfums, les\ncouleurs me semblaient avoir du prix; car l’alternance des images\navait amené en moi un changement de front du désir, et,--aussi brusque\nque ceux qu’il y a parfois en musique, un complet changement de ton\ndans ma sensibilité. Puis il arriva qu’une simple variation\natmosphérique suffit à provoquer en moi cette modulation sans qu’il y\neût besoin d’attendre le retour d’une saison. Car souvent dans l’une,\non trouve égaré un jour d’une autre, qui nous y fait vivre, en évoque\naussitôt, en fait désirer les plaisirs particuliers et interrompt les\nrêves que nous étions en train de faire, en plaçant, plus tôt ou plus\ntard qu’à son tour, ce feuillet détaché d’un autre chapitre, dans le\ncalendrier interpolé du Bonheur. Mais bientôt comme ces phénomènes\nnaturels dont notre confort ou notre santé ne peuvent tirer qu’un\nbénéfice accidentel et assez mince jusqu’au jour où la science\ns’empare d’eux, et les produisant à volonté, remet en nos mains la\npossibilité de leur apparition, soustraite à la tutelle et dispensée\nde l’agrément du hasard, de même la production de ces rêves\nd’Atlantique et d’Italie cessa d’être soumise uniquement aux\nchangements des saisons et du temps. Je n’eus besoin pour les faire\nrenaître que de prononcer ces noms: Balbec, Venise, Florence, dans\nl’intérieur desquels avait fini par s’accumuler le désir que m’avaient\ninspiré les lieux qu’ils désignaient. Même au printemps, trouver dans\nun livre le nom de Balbec suffisait à réveiller en moi le désir des\ntempêtes et du gothique normand; même par un jour de tempête le nom de\nFlorence ou de Venise me donnait le désir du soleil, des lys, du\npalais des Doges et de Sainte-Marie-des-Fleurs.",
+  "entities": [
+    {
+      "text": "Compagnies",
+      "label": "ORG",
+      "start": 167,
+      "end": 177
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 492,
+      "end": 498
+    },
+    {
+      "text": "Bayeux,",
+      "label": "ORG",
+      "start": 617,
+      "end": 624
+    },
+    {
+      "text": "Coutances,",
+      "label": "ORG",
+      "start": 627,
+      "end": 637
+    },
+    {
+      "text": "Vitré,",
+      "label": "ORG",
+      "start": 640,
+      "end": 646
+    },
+    {
+      "text": "Questambert,",
+      "label": "ORG",
+      "start": 649,
+      "end": 661
+    },
+    {
+      "text": "Pontorson,",
+      "label": "ORG",
+      "start": 664,
+      "end": 674
+    },
+    {
+      "text": "Balbec,",
+      "label": "ORG",
+      "start": 677,
+      "end": 684
+    },
+    {
+      "text": "Lannion,",
+      "label": "ORG",
+      "start": 687,
+      "end": 695
+    },
+    {
+      "text": "Lamballe,",
+      "label": "ORG",
+      "start": 698,
+      "end": 707
+    },
+    {
+      "text": "Benodet,",
+      "label": "ORG",
+      "start": 710,
+      "end": 718
+    },
+    {
+      "text": "Pont-Aven,",
+      "label": "ORG",
+      "start": 721,
+      "end": 731
+    },
+    {
+      "text": "Quimperlé,",
+      "label": "ORG",
+      "start": 734,
+      "end": 744
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 904,
+      "end": 908
+    },
+    {
+      "text": "Balbec",
+      "label": "ORG",
+      "start": 1038,
+      "end": 1044
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1188,
+      "end": 1192
+    },
+    {
+      "text": "Pâques,",
+      "label": "ORG",
+      "start": 1222,
+      "end": 1229
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1848,
+      "end": 1855
+    },
+    {
+      "text": "Fiésole",
+      "label": "ORG",
+      "start": 1985,
+      "end": 1992
+    },
+    {
+      "text": "Florence",
+      "label": "ORG",
+      "start": 2008,
+      "end": 2016
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 2332,
+      "end": 2336
+    },
+    {
+      "text": "Bonheur.",
+      "label": "ORG",
+      "start": 2814,
+      "end": 2822
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2823,
+      "end": 2827
+    },
+    {
+      "text": "Balbec,",
+      "label": "ORG",
+      "start": 3347,
+      "end": 3354
+    },
+    {
+      "text": "Venise,",
+      "label": "ORG",
+      "start": 3355,
+      "end": 3362
+    },
+    {
+      "text": "Florence,",
+      "label": "ORG",
+      "start": 3363,
+      "end": 3372
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 3487,
+      "end": 3491
+    },
+    {
+      "text": "Balbec",
+      "label": "ORG",
+      "start": 3538,
+      "end": 3544
+    },
+    {
+      "text": "Florence",
+      "label": "ORG",
+      "start": 3658,
+      "end": 3666
+    },
+    {
+      "text": "Venise",
+      "label": "ORG",
+      "start": 3673,
+      "end": 3679
+    },
+    {
+      "text": "Doges",
+      "label": "ORG",
+      "start": 3734,
+      "end": 3739
+    }
+  ],
+  "sentences": [
+    {
+      "text": "J’aurais voulu prendre dès le lendemain le beau train généreux d’une\nheure vingt-deux dont je ne pouvais jamais sans que mon cœur palpitât\nlire, dans les réclames des Compagnies de chemin de fer, dans les\nannonces de voyages circulaires, l’heure de départ: elle me semblait\ninciser à un point précis de l’après-midi une savoureuse entaille, une\nmarque mystérieuse à partir de laquelle les heures déviées\nconduisaient bien encore au soir, au matin du lendemain, mais qu’on\nverrait, au lieu de Paris, dans l’une de ces villes par où le train\npasse et entre lesquelles il nous permettait de choisir; car il\ns’arrêtait à Bayeux, à Coutances, à Vitré, à Questambert, à Pontorson,\nà Balbec, à Lannion, à Lamballe, à Benodet, à Pont-Aven, à Quimperlé,\net s’avançait magnifiquement surchargé de noms qu’il m’offrait et\nentre lesquels je ne savais lequel j’aurais préféré, par impossibilité\nd’en sacrifier aucun",
+      "start": 0,
+      "end": 902
+    },
+    {
+      "text": "Mais sans même l’attendre, j’aurais pu en\nm’habillant à la hâte partir le soir même, si mes parents me l’avaient\npermis, et arriver à Balbec quand le petit jour se lèverait sur la mer\nfurieuse, contre les écumes envolées de laquelle j’irais me réfugier\ndans l’église de style persan",
+      "start": 903,
+      "end": 1186
+    },
+    {
+      "text": "Mais à l’approche des vacances de\nPâques, quand mes parents m’eurent promis de me les faire passer une\nfois dans le nord de l’Italie, voilà qu’à ces rêves de tempête dont\nj’avais été rempli tout entier, ne souhaitant voir que des vagues\naccourant de partout, toujours plus haut, sur la côte la plus sauvage,\nprès d’églises escarpées et rugueuses comme des falaises et dans les\ntours desquelles crieraient les oiseaux de mer, voilà que tout à coup\nles effaçant, leur ôtant tout charme, les excluant parce qu’ils lui\nétaient opposés et n’auraient pu que l’affaiblir, se substituaient en\nmoi le rêve contraire du printemps le plus diapré, non pas le\nprintemps de Combray qui piquait encore aigrement avec toutes les\naiguilles du givre, mais celui qui couvrait déjà de lys et d’anémones\nles champs de Fiésole et éblouissait Florence de fonds d’or pareils à\nceux de l’Angelico",
+      "start": 1187,
+      "end": 2059
+    },
+    {
+      "text": "Dès lors, seuls les rayons, les parfums, les\ncouleurs me semblaient avoir du prix; car l’alternance des images\navait amené en moi un changement de front du désir, et,--aussi brusque\nque ceux qu’il y a parfois en musique, un complet changement de ton\ndans ma sensibilité",
+      "start": 2060,
+      "end": 2330
+    },
+    {
+      "text": "Puis il arriva qu’une simple variation\natmosphérique suffit à provoquer en moi cette modulation sans qu’il y\neût besoin d’attendre le retour d’une saison",
+      "start": 2331,
+      "end": 2485
+    },
+    {
+      "text": "Car souvent dans l’une,\non trouve égaré un jour d’une autre, qui nous y fait vivre, en évoque\naussitôt, en fait désirer les plaisirs particuliers et interrompt les\nrêves que nous étions en train de faire, en plaçant, plus tôt ou plus\ntard qu’à son tour, ce feuillet détaché d’un autre chapitre, dans le\ncalendrier interpolé du Bonheur",
+      "start": 2486,
+      "end": 2821
+    },
+    {
+      "text": "Mais bientôt comme ces phénomènes\nnaturels dont notre confort ou notre santé ne peuvent tirer qu’un\nbénéfice accidentel et assez mince jusqu’au jour où la science\ns’empare d’eux, et les produisant à volonté, remet en nos mains la\npossibilité de leur apparition, soustraite à la tutelle et dispensée\nde l’agrément du hasard, de même la production de ces rêves\nd’Atlantique et d’Italie cessa d’être soumise uniquement aux\nchangements des saisons et du temps",
+      "start": 2822,
+      "end": 3278
+    },
+    {
+      "text": "Je n’eus besoin pour les faire\nrenaître que de prononcer ces noms: Balbec, Venise, Florence, dans\nl’intérieur desquels avait fini par s’accumuler le désir que m’avaient\ninspiré les lieux qu’ils désignaient",
+      "start": 3279,
+      "end": 3485
+    },
+    {
+      "text": "Même au printemps, trouver dans\nun livre le nom de Balbec suffisait à réveiller en moi le désir des\ntempêtes et du gothique normand; même par un jour de tempête le nom de\nFlorence ou de Venise me donnait le désir du soleil, des lys, du\npalais des Doges et de Sainte-Marie-des-Fleurs",
+      "start": 3486,
+      "end": 3769
+    }
+  ],
+  "tokens": 626,
+  "processed_at": "2025-03-16T02:10:57.488224"
+}

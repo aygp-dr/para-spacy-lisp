@@ -1,0 +1,135 @@
+{
+  "text": "Mais une fois, mon grand-père lut dans un journal que M. Swann était\nun des plus fidèles habitués des déjeuners du dimanche chez le duc de\nX..., dont le père et l’oncle avaient été les hommes d’État les plus\nen vue du règne de Louis-Philippe. Or mon grand-père était curieux de\ntous les petits faits qui pouvaient l’aider à entrer par la pensée\ndans la vie privée d’hommes comme Molé, comme le duc Pasquier, comme\nle duc de Broglie. Il fut enchanté d’apprendre que Swann fréquentait\ndes gens qui les avaient connus. Ma grand’tante au contraire\ninterpréta cette nouvelle dans un sens défavorable à Swann: quelqu’un\nqui choisissait ses fréquentations en dehors de la caste où il était\nné, en dehors de sa «classe» sociale, subissait à ses yeux un fâcheux\ndéclassement. Il lui semblait qu’on renonçât d’un coup au fruit de\ntoutes les belles relations avec des gens bien posés, qu’avaient\nhonorablement entretenues et engrangées pour leurs enfants les\nfamilles prévoyantes; (ma grand’tante avait même cessé de voir le fils\nd’un notaire de nos amis parce qu’il avait épousé une altesse et était\npar là descendu pour elle du rang respecté de fils de notaire à celui\nd’un de ces aventuriers, anciens valets de chambre ou garçons\nd’écurie, pour qui on raconte que les reines eurent parfois des\nbontés). Elle blâma le projet qu’avait mon grand-père d’interroger\nSwann, le soir prochain où il devait venir dîner, sur ces amis que\nnous lui découvrions. D’autre part les deux sœurs de ma grand’mère,\nvieilles filles qui avaient sa noble nature mais non son esprit,\ndéclarèrent ne pas comprendre le plaisir que leur beau-frère pouvait\ntrouver à parler de niaiseries pareilles. C’étaient des personnes\nd’aspirations élevées et qui à cause de cela même étaient incapables\nde s’intéresser à ce qu’on appelle un potin, eût-il même un intérêt\nhistorique, et d’une façon générale à tout ce qui ne se rattachait pas\ndirectement à un objet esthétique ou vertueux. Le désintéressement de\nleur pensée était tel, à l’égard de tout ce qui, de près ou de loin\nsemblait se rattacher à la vie mondaine, que leur sens auditif,--ayant\nfini par comprendre son inutilité momentanée dès qu’à dîner la\nconversation prenait un ton frivole ou seulement terre à terre sans\nque ces deux vieilles demoiselles aient pu la ramener aux sujets qui\nleur étaient chers,--mettait alors au repos ses organes récepteurs et\nleur laissait subir un véritable commencement d’atrophie. Si alors mon\ngrand-père avait besoin d’attirer l’attention des deux sœurs, il\nfallait qu’il eût recours à ces avertissements physiques dont usent\nles médecins aliénistes à l’égard de certains maniaques de la\ndistraction: coups frappés à plusieurs reprises sur un verre avec la\nlame d’un couteau, coïncidant avec une brusque interpellation de la\nvoix et du regard, moyens violents que ces psychiatres transportent\nsouvent dans les rapports courants avec des gens bien portants, soit\npar habitude professionnelle, soit qu’ils croient tout le monde un peu\nfou.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 57,
+      "end": 62
+    },
+    {
+      "text": "X...,",
+      "label": "ORG",
+      "start": 139,
+      "end": 144
+    },
+    {
+      "text": "Louis-Philippe.",
+      "label": "ORG",
+      "start": 227,
+      "end": 242
+    },
+    {
+      "text": "Molé,",
+      "label": "ORG",
+      "start": 379,
+      "end": 384
+    },
+    {
+      "text": "Pasquier,",
+      "label": "ORG",
+      "start": 398,
+      "end": 407
+    },
+    {
+      "text": "Broglie.",
+      "label": "ORG",
+      "start": 424,
+      "end": 432
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 465,
+      "end": 470
+    },
+    {
+      "text": "Swann:",
+      "label": "ORG",
+      "start": 597,
+      "end": 603
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1295,
+      "end": 1299
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1353,
+      "end": 1359
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais une fois, mon grand-père lut dans un journal que M",
+      "start": 0,
+      "end": 55
+    },
+    {
+      "text": "Swann était\nun des plus fidèles habitués des déjeuners du dimanche chez le duc de\nX",
+      "start": 56,
+      "end": 140
+    },
+    {
+      "text": ", dont le père et l’oncle avaient été les hommes d’État les plus\nen vue du règne de Louis-Philippe",
+      "start": 143,
+      "end": 241
+    },
+    {
+      "text": "Or mon grand-père était curieux de\ntous les petits faits qui pouvaient l’aider à entrer par la pensée\ndans la vie privée d’hommes comme Molé, comme le duc Pasquier, comme\nle duc de Broglie",
+      "start": 242,
+      "end": 431
+    },
+    {
+      "text": "Il fut enchanté d’apprendre que Swann fréquentait\ndes gens qui les avaient connus",
+      "start": 432,
+      "end": 514
+    },
+    {
+      "text": "Ma grand’tante au contraire\ninterpréta cette nouvelle dans un sens défavorable à Swann: quelqu’un\nqui choisissait ses fréquentations en dehors de la caste où il était\nné, en dehors de sa «classe» sociale, subissait à ses yeux un fâcheux\ndéclassement",
+      "start": 515,
+      "end": 765
+    },
+    {
+      "text": "Il lui semblait qu’on renonçât d’un coup au fruit de\ntoutes les belles relations avec des gens bien posés, qu’avaient\nhonorablement entretenues et engrangées pour leurs enfants les\nfamilles prévoyantes; (ma grand’tante avait même cessé de voir le fils\nd’un notaire de nos amis parce qu’il avait épousé une altesse et était\npar là descendu pour elle du rang respecté de fils de notaire à celui\nd’un de ces aventuriers, anciens valets de chambre ou garçons\nd’écurie, pour qui on raconte que les reines eurent parfois des\nbontés)",
+      "start": 766,
+      "end": 1293
+    },
+    {
+      "text": "Elle blâma le projet qu’avait mon grand-père d’interroger\nSwann, le soir prochain où il devait venir dîner, sur ces amis que\nnous lui découvrions",
+      "start": 1294,
+      "end": 1440
+    },
+    {
+      "text": "D’autre part les deux sœurs de ma grand’mère,\nvieilles filles qui avaient sa noble nature mais non son esprit,\ndéclarèrent ne pas comprendre le plaisir que leur beau-frère pouvait\ntrouver à parler de niaiseries pareilles",
+      "start": 1441,
+      "end": 1662
+    },
+    {
+      "text": "C’étaient des personnes\nd’aspirations élevées et qui à cause de cela même étaient incapables\nde s’intéresser à ce qu’on appelle un potin, eût-il même un intérêt\nhistorique, et d’une façon générale à tout ce qui ne se rattachait pas\ndirectement à un objet esthétique ou vertueux",
+      "start": 1663,
+      "end": 1941
+    },
+    {
+      "text": "Le désintéressement de\nleur pensée était tel, à l’égard de tout ce qui, de près ou de loin\nsemblait se rattacher à la vie mondaine, que leur sens auditif,--ayant\nfini par comprendre son inutilité momentanée dès qu’à dîner la\nconversation prenait un ton frivole ou seulement terre à terre sans\nque ces deux vieilles demoiselles aient pu la ramener aux sujets qui\nleur étaient chers,--mettait alors au repos ses organes récepteurs et\nleur laissait subir un véritable commencement d’atrophie",
+      "start": 1942,
+      "end": 2431
+    },
+    {
+      "text": "Si alors mon\ngrand-père avait besoin d’attirer l’attention des deux sœurs, il\nfallait qu’il eût recours à ces avertissements physiques dont usent\nles médecins aliénistes à l’égard de certains maniaques de la\ndistraction: coups frappés à plusieurs reprises sur un verre avec la\nlame d’un couteau, coïncidant avec une brusque interpellation de la\nvoix et du regard, moyens violents que ces psychiatres transportent\nsouvent dans les rapports courants avec des gens bien portants, soit\npar habitude professionnelle, soit qu’ils croient tout le monde un peu\nfou",
+      "start": 2432,
+      "end": 2989
+    }
+  ],
+  "tokens": 490,
+  "processed_at": "2025-03-16T02:10:54.470784"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "--Eh bien! voyons, c’est entendu, dit M. Verdurin, il ne jouera que\nl’andante.",
+  "entities": [
+    {
+      "text": "--Eh",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 41,
+      "end": 50
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Eh bien! voyons, c’est entendu, dit M",
+      "start": 0,
+      "end": 39
+    },
+    {
+      "text": "Verdurin, il ne jouera que\nl’andante",
+      "start": 40,
+      "end": 77
+    }
+  ],
+  "tokens": 13,
+  "processed_at": "2025-03-16T02:10:55.885358"
+}

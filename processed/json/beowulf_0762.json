@@ -1,0 +1,42 @@
+{
+  "text": "En somme elle ne pouvait tout de même pas l’empêcher d’aller à\nPierrefonds s’il en avait envie! Or, justement, il sentait qu’il en\navait envie, et que s’il n’avait pas connu Odette, certainement il y\nserait allé. Il y avait longtemps qu’il voulait se faire une idée plus\nprécise des travaux de restauration de Viollet-le-Duc. Et par le temps\nqu’il faisait, il éprouvait l’impérieux désir d’une promenade dans la\nforêt de Compiègne.",
+  "entities": [
+    {
+      "text": "Pierrefonds",
+      "label": "ORG",
+      "start": 63,
+      "end": 74
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 174,
+      "end": 181
+    },
+    {
+      "text": "Compiègne.",
+      "label": "ORG",
+      "start": 421,
+      "end": 431
+    }
+  ],
+  "sentences": [
+    {
+      "text": "En somme elle ne pouvait tout de même pas l’empêcher d’aller à\nPierrefonds s’il en avait envie! Or, justement, il sentait qu’il en\navait envie, et que s’il n’avait pas connu Odette, certainement il y\nserait allé",
+      "start": 0,
+      "end": 211
+    },
+    {
+      "text": "Il y avait longtemps qu’il voulait se faire une idée plus\nprécise des travaux de restauration de Viollet-le-Duc",
+      "start": 212,
+      "end": 324
+    },
+    {
+      "text": "Et par le temps\nqu’il faisait, il éprouvait l’impérieux désir d’une promenade dans la\nforêt de Compiègne",
+      "start": 325,
+      "end": 430
+    }
+  ],
+  "tokens": 72,
+  "processed_at": "2025-03-16T02:10:56.831327"
+}

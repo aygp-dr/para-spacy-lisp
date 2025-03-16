@@ -1,0 +1,149 @@
+{
+  "text": "«Seuls, s’élevant du niveau de la plaine et comme perdus en rase\ncampagne, montaient vers le ciel les deux clochers de Martinville.\nBientôt nous en vîmes trois: venant se placer en face d’eux par une\nvolte hardie, un clocher retardataire, celui de Vieuxvicq, les avait\nrejoints. Les minutes passaient, nous allions vite et pourtant les\ntrois clochers étaient toujours au loin devant nous, comme trois\noiseaux posés sur la plaine, immobiles et qu’on distingue au soleil.\nPuis le clocher de Vieuxvicq s’écarta, prit ses distances, et les\nclochers de Martinville restèrent seuls, éclairés par la lumière du\ncouchant que même à cette distance, sur leurs pentes, je voyais jouer\net sourire. Nous avions été si longs à nous rapprocher d’eux, que je\npensais au temps qu’il faudrait encore pour les atteindre quand, tout\nd’un coup, la voiture ayant tourné, elle nous déposa à leurs pieds; et\nils s’étaient jetés si rudement au-devant d’elle, qu’on n’eut que le\ntemps d’arrêter pour ne pas se heurter au porche. Nous poursuivîmes\nnotre route; nous avions déjà quitté Martinville depuis un peu de\ntemps et le village après nous avoir accompagnés quelques secondes\navait disparu, que restés seuls à l’horizon à nous regarder fuir, ses\nclochers et celui de Vieuxvicq agitaient encore en signe d’adieu leurs\ncimes ensoleillées. Parfois l’un s’effaçait pour que les deux autres\npussent nous apercevoir un instant encore; mais la route changea de\ndirection, ils virèrent dans la lumière comme trois pivots d’or et\ndisparurent à mes yeux. Mais, un peu plus tard, comme nous étions déjà\nprès de Combray, le soleil étant maintenant couché, je les aperçus une\ndernière fois de très loin qui n’étaient plus que comme trois fleurs\npeintes sur le ciel au-dessus de la ligne basse des champs. Ils me\nfaisaient penser aussi aux trois jeunes filles d’une légende,\nabandonnées dans une solitude où tombait déjà l’obscurité; et tandis\nque nous nous éloignions au galop, je les vis timidement chercher leur\nchemin et après quelques gauches trébuchements de leurs nobles\nsilhouettes, se serrer les uns contre les autres, glisser l’un\nderrière l’autre, ne plus faire sur le ciel encore rose qu’une seule\nforme noire, charmante et résignée, et s’effacer dans la nuit.» Je ne\nrepensai jamais à cette page, mais à ce moment-là, quand, au coin du\nsiège où le cocher du docteur plaçait habituellement dans un panier\nles volailles qu’il avait achetées au marché de Martinville, j’eus\nfini de l’écrire, je me trouvai si heureux, je sentais qu’elle m’avait\nsi parfaitement débarrassé de ces clochers et de ce qu’ils cachaient\nderrière eux, que, comme si j’avais été moi-même une poule et si je\nvenais de pondre un œuf, je me mis à chanter à tue-tête.",
+  "entities": [
+    {
+      "text": "«Seuls,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Martinville.",
+      "label": "ORG",
+      "start": 119,
+      "end": 131
+    },
+    {
+      "text": "Bientôt",
+      "label": "ORG",
+      "start": 132,
+      "end": 139
+    },
+    {
+      "text": "Vieuxvicq,",
+      "label": "ORG",
+      "start": 248,
+      "end": 258
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 470,
+      "end": 474
+    },
+    {
+      "text": "Vieuxvicq",
+      "label": "ORG",
+      "start": 489,
+      "end": 498
+    },
+    {
+      "text": "Martinville",
+      "label": "ORG",
+      "start": 548,
+      "end": 559
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 686,
+      "end": 690
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1007
+    },
+    {
+      "text": "Martinville",
+      "label": "ORG",
+      "start": 1058,
+      "end": 1069
+    },
+    {
+      "text": "Vieuxvicq",
+      "label": "ORG",
+      "start": 1245,
+      "end": 1254
+    },
+    {
+      "text": "Parfois",
+      "label": "ORG",
+      "start": 1315,
+      "end": 1322
+    },
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 1523,
+      "end": 1528
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 1578,
+      "end": 1586
+    },
+    {
+      "text": "Martinville,",
+      "label": "ORG",
+      "start": 2429,
+      "end": 2441
+    }
+  ],
+  "sentences": [
+    {
+      "text": "«Seuls, s’élevant du niveau de la plaine et comme perdus en rase\ncampagne, montaient vers le ciel les deux clochers de Martinville",
+      "start": 0,
+      "end": 130
+    },
+    {
+      "text": "Bientôt nous en vîmes trois: venant se placer en face d’eux par une\nvolte hardie, un clocher retardataire, celui de Vieuxvicq, les avait\nrejoints",
+      "start": 131,
+      "end": 277
+    },
+    {
+      "text": "Les minutes passaient, nous allions vite et pourtant les\ntrois clochers étaient toujours au loin devant nous, comme trois\noiseaux posés sur la plaine, immobiles et qu’on distingue au soleil",
+      "start": 278,
+      "end": 468
+    },
+    {
+      "text": "Puis le clocher de Vieuxvicq s’écarta, prit ses distances, et les\nclochers de Martinville restèrent seuls, éclairés par la lumière du\ncouchant que même à cette distance, sur leurs pentes, je voyais jouer\net sourire",
+      "start": 469,
+      "end": 684
+    },
+    {
+      "text": "Nous avions été si longs à nous rapprocher d’eux, que je\npensais au temps qu’il faudrait encore pour les atteindre quand, tout\nd’un coup, la voiture ayant tourné, elle nous déposa à leurs pieds; et\nils s’étaient jetés si rudement au-devant d’elle, qu’on n’eut que le\ntemps d’arrêter pour ne pas se heurter au porche",
+      "start": 685,
+      "end": 1001
+    },
+    {
+      "text": "Nous poursuivîmes\nnotre route; nous avions déjà quitté Martinville depuis un peu de\ntemps et le village après nous avoir accompagnés quelques secondes\navait disparu, que restés seuls à l’horizon à nous regarder fuir, ses\nclochers et celui de Vieuxvicq agitaient encore en signe d’adieu leurs\ncimes ensoleillées",
+      "start": 1002,
+      "end": 1313
+    },
+    {
+      "text": "Parfois l’un s’effaçait pour que les deux autres\npussent nous apercevoir un instant encore; mais la route changea de\ndirection, ils virèrent dans la lumière comme trois pivots d’or et\ndisparurent à mes yeux",
+      "start": 1314,
+      "end": 1521
+    },
+    {
+      "text": "Mais, un peu plus tard, comme nous étions déjà\nprès de Combray, le soleil étant maintenant couché, je les aperçus une\ndernière fois de très loin qui n’étaient plus que comme trois fleurs\npeintes sur le ciel au-dessus de la ligne basse des champs",
+      "start": 1522,
+      "end": 1768
+    },
+    {
+      "text": "Ils me\nfaisaient penser aussi aux trois jeunes filles d’une légende,\nabandonnées dans une solitude où tombait déjà l’obscurité; et tandis\nque nous nous éloignions au galop, je les vis timidement chercher leur\nchemin et après quelques gauches trébuchements de leurs nobles\nsilhouettes, se serrer les uns contre les autres, glisser l’un\nderrière l’autre, ne plus faire sur le ciel encore rose qu’une seule\nforme noire, charmante et résignée, et s’effacer dans la nuit",
+      "start": 1769,
+      "end": 2235
+    },
+    {
+      "text": "» Je ne\nrepensai jamais à cette page, mais à ce moment-là, quand, au coin du\nsiège où le cocher du docteur plaçait habituellement dans un panier\nles volailles qu’il avait achetées au marché de Martinville, j’eus\nfini de l’écrire, je me trouvai si heureux, je sentais qu’elle m’avait\nsi parfaitement débarrassé de ces clochers et de ce qu’ils cachaient\nderrière eux, que, comme si j’avais été moi-même une poule et si je\nvenais de pondre un œuf, je me mis à chanter à tue-tête",
+      "start": 2236,
+      "end": 2711
+    }
+  ],
+  "tokens": 450,
+  "processed_at": "2025-03-16T02:10:55.697241"
+}

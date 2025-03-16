@@ -1,0 +1,37 @@
+{
+  "text": "Mais ils se turent; sous l’agitation des trémolos de violon qui la\nprotégeaient de leur tenue frémissante à deux octaves de là--et comme\ndans un pays de montagne, derrière l’immobilité apparente et\nvertigineuse d’une cascade, on aperçoit, deux cents pieds plus bas, la\nforme minuscule d’une promeneuse--la petite phrase venait d’apparaître,\nlointaine, gracieuse, protégée par le long déferlement du rideau\ntransparent, incessant et sonore. Et Swann, en son cœur, s’adressa à\nelle comme à une confidente de son amour, comme à une amie d’Odette\nqui devrait bien lui dire de ne pas faire attention à ce Forcheville.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 443,
+      "end": 449
+    },
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 600,
+      "end": 612
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais ils se turent; sous l’agitation des trémolos de violon qui la\nprotégeaient de leur tenue frémissante à deux octaves de là--et comme\ndans un pays de montagne, derrière l’immobilité apparente et\nvertigineuse d’une cascade, on aperçoit, deux cents pieds plus bas, la\nforme minuscule d’une promeneuse--la petite phrase venait d’apparaître,\nlointaine, gracieuse, protégée par le long déferlement du rideau\ntransparent, incessant et sonore",
+      "start": 0,
+      "end": 438
+    },
+    {
+      "text": "Et Swann, en son cœur, s’adressa à\nelle comme à une confidente de son amour, comme à une amie d’Odette\nqui devrait bien lui dire de ne pas faire attention à ce Forcheville",
+      "start": 439,
+      "end": 611
+    }
+  ],
+  "tokens": 97,
+  "processed_at": "2025-03-16T02:10:56.547342"
+}

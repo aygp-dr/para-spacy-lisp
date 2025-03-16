@@ -1,0 +1,54 @@
+{
+  "text": "--Je te dirai, dit Mme Verdurin, qu’il a cru devoir lancer contre\nBrichot quelques insinuations venimeuses et assez ridicules.\nNaturellement, comme il a vu que Brichot était aimé dans la maison,\nc’était une manière de nous atteindre, de bêcher notre dîner. On sent\nle bon petit camarade qui vous débinera en sortant.",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 23,
+      "end": 32
+    },
+    {
+      "text": "Brichot",
+      "label": "ORG",
+      "start": 66,
+      "end": 73
+    },
+    {
+      "text": "Naturellement,",
+      "label": "ORG",
+      "start": 127,
+      "end": 141
+    },
+    {
+      "text": "Brichot",
+      "label": "ORG",
+      "start": 160,
+      "end": 167
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je te dirai, dit Mme Verdurin, qu’il a cru devoir lancer contre\nBrichot quelques insinuations venimeuses et assez ridicules",
+      "start": 0,
+      "end": 125
+    },
+    {
+      "text": "Naturellement, comme il a vu que Brichot était aimé dans la maison,\nc’était une manière de nous atteindre, de bêcher notre dîner",
+      "start": 126,
+      "end": 255
+    },
+    {
+      "text": "On sent\nle bon petit camarade qui vous débinera en sortant",
+      "start": 256,
+      "end": 315
+    }
+  ],
+  "tokens": 52,
+  "processed_at": "2025-03-16T02:10:56.597226"
+}

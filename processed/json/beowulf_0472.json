@@ -1,0 +1,32 @@
+{
+  "text": "--Je connais bien quelqu’un qui s’appelle Vinteuil, dit Swann, en\npensant au professeur de piano des sœurs de ma grand’mère.",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 42,
+      "end": 51
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 56,
+      "end": 62
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je connais bien quelqu’un qui s’appelle Vinteuil, dit Swann, en\npensant au professeur de piano des sœurs de ma grand’mère",
+      "start": 0,
+      "end": 123
+    }
+  ],
+  "tokens": 20,
+  "processed_at": "2025-03-16T02:10:55.976445"
+}

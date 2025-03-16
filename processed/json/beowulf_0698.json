@@ -1,0 +1,13 @@
+{
+  "text": "Il arriva chez elle après onze heures, et, comme il s’excusait de\nn’avoir pu venir plus tôt, elle se plaignit que ce fût en effet bien\ntard, l’orage l’avait rendue souffrante, elle se sentait mal à la tête\net le prévint qu’elle ne le garderait pas plus d’une demi-heure, qu’à\nminuit, elle le renverrait; et, peu après, elle se sentit fatiguée et\ndésira s’endormir.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "Il arriva chez elle après onze heures, et, comme il s’excusait de\nn’avoir pu venir plus tôt, elle se plaignit que ce fût en effet bien\ntard, l’orage l’avait rendue souffrante, elle se sentait mal à la tête\net le prévint qu’elle ne le garderait pas plus d’une demi-heure, qu’à\nminuit, elle le renverrait; et, peu après, elle se sentit fatiguée et\ndésira s’endormir",
+      "start": 0,
+      "end": 363
+    }
+  ],
+  "tokens": 64,
+  "processed_at": "2025-03-16T02:10:56.645672"
+}

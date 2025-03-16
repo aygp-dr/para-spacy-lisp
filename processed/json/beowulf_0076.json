@@ -1,0 +1,20 @@
+{
+  "text": "--«Françoise, vous n’avez pas entendu ce carillon qui m’a cassé la\ntête?»",
+  "entities": [
+    {
+      "text": "--«Françoise,",
+      "label": "ORG",
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Françoise, vous n’avez pas entendu ce carillon qui m’a cassé la\ntête?»",
+      "start": 0,
+      "end": 73
+    }
+  ],
+  "tokens": 12,
+  "processed_at": "2025-03-16T02:10:54.631192"
+}

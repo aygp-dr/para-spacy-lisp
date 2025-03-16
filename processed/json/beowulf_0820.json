@@ -1,0 +1,94 @@
+{
+  "text": "Swann retrouva rapidement le sentiment de la laideur masculine, quand,\nau delà de la tenture de tapisserie, au spectacle des domestiques\nsuccéda celui des invités. Mais cette laideur même de visages qu’il\nconnaissait pourtant si bien, lui semblait neuve depuis que leurs\ntraits,--au lieu d’être pour lui des signes pratiquement utilisables à\nl’identification de telle personne qui lui avait représenté jusque-là\nun faisceau de plaisirs à poursuivre, d’ennuis à éviter, ou de\npolitesses à rendre,--reposaient, coordonnés seulement par des rapports\nesthétiques, dans l’autonomie de leurs lignes. Et en ces hommes, au\nmilieu desquels Swann se trouva enserré, il n’était pas jusqu’aux\nmonocles que beaucoup portaient (et qui, autrefois, auraient tout au\nplus permis à Swann de dire qu’ils portaient un monocle), qui, déliés\nmaintenant de signifier une habitude, la même pour tous, ne lui\napparussent chacun avec une sorte d’individualité. Peut-être parce\nqu’il ne regarda le général de Froberville et le marquis de Bréauté\nqui causaient dans l’entrée que comme deux personnages dans un\ntableau, alors qu’ils avaient été longtemps pour lui les amis utiles\nqui l’avaient présenté au Jockey et assisté dans des duels, le monocle\ndu général, resté entre ses paupières comme un éclat d’obus dans sa\nfigure vulgaire, balafrée et triomphale, au milieu du front qu’il\néborgnait comme l’œil unique du cyclope, apparut à Swann comme une\nblessure monstrueuse qu’il pouvait être glorieux d’avoir reçue, mais\nqu’il était indécent d’exhiber; tandis que celui que M. de Bréauté\najoutait, en signe de festivité, aux gants gris perle, au «gibus», à\nla cravate blanche et substituait au binocle familier (comme faisait\nSwann lui-même) pour aller dans le monde, portait collé à son revers,\ncomme une préparation d’histoire naturelle sous un microscope, un\nregard infinitésimal et grouillant d’amabilité, qui ne cessait de\nsourire à la hauteur des plafonds, à la beauté des fêtes, à l’intérêt\ndes programmes et à la qualité des rafraîchissements.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 164,
+      "end": 168
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 631,
+      "end": 636
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 764,
+      "end": 769
+    },
+    {
+      "text": "Froberville",
+      "label": "ORG",
+      "start": 982,
+      "end": 993
+    },
+    {
+      "text": "Bréauté",
+      "label": "ORG",
+      "start": 1011,
+      "end": 1018
+    },
+    {
+      "text": "Jockey",
+      "label": "ORG",
+      "start": 1177,
+      "end": 1183
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1407,
+      "end": 1412
+    },
+    {
+      "text": "Bréauté",
+      "label": "ORG",
+      "start": 1551,
+      "end": 1558
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1697,
+      "end": 1702
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann retrouva rapidement le sentiment de la laideur masculine, quand,\nau delà de la tenture de tapisserie, au spectacle des domestiques\nsuccéda celui des invités",
+      "start": 0,
+      "end": 162
+    },
+    {
+      "text": "Mais cette laideur même de visages qu’il\nconnaissait pourtant si bien, lui semblait neuve depuis que leurs\ntraits,--au lieu d’être pour lui des signes pratiquement utilisables à\nl’identification de telle personne qui lui avait représenté jusque-là\nun faisceau de plaisirs à poursuivre, d’ennuis à éviter, ou de\npolitesses à rendre,--reposaient, coordonnés seulement par des rapports\nesthétiques, dans l’autonomie de leurs lignes",
+      "start": 163,
+      "end": 592
+    },
+    {
+      "text": "Et en ces hommes, au\nmilieu desquels Swann se trouva enserré, il n’était pas jusqu’aux\nmonocles que beaucoup portaient (et qui, autrefois, auraient tout au\nplus permis à Swann de dire qu’ils portaient un monocle), qui, déliés\nmaintenant de signifier une habitude, la même pour tous, ne lui\napparussent chacun avec une sorte d’individualité",
+      "start": 593,
+      "end": 933
+    },
+    {
+      "text": "Peut-être parce\nqu’il ne regarda le général de Froberville et le marquis de Bréauté\nqui causaient dans l’entrée que comme deux personnages dans un\ntableau, alors qu’ils avaient été longtemps pour lui les amis utiles\nqui l’avaient présenté au Jockey et assisté dans des duels, le monocle\ndu général, resté entre ses paupières comme un éclat d’obus dans sa\nfigure vulgaire, balafrée et triomphale, au milieu du front qu’il\néborgnait comme l’œil unique du cyclope, apparut à Swann comme une\nblessure monstrueuse qu’il pouvait être glorieux d’avoir reçue, mais\nqu’il était indécent d’exhiber; tandis que celui que M",
+      "start": 934,
+      "end": 1546
+    },
+    {
+      "text": "de Bréauté\najoutait, en signe de festivité, aux gants gris perle, au «gibus», à\nla cravate blanche et substituait au binocle familier (comme faisait\nSwann lui-même) pour aller dans le monde, portait collé à son revers,\ncomme une préparation d’histoire naturelle sous un microscope, un\nregard infinitésimal et grouillant d’amabilité, qui ne cessait de\nsourire à la hauteur des plafonds, à la beauté des fêtes, à l’intérêt\ndes programmes et à la qualité des rafraîchissements",
+      "start": 1547,
+      "end": 2021
+    }
+  ],
+  "tokens": 313,
+  "processed_at": "2025-03-16T02:10:57.013757"
+}

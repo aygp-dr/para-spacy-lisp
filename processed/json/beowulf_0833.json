@@ -1,0 +1,31 @@
+{
+  "text": "--Tu sais, mon mari n’est pas bien, son foie..., cela lui ferait grand\nplaisir de te voir, reprit Mme de Gallardon, faisant maintenant à la\nprincesse une obligation de charité de paraître à sa soirée.",
+  "entities": [
+    {
+      "text": "--Tu",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Gallardon,",
+      "label": "ORG",
+      "start": 105,
+      "end": 115
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Tu sais, mon mari n’est pas bien, son foie",
+      "start": 0,
+      "end": 44
+    },
+    {
+      "text": ", cela lui ferait grand\nplaisir de te voir, reprit Mme de Gallardon, faisant maintenant à la\nprincesse une obligation de charité de paraître à sa soirée",
+      "start": 47,
+      "end": 199
+    }
+  ],
+  "tokens": 35,
+  "processed_at": "2025-03-16T02:10:57.057663"
+}

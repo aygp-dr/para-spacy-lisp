@@ -1,0 +1,71 @@
+{
+  "text": "Bien qu’elle ne lui permît pas en général de la rejoindre dans des\nlieux publics disant que cela ferait jaser, il arrivait que dans une\nsoirée où il était invité comme elle,--chez Forcheville, chez le\npeintre, ou à un bal de charité dans un ministère,--il se trouvât en\nmême temps qu’elle. Il la voyait mais n’osait pas rester de peur de\nl’irriter en ayant l’air d’épier les plaisirs qu’elle prenait avec\nd’autres et qui--tandis qu’il rentrait solitaire, qu’il allait se\ncoucher anxieux comme je devais l’être moi-même quelques années plus\ntard les soirs où il viendrait dîner à la maison, à Combray--lui\nsemblaient illimités parce qu’il n’en avait pas vu la fin. Et une fois\nou deux il connut par de tels soirs de ces joies qu’on serait tenté,\nsi elles ne subissaient avec tant de violence le choc en retour de\nl’inquiétude brusquement arrêtée, d’appeler des joies calmes, parce\nqu’elles consistent en un apaisement: il était allé passer un instant\nà un raout chez le peintre et s’apprêtait à le quitter; il y laissait\nOdette muée en une brillante étrangère, au milieu d’hommes à qui ses\nregards et sa gaieté qui n’étaient pas pour lui, semblaient parler de\nquelque volupté, qui serait goûtée là ou ailleurs (peut-être au «Bal\ndes Incohérents» où il tremblait qu’elle n’allât ensuite) et qui\ncausait à Swann plus de jalousie que l’union charnelle même parce\nqu’il l’imaginait plus difficilement; il était déjà prêt à passer la\nporte de l’atelier quand il s’entendait rappeler par ces mots (qui en\nretranchant de la fête cette fin qui l’épouvantait, la lui rendaient\nrétrospectivement innocente, faisaient du retour d’Odette une chose\nnon plus inconcevable et terrible, mais douce et connue et qui\ntiendrait à côté de lui, pareille à un peu de sa vie de tous les\njours, dans sa voiture, et dépouillait Odette elle-même de son\napparence trop brillante et gaie, montraient que ce n’était qu’un\ndéguisement qu’elle avait revêtu un moment, pour lui-même, non en vue\nde mystérieux plaisirs, et duquel elle était déjà lasse), par ces mots\nqu’Odette lui jetait, comme il était déjà sur le seuil: «Vous ne\nvoudriez pas m’attendre cinq minutes, je vais partir, nous\nreviendrions ensemble, vous me ramèneriez chez moi.»",
+  "entities": [
+    {
+      "text": "Bien",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 180,
+      "end": 192
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1020,
+      "end": 1026
+    },
+    {
+      "text": "«Bal",
+      "label": "ORG",
+      "start": 1223,
+      "end": 1227
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1303,
+      "end": 1308
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1618,
+      "end": 1624
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 2089,
+      "end": 2094
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Bien qu’elle ne lui permît pas en général de la rejoindre dans des\nlieux publics disant que cela ferait jaser, il arrivait que dans une\nsoirée où il était invité comme elle,--chez Forcheville, chez le\npeintre, ou à un bal de charité dans un ministère,--il se trouvât en\nmême temps qu’elle",
+      "start": 0,
+      "end": 288
+    },
+    {
+      "text": "Il la voyait mais n’osait pas rester de peur de\nl’irriter en ayant l’air d’épier les plaisirs qu’elle prenait avec\nd’autres et qui--tandis qu’il rentrait solitaire, qu’il allait se\ncoucher anxieux comme je devais l’être moi-même quelques années plus\ntard les soirs où il viendrait dîner à la maison, à Combray--lui\nsemblaient illimités parce qu’il n’en avait pas vu la fin",
+      "start": 289,
+      "end": 662
+    },
+    {
+      "text": "Et une fois\nou deux il connut par de tels soirs de ces joies qu’on serait tenté,\nsi elles ne subissaient avec tant de violence le choc en retour de\nl’inquiétude brusquement arrêtée, d’appeler des joies calmes, parce\nqu’elles consistent en un apaisement: il était allé passer un instant\nà un raout chez le peintre et s’apprêtait à le quitter; il y laissait\nOdette muée en une brillante étrangère, au milieu d’hommes à qui ses\nregards et sa gaieté qui n’étaient pas pour lui, semblaient parler de\nquelque volupté, qui serait goûtée là ou ailleurs (peut-être au «Bal\ndes Incohérents» où il tremblait qu’elle n’allât ensuite) et qui\ncausait à Swann plus de jalousie que l’union charnelle même parce\nqu’il l’imaginait plus difficilement; il était déjà prêt à passer la\nporte de l’atelier quand il s’entendait rappeler par ces mots (qui en\nretranchant de la fête cette fin qui l’épouvantait, la lui rendaient\nrétrospectivement innocente, faisaient du retour d’Odette une chose\nnon plus inconcevable et terrible, mais douce et connue et qui\ntiendrait à côté de lui, pareille à un peu de sa vie de tous les\njours, dans sa voiture, et dépouillait Odette elle-même de son\napparence trop brillante et gaie, montraient que ce n’était qu’un\ndéguisement qu’elle avait revêtu un moment, pour lui-même, non en vue\nde mystérieux plaisirs, et duquel elle était déjà lasse), par ces mots\nqu’Odette lui jetait, comme il était déjà sur le seuil: «Vous ne\nvoudriez pas m’attendre cinq minutes, je vais partir, nous\nreviendrions ensemble, vous me ramèneriez chez moi",
+      "start": 663,
+      "end": 2207
+    },
+    {
+      "text": "»",
+      "start": 1243,
+      "end": 1244
+    }
+  ],
+  "tokens": 370,
+  "processed_at": "2025-03-16T02:10:56.846587"
+}

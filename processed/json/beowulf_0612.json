@@ -1,0 +1,42 @@
+{
+  "text": "Mme Cottard qui était modeste et parlait peu, savait pourtant ne pas\nmanquer d’assurance quand une heureuse inspiration lui avait fait\ntrouver un mot juste. Elle sentait qu’il aurait du succès, cela la\nmettait en confiance, et ce qu’elle en faisait était moins pour\nbriller que pour être utile à la carrière de son mari. Aussi ne\nlaissa-t-elle pas échapper le mot de salade que venait de prononcer\nMme Verdurin.",
+  "entities": [
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 4,
+      "end": 11
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 157,
+      "end": 161
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 402,
+      "end": 411
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mme Cottard qui était modeste et parlait peu, savait pourtant ne pas\nmanquer d’assurance quand une heureuse inspiration lui avait fait\ntrouver un mot juste",
+      "start": 0,
+      "end": 155
+    },
+    {
+      "text": "Elle sentait qu’il aurait du succès, cela la\nmettait en confiance, et ce qu’elle en faisait était moins pour\nbriller que pour être utile à la carrière de son mari",
+      "start": 156,
+      "end": 319
+    },
+    {
+      "text": "Aussi ne\nlaissa-t-elle pas échapper le mot de salade que venait de prononcer\nMme Verdurin",
+      "start": 320,
+      "end": 410
+    }
+  ],
+  "tokens": 70,
+  "processed_at": "2025-03-16T02:10:56.387485"
+}

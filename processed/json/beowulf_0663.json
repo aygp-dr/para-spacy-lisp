@@ -1,0 +1,42 @@
+{
+  "text": "Mais le docteur Cottard, qui n’avait jamais entendu ce calembour, ne\nle comprit pas et crut à une erreur de M. de Forcheville. Il\ns’approcha vivement pour la rectifier:",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Cottard,",
+      "label": "ORG",
+      "start": 16,
+      "end": 24
+    },
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 114,
+      "end": 126
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais le docteur Cottard, qui n’avait jamais entendu ce calembour, ne\nle comprit pas et crut à une erreur de M",
+      "start": 0,
+      "end": 109
+    },
+    {
+      "text": "de Forcheville",
+      "start": 110,
+      "end": 125
+    },
+    {
+      "text": "Il\ns’approcha vivement pour la rectifier:",
+      "start": 126,
+      "end": 168
+    }
+  ],
+  "tokens": 29,
+  "processed_at": "2025-03-16T02:10:56.535290"
+}

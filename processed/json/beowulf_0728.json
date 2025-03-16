@@ -1,0 +1,43 @@
+{
+  "text": "M. et Mme Verdurin firent monter avec eux Forcheville, la voiture de\nSwann s’était rangée derrière la leur dont il attendait le départ pour\nfaire monter Odette dans la sienne.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 10,
+      "end": 18
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 42,
+      "end": 54
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 69,
+      "end": 74
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 153,
+      "end": 159
+    }
+  ],
+  "sentences": [
+    {
+      "text": "M",
+      "start": 0,
+      "end": 1
+    },
+    {
+      "text": "et Mme Verdurin firent monter avec eux Forcheville, la voiture de\nSwann s’était rangée derrière la leur dont il attendait le départ pour\nfaire monter Odette dans la sienne",
+      "start": 2,
+      "end": 174
+    }
+  ],
+  "tokens": 30,
+  "processed_at": "2025-03-16T02:10:56.732964"
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Et le jardinier: «Ah! ils sont malins», car il n’admettait pas que la\nguerre ne fût pas une espèce de mauvais tour que l’État essayait de\njouer au peuple et que, si on avait eu le moyen de le faire, il n’est\npas une seule personne qui n’eût filé.",
+  "entities": [
+    {
+      "text": "«Ah!",
+      "label": "ORG",
+      "start": 17,
+      "end": 21
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et le jardinier: «Ah! ils sont malins», car il n’admettait pas que la\nguerre ne fût pas une espèce de mauvais tour que l’État essayait de\njouer au peuple et que, si on avait eu le moyen de le faire, il n’est\npas une seule personne qui n’eût filé",
+      "start": 0,
+      "end": 245
+    }
+  ],
+  "tokens": 49,
+  "processed_at": "2025-03-16T02:10:55.011308"
+}

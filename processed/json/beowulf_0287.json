@@ -1,0 +1,20 @@
+{
+  "text": "--«Est-ce que vous avez des amis de ce côté-là, que vous connaissez si\nbien Balbec?»",
+  "entities": [
+    {
+      "text": "Balbec?»",
+      "label": "ORG",
+      "start": 76,
+      "end": 84
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Est-ce que vous avez des amis de ce côté-là, que vous connaissez si\nbien Balbec?»",
+      "start": 0,
+      "end": 84
+    }
+  ],
+  "tokens": 15,
+  "processed_at": "2025-03-16T02:10:55.420752"
+}

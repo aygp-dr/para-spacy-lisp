@@ -1,0 +1,82 @@
+{
+  "text": "Ce second coup porté à Swann était plus atroce encore que le premier.\nJamais il n’avait supposé que ce fût une chose aussi récente, cachée à\nses yeux qui n’avaient pas su la découvrir, non dans un passé qu’il\nn’avait pas connu, mais dans des soirs qu’il se rappelait si bien,\nqu’il avait vécus avec Odette, qu’il avait cru connus si bien par lui\net qui maintenant prenaient rétrospectivement quelque chose de fourbe\net d’atroce; au milieu d’eux tout d’un coup se creusait cette\nouverture béante, ce moment dans l’Ile du Bois. Odette sans être\nintelligente avait le charme du naturel. Elle avait raconté, elle\navait mimé cette scène avec tant de simplicité que Swann haletant\nvoyait tout; le bâillement d’Odette, le petit rocher. Il l’entendait\nrépondre--gaiement, hélas!: «Cette blague»!!! Il sentait qu’elle ne\ndirait rien de plus ce soir, qu’il n’y avait aucune révélation\nnouvelle à attendre en ce moment; il se taisait; il lui dit:",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "Jamais",
+      "label": "ORG",
+      "start": 70,
+      "end": 76
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 299,
+      "end": 306
+    },
+    {
+      "text": "Bois.",
+      "label": "ORG",
+      "start": 520,
+      "end": 525
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 526,
+      "end": 532
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 584,
+      "end": 588
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 660,
+      "end": 665
+    },
+    {
+      "text": "«Cette",
+      "label": "ORG",
+      "start": 772,
+      "end": 778
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ce second coup porté à Swann était plus atroce encore que le premier",
+      "start": 0,
+      "end": 68
+    },
+    {
+      "text": "Jamais il n’avait supposé que ce fût une chose aussi récente, cachée à\nses yeux qui n’avaient pas su la découvrir, non dans un passé qu’il\nn’avait pas connu, mais dans des soirs qu’il se rappelait si bien,\nqu’il avait vécus avec Odette, qu’il avait cru connus si bien par lui\net qui maintenant prenaient rétrospectivement quelque chose de fourbe\net d’atroce; au milieu d’eux tout d’un coup se creusait cette\nouverture béante, ce moment dans l’Ile du Bois",
+      "start": 69,
+      "end": 524
+    },
+    {
+      "text": "Odette sans être\nintelligente avait le charme du naturel",
+      "start": 525,
+      "end": 582
+    },
+    {
+      "text": "Elle avait raconté, elle\navait mimé cette scène avec tant de simplicité que Swann haletant\nvoyait tout; le bâillement d’Odette, le petit rocher",
+      "start": 583,
+      "end": 727
+    },
+    {
+      "text": "Il l’entendait\nrépondre--gaiement, hélas!: «Cette blague»!!! Il sentait qu’elle ne\ndirait rien de plus ce soir, qu’il n’y avait aucune révélation\nnouvelle à attendre en ce moment; il se taisait; il lui dit:",
+      "start": 728,
+      "end": 935
+    }
+  ],
+  "tokens": 157,
+  "processed_at": "2025-03-16T02:10:57.390195"
+}

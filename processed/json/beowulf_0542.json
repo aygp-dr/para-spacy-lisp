@@ -1,0 +1,20 @@
+{
+  "text": "Mais le cocher revint lui dire qu’il ne l’avait trouvée nulle part, et\najouta son avis, en vieux serviteur:",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais le cocher revint lui dire qu’il ne l’avait trouvée nulle part, et\najouta son avis, en vieux serviteur:",
+      "start": 0,
+      "end": 107
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:56.179988"
+}

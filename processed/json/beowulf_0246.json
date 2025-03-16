@@ -1,0 +1,32 @@
+{
+  "text": "Mais quand le curé était venu aussi et que sa visite interminable\navait épuisé les forces de ma tante, Françoise sortait de la chambre\nderrière Eulalie et disait:",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 103,
+      "end": 112
+    },
+    {
+      "text": "Eulalie",
+      "label": "ORG",
+      "start": 144,
+      "end": 151
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais quand le curé était venu aussi et que sa visite interminable\navait épuisé les forces de ma tante, Françoise sortait de la chambre\nderrière Eulalie et disait:",
+      "start": 0,
+      "end": 162
+    }
+  ],
+  "tokens": 28,
+  "processed_at": "2025-03-16T02:10:55.274168"
+}

@@ -1,0 +1,20 @@
+{
+  "text": "--«Comme il ressemble à sa mère,» dit-elle.",
+  "entities": [
+    {
+      "text": "--«Comme",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Comme il ressemble à sa mère,» dit-elle",
+      "start": 0,
+      "end": 42
+    }
+  ],
+  "tokens": 7,
+  "processed_at": "2025-03-16T02:10:54.842483"
+}

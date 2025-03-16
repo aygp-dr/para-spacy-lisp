@@ -1,0 +1,58 @@
+{
+  "text": "--«Ah! je vous crois bien, ma pauvre Françoise, répondait ma tante en\nhaussant les épaules, chez M. le Curé! Vous savez bien qu’il ne fait\npousser que de petites méchantes asperges de rien. Je vous dis que\ncelles-là étaient grosses comme le bras. Pas comme le vôtre, bien sûr,\nmais comme mon pauvre bras qui a encore tant maigri cette année.»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 37,
+      "end": 47
+    },
+    {
+      "text": "Curé!",
+      "label": "ORG",
+      "start": 103,
+      "end": 108
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 109,
+      "end": 113
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! je vous crois bien, ma pauvre Françoise, répondait ma tante en\nhaussant les épaules, chez M",
+      "start": 0,
+      "end": 98
+    },
+    {
+      "text": "le Curé! Vous savez bien qu’il ne fait\npousser que de petites méchantes asperges de rien",
+      "start": 99,
+      "end": 188
+    },
+    {
+      "text": "Je vous dis que\ncelles-là étaient grosses comme le bras",
+      "start": 189,
+      "end": 245
+    },
+    {
+      "text": "Pas comme le vôtre, bien sûr,\nmais comme mon pauvre bras qui a encore tant maigri cette année",
+      "start": 246,
+      "end": 340
+    },
+    {
+      "text": "»",
+      "start": 341,
+      "end": 342
+    }
+  ],
+  "tokens": 61,
+  "processed_at": "2025-03-16T02:10:54.628110"
+}

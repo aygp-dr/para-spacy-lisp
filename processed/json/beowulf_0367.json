@@ -1,0 +1,136 @@
+{
+  "text": "Tout d’un coup pendant la messe de mariage, un mouvement que fit le\nsuisse en se déplaçant me permit de voir assise dans une chapelle une\ndame blonde avec un grand nez, des yeux bleus et perçants, une cravate\nbouffante en soie mauve, lisse, neuve et brillante, et un petit bouton\nau coin du nez. Et parce que dans la surface de son visage rouge,\ncomme si elle eût eu très chaud, je distinguais, diluées et à peine\nperceptibles, des parcelles d’analogie avec le portrait qu’on m’avait\nmontré, parce que surtout les traits particuliers que je relevais en\nelle, si j’essayais de les énoncer, se formulaient précisément dans\nles mêmes termes: un grand nez, des yeux bleus, dont s’était servi le\ndocteur Percepied quand il avait décrit devant moi la duchesse de\nGuermantes, je me dis: cette dame ressemble à Mme de Guermantes; or la\nchapelle où elle suivait la messe était celle de Gilbert le Mauvais,\nsous les plates tombes de laquelle, dorées et distendues comme des\nalvéoles de miel, reposaient les anciens comtes de Brabant, et que je\nme rappelais être à ce qu’on m’avait dit réservée à la famille de\nGuermantes quand quelqu’un de ses membres venait pour une cérémonie à\nCombray; il ne pouvait vraisemblablement y avoir qu’une seule femme\nressemblant au portrait de Mme de Guermantes, qui fût ce jour-là, jour\noù elle devait justement venir, dans cette chapelle: c’était elle! Ma\ndéception était grande. Elle provenait de ce que je n’avais jamais\npris garde quand je pensais à Mme de Guermantes, que je me la\nreprésentais avec les couleurs d’une tapisserie ou d’un vitrail, dans\nun autre siècle, d’une autre matière que le reste des personnes\nvivantes. Jamais je ne m’étais avisé qu’elle pouvait avoir une figure\nrouge, une cravate mauve comme Mme Sazerat, et l’ovale de ses joues me\nfit tellement souvenir de personnes que j’avais vues à la maison que\nle soupçon m’effleura, pour se dissiper d’ailleurs aussitôt après, que\ncette dame en son principe générateur, en toutes ses molécules,\nn’était peut-être pas substantiellement la duchesse de Guermantes,\nmais que son corps, ignorant du nom qu’on lui appliquait, appartenait\nà un certain type féminin, qui comprenait aussi des femmes de médecins\net de commerçants. «C’est cela, ce n’est que cela, Mme de Guermantes!»\ndisait la mine attentive et étonnée avec laquelle je contemplais cette\nimage qui naturellement n’avait aucun rapport avec celles qui sous le\nmême nom de Mme de Guermantes étaient apparues tant de fois dans mes\nsonges, puisque, elle, elle n’avait pas été comme les autres\narbitrairement formée par moi, mais qu’elle m’avait sauté aux yeux\npour la première fois il y a un moment seulement, dans l’église; qui\nn’était pas de la même nature, n’était pas colorable à volonté comme\nelles qui se laissaient imbiber de la teinte orangée d’une syllabe,\nmais était si réelle que tout, jusqu’à ce petit bouton qui\ns’enflammait au coin du nez, certifiait son assujettissement aux lois\nde la vie, comme dans une apothéose de théâtre, un plissement de la\nrobe de la fée, un tremblement de son petit doigt, dénoncent la\nprésence matérielle d’une actrice vivante, là où nous étions\nincertains si nous n’avions pas devant les yeux une simple projection\nlumineuse.",
+  "entities": [
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Percepied",
+      "label": "PERSON",
+      "start": 699,
+      "end": 708
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 757,
+      "end": 768
+    },
+    {
+      "text": "Guermantes;",
+      "label": "ORG",
+      "start": 810,
+      "end": 821
+    },
+    {
+      "text": "Gilbert",
+      "label": "ORG",
+      "start": 877,
+      "end": 884
+    },
+    {
+      "text": "Mauvais,",
+      "label": "ORG",
+      "start": 888,
+      "end": 896
+    },
+    {
+      "text": "Brabant,",
+      "label": "ORG",
+      "start": 1015,
+      "end": 1023
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 1100,
+      "end": 1110
+    },
+    {
+      "text": "Combray;",
+      "label": "ORG",
+      "start": 1170,
+      "end": 1178
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 1272,
+      "end": 1283
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1403,
+      "end": 1407
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 1483,
+      "end": 1494
+    },
+    {
+      "text": "Jamais",
+      "label": "ORG",
+      "start": 1652,
+      "end": 1658
+    },
+    {
+      "text": "Sazerat,",
+      "label": "ORG",
+      "start": 1747,
+      "end": 1755
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 2042,
+      "end": 2053
+    },
+    {
+      "text": "Guermantes!»",
+      "label": "ORG",
+      "start": 2253,
+      "end": 2265
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 2426,
+      "end": 2436
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Tout d’un coup pendant la messe de mariage, un mouvement que fit le\nsuisse en se déplaçant me permit de voir assise dans une chapelle une\ndame blonde avec un grand nez, des yeux bleus et perçants, une cravate\nbouffante en soie mauve, lisse, neuve et brillante, et un petit bouton\nau coin du nez",
+      "start": 0,
+      "end": 294
+    },
+    {
+      "text": "Et parce que dans la surface de son visage rouge,\ncomme si elle eût eu très chaud, je distinguais, diluées et à peine\nperceptibles, des parcelles d’analogie avec le portrait qu’on m’avait\nmontré, parce que surtout les traits particuliers que je relevais en\nelle, si j’essayais de les énoncer, se formulaient précisément dans\nles mêmes termes: un grand nez, des yeux bleus, dont s’était servi le\ndocteur Percepied quand il avait décrit devant moi la duchesse de\nGuermantes, je me dis: cette dame ressemble à Mme de Guermantes; or la\nchapelle où elle suivait la messe était celle de Gilbert le Mauvais,\nsous les plates tombes de laquelle, dorées et distendues comme des\nalvéoles de miel, reposaient les anciens comtes de Brabant, et que je\nme rappelais être à ce qu’on m’avait dit réservée à la famille de\nGuermantes quand quelqu’un de ses membres venait pour une cérémonie à\nCombray; il ne pouvait vraisemblablement y avoir qu’une seule femme\nressemblant au portrait de Mme de Guermantes, qui fût ce jour-là, jour\noù elle devait justement venir, dans cette chapelle: c’était elle! Ma\ndéception était grande",
+      "start": 295,
+      "end": 1401
+    },
+    {
+      "text": "Elle provenait de ce que je n’avais jamais\npris garde quand je pensais à Mme de Guermantes, que je me la\nreprésentais avec les couleurs d’une tapisserie ou d’un vitrail, dans\nun autre siècle, d’une autre matière que le reste des personnes\nvivantes",
+      "start": 1402,
+      "end": 1650
+    },
+    {
+      "text": "Jamais je ne m’étais avisé qu’elle pouvait avoir une figure\nrouge, une cravate mauve comme Mme Sazerat, et l’ovale de ses joues me\nfit tellement souvenir de personnes que j’avais vues à la maison que\nle soupçon m’effleura, pour se dissiper d’ailleurs aussitôt après, que\ncette dame en son principe générateur, en toutes ses molécules,\nn’était peut-être pas substantiellement la duchesse de Guermantes,\nmais que son corps, ignorant du nom qu’on lui appliquait, appartenait\nà un certain type féminin, qui comprenait aussi des femmes de médecins\net de commerçants",
+      "start": 1651,
+      "end": 2212
+    },
+    {
+      "text": "«C’est cela, ce n’est que cela, Mme de Guermantes!»\ndisait la mine attentive et étonnée avec laquelle je contemplais cette\nimage qui naturellement n’avait aucun rapport avec celles qui sous le\nmême nom de Mme de Guermantes étaient apparues tant de fois dans mes\nsonges, puisque, elle, elle n’avait pas été comme les autres\narbitrairement formée par moi, mais qu’elle m’avait sauté aux yeux\npour la première fois il y a un moment seulement, dans l’église; qui\nn’était pas de la même nature, n’était pas colorable à volonté comme\nelles qui se laissaient imbiber de la teinte orangée d’une syllabe,\nmais était si réelle que tout, jusqu’à ce petit bouton qui\ns’enflammait au coin du nez, certifiait son assujettissement aux lois\nde la vie, comme dans une apothéose de théâtre, un plissement de la\nrobe de la fée, un tremblement de son petit doigt, dénoncent la\nprésence matérielle d’une actrice vivante, là où nous étions\nincertains si nous n’avions pas devant les yeux une simple projection\nlumineuse",
+      "start": 2213,
+      "end": 3211
+    }
+  ],
+  "tokens": 539,
+  "processed_at": "2025-03-16T02:10:55.672110"
+}

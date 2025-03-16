@@ -1,0 +1,48 @@
+{
+  "text": "Quel mensonge déprimant était-elle en train de faire à Swann pour\nqu’elle eût ce regard douloureux, cette voix plaintive qui semblaient\nfléchir sous l’effort qu’elle s’imposait, et demander grâce? Il eut\nl’idée que ce n’était pas seulement la vérité sur l’incident de\nl’après-midi qu’elle s’efforçait de lui cacher, mais quelque chose de\nplus actuel, peut-être de non encore survenu et de tout prochain, et\nqui pourrait l’éclairer sur cette vérité. A ce moment, il entendit un\ncoup de sonnette. Odette ne cessa plus de parler, mais ses paroles\nn’étaient qu’un gémissement: son regret de ne pas avoir vu Swann dans\nl’après-midi, de ne pas lui avoir ouvert, était devenu un véritable\ndésespoir.",
+  "entities": [
+    {
+      "text": "Quel",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 55,
+      "end": 60
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 495,
+      "end": 501
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 603,
+      "end": 608
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quel mensonge déprimant était-elle en train de faire à Swann pour\nqu’elle eût ce regard douloureux, cette voix plaintive qui semblaient\nfléchir sous l’effort qu’elle s’imposait, et demander grâce? Il eut\nl’idée que ce n’était pas seulement la vérité sur l’incident de\nl’après-midi qu’elle s’efforçait de lui cacher, mais quelque chose de\nplus actuel, peut-être de non encore survenu et de tout prochain, et\nqui pourrait l’éclairer sur cette vérité",
+      "start": 0,
+      "end": 447
+    },
+    {
+      "text": "A ce moment, il entendit un\ncoup de sonnette",
+      "start": 448,
+      "end": 493
+    },
+    {
+      "text": "Odette ne cessa plus de parler, mais ses paroles\nn’étaient qu’un gémissement: son regret de ne pas avoir vu Swann dans\nl’après-midi, de ne pas lui avoir ouvert, était devenu un véritable\ndésespoir",
+      "start": 494,
+      "end": 691
+    }
+  ],
+  "tokens": 112,
+  "processed_at": "2025-03-16T02:10:56.699138"
+}

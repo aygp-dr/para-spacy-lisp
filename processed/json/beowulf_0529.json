@@ -1,0 +1,54 @@
+{
+  "text": "--Oh! un instant seulement. Nous avons eu un Swann très agité, très\nnerveux. Vous comprenez, Odette était partie.",
+  "entities": [
+    {
+      "text": "--Oh!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 28,
+      "end": 32
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 45,
+      "end": 50
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 77,
+      "end": 81
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 93,
+      "end": 99
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Oh! un instant seulement",
+      "start": 0,
+      "end": 26
+    },
+    {
+      "text": "Nous avons eu un Swann très agité, très\nnerveux",
+      "start": 27,
+      "end": 75
+    },
+    {
+      "text": "Vous comprenez, Odette était partie",
+      "start": 76,
+      "end": 112
+    }
+  ],
+  "tokens": 18,
+  "processed_at": "2025-03-16T02:10:56.140982"
+}

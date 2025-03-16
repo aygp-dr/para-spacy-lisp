@@ -1,0 +1,141 @@
+{
+  "text": "--Mais elle vous adore! Ah! je crois qu’il ne faudrait pas dire ça de\nvous devant elle! On serait bien arrangé! A propos de tout, si on\nvoyait un tableau par exemple elle disait: «Ah! s’il était là, c’est\nlui qui saurait vous dire si c’est authentique ou non. Il n’y a\npersonne comme lui pour ça.» Et à tout moment elle demandait:\n«Qu’est-ce qu’il peut faire en ce moment? Si seulement il travaillait\nun peu! C’est malheureux, un garçon si doué, qu’il soit si paresseux.\n(Vous me pardonnez, n’est-ce pas?)» En ce moment je le vois, il pense\nà nous, il se demande où nous sommes.» Elle a même eu un mot que j’ai\ntrouvé bien joli; M. Verdurin lui disait: «Mais comment pouvez-vous\nvoir ce qu’il fait en ce moment puisque vous êtes à huit cents lieues\nde lui?» Alors Odette lui a répondu: «Rien n’est impossible à l’œil\nd’une amie.» Non je vous jure, je ne vous dis pas cela pour vous\nflatter, vous avez là une vraie amie comme on n’en a pas beaucoup. Je\nvous dirai du reste que si vous ne le savez pas, vous êtes le seul.\nMme Verdurin me le disait encore le dernier jour (vous savez les\nveilles de départ on cause mieux): «Je ne dis pas qu’Odette ne nous\naime pas, mais tout ce que nous lui disons ne pèserait pas lourd\nauprès de ce que lui dirait M. Swann.» Oh! mon Dieu, voilà que le\nconducteur m’arrête, en bavardant avec vous j’allais laisser passer la\nrue Bonaparte... me rendriez-vous le service de me dire si mon\naigrette est droite?»",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "«Ah!",
+      "label": "ORG",
+      "start": 179,
+      "end": 183
+    },
+    {
+      "text": "(Vous",
+      "label": "ORG",
+      "start": 471,
+      "end": 476
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 580,
+      "end": 584
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 632,
+      "end": 640
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 653,
+      "end": 658
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 764,
+      "end": 770
+    },
+    {
+      "text": "«Rien",
+      "label": "ORG",
+      "start": 786,
+      "end": 791
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 1024,
+      "end": 1032
+    },
+    {
+      "text": "Swann.»",
+      "label": "ORG",
+      "start": 1249,
+      "end": 1256
+    },
+    {
+      "text": "Dieu,",
+      "label": "ORG",
+      "start": 1265,
+      "end": 1270
+    },
+    {
+      "text": "Bonaparte...",
+      "label": "ORG",
+      "start": 1359,
+      "end": 1371
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais elle vous adore! Ah! je crois qu’il ne faudrait pas dire ça de\nvous devant elle! On serait bien arrangé! A propos de tout, si on\nvoyait un tableau par exemple elle disait: «Ah! s’il était là, c’est\nlui qui saurait vous dire si c’est authentique ou non",
+      "start": 0,
+      "end": 258
+    },
+    {
+      "text": "Il n’y a\npersonne comme lui pour ça",
+      "start": 259,
+      "end": 295
+    },
+    {
+      "text": "» Et à tout moment elle demandait:\n«Qu’est-ce qu’il peut faire en ce moment? Si seulement il travaillait\nun peu! C’est malheureux, un garçon si doué, qu’il soit si paresseux",
+      "start": 296,
+      "end": 469
+    },
+    {
+      "text": "(Vous me pardonnez, n’est-ce pas?)» En ce moment je le vois, il pense\nà nous, il se demande où nous sommes",
+      "start": 470,
+      "end": 577
+    },
+    {
+      "text": "» Elle a même eu un mot que j’ai\ntrouvé bien joli; M",
+      "start": 578,
+      "end": 630
+    },
+    {
+      "text": "Verdurin lui disait: «Mais comment pouvez-vous\nvoir ce qu’il fait en ce moment puisque vous êtes à huit cents lieues\nde lui?» Alors Odette lui a répondu: «Rien n’est impossible à l’œil\nd’une amie",
+      "start": 631,
+      "end": 827
+    },
+    {
+      "text": "» Non je vous jure, je ne vous dis pas cela pour vous\nflatter, vous avez là une vraie amie comme on n’en a pas beaucoup",
+      "start": 828,
+      "end": 947
+    },
+    {
+      "text": "Je\nvous dirai du reste que si vous ne le savez pas, vous êtes le seul",
+      "start": 948,
+      "end": 1018
+    },
+    {
+      "text": "Mme Verdurin me le disait encore le dernier jour (vous savez les\nveilles de départ on cause mieux): «Je ne dis pas qu’Odette ne nous\naime pas, mais tout ce que nous lui disons ne pèserait pas lourd\nauprès de ce que lui dirait M",
+      "start": 1019,
+      "end": 1247
+    },
+    {
+      "text": "Swann",
+      "start": 1248,
+      "end": 1254
+    },
+    {
+      "text": "» Oh! mon Dieu, voilà que le\nconducteur m’arrête, en bavardant avec vous j’allais laisser passer la\nrue Bonaparte",
+      "start": 1255,
+      "end": 1368
+    },
+    {
+      "text": "me rendriez-vous le service de me dire si mon\naigrette est droite?»",
+      "start": 1371,
+      "end": 1439
+    }
+  ],
+  "tokens": 270,
+  "processed_at": "2025-03-16T02:10:57.443520"
+}

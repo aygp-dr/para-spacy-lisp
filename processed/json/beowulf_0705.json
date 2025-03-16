@@ -1,0 +1,81 @@
+{
+  "text": "Sur le point de frapper contre les volets, il eut un moment de honte\nen pensant qu’Odette allait savoir qu’il avait eu des soupçons, qu’il\nétait revenu, qu’il s’était posté dans la rue. Elle lui avait dit\nsouvent l’horreur qu’elle avait des jaloux, des amants qui espionnent.\nCe qu’il allait faire était bien maladroit, et elle allait le détester\ndésormais, tandis qu’en ce moment encore, tant qu’il n’avait pas\nfrappé, peut-être, même en le trompant, l’aimait-elle. Que de bonheurs\npossibles dont on sacrifie ainsi la réalisation à l’impatience d’un\nplaisir immédiat. Mais le désir de connaître la vérité était plus fort\net lui sembla plus noble. Il savait que la réalité de circonstances\nqu’il eût donné sa vie pour restituer exactement, était lisible\nderrière cette fenêtre striée de lumière, comme sous la couverture\nenluminée d’or d’un de ces manuscrits précieux à la richesse\nartistique elle-même desquels le savant qui les consulte ne peut\nrester indifférent. Il éprouvait une volupté à connaître la vérité qui\nle passionnait dans cet exemplaire unique, éphémère et précieux, d’une\nmatière translucide, si chaude et si belle. Et puis l’avantage qu’il\nse sentait,--qu’il avait tant besoin de se sentir,--sur eux, était\npeut-être moins de savoir, que de pouvoir leur montrer qu’il savait.\nIl se haussa sur la pointe des pieds. Il frappa. On n’avait pas\nentendu, il refrappa plus fort, la conversation s’arrêta. Une voix\nd’homme dont il chercha à distinguer auquel de ceux des amis d’Odette\nqu’il connaissait elle pouvait appartenir, demanda:",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 186,
+      "end": 190
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 569,
+      "end": 573
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sur le point de frapper contre les volets, il eut un moment de honte\nen pensant qu’Odette allait savoir qu’il avait eu des soupçons, qu’il\nétait revenu, qu’il s’était posté dans la rue",
+      "start": 0,
+      "end": 184
+    },
+    {
+      "text": "Elle lui avait dit\nsouvent l’horreur qu’elle avait des jaloux, des amants qui espionnent",
+      "start": 185,
+      "end": 274
+    },
+    {
+      "text": "Ce qu’il allait faire était bien maladroit, et elle allait le détester\ndésormais, tandis qu’en ce moment encore, tant qu’il n’avait pas\nfrappé, peut-être, même en le trompant, l’aimait-elle",
+      "start": 275,
+      "end": 465
+    },
+    {
+      "text": "Que de bonheurs\npossibles dont on sacrifie ainsi la réalisation à l’impatience d’un\nplaisir immédiat",
+      "start": 466,
+      "end": 567
+    },
+    {
+      "text": "Mais le désir de connaître la vérité était plus fort\net lui sembla plus noble",
+      "start": 568,
+      "end": 646
+    },
+    {
+      "text": "Il savait que la réalité de circonstances\nqu’il eût donné sa vie pour restituer exactement, était lisible\nderrière cette fenêtre striée de lumière, comme sous la couverture\nenluminée d’or d’un de ces manuscrits précieux à la richesse\nartistique elle-même desquels le savant qui les consulte ne peut\nrester indifférent",
+      "start": 647,
+      "end": 965
+    },
+    {
+      "text": "Il éprouvait une volupté à connaître la vérité qui\nle passionnait dans cet exemplaire unique, éphémère et précieux, d’une\nmatière translucide, si chaude et si belle",
+      "start": 966,
+      "end": 1131
+    },
+    {
+      "text": "Et puis l’avantage qu’il\nse sentait,--qu’il avait tant besoin de se sentir,--sur eux, était\npeut-être moins de savoir, que de pouvoir leur montrer qu’il savait",
+      "start": 1132,
+      "end": 1292
+    },
+    {
+      "text": "Il se haussa sur la pointe des pieds",
+      "start": 1293,
+      "end": 1330
+    },
+    {
+      "text": "Il frappa",
+      "start": 1331,
+      "end": 1341
+    },
+    {
+      "text": "On n’avait pas\nentendu, il refrappa plus fort, la conversation s’arrêta",
+      "start": 1342,
+      "end": 1414
+    },
+    {
+      "text": "Une voix\nd’homme dont il chercha à distinguer auquel de ceux des amis d’Odette\nqu’il connaissait elle pouvait appartenir, demanda:",
+      "start": 1415,
+      "end": 1546
+    }
+  ],
+  "tokens": 247,
+  "processed_at": "2025-03-16T02:10:56.664432"
+}

@@ -1,0 +1,69 @@
+{
+  "text": "Après le dîner, hélas, j’étais bientôt obligé de quitter maman qui\nrestait à causer avec les autres, au jardin s’il faisait beau, dans le\npetit salon où tout le monde se retirait s’il faisait mauvais. Tout le\nmonde, sauf ma grand’mère qui trouvait que «c’est une pitié de rester\nenfermé à la campagne» et qui avait d’incessantes discussions avec mon\npère, les jours de trop grande pluie, parce qu’il m’envoyait lire dans\nma chambre au lieu de rester dehors. «Ce n’est pas comme cela que vous\nle rendrez robuste et énergique, disait-elle tristement, surtout ce\npetit qui a tant besoin de prendre des forces et de la volonté.» Mon\npère haussait les épaules et il examinait le baromètre, car il aimait\nla météorologie, pendant que ma mère, évitant de faire du bruit pour\nne pas le troubler, le regardait avec un respect attendri, mais pas\ntrop fixement pour ne pas chercher à percer le mystère de ses\nsupériorités. Mais ma grand’mère, elle, par tous les temps, même quand\nla pluie faisait rage et que Françoise avait précipitamment rentré les\nprécieux fauteuils d’osier de peur qu’ils ne fussent mouillés, on la\nvoyait dans le jardin vide et fouetté par l’averse, relevant ses\nmèches désordonnées et grises pour que son front s’imbibât mieux de la\nsalubrité du vent et de la pluie. Elle disait: «Enfin, on respire!» et\nparcourait les allées détrempées,--trop symétriquement alignées à son\ngré par le nouveau jardinier dépourvu du sentiment de la nature et\nauquel mon père avait demandé depuis le matin si le temps\ns’arrangerait,--de son petit pas enthousiaste et saccadé, réglé sur les\nmouvements divers qu’excitaient dans son âme l’ivresse de l’orage, la\npuissance de l’hygiène, la stupidité de mon éducation et la symétrie\ndes jardins, plutôt que sur le désir inconnu d’elle d’éviter à sa jupe\nprune les taches de boue sous lesquelles elle disparaissait jusqu’à\nune hauteur qui était toujours pour sa femme de chambre un désespoir\net un problème.",
+  "entities": [
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 201,
+      "end": 205
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 912,
+      "end": 916
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 998,
+      "end": 1007
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1279,
+      "end": 1283
+    },
+    {
+      "text": "«Enfin,",
+      "label": "ORG",
+      "start": 1292,
+      "end": 1299
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Après le dîner, hélas, j’étais bientôt obligé de quitter maman qui\nrestait à causer avec les autres, au jardin s’il faisait beau, dans le\npetit salon où tout le monde se retirait s’il faisait mauvais",
+      "start": 0,
+      "end": 199
+    },
+    {
+      "text": "Tout le\nmonde, sauf ma grand’mère qui trouvait que «c’est une pitié de rester\nenfermé à la campagne» et qui avait d’incessantes discussions avec mon\npère, les jours de trop grande pluie, parce qu’il m’envoyait lire dans\nma chambre au lieu de rester dehors",
+      "start": 200,
+      "end": 456
+    },
+    {
+      "text": "«Ce n’est pas comme cela que vous\nle rendrez robuste et énergique, disait-elle tristement, surtout ce\npetit qui a tant besoin de prendre des forces et de la volonté",
+      "start": 457,
+      "end": 622
+    },
+    {
+      "text": "» Mon\npère haussait les épaules et il examinait le baromètre, car il aimait\nla météorologie, pendant que ma mère, évitant de faire du bruit pour\nne pas le troubler, le regardait avec un respect attendri, mais pas\ntrop fixement pour ne pas chercher à percer le mystère de ses\nsupériorités",
+      "start": 623,
+      "end": 910
+    },
+    {
+      "text": "Mais ma grand’mère, elle, par tous les temps, même quand\nla pluie faisait rage et que Françoise avait précipitamment rentré les\nprécieux fauteuils d’osier de peur qu’ils ne fussent mouillés, on la\nvoyait dans le jardin vide et fouetté par l’averse, relevant ses\nmèches désordonnées et grises pour que son front s’imbibât mieux de la\nsalubrité du vent et de la pluie",
+      "start": 911,
+      "end": 1277
+    },
+    {
+      "text": "Elle disait: «Enfin, on respire!» et\nparcourait les allées détrempées,--trop symétriquement alignées à son\ngré par le nouveau jardinier dépourvu du sentiment de la nature et\nauquel mon père avait demandé depuis le matin si le temps\ns’arrangerait,--de son petit pas enthousiaste et saccadé, réglé sur les\nmouvements divers qu’excitaient dans son âme l’ivresse de l’orage, la\npuissance de l’hygiène, la stupidité de mon éducation et la symétrie\ndes jardins, plutôt que sur le désir inconnu d’elle d’éviter à sa jupe\nprune les taches de boue sous lesquelles elle disparaissait jusqu’à\nune hauteur qui était toujours pour sa femme de chambre un désespoir\net un problème",
+      "start": 1278,
+      "end": 1944
+    }
+  ],
+  "tokens": 326,
+  "processed_at": "2025-03-16T02:10:54.419192"
+}

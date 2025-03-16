@@ -1,0 +1,26 @@
+{
+  "text": "--Mais c’est que j’avais une chose importante à dire à Madame.",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Madame.",
+      "label": "ORG",
+      "start": 55,
+      "end": 62
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais c’est que j’avais une chose importante à dire à Madame",
+      "start": 0,
+      "end": 61
+    }
+  ],
+  "tokens": 11,
+  "processed_at": "2025-03-16T02:10:56.752155"
+}

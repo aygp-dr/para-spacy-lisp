@@ -1,0 +1,20 @@
+{
+  "text": "Un de ces jours de soleil qui n’avait pas réalisé mes espérances, je\nn’eus pas le courage de cacher ma déception à Gilberte.",
+  "entities": [
+    {
+      "text": "Gilberte.",
+      "label": "ORG",
+      "start": 115,
+      "end": 124
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Un de ces jours de soleil qui n’avait pas réalisé mes espérances, je\nn’eus pas le courage de cacher ma déception à Gilberte",
+      "start": 0,
+      "end": 123
+    }
+  ],
+  "tokens": 23,
+  "processed_at": "2025-03-16T02:10:57.575864"
+}

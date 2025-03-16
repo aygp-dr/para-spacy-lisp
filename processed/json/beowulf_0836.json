@@ -1,0 +1,31 @@
+{
+  "text": "--Tiens, tu as vu ton ami M. Swann?",
+  "entities": [
+    {
+      "text": "--Tiens,",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Swann?",
+      "label": "ORG",
+      "start": 29,
+      "end": 35
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Tiens, tu as vu ton ami M",
+      "start": 0,
+      "end": 27
+    },
+    {
+      "text": "Swann?",
+      "start": 28,
+      "end": 35
+    }
+  ],
+  "tokens": 8,
+  "processed_at": "2025-03-16T02:10:57.063210"
+}

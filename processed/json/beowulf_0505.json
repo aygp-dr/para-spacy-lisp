@@ -1,0 +1,36 @@
+{
+  "text": "--«Vous serez admis avec les personnes qui seront avec vous, mais on ne\nlaisse pas entrer les chiens. Vous comprenez je vous dis cela parce\nque j’ai eu des amis qui ne le savaient pas et qui s’en sont mordu les\ndoigts.»",
+  "entities": [
+    {
+      "text": "--«Vous",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 102,
+      "end": 106
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Vous serez admis avec les personnes qui seront avec vous, mais on ne\nlaisse pas entrer les chiens",
+      "start": 0,
+      "end": 100
+    },
+    {
+      "text": "Vous comprenez je vous dis cela parce\nque j’ai eu des amis qui ne le savaient pas et qui s’en sont mordu les\ndoigts",
+      "start": 101,
+      "end": 217
+    },
+    {
+      "text": "»",
+      "start": 218,
+      "end": 219
+    }
+  ],
+  "tokens": 42,
+  "processed_at": "2025-03-16T02:10:56.071759"
+}

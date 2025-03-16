@@ -1,0 +1,25 @@
+{
+  "text": "--«Tu le peux si tu le veux, lui disait-il.»",
+  "entities": [
+    {
+      "text": "--«Tu",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Tu le peux si tu le veux, lui disait-il",
+      "start": 0,
+      "end": 42
+    },
+    {
+      "text": "»",
+      "start": 43,
+      "end": 44
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:56.970751"
+}

@@ -1,0 +1,47 @@
+{
+  "text": "--«Mais pourquoi veux-tu que ça l’ennuie, dit M. Verdurin, M. Swann ne\nconnaît peut-être pas la sonate en fa dièse que nous avons découverte,\nil va nous jouer l’arrangement pour piano.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 49,
+      "end": 58
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 62,
+      "end": 67
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais pourquoi veux-tu que ça l’ennuie, dit M",
+      "start": 0,
+      "end": 47
+    },
+    {
+      "text": "Verdurin, M",
+      "start": 48,
+      "end": 60
+    },
+    {
+      "text": "Swann ne\nconnaît peut-être pas la sonate en fa dièse que nous avons découverte,\nil va nous jouer l’arrangement pour piano",
+      "start": 61,
+      "end": 183
+    },
+    {
+      "text": "»",
+      "start": 184,
+      "end": 185
+    }
+  ],
+  "tokens": 31,
+  "processed_at": "2025-03-16T02:10:55.879179"
+}

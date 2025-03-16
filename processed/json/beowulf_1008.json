@@ -1,0 +1,95 @@
+{
+  "text": "--Oh! mais je vois ce que c’est, s’écria ma mère tandis que je me\nsentais rougir de honte. À la garde! À la garde! comme aurait dit ton\npauvre grand-père. Et c’est elle que tu trouves belle! Mais elle est\nhorrible et elle l’a toujours été. C’est la veuve d’un huissier. Tu ne\nte rappelles pas quand tu étais enfant les manèges que je faisais pour\nl’éviter à la leçon de gymnastique où, sans me connaître, elle voulait\nvenir me parler sous prétexte de me dire que tu étais «trop beau pour\nun garçon». Elle a toujours eu la rage de connaître du monde et il\nfaut bien qu’elle soit une espèce de folle comme j’ai toujours pensé,\nsi elle connaît vraiment Mme Swann. Car si elle était d’un milieu fort\ncommun, au moins il n’y a jamais rien eu que je sache à dire sur elle.\nMais il fallait toujours qu’elle se fasse des relations. Elle est\nhorrible, affreusement vulgaire, et avec cela faiseuse d’embarras.»",
+  "entities": [
+    {
+      "text": "--Oh!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 191,
+      "end": 195
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 500,
+      "end": 504
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 654,
+      "end": 660
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 767,
+      "end": 771
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 824,
+      "end": 828
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Oh! mais je vois ce que c’est, s’écria ma mère tandis que je me\nsentais rougir de honte",
+      "start": 0,
+      "end": 89
+    },
+    {
+      "text": "À la garde! À la garde! comme aurait dit ton\npauvre grand-père",
+      "start": 90,
+      "end": 153
+    },
+    {
+      "text": "Et c’est elle que tu trouves belle! Mais elle est\nhorrible et elle l’a toujours été",
+      "start": 154,
+      "end": 238
+    },
+    {
+      "text": "C’est la veuve d’un huissier",
+      "start": 239,
+      "end": 268
+    },
+    {
+      "text": "Tu ne\nte rappelles pas quand tu étais enfant les manèges que je faisais pour\nl’éviter à la leçon de gymnastique où, sans me connaître, elle voulait\nvenir me parler sous prétexte de me dire que tu étais «trop beau pour\nun garçon»",
+      "start": 269,
+      "end": 498
+    },
+    {
+      "text": "Elle a toujours eu la rage de connaître du monde et il\nfaut bien qu’elle soit une espèce de folle comme j’ai toujours pensé,\nsi elle connaît vraiment Mme Swann",
+      "start": 499,
+      "end": 659
+    },
+    {
+      "text": "Car si elle était d’un milieu fort\ncommun, au moins il n’y a jamais rien eu que je sache à dire sur elle",
+      "start": 660,
+      "end": 765
+    },
+    {
+      "text": "Mais il fallait toujours qu’elle se fasse des relations",
+      "start": 766,
+      "end": 822
+    },
+    {
+      "text": "Elle est\nhorrible, affreusement vulgaire, et avec cela faiseuse d’embarras",
+      "start": 823,
+      "end": 898
+    },
+    {
+      "text": "»",
+      "start": 497,
+      "end": 498
+    }
+  ],
+  "tokens": 166,
+  "processed_at": "2025-03-16T02:10:57.593148"
+}

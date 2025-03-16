@@ -1,0 +1,26 @@
+{
+  "text": "--Mon petit Charles! Ah! enfin il vient, je commençais à supposer qu’il\nne voulait pas me voir!",
+  "entities": [
+    {
+      "text": "--Mon",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Charles!",
+      "label": "ORG",
+      "start": 12,
+      "end": 20
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mon petit Charles! Ah! enfin il vient, je commençais à supposer qu’il\nne voulait pas me voir!",
+      "start": 0,
+      "end": 95
+    }
+  ],
+  "tokens": 17,
+  "processed_at": "2025-03-16T02:10:57.174172"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "«Champs paternels, Hébron, douce vallée.»",
+  "entities": [
+    {
+      "text": "«Champs",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Hébron,",
+      "label": "ORG",
+      "start": 19,
+      "end": 26
+    }
+  ],
+  "sentences": [
+    {
+      "text": "«Champs paternels, Hébron, douce vallée",
+      "start": 0,
+      "end": 39
+    },
+    {
+      "text": "»",
+      "start": 40,
+      "end": 41
+    }
+  ],
+  "tokens": 5,
+  "processed_at": "2025-03-16T02:10:55.071669"
+}

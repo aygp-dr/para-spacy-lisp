@@ -1,0 +1,45 @@
+{
+  "text": "Aussi,--sous le prétexte qu’une leçon qui avait été déplacée tombait\nmaintenant si mal qu’elle m’avait empêché plusieurs fois et\nm’empêcherait encore de voir mon oncle--un jour, autre que celui qui\nétait réservé aux visites que nous lui faisions, profitant de ce que\nmes parents avaient déjeuné de bonne heure, je sortis et au lieu\nd’aller regarder la colonne d’affiches, pour quoi on me laissait aller\nseul, je courus jusqu’à lui. Je remarquai devant sa porte une voiture\nattelée de deux chevaux qui avaient aux œillères un œillet rouge comme\navait le cocher à sa boutonnière. De l’escalier j’entendis un rire et\nune voix de femme, et dès que j’eus sonné, un silence, puis le bruit\nde portes qu’on fermait. Le valet de chambre vint ouvrir, et en me\nvoyant parut embarrassé, me dit que mon oncle était très occupé, ne\npourrait sans doute pas me recevoir et tandis qu’il allait pourtant le\nprévenir la même voix que j’avais entendue disait: «Oh, si! laisse-le\nentrer; rien qu’une minute, cela m’amuserait tant. Sur la photographie\nqui est sur ton bureau, il ressemble tant à sa maman, ta nièce, dont\nla photographie est à côté de la sienne, n’est-ce pas? Je voudrais le\nvoir rien qu’un instant, ce gosse.»",
+  "entities": [
+    {
+      "text": "«Oh,",
+      "label": "ORG",
+      "start": 940,
+      "end": 944
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Aussi,--sous le prétexte qu’une leçon qui avait été déplacée tombait\nmaintenant si mal qu’elle m’avait empêché plusieurs fois et\nm’empêcherait encore de voir mon oncle--un jour, autre que celui qui\nétait réservé aux visites que nous lui faisions, profitant de ce que\nmes parents avaient déjeuné de bonne heure, je sortis et au lieu\nd’aller regarder la colonne d’affiches, pour quoi on me laissait aller\nseul, je courus jusqu’à lui",
+      "start": 0,
+      "end": 430
+    },
+    {
+      "text": "Je remarquai devant sa porte une voiture\nattelée de deux chevaux qui avaient aux œillères un œillet rouge comme\navait le cocher à sa boutonnière",
+      "start": 431,
+      "end": 576
+    },
+    {
+      "text": "De l’escalier j’entendis un rire et\nune voix de femme, et dès que j’eus sonné, un silence, puis le bruit\nde portes qu’on fermait",
+      "start": 577,
+      "end": 706
+    },
+    {
+      "text": "Le valet de chambre vint ouvrir, et en me\nvoyant parut embarrassé, me dit que mon oncle était très occupé, ne\npourrait sans doute pas me recevoir et tandis qu’il allait pourtant le\nprévenir la même voix que j’avais entendue disait: «Oh, si! laisse-le\nentrer; rien qu’une minute, cela m’amuserait tant",
+      "start": 707,
+      "end": 1008
+    },
+    {
+      "text": "Sur la photographie\nqui est sur ton bureau, il ressemble tant à sa maman, ta nièce, dont\nla photographie est à côté de la sienne, n’est-ce pas? Je voudrais le\nvoir rien qu’un instant, ce gosse",
+      "start": 1009,
+      "end": 1202
+    },
+    {
+      "text": "»",
+      "start": 1203,
+      "end": 1204
+    }
+  ],
+  "tokens": 206,
+  "processed_at": "2025-03-16T02:10:54.834209"
+}

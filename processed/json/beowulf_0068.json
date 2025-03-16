@@ -1,0 +1,20 @@
+{
+  "text": "Et quand il n’y avait plus de monde là, maman qui savait que Françoise\npleurait encore ses parents morts depuis des années, lui parlait d’eux\navec douceur, lui demandait mille détails sur ce qu’avait été leur\nvie.",
+  "entities": [
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 61,
+      "end": 70
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et quand il n’y avait plus de monde là, maman qui savait que Françoise\npleurait encore ses parents morts depuis des années, lui parlait d’eux\navec douceur, lui demandait mille détails sur ce qu’avait été leur\nvie",
+      "start": 0,
+      "end": 212
+    }
+  ],
+  "tokens": 37,
+  "processed_at": "2025-03-16T02:10:54.605999"
+}

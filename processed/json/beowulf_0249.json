@@ -1,0 +1,26 @@
+{
+  "text": "--«Est-ce qu’Eulalie est déjà partie? Croyez-vous que j’ai oublié de\nlui demander si Mme Goupil était arrivée à la messe avant l’élévation!\nCourez vite après elle!»",
+  "entities": [
+    {
+      "text": "Goupil",
+      "label": "ORG",
+      "start": 89,
+      "end": 95
+    },
+    {
+      "text": "Courez",
+      "label": "ORG",
+      "start": 140,
+      "end": 146
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Est-ce qu’Eulalie est déjà partie? Croyez-vous que j’ai oublié de\nlui demander si Mme Goupil était arrivée à la messe avant l’élévation!\nCourez vite après elle!»",
+      "start": 0,
+      "end": 164
+    }
+  ],
+  "tokens": 26,
+  "processed_at": "2025-03-16T02:10:55.282970"
+}

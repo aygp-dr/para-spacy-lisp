@@ -1,0 +1,112 @@
+{
+  "text": "Celui-ci était rendu plus cruel encore quand revenait à Swann le\nsouvenir d’un bref regard qu’il avait surpris, il y avait quelques\njours, et pour la première fois, dans les yeux d’Odette. C’était après\ndîner, chez les Verdurin. Soit que Forcheville sentant que Saniette,\nson beau-frère, n’était pas en faveur chez eux, eût voulu le prendre\ncomme tête de Turc et briller devant eux à ses dépens, soit qu’il eût\nété irrité par un mot maladroit que celui-ci venait de lui dire et\nqui, d’ailleurs, passa inaperçu pour les assistants qui ne savaient\npas quelle allusion désobligeante il pouvait renfermer, bien contre le\ngré de celui qui le prononçait sans malice aucune, soit enfin qu’il\ncherchât depuis quelque temps une occasion de faire sortir de la\nmaison quelqu’un qui le connaissait trop bien et qu’il savait trop\ndélicat pour qu’il ne se sentît pas gêné à certains moments rien que\nde sa présence, Forcheville répondit à ce propos maladroit de Saniette\navec une telle grossièreté, se mettant à l’insulter, s’enhardissant,\nau fur et à mesure qu’il vociférait, de l’effroi, de la douleur, des\nsupplications de l’autre, que le malheureux, après avoir demandé à Mme\nVerdurin s’il devait rester, et n’ayant pas reçu de réponse, s’était\nretiré en balbutiant, les larmes aux yeux. Odette avait assisté\nimpassible à cette scène, mais quand la porte se fut refermée sur\nSaniette, faisant descendre en quelque sorte de plusieurs crans\nl’expression habituelle de son visage, pour pouvoir se trouver dans la\nbassesse, de plain-pied avec Forcheville, elle avait brillanté ses\nprunelles d’un sourire sournois de félicitations pour l’audace qu’il\navait eue, d’ironie pour celui qui en avait été victime; elle lui\navait jeté un regard de complicité dans le mal, qui voulait si bien\ndire: «voilà une exécution, ou je ne m’y connais pas. Avez-vous vu son\nair penaud, il en pleurait», que Forcheville, quand ses yeux\nrencontrèrent ce regard, dégrisé soudain de la colère ou de la\nsimulation de colère dont il était encore chaud, sourit et répondit:",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 56,
+      "end": 61
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 219,
+      "end": 228
+    },
+    {
+      "text": "Soit",
+      "label": "ORG",
+      "start": 229,
+      "end": 233
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 238,
+      "end": 249
+    },
+    {
+      "text": "Saniette,",
+      "label": "ORG",
+      "start": 262,
+      "end": 271
+    },
+    {
+      "text": "Turc",
+      "label": "ORG",
+      "start": 355,
+      "end": 359
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 902,
+      "end": 913
+    },
+    {
+      "text": "Saniette",
+      "label": "ORG",
+      "start": 948,
+      "end": 956
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 1166,
+      "end": 1174
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1278,
+      "end": 1284
+    },
+    {
+      "text": "Saniette,",
+      "label": "ORG",
+      "start": 1365,
+      "end": 1374
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 1529,
+      "end": 1541
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 1874,
+      "end": 1886
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Celui-ci était rendu plus cruel encore quand revenait à Swann le\nsouvenir d’un bref regard qu’il avait surpris, il y avait quelques\njours, et pour la première fois, dans les yeux d’Odette",
+      "start": 0,
+      "end": 187
+    },
+    {
+      "text": "C’était après\ndîner, chez les Verdurin",
+      "start": 188,
+      "end": 227
+    },
+    {
+      "text": "Soit que Forcheville sentant que Saniette,\nson beau-frère, n’était pas en faveur chez eux, eût voulu le prendre\ncomme tête de Turc et briller devant eux à ses dépens, soit qu’il eût\nété irrité par un mot maladroit que celui-ci venait de lui dire et\nqui, d’ailleurs, passa inaperçu pour les assistants qui ne savaient\npas quelle allusion désobligeante il pouvait renfermer, bien contre le\ngré de celui qui le prononçait sans malice aucune, soit enfin qu’il\ncherchât depuis quelque temps une occasion de faire sortir de la\nmaison quelqu’un qui le connaissait trop bien et qu’il savait trop\ndélicat pour qu’il ne se sentît pas gêné à certains moments rien que\nde sa présence, Forcheville répondit à ce propos maladroit de Saniette\navec une telle grossièreté, se mettant à l’insulter, s’enhardissant,\nau fur et à mesure qu’il vociférait, de l’effroi, de la douleur, des\nsupplications de l’autre, que le malheureux, après avoir demandé à Mme\nVerdurin s’il devait rester, et n’ayant pas reçu de réponse, s’était\nretiré en balbutiant, les larmes aux yeux",
+      "start": 228,
+      "end": 1276
+    },
+    {
+      "text": "Odette avait assisté\nimpassible à cette scène, mais quand la porte se fut refermée sur\nSaniette, faisant descendre en quelque sorte de plusieurs crans\nl’expression habituelle de son visage, pour pouvoir se trouver dans la\nbassesse, de plain-pied avec Forcheville, elle avait brillanté ses\nprunelles d’un sourire sournois de félicitations pour l’audace qu’il\navait eue, d’ironie pour celui qui en avait été victime; elle lui\navait jeté un regard de complicité dans le mal, qui voulait si bien\ndire: «voilà une exécution, ou je ne m’y connais pas",
+      "start": 1277,
+      "end": 1822
+    },
+    {
+      "text": "Avez-vous vu son\nair penaud, il en pleurait», que Forcheville, quand ses yeux\nrencontrèrent ce regard, dégrisé soudain de la colère ou de la\nsimulation de colère dont il était encore chaud, sourit et répondit:",
+      "start": 1823,
+      "end": 2033
+    }
+  ],
+  "tokens": 335,
+  "processed_at": "2025-03-16T02:10:56.680650"
+}

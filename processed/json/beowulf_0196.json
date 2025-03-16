@@ -1,0 +1,30 @@
+{
+  "text": "--«Je ne me laisse jamais influencer par les perturbations de\nl’atmosphère ni par les divisions conventionnelles du temps. Je\nréhabiliterais volontiers l’usage de la pipe d’opium et du kriss\nmalais, mais j’ignore celui de ces instruments infiniment plus\npernicieux et d’ailleurs platement bourgeois, la montre et le\nparapluie.»",
+  "entities": [
+    {
+      "text": "--«Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Je ne me laisse jamais influencer par les perturbations de\nl’atmosphère ni par les divisions conventionnelles du temps",
+      "start": 0,
+      "end": 121
+    },
+    {
+      "text": "Je\nréhabiliterais volontiers l’usage de la pipe d’opium et du kriss\nmalais, mais j’ignore celui de ces instruments infiniment plus\npernicieux et d’ailleurs platement bourgeois, la montre et le\nparapluie",
+      "start": 122,
+      "end": 325
+    },
+    {
+      "text": "»",
+      "start": 326,
+      "end": 327
+    }
+  ],
+  "tokens": 48,
+  "processed_at": "2025-03-16T02:10:55.106701"
+}

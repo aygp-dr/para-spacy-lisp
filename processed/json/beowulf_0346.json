@@ -1,0 +1,30 @@
+{
+  "text": "Je me souvins que c’étaient les mots que M. Vinteuil avait dits à mon\npère à propos du morceau de musique. Ce portrait leur servait sans\ndoute habituellement pour des profanations rituelles, car son amie lui\nrépondit par ces paroles qui devaient faire partie de ses réponses\nliturgiques:",
+  "entities": [
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 44,
+      "end": 52
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je me souvins que c’étaient les mots que M",
+      "start": 0,
+      "end": 42
+    },
+    {
+      "text": "Vinteuil avait dits à mon\npère à propos du morceau de musique",
+      "start": 43,
+      "end": 105
+    },
+    {
+      "text": "Ce portrait leur servait sans\ndoute habituellement pour des profanations rituelles, car son amie lui\nrépondit par ces paroles qui devaient faire partie de ses réponses\nliturgiques:",
+      "start": 106,
+      "end": 287
+    }
+  ],
+  "tokens": 48,
+  "processed_at": "2025-03-16T02:10:55.601911"
+}

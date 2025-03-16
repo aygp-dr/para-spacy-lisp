@@ -1,0 +1,30 @@
+{
+  "text": "Je trouve très raisonnable la croyance celtique que les âmes de ceux\nque nous avons perdus sont captives dans quelque être inférieur, dans\nune bête, un végétal, une chose inanimée, perdues en effet pour nous\njusqu’au jour, qui pour beaucoup ne vient jamais, où nous nous\ntrouvons passer près de l’arbre, entrer en possession de l’objet qui\nest leur prison. Alors elles tressaillent, nous appellent, et sitôt\nque nous les avons reconnues, l’enchantement est brisé. Délivrées par\nnous, elles ont vaincu la mort et reviennent vivre avec nous.",
+  "entities": [
+    {
+      "text": "Délivrées",
+      "label": "ORG",
+      "start": 464,
+      "end": 473
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je trouve très raisonnable la croyance celtique que les âmes de ceux\nque nous avons perdus sont captives dans quelque être inférieur, dans\nune bête, un végétal, une chose inanimée, perdues en effet pour nous\njusqu’au jour, qui pour beaucoup ne vient jamais, où nous nous\ntrouvons passer près de l’arbre, entrer en possession de l’objet qui\nest leur prison",
+      "start": 0,
+      "end": 355
+    },
+    {
+      "text": "Alors elles tressaillent, nous appellent, et sitôt\nque nous les avons reconnues, l’enchantement est brisé",
+      "start": 356,
+      "end": 462
+    },
+    {
+      "text": "Délivrées par\nnous, elles ont vaincu la mort et reviennent vivre avec nous",
+      "start": 463,
+      "end": 538
+    }
+  ],
+  "tokens": 88,
+  "processed_at": "2025-03-16T02:10:54.549825"
+}

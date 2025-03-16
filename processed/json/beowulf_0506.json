@@ -1,0 +1,37 @@
+{
+  "text": "Quant à M. Verdurin il remarqua le mauvais effet qu’avait produit sur\nsa femme cette découverte que Swann avait des amitiés puissantes dont\nil n’avait jamais parlé.",
+  "entities": [
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 11,
+      "end": 19
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 100,
+      "end": 105
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quant à M",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Verdurin il remarqua le mauvais effet qu’avait produit sur\nsa femme cette découverte que Swann avait des amitiés puissantes dont\nil n’avait jamais parlé",
+      "start": 10,
+      "end": 163
+    }
+  ],
+  "tokens": 27,
+  "processed_at": "2025-03-16T02:10:56.073489"
+}

@@ -1,0 +1,20 @@
+{
+  "text": "--«Mademoiselle me semble avoir des pensées bien lubriques, ce soir»,\nfinit-elle par dire, répétant sans doute une phrase qu’elle avait\nentendue autrefois dans la bouche de son amie.",
+  "entities": [
+    {
+      "text": "--«Mademoiselle",
+      "label": "ORG",
+      "start": 0,
+      "end": 15
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mademoiselle me semble avoir des pensées bien lubriques, ce soir»,\nfinit-elle par dire, répétant sans doute une phrase qu’elle avait\nentendue autrefois dans la bouche de son amie",
+      "start": 0,
+      "end": 181
+    }
+  ],
+  "tokens": 28,
+  "processed_at": "2025-03-16T02:10:55.595083"
+}

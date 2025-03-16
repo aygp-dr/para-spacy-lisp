@@ -1,0 +1,37 @@
+{
+  "text": "Si, quand son petit-fils était un peu enrhumé du cerveau, elle partait\nla nuit, même malade, au lieu de se coucher, pour voir s’il n’avait\nbesoin de rien, faisant quatre lieues à pied avant le jour afin d’être\nrentrée pour son travail, en revanche ce même amour des siens et son\ndésir d’assurer la grandeur future de sa maison se traduisait dans sa\npolitique à l’égard des autres domestiques par une maxime constante\nqui fut de n’en jamais laisser un seul s’implanter chez ma tante,\nqu’elle mettait d’ailleurs une sorte d’orgueil à ne laisser approcher\npar personne, préférant, quand elle-même était malade, se relever pour\nlui donner son eau de Vichy plutôt que de permettre l’accès de la\nchambre de sa maîtresse à la fille de cuisine. Et comme cet\nhyménoptère observé par Fabre, la guêpe fouisseuse, qui pour que ses\npetits après sa mort aient de la viande fraîche à manger, appelle\nl’anatomie au secours de sa cruauté et, ayant capturé des charançons\net des araignées, leur perce avec un savoir et une adresse merveilleux\nle centre nerveux d’où dépend le mouvement des pattes, mais non les\nautres fonctions de la vie, de façon que l’insecte paralysé près\nduquel elle dépose ses œufs, fournisse aux larves, quand elles\nécloront un gibier docile, inoffensif, incapable de fuite ou de\nrésistance, mais nullement faisandé, Françoise trouvait pour servir sa\nvolonté permanente de rendre la maison intenable à tout domestique,\ndes ruses si savantes et si impitoyables que, bien des années plus\ntard, nous apprîmes que si cet été-là nous avions mangé presque tous\nles jours des asperges, c’était parce que leur odeur donnait à la\npauvre fille de cuisine chargée de les éplucher des crises d’asthme\nd’une telle violence qu’elle fut obligée de finir par s’en aller.",
+  "entities": [
+    {
+      "text": "Vichy",
+      "label": "ORG",
+      "start": 646,
+      "end": 651
+    },
+    {
+      "text": "Fabre,",
+      "label": "ORG",
+      "start": 774,
+      "end": 780
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1322,
+      "end": 1331
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Si, quand son petit-fils était un peu enrhumé du cerveau, elle partait\nla nuit, même malade, au lieu de se coucher, pour voir s’il n’avait\nbesoin de rien, faisant quatre lieues à pied avant le jour afin d’être\nrentrée pour son travail, en revanche ce même amour des siens et son\ndésir d’assurer la grandeur future de sa maison se traduisait dans sa\npolitique à l’égard des autres domestiques par une maxime constante\nqui fut de n’en jamais laisser un seul s’implanter chez ma tante,\nqu’elle mettait d’ailleurs une sorte d’orgueil à ne laisser approcher\npar personne, préférant, quand elle-même était malade, se relever pour\nlui donner son eau de Vichy plutôt que de permettre l’accès de la\nchambre de sa maîtresse à la fille de cuisine",
+      "start": 0,
+      "end": 735
+    },
+    {
+      "text": "Et comme cet\nhyménoptère observé par Fabre, la guêpe fouisseuse, qui pour que ses\npetits après sa mort aient de la viande fraîche à manger, appelle\nl’anatomie au secours de sa cruauté et, ayant capturé des charançons\net des araignées, leur perce avec un savoir et une adresse merveilleux\nle centre nerveux d’où dépend le mouvement des pattes, mais non les\nautres fonctions de la vie, de façon que l’insecte paralysé près\nduquel elle dépose ses œufs, fournisse aux larves, quand elles\nécloront un gibier docile, inoffensif, incapable de fuite ou de\nrésistance, mais nullement faisandé, Françoise trouvait pour servir sa\nvolonté permanente de rendre la maison intenable à tout domestique,\ndes ruses si savantes et si impitoyables que, bien des années plus\ntard, nous apprîmes que si cet été-là nous avions mangé presque tous\nles jours des asperges, c’était parce que leur odeur donnait à la\npauvre fille de cuisine chargée de les éplucher des crises d’asthme\nd’une telle violence qu’elle fut obligée de finir par s’en aller",
+      "start": 736,
+      "end": 1758
+    }
+  ],
+  "tokens": 296,
+  "processed_at": "2025-03-16T02:10:55.384305"
+}

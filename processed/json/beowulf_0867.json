@@ -1,0 +1,109 @@
+{
+  "text": "--Ah! Mais qu’ils aient des choses intéressantes au point de vue de\nl’histoire, je ne vous dis pas. Mais ça ne peut pas être beau...\npuisque c’est horrible! Moi j’ai aussi des choses comme ça que Basin a\nhéritées des Montesquiou. Seulement elles sont dans les greniers de\nGuermantes où personne ne les voit. Enfin, du reste, ce n’est pas la\nquestion, je me précipiterais chez eux avec Basin, j’irais les voir\nmême au milieu de leurs sphinx et de leur cuivre si je les\nconnaissais, mais... je ne les connais pas! Moi, on m’a toujours dit\nquand j’étais petite que ce n’était pas poli d’aller chez les gens\nqu’on ne connaissait pas, dit-elle en prenant un ton puéril. Alors, je\nfais ce qu’on m’a appris. Voyez-vous ces braves gens s’ils voyaient\nentrer une personne qu’ils ne connaissent pas? Ils me recevraient\npeut-être très mal! dit la princesse.",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 100,
+      "end": 104
+    },
+    {
+      "text": "Basin",
+      "label": "ORG",
+      "start": 196,
+      "end": 201
+    },
+    {
+      "text": "Montesquiou.",
+      "label": "ORG",
+      "start": 217,
+      "end": 229
+    },
+    {
+      "text": "Seulement",
+      "label": "ORG",
+      "start": 230,
+      "end": 239
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 272,
+      "end": 282
+    },
+    {
+      "text": "Enfin,",
+      "label": "ORG",
+      "start": 308,
+      "end": 314
+    },
+    {
+      "text": "Basin,",
+      "label": "ORG",
+      "start": 385,
+      "end": 391
+    },
+    {
+      "text": "Moi,",
+      "label": "ORG",
+      "start": 512,
+      "end": 516
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! Mais qu’ils aient des choses intéressantes au point de vue de\nl’histoire, je ne vous dis pas",
+      "start": 0,
+      "end": 98
+    },
+    {
+      "text": "Mais ça ne peut pas être beau",
+      "start": 99,
+      "end": 129
+    },
+    {
+      "text": "puisque c’est horrible! Moi j’ai aussi des choses comme ça que Basin a\nhéritées des Montesquiou",
+      "start": 132,
+      "end": 228
+    },
+    {
+      "text": "Seulement elles sont dans les greniers de\nGuermantes où personne ne les voit",
+      "start": 229,
+      "end": 306
+    },
+    {
+      "text": "Enfin, du reste, ce n’est pas la\nquestion, je me précipiterais chez eux avec Basin, j’irais les voir\nmême au milieu de leurs sphinx et de leur cuivre si je les\nconnaissais, mais",
+      "start": 307,
+      "end": 485
+    },
+    {
+      "text": "je ne les connais pas! Moi, on m’a toujours dit\nquand j’étais petite que ce n’était pas poli d’aller chez les gens\nqu’on ne connaissait pas, dit-elle en prenant un ton puéril",
+      "start": 488,
+      "end": 663
+    },
+    {
+      "text": "Alors, je\nfais ce qu’on m’a appris",
+      "start": 664,
+      "end": 699
+    },
+    {
+      "text": "Voyez-vous ces braves gens s’ils voyaient\nentrer une personne qu’ils ne connaissent pas? Ils me recevraient\npeut-être très mal! dit la princesse",
+      "start": 700,
+      "end": 845
+    }
+  ],
+  "tokens": 148,
+  "processed_at": "2025-03-16T02:10:57.156375"
+}

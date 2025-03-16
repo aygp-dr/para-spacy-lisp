@@ -1,0 +1,42 @@
+{
+  "text": "Mais aussitôt sa jalousie, comme si elle était l’ombre de son amour,\nse complétait du double de ce nouveau sourire qu’elle lui avait\nadressé le soir même--et qui, inverse maintenant, raillait Swann et se\nchargeait d’amour pour un autre--, de cette inclinaison de sa tête mais\nrenversée vers d’autres lèvres, et, données à un autre, de toutes les\nmarques de tendresse qu’elle avait eues pour lui. Et tous les\nsouvenirs voluptueux qu’il emportait de chez elle, étaient comme\nautant d’esquisses, de «projets» pareils à ceux que vous soumet un\ndécorateur, et qui permettaient à Swann de se faire une idée des\nattitudes ardentes ou pâmées qu’elle pouvait avoir avec d’autres. De\nsorte qu’il en arrivait à regretter chaque plaisir qu’il goûtait près\nd’elle, chaque caresse inventée et dont il avait eu l’imprudence de\nlui signaler la douceur, chaque grâce qu’il lui découvrait, car il\nsavait qu’un instant après, elles allaient enrichir d’instruments\nnouveaux son supplice.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 192,
+      "end": 197
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 574,
+      "end": 579
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais aussitôt sa jalousie, comme si elle était l’ombre de son amour,\nse complétait du double de ce nouveau sourire qu’elle lui avait\nadressé le soir même--et qui, inverse maintenant, raillait Swann et se\nchargeait d’amour pour un autre--, de cette inclinaison de sa tête mais\nrenversée vers d’autres lèvres, et, données à un autre, de toutes les\nmarques de tendresse qu’elle avait eues pour lui",
+      "start": 0,
+      "end": 394
+    },
+    {
+      "text": "Et tous les\nsouvenirs voluptueux qu’il emportait de chez elle, étaient comme\nautant d’esquisses, de «projets» pareils à ceux que vous soumet un\ndécorateur, et qui permettaient à Swann de se faire une idée des\nattitudes ardentes ou pâmées qu’elle pouvait avoir avec d’autres",
+      "start": 395,
+      "end": 669
+    },
+    {
+      "text": "De\nsorte qu’il en arrivait à regretter chaque plaisir qu’il goûtait près\nd’elle, chaque caresse inventée et dont il avait eu l’imprudence de\nlui signaler la douceur, chaque grâce qu’il lui découvrait, car il\nsavait qu’un instant après, elles allaient enrichir d’instruments\nnouveaux son supplice",
+      "start": 670,
+      "end": 966
+    }
+  ],
+  "tokens": 155,
+  "processed_at": "2025-03-16T02:10:56.678074"
+}

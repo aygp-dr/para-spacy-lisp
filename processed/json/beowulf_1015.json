@@ -1,0 +1,20 @@
+{
+  "text": "--On n’est pas obligé d’inviter tout le monde; est-ce qu’il m’invite?\nJe ne connais pas sa femme.",
+  "entities": [
+    {
+      "text": "--On",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--On n’est pas obligé d’inviter tout le monde; est-ce qu’il m’invite?\nJe ne connais pas sa femme",
+      "start": 0,
+      "end": 96
+    }
+  ],
+  "tokens": 17,
+  "processed_at": "2025-03-16T02:10:57.600546"
+}

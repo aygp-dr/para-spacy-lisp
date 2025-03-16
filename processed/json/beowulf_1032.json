@@ -1,0 +1,223 @@
+{
+  "text": "Quelle horreur! me disais-je: peut-on trouver ces automobiles\nélégantes comme étaient les anciens attelages? je suis sans doute déjà\ntrop vieux--mais je ne suis pas fait pour un monde où les femmes\ns’entravent dans des robes qui ne sont pas même en étoffe. A quoi bon\nvenir sous ces arbres, si rien n’est plus de ce qui s’assemblait sous\nces délicats feuillages rougissants, si la vulgarité et la folie ont\nremplacé ce qu’ils encadraient d’exquis. Quelle horreur! Ma\nconsolation c’est de penser aux femmes que j’ai connues, aujourd’hui\nqu’il n’y a plus d’élégance. Mais comment des gens qui contemplent ces\nhorribles créatures sous leurs chapeaux couverts d’une volière ou d’un\npotager, pourraient-ils même sentir ce qu’il y avait de charmant à\nvoir Mme Swann coiffée d’une simple capote mauve ou d’un petit chapeau\nque dépassait une seule fleur d’iris toute droite. Aurais-je même pu\nleur faire comprendre l’émotion que j’éprouvais par les matins d’hiver\nà rencontrer Mme Swann à pied, en paletot de loutre, coiffée d’un\nsimple béret que dépassaient deux couteaux de plumes de perdrix, mais\nautour de laquelle la tiédeur factice de son appartement était\névoquée, rien que par le bouquet de violettes qui s’écrasait à son\ncorsage et dont le fleurissement vivant et bleu en face du ciel gris,\nde l’air glacé, des arbres aux branches nues, avait le même charme de\nne prendre la saison et le temps que comme un cadre, et de vivre dans\nune atmosphère humaine, dans l’atmosphère de cette femme, qu’avaient\ndans les vases et les jardinières de son salon, près du feu allumé,\ndevant le canapé de soie, les fleurs qui regardaient par la fenêtre\nclose la neige tomber? D’ailleurs il ne m’eût pas suffi que les\ntoilettes fussent les mêmes qu’en ces années-là. A cause de la\nsolidarité qu’ont entre elles les différentes parties d’un souvenir et\nque notre mémoire maintient équilibrées dans un assemblage où il ne\nnous est pas permis de rien distraire, ni refuser, j’aurais voulu\npouvoir aller finir la journée chez une de ces femmes, devant une\ntasse de thé, dans un appartement aux murs peints de couleurs sombres,\ncomme était encore celui de Mme Swann (l’année d’après celle où se\ntermine la première partie de ce récit) et où luiraient les feux\norangés, la rouge combustion, la flamme rose et blanche des\nchrysanthèmes dans le crépuscule de novembre pendant des instants\npareils à ceux où (comme on le verra plus tard) je n’avais pas su\ndécouvrir les plaisirs que je désirais. Mais maintenant, même ne me\nconduisant à rien, ces instants me semblaient avoir eu eux-mêmes assez\nde charme. Je voudrais les retrouver tels que je me les rappelais.\nHélas! il n’y avait plus que des appartements Louis XVI tout blancs,\némaillés d’hortensias bleus. D’ailleurs, on ne revenait plus à Paris\nque très tard. Mme Swann m’eût répondu d’un château qu’elle ne\nrentrerait qu’en février, bien après le temps des chrysanthèmes, si je\nlui avais demandé de reconstituer pour moi les éléments de ce souvenir\nque je sentais attaché à une année lointaine, à un millésime vers\nlequel il ne m’était pas permis de remonter, les éléments de ce désir\ndevenu lui-même inaccessible comme le plaisir qu’il avait jadis\nvainement poursuivi. Et il m’eût fallu aussi que ce fussent les mêmes\nfemmes, celles dont la toilette m’intéressait parce que, au temps où\nje croyais encore, mon imagination les avait individualisées et les\navait pourvues d’une légende. Hélas! dans l’avenue des Acacias--l’allée\nde Myrtes--j’en revis quelques-unes, vieilles, et qui n’étaient plus\nque les ombres terribles de ce qu’elles avaient été, errant, cherchant\ndésespérément on ne sait quoi dans les bosquets virgiliens. Elles\navaient fui depuis longtemps que j’étais encore à interroger vainement\nles chemins désertés. Le soleil s’était caché. La nature recommençait\nà régner sur le Bois d’où s’était envolée l’idée qu’il était le Jardin\nélyséen de la Femme; au-dessus du moulin factice le vrai ciel était\ngris; le vent ridait le Grand Lac de petites vaguelettes, comme un\nlac; de gros oiseaux parcouraient rapidement le Bois, comme un bois,\net poussant des cris aigus se posaient l’un après l’autre sur les\ngrands chênes qui sous leur couronne druidique et avec une majesté\ndodonéenne semblaient proclamer le vide inhumain de la forêt\ndésaffectée, et m’aidaient à mieux comprendre la contradiction que\nc’est de chercher dans la réalité les tableaux de la mémoire, auxquels\nmanquerait toujours le charme qui leur vient de la mémoire même et de\nn’être pas perçus par les sens. La réalité que j’avais connue\nn’existait plus. Il suffisait que Mme Swann n’arrivât pas toute\npareille au même moment, pour que l’Avenue fût autre. Les lieux que\nnous avons connus n’appartiennent pas qu’au monde de l’espace où nous\nles situons pour plus de facilité. Ils n’étaient qu’une mince tranche\nau milieu d’impressions contiguës qui formaient notre vie d’alors; le\nsouvenir d’une certaine image n’est que le regret d’un certain\ninstant; et les maisons, les routes, les avenues, sont fugitives,\nhélas, comme les années.",
+  "entities": [
+    {
+      "text": "Quelle",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Quelle",
+      "label": "ORG",
+      "start": 448,
+      "end": 454
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 565,
+      "end": 569
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 754,
+      "end": 759
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 973,
+      "end": 978
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2138,
+      "end": 2143
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2470,
+      "end": 2474
+    },
+    {
+      "text": "Hélas!",
+      "label": "ORG",
+      "start": 2636,
+      "end": 2642
+    },
+    {
+      "text": "Louis",
+      "label": "ORG",
+      "start": 2682,
+      "end": 2687
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 2768,
+      "end": 2773
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2793,
+      "end": 2798
+    },
+    {
+      "text": "Hélas!",
+      "label": "ORG",
+      "start": 3416,
+      "end": 3422
+    },
+    {
+      "text": "Elles",
+      "label": "ORG",
+      "start": 3658,
+      "end": 3663
+    },
+    {
+      "text": "Bois",
+      "label": "ORG",
+      "start": 3821,
+      "end": 3825
+    },
+    {
+      "text": "Jardin",
+      "label": "ORG",
+      "start": 3869,
+      "end": 3875
+    },
+    {
+      "text": "Femme;",
+      "label": "ORG",
+      "start": 3890,
+      "end": 3896
+    },
+    {
+      "text": "Grand",
+      "label": "ORG",
+      "start": 3968,
+      "end": 3973
+    },
+    {
+      "text": "Bois,",
+      "label": "ORG",
+      "start": 4059,
+      "end": 4064
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 4582,
+      "end": 4587
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quelle horreur! me disais-je: peut-on trouver ces automobiles\nélégantes comme étaient les anciens attelages? je suis sans doute déjà\ntrop vieux--mais je ne suis pas fait pour un monde où les femmes\ns’entravent dans des robes qui ne sont pas même en étoffe",
+      "start": 0,
+      "end": 255
+    },
+    {
+      "text": "A quoi bon\nvenir sous ces arbres, si rien n’est plus de ce qui s’assemblait sous\nces délicats feuillages rougissants, si la vulgarité et la folie ont\nremplacé ce qu’ils encadraient d’exquis",
+      "start": 256,
+      "end": 446
+    },
+    {
+      "text": "Quelle horreur! Ma\nconsolation c’est de penser aux femmes que j’ai connues, aujourd’hui\nqu’il n’y a plus d’élégance",
+      "start": 447,
+      "end": 563
+    },
+    {
+      "text": "Mais comment des gens qui contemplent ces\nhorribles créatures sous leurs chapeaux couverts d’une volière ou d’un\npotager, pourraient-ils même sentir ce qu’il y avait de charmant à\nvoir Mme Swann coiffée d’une simple capote mauve ou d’un petit chapeau\nque dépassait une seule fleur d’iris toute droite",
+      "start": 564,
+      "end": 865
+    },
+    {
+      "text": "Aurais-je même pu\nleur faire comprendre l’émotion que j’éprouvais par les matins d’hiver\nà rencontrer Mme Swann à pied, en paletot de loutre, coiffée d’un\nsimple béret que dépassaient deux couteaux de plumes de perdrix, mais\nautour de laquelle la tiédeur factice de son appartement était\névoquée, rien que par le bouquet de violettes qui s’écrasait à son\ncorsage et dont le fleurissement vivant et bleu en face du ciel gris,\nde l’air glacé, des arbres aux branches nues, avait le même charme de\nne prendre la saison et le temps que comme un cadre, et de vivre dans\nune atmosphère humaine, dans l’atmosphère de cette femme, qu’avaient\ndans les vases et les jardinières de son salon, près du feu allumé,\ndevant le canapé de soie, les fleurs qui regardaient par la fenêtre\nclose la neige tomber? D’ailleurs il ne m’eût pas suffi que les\ntoilettes fussent les mêmes qu’en ces années-là",
+      "start": 866,
+      "end": 1748
+    },
+    {
+      "text": "A cause de la\nsolidarité qu’ont entre elles les différentes parties d’un souvenir et\nque notre mémoire maintient équilibrées dans un assemblage où il ne\nnous est pas permis de rien distraire, ni refuser, j’aurais voulu\npouvoir aller finir la journée chez une de ces femmes, devant une\ntasse de thé, dans un appartement aux murs peints de couleurs sombres,\ncomme était encore celui de Mme Swann (l’année d’après celle où se\ntermine la première partie de ce récit) et où luiraient les feux\norangés, la rouge combustion, la flamme rose et blanche des\nchrysanthèmes dans le crépuscule de novembre pendant des instants\npareils à ceux où (comme on le verra plus tard) je n’avais pas su\ndécouvrir les plaisirs que je désirais",
+      "start": 1749,
+      "end": 2468
+    },
+    {
+      "text": "Mais maintenant, même ne me\nconduisant à rien, ces instants me semblaient avoir eu eux-mêmes assez\nde charme",
+      "start": 2469,
+      "end": 2578
+    },
+    {
+      "text": "Je voudrais les retrouver tels que je me les rappelais",
+      "start": 2579,
+      "end": 2634
+    },
+    {
+      "text": "Hélas! il n’y avait plus que des appartements Louis XVI tout blancs,\némaillés d’hortensias bleus",
+      "start": 2635,
+      "end": 2732
+    },
+    {
+      "text": "D’ailleurs, on ne revenait plus à Paris\nque très tard",
+      "start": 2733,
+      "end": 2787
+    },
+    {
+      "text": "Mme Swann m’eût répondu d’un château qu’elle ne\nrentrerait qu’en février, bien après le temps des chrysanthèmes, si je\nlui avais demandé de reconstituer pour moi les éléments de ce souvenir\nque je sentais attaché à une année lointaine, à un millésime vers\nlequel il ne m’était pas permis de remonter, les éléments de ce désir\ndevenu lui-même inaccessible comme le plaisir qu’il avait jadis\nvainement poursuivi",
+      "start": 2788,
+      "end": 3198
+    },
+    {
+      "text": "Et il m’eût fallu aussi que ce fussent les mêmes\nfemmes, celles dont la toilette m’intéressait parce que, au temps où\nje croyais encore, mon imagination les avait individualisées et les\navait pourvues d’une légende",
+      "start": 3199,
+      "end": 3414
+    },
+    {
+      "text": "Hélas! dans l’avenue des Acacias--l’allée\nde Myrtes--j’en revis quelques-unes, vieilles, et qui n’étaient plus\nque les ombres terribles de ce qu’elles avaient été, errant, cherchant\ndésespérément on ne sait quoi dans les bosquets virgiliens",
+      "start": 3415,
+      "end": 3656
+    },
+    {
+      "text": "Elles\navaient fui depuis longtemps que j’étais encore à interroger vainement\nles chemins désertés",
+      "start": 3657,
+      "end": 3755
+    },
+    {
+      "text": "Le soleil s’était caché",
+      "start": 3756,
+      "end": 3780
+    },
+    {
+      "text": "La nature recommençait\nà régner sur le Bois d’où s’était envolée l’idée qu’il était le Jardin\nélyséen de la Femme; au-dessus du moulin factice le vrai ciel était\ngris; le vent ridait le Grand Lac de petites vaguelettes, comme un\nlac; de gros oiseaux parcouraient rapidement le Bois, comme un bois,\net poussant des cris aigus se posaient l’un après l’autre sur les\ngrands chênes qui sous leur couronne druidique et avec une majesté\ndodonéenne semblaient proclamer le vide inhumain de la forêt\ndésaffectée, et m’aidaient à mieux comprendre la contradiction que\nc’est de chercher dans la réalité les tableaux de la mémoire, auxquels\nmanquerait toujours le charme qui leur vient de la mémoire même et de\nn’être pas perçus par les sens",
+      "start": 3781,
+      "end": 4512
+    },
+    {
+      "text": "La réalité que j’avais connue\nn’existait plus",
+      "start": 4513,
+      "end": 4559
+    },
+    {
+      "text": "Il suffisait que Mme Swann n’arrivât pas toute\npareille au même moment, pour que l’Avenue fût autre",
+      "start": 4560,
+      "end": 4660
+    },
+    {
+      "text": "Les lieux que\nnous avons connus n’appartiennent pas qu’au monde de l’espace où nous\nles situons pour plus de facilité",
+      "start": 4661,
+      "end": 4779
+    },
+    {
+      "text": "Ils n’étaient qu’une mince tranche\nau milieu d’impressions contiguës qui formaient notre vie d’alors; le\nsouvenir d’une certaine image n’est que le regret d’un certain\ninstant; et les maisons, les routes, les avenues, sont fugitives,\nhélas, comme les années",
+      "start": 4780,
+      "end": 5038
+    }
+  ],
+  "tokens": 829,
+  "processed_at": "2025-03-16T02:10:57.625247"
+}

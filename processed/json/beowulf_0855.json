@@ -1,0 +1,48 @@
+{
+  "text": "--Vous avez remarqué ce qu’a fait cette personne, princesse, dit le\ngénéral de Froberville à la princesse des Laumes qu’il était venu\nsaluer et que Mme de Saint-Euverte quitta un instant. C’est curieux.\nEst-ce donc une artiste?",
+  "entities": [
+    {
+      "text": "--Vous",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Froberville",
+      "label": "ORG",
+      "start": 79,
+      "end": 90
+    },
+    {
+      "text": "Laumes",
+      "label": "ORG",
+      "start": 110,
+      "end": 116
+    },
+    {
+      "text": "Saint-Euverte",
+      "label": "ORG",
+      "start": 155,
+      "end": 168
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Vous avez remarqué ce qu’a fait cette personne, princesse, dit le\ngénéral de Froberville à la princesse des Laumes qu’il était venu\nsaluer et que Mme de Saint-Euverte quitta un instant",
+      "start": 0,
+      "end": 186
+    },
+    {
+      "text": "C’est curieux",
+      "start": 187,
+      "end": 201
+    },
+    {
+      "text": "Est-ce donc une artiste?",
+      "start": 202,
+      "end": 227
+    }
+  ],
+  "tokens": 37,
+  "processed_at": "2025-03-16T02:10:57.123380"
+}

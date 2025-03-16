@@ -1,0 +1,49 @@
+{
+  "text": "Pendant que la fille de cuisine,--faisant briller involontairement la\nsupériorité de Françoise, comme l’Erreur, par le contraste, rend plus\néclatant le triomphe de la Vérité--servait du café qui, selon maman\nn’était que de l’eau chaude, et montait ensuite dans nos chambres de\nl’eau chaude qui était à peine tiède, je m’étais étendu sur mon lit,\nun livre à la main, dans ma chambre qui protégeait en tremblant sa\nfraîcheur transparente et fragile contre le soleil de l’après-midi\nderrière ses volets presque clos où un reflet de jour avait pourtant\ntrouvé moyen de faire passer ses ailes jaunes, et restait immobile\nentre le bois et le vitrage, dans un coin, comme un papillon posé. Il\nfaisait à peine assez clair pour lire, et la sensation de la splendeur\nde la lumière ne m’était donnée que par les coups frappés dans la rue\nde la Cure par Camus (averti par Françoise que ma tante ne «reposait\npas» et qu’on pouvait faire du bruit) contre des caisses\npoussiéreuses, mais qui, retentissant dans l’atmosphère sonore,\nspéciale aux temps chauds, semblaient faire voler au loin des astres\nécarlates; et aussi par les mouches qui exécutaient devant moi, dans\nleur petit concert, comme la musique de chambre de l’été: elle ne\nl’évoque pas à la façon d’un air de musique humaine, qui, entendu par\nhasard à la belle saison, vous la rappelle ensuite; elle est unie à\nl’été par un lien plus nécessaire: née des beaux jours, ne renaissant\nqu’avec eux, contenant un peu de leur essence, elle n’en réveille pas\nseulement l’image dans notre mémoire, elle en certifie le retour, la\nprésence effective, ambiante, immédiatement accessible.",
+  "entities": [
+    {
+      "text": "Pendant",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 85,
+      "end": 95
+    },
+    {
+      "text": "Cure",
+      "label": "ORG",
+      "start": 833,
+      "end": 837
+    },
+    {
+      "text": "Camus",
+      "label": "ORG",
+      "start": 842,
+      "end": 847
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 860,
+      "end": 869
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pendant que la fille de cuisine,--faisant briller involontairement la\nsupériorité de Françoise, comme l’Erreur, par le contraste, rend plus\néclatant le triomphe de la Vérité--servait du café qui, selon maman\nn’était que de l’eau chaude, et montait ensuite dans nos chambres de\nl’eau chaude qui était à peine tiède, je m’étais étendu sur mon lit,\nun livre à la main, dans ma chambre qui protégeait en tremblant sa\nfraîcheur transparente et fragile contre le soleil de l’après-midi\nderrière ses volets presque clos où un reflet de jour avait pourtant\ntrouvé moyen de faire passer ses ailes jaunes, et restait immobile\nentre le bois et le vitrage, dans un coin, comme un papillon posé",
+      "start": 0,
+      "end": 681
+    },
+    {
+      "text": "Il\nfaisait à peine assez clair pour lire, et la sensation de la splendeur\nde la lumière ne m’était donnée que par les coups frappés dans la rue\nde la Cure par Camus (averti par Françoise que ma tante ne «reposait\npas» et qu’on pouvait faire du bruit) contre des caisses\npoussiéreuses, mais qui, retentissant dans l’atmosphère sonore,\nspéciale aux temps chauds, semblaient faire voler au loin des astres\nécarlates; et aussi par les mouches qui exécutaient devant moi, dans\nleur petit concert, comme la musique de chambre de l’été: elle ne\nl’évoque pas à la façon d’un air de musique humaine, qui, entendu par\nhasard à la belle saison, vous la rappelle ensuite; elle est unie à\nl’été par un lien plus nécessaire: née des beaux jours, ne renaissant\nqu’avec eux, contenant un peu de leur essence, elle n’en réveille pas\nseulement l’image dans notre mémoire, elle en certifie le retour, la\nprésence effective, ambiante, immédiatement accessible",
+      "start": 682,
+      "end": 1622
+    }
+  ],
+  "tokens": 271,
+  "processed_at": "2025-03-16T02:10:54.930117"
+}

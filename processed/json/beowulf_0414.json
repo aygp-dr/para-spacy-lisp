@@ -1,0 +1,43 @@
+{
+  "text": "Odette de Crécy retourna voir Swann, puis rapprocha ses visites; et\nsans doute chacune d’elles renouvelait pour lui la déception qu’il\néprouvait à se retrouver devant ce visage dont il avait un peu oublié\nles particularités dans l’intervalle, et qu’il ne s’était rappelé ni\nsi expressif ni, malgré sa jeunesse, si fané; il regrettait, pendant\nqu’elle causait avec lui, que la grande beauté qu’elle avait ne fût\npas du genre de celles qu’il aurait spontanément préférées. Il faut\nd’ailleurs dire que le visage d’Odette paraissait plus maigre et plus\nproéminent parce que le front et le haut des joues, cette surface unie\net plus plane était recouverte par la masse de cheveux qu’on portait,\nalors, prolongés en «devants», soulevés en «crêpés», répandus en\nmèches folles le long des oreilles; et quant à son corps qui était\nadmirablement fait, il était difficile d’en apercevoir la continuité\n(à cause des modes de l’époque et quoiqu’elle fût une des femmes de\nParis qui s’habillaient le mieux), tant le corsage, s’avançant en\nsaillie comme sur un ventre imaginaire et finissant brusquement en\npointe pendant que par en dessous commençait à s’enfler le ballon des\ndoubles jupes, donnait à la femme l’air d’être composée de pièces\ndifférentes mal emmanchées les unes dans les autres; tant les ruchés,\nles volants, le gilet suivaient en toute indépendance, selon la\nfantaisie de leur dessin ou la consistance de leur étoffe, la ligne\nqui les conduisait aux nœuds, aux bouillons de dentelle, aux effilés\nde jais perpendiculaires, ou qui les dirigeait le long du busc, mais\nne s’attachaient nullement à l’être vivant, qui selon que\nl’architecture de ces fanfreluches se rapprochait ou s’écartait trop\nde la sienne, s’y trouvait engoncé ou perdu.",
+  "entities": [
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Crécy",
+      "label": "ORG",
+      "start": 10,
+      "end": 15
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 30,
+      "end": 36
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 959,
+      "end": 964
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Odette de Crécy retourna voir Swann, puis rapprocha ses visites; et\nsans doute chacune d’elles renouvelait pour lui la déception qu’il\néprouvait à se retrouver devant ce visage dont il avait un peu oublié\nles particularités dans l’intervalle, et qu’il ne s’était rappelé ni\nsi expressif ni, malgré sa jeunesse, si fané; il regrettait, pendant\nqu’elle causait avec lui, que la grande beauté qu’elle avait ne fût\npas du genre de celles qu’il aurait spontanément préférées",
+      "start": 0,
+      "end": 469
+    },
+    {
+      "text": "Il faut\nd’ailleurs dire que le visage d’Odette paraissait plus maigre et plus\nproéminent parce que le front et le haut des joues, cette surface unie\net plus plane était recouverte par la masse de cheveux qu’on portait,\nalors, prolongés en «devants», soulevés en «crêpés», répandus en\nmèches folles le long des oreilles; et quant à son corps qui était\nadmirablement fait, il était difficile d’en apercevoir la continuité\n(à cause des modes de l’époque et quoiqu’elle fût une des femmes de\nParis qui s’habillaient le mieux), tant le corsage, s’avançant en\nsaillie comme sur un ventre imaginaire et finissant brusquement en\npointe pendant que par en dessous commençait à s’enfler le ballon des\ndoubles jupes, donnait à la femme l’air d’être composée de pièces\ndifférentes mal emmanchées les unes dans les autres; tant les ruchés,\nles volants, le gilet suivaient en toute indépendance, selon la\nfantaisie de leur dessin ou la consistance de leur étoffe, la ligne\nqui les conduisait aux nœuds, aux bouillons de dentelle, aux effilés\nde jais perpendiculaires, ou qui les dirigeait le long du busc, mais\nne s’attachaient nullement à l’être vivant, qui selon que\nl’architecture de ces fanfreluches se rapprochait ou s’écartait trop\nde la sienne, s’y trouvait engoncé ou perdu",
+      "start": 470,
+      "end": 1738
+    }
+  ],
+  "tokens": 283,
+  "processed_at": "2025-03-16T02:10:55.810303"
+}

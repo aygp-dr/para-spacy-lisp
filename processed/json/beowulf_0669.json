@@ -1,0 +1,60 @@
+{
+  "text": "--Ah! vous arrivez tard, dit Mme Verdurin à un fidèle qu’elle n’avait\ninvité qu’en «cure-dents», «nous avons eu «un» Brichot incomparable,\nd’une éloquence! Mais il est parti. N’est-ce pas, monsieur Swann? Je\ncrois que c’est la première fois que vous vous rencontriez avec lui,\ndit-elle pour lui faire remarquer que c’était à elle qu’il devait de\nle connaître. «N’est-ce pas, il a été délicieux, notre Brichot?»",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 33,
+      "end": 41
+    },
+    {
+      "text": "Brichot",
+      "label": "ORG",
+      "start": 117,
+      "end": 124
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 156,
+      "end": 160
+    },
+    {
+      "text": "Swann?",
+      "label": "ORG",
+      "start": 198,
+      "end": 204
+    },
+    {
+      "text": "Brichot?»",
+      "label": "ORG",
+      "start": 401,
+      "end": 410
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! vous arrivez tard, dit Mme Verdurin à un fidèle qu’elle n’avait\ninvité qu’en «cure-dents», «nous avons eu «un» Brichot incomparable,\nd’une éloquence! Mais il est parti",
+      "start": 0,
+      "end": 173
+    },
+    {
+      "text": "N’est-ce pas, monsieur Swann? Je\ncrois que c’est la première fois que vous vous rencontriez avec lui,\ndit-elle pour lui faire remarquer que c’était à elle qu’il devait de\nle connaître",
+      "start": 174,
+      "end": 358
+    },
+    {
+      "text": "«N’est-ce pas, il a été délicieux, notre Brichot?»",
+      "start": 359,
+      "end": 410
+    }
+  ],
+  "tokens": 66,
+  "processed_at": "2025-03-16T02:10:56.550052"
+}

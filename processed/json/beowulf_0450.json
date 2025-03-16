@@ -1,0 +1,152 @@
+{
+  "text": "--«Ah! je suis contente que vous appréciiez mon canapé, répondit Mme\nVerdurin. Et je vous préviens que si vous voulez en voir d’aussi beau,\nvous pouvez y renoncer tout de suite. Jamais ils n’ont rien fait de\npareil. Les petites chaises aussi sont des merveilles. Tout à l’heure\nvous regarderez cela. Chaque bronze correspond comme attribut au petit\nsujet du siège; vous savez, vous avez de quoi vous amuser si vous\nvoulez regarder cela, je vous promets un bon moment. Rien que les\npetites frises des bordures, tenez là, la petite vigne sur fond rouge\nde l’Ours et les Raisins. Est-ce dessiné? Qu’est-ce que vous en dites,\nje crois qu’ils le savaient plutôt, dessiner! Est-elle assez\nappétissante cette vigne? Mon mari prétend que je n’aime pas les\nfruits parce que j’en mange moins que lui. Mais non, je suis plus\ngourmande que vous tous, mais je n’ai pas besoin de me les mettre dans\nla bouche puisque je jouis par les yeux. Qu’est ce que vous avez tous\nà rire? demandez au docteur, il vous dira que ces raisins-là me\npurgent. D’autres font des cures de Fontainebleau, moi je fais ma\npetite cure de Beauvais. Mais, monsieur Swann, vous ne partirez pas\nsans avoir touché les petits bronzes des dossiers. Est-ce assez doux\ncomme patine? Mais non, à pleines mains, touchez-les bien.",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 69,
+      "end": 78
+    },
+    {
+      "text": "Jamais",
+      "label": "ORG",
+      "start": 178,
+      "end": 184
+    },
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 263,
+      "end": 267
+    },
+    {
+      "text": "Chaque",
+      "label": "ORG",
+      "start": 300,
+      "end": 306
+    },
+    {
+      "text": "Rien",
+      "label": "ORG",
+      "start": 468,
+      "end": 472
+    },
+    {
+      "text": "Raisins.",
+      "label": "ORG",
+      "start": 568,
+      "end": 576
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 791,
+      "end": 795
+    },
+    {
+      "text": "Fontainebleau,",
+      "label": "ORG",
+      "start": 1055,
+      "end": 1069
+    },
+    {
+      "text": "Beauvais.",
+      "label": "ORG",
+      "start": 1100,
+      "end": 1109
+    },
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 1110,
+      "end": 1115
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1125,
+      "end": 1131
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1236,
+      "end": 1240
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! je suis contente que vous appréciiez mon canapé, répondit Mme\nVerdurin",
+      "start": 0,
+      "end": 77
+    },
+    {
+      "text": "Et je vous préviens que si vous voulez en voir d’aussi beau,\nvous pouvez y renoncer tout de suite",
+      "start": 78,
+      "end": 176
+    },
+    {
+      "text": "Jamais ils n’ont rien fait de\npareil",
+      "start": 177,
+      "end": 214
+    },
+    {
+      "text": "Les petites chaises aussi sont des merveilles",
+      "start": 215,
+      "end": 261
+    },
+    {
+      "text": "Tout à l’heure\nvous regarderez cela",
+      "start": 262,
+      "end": 298
+    },
+    {
+      "text": "Chaque bronze correspond comme attribut au petit\nsujet du siège; vous savez, vous avez de quoi vous amuser si vous\nvoulez regarder cela, je vous promets un bon moment",
+      "start": 299,
+      "end": 466
+    },
+    {
+      "text": "Rien que les\npetites frises des bordures, tenez là, la petite vigne sur fond rouge\nde l’Ours et les Raisins",
+      "start": 467,
+      "end": 575
+    },
+    {
+      "text": "Est-ce dessiné? Qu’est-ce que vous en dites,\nje crois qu’ils le savaient plutôt, dessiner! Est-elle assez\nappétissante cette vigne? Mon mari prétend que je n’aime pas les\nfruits parce que j’en mange moins que lui",
+      "start": 576,
+      "end": 789
+    },
+    {
+      "text": "Mais non, je suis plus\ngourmande que vous tous, mais je n’ai pas besoin de me les mettre dans\nla bouche puisque je jouis par les yeux",
+      "start": 790,
+      "end": 924
+    },
+    {
+      "text": "Qu’est ce que vous avez tous\nà rire? demandez au docteur, il vous dira que ces raisins-là me\npurgent",
+      "start": 925,
+      "end": 1026
+    },
+    {
+      "text": "D’autres font des cures de Fontainebleau, moi je fais ma\npetite cure de Beauvais",
+      "start": 1027,
+      "end": 1108
+    },
+    {
+      "text": "Mais, monsieur Swann, vous ne partirez pas\nsans avoir touché les petits bronzes des dossiers",
+      "start": 1109,
+      "end": 1202
+    },
+    {
+      "text": "Est-ce assez doux\ncomme patine? Mais non, à pleines mains, touchez-les bien",
+      "start": 1203,
+      "end": 1279
+    }
+  ],
+  "tokens": 222,
+  "processed_at": "2025-03-16T02:10:55.915183"
+}

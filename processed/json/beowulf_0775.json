@@ -1,0 +1,88 @@
+{
+  "text": "Alors cette terrible réponse dont il avait arrêté chaque mot la veille\nsans oser espérer qu’elle pourrait servir jamais il avait la joie de\nla lui faire porter. Hélas! il sentait bien qu’avec l’argent qu’elle\navait, ou qu’elle trouverait facilement, elle pourrait tout de même\nlouer à Bayreuth puisqu’elle en avait envie, elle qui n’était pas\ncapable de faire de différence entre Bach et Clapisson. Mais elle y\nvivrait malgré tout plus chichement. Pas moyen comme s’il lui eût\nenvoyé cette fois quelques billets de mille francs, d’organiser chaque\nsoir, dans un château, de ces soupers fins après lesquels elle se\nserait peut-être passé la fantaisie,--qu’il était possible qu’elle\nn’eût jamais eue encore--, de tomber dans les bras de Forcheville. Et\npuis du moins, ce voyage détesté, ce n’était pas lui, Swann, qui le\npaierait!--Ah! s’il avait pu l’empêcher, si elle avait pu se fouler le\npied avant de partir, si le cocher de la voiture qui l’emmènerait à la\ngare avait consenti, à n’importe quel prix, à la conduire dans un lieu\noù elle fût restée quelque temps séquestrée, cette femme perfide, aux\nyeux émaillés par un sourire de complicité adressé à Forcheville,\nqu’Odette était pour Swann depuis quarante-huit heures.",
+  "entities": [
+    {
+      "text": "Hélas!",
+      "label": "ORG",
+      "start": 161,
+      "end": 167
+    },
+    {
+      "text": "Bayreuth",
+      "label": "ORG",
+      "start": 285,
+      "end": 293
+    },
+    {
+      "text": "Bach",
+      "label": "ORG",
+      "start": 380,
+      "end": 384
+    },
+    {
+      "text": "Clapisson.",
+      "label": "ORG",
+      "start": 388,
+      "end": 398
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 399,
+      "end": 403
+    },
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 735,
+      "end": 747
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 805,
+      "end": 811
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 1155,
+      "end": 1167
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1189,
+      "end": 1194
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Alors cette terrible réponse dont il avait arrêté chaque mot la veille\nsans oser espérer qu’elle pourrait servir jamais il avait la joie de\nla lui faire porter",
+      "start": 0,
+      "end": 159
+    },
+    {
+      "text": "Hélas! il sentait bien qu’avec l’argent qu’elle\navait, ou qu’elle trouverait facilement, elle pourrait tout de même\nlouer à Bayreuth puisqu’elle en avait envie, elle qui n’était pas\ncapable de faire de différence entre Bach et Clapisson",
+      "start": 160,
+      "end": 397
+    },
+    {
+      "text": "Mais elle y\nvivrait malgré tout plus chichement",
+      "start": 398,
+      "end": 446
+    },
+    {
+      "text": "Pas moyen comme s’il lui eût\nenvoyé cette fois quelques billets de mille francs, d’organiser chaque\nsoir, dans un château, de ces soupers fins après lesquels elle se\nserait peut-être passé la fantaisie,--qu’il était possible qu’elle\nn’eût jamais eue encore--, de tomber dans les bras de Forcheville",
+      "start": 447,
+      "end": 746
+    },
+    {
+      "text": "Et\npuis du moins, ce voyage détesté, ce n’était pas lui, Swann, qui le\npaierait!--Ah! s’il avait pu l’empêcher, si elle avait pu se fouler le\npied avant de partir, si le cocher de la voiture qui l’emmènerait à la\ngare avait consenti, à n’importe quel prix, à la conduire dans un lieu\noù elle fût restée quelque temps séquestrée, cette femme perfide, aux\nyeux émaillés par un sourire de complicité adressé à Forcheville,\nqu’Odette était pour Swann depuis quarante-huit heures",
+      "start": 747,
+      "end": 1222
+    }
+  ],
+  "tokens": 201,
+  "processed_at": "2025-03-16T02:10:56.872998"
+}

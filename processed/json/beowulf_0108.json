@@ -1,0 +1,37 @@
+{
+  "text": "C’était le clocher de Saint-Hilaire qui donnait à toutes les\noccupations, à toutes les heures, à tous les points de vue de la\nville, leur figure, leur couronnement, leur consécration. De ma\nchambre, je ne pouvais apercevoir que sa base qui avait été recouverte\nd’ardoises; mais quand, le dimanche, je les voyais, par une chaude\nmatinée d’été, flamboyer comme un soleil noir, je me disais:\n«Mon-Dieu! neuf heures! il faut se préparer pour aller à la\ngrand’messe si je veux avoir le temps d’aller embrasser tante Léonie\navant», et je savais exactement la couleur qu’avait le soleil sur la\nplace, la chaleur et la poussière du marché, l’ombre que faisait le\nstore du magasin où maman entrerait peut-être avant la messe dans une\nodeur de toile écrue, faire emplette de quelque mouchoir que lui\nferait montrer, en cambrant la taille, le patron qui, tout en se\npréparant à fermer, venait d’aller dans l’arrière-boutique passer sa\nveste du dimanche et se savonner les mains qu’il avait l’habitude,\ntoutes les cinq minutes, même dans les circonstances les plus\nmélancoliques, de frotter l’une contre l’autre d’un air d’entreprise,\nde partie fine et de réussite.",
+  "entities": [
+    {
+      "text": "Saint-Hilaire",
+      "label": "ORG",
+      "start": 22,
+      "end": 35
+    },
+    {
+      "text": "«Mon-Dieu!",
+      "label": "ORG",
+      "start": 389,
+      "end": 399
+    },
+    {
+      "text": "Léonie",
+      "label": "ORG",
+      "start": 511,
+      "end": 517
+    }
+  ],
+  "sentences": [
+    {
+      "text": "C’était le clocher de Saint-Hilaire qui donnait à toutes les\noccupations, à toutes les heures, à tous les points de vue de la\nville, leur figure, leur couronnement, leur consécration",
+      "start": 0,
+      "end": 182
+    },
+    {
+      "text": "De ma\nchambre, je ne pouvais apercevoir que sa base qui avait été recouverte\nd’ardoises; mais quand, le dimanche, je les voyais, par une chaude\nmatinée d’été, flamboyer comme un soleil noir, je me disais:\n«Mon-Dieu! neuf heures! il faut se préparer pour aller à la\ngrand’messe si je veux avoir le temps d’aller embrasser tante Léonie\navant», et je savais exactement la couleur qu’avait le soleil sur la\nplace, la chaleur et la poussière du marché, l’ombre que faisait le\nstore du magasin où maman entrerait peut-être avant la messe dans une\nodeur de toile écrue, faire emplette de quelque mouchoir que lui\nferait montrer, en cambrant la taille, le patron qui, tout en se\npréparant à fermer, venait d’aller dans l’arrière-boutique passer sa\nveste du dimanche et se savonner les mains qu’il avait l’habitude,\ntoutes les cinq minutes, même dans les circonstances les plus\nmélancoliques, de frotter l’une contre l’autre d’un air d’entreprise,\nde partie fine et de réussite",
+      "start": 183,
+      "end": 1152
+    }
+  ],
+  "tokens": 191,
+  "processed_at": "2025-03-16T02:10:54.757139"
+}

@@ -1,0 +1,48 @@
+{
+  "text": "Mais tout à coup ce fut comme si elle était entrée, et cette\napparition lui fut une si déchirante souffrance qu’il dut porter la\nmain à son cœur. C’est que le violon était monté à des notes hautes où\nil restait comme pour une attente, une attente qui se prolongeait sans\nqu’il cessât de les tenir, dans l’exaltation où il était d’apercevoir\ndéjà l’objet de son attente qui s’approchait, et avec un effort\ndésespéré pour tâcher de durer jusqu’à son arrivée, de l’accueillir\navant d’expirer, de lui maintenir encore un moment de toutes ses\ndernières forces le chemin ouvert pour qu’il pût passer, comme on\nsoutient une porte qui sans cela retomberait. Et avant que Swann eût\neu le temps de comprendre, et de se dire: «C’est la petite phrase de\nla sonate de Vinteuil, n’écoutons pas!» tous ses souvenirs du temps où\nOdette était éprise de lui, et qu’il avait réussi jusqu’à ce jour à\nmaintenir invisibles dans les profondeurs de son être, trompés par ce\nbrusque rayon du temps d’amour qu’ils crurent revenu, s’étaient\nréveillés, et à tire d’aile, étaient remontés lui chanter éperdument,\nsans pitié pour son infortune présente, les refrains oubliés du\nbonheur.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 663,
+      "end": 668
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 755,
+      "end": 764
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 813,
+      "end": 819
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais tout à coup ce fut comme si elle était entrée, et cette\napparition lui fut une si déchirante souffrance qu’il dut porter la\nmain à son cœur",
+      "start": 0,
+      "end": 144
+    },
+    {
+      "text": "C’est que le violon était monté à des notes hautes où\nil restait comme pour une attente, une attente qui se prolongeait sans\nqu’il cessât de les tenir, dans l’exaltation où il était d’apercevoir\ndéjà l’objet de son attente qui s’approchait, et avec un effort\ndésespéré pour tâcher de durer jusqu’à son arrivée, de l’accueillir\navant d’expirer, de lui maintenir encore un moment de toutes ses\ndernières forces le chemin ouvert pour qu’il pût passer, comme on\nsoutient une porte qui sans cela retomberait",
+      "start": 145,
+      "end": 648
+    },
+    {
+      "text": "Et avant que Swann eût\neu le temps de comprendre, et de se dire: «C’est la petite phrase de\nla sonate de Vinteuil, n’écoutons pas!» tous ses souvenirs du temps où\nOdette était éprise de lui, et qu’il avait réussi jusqu’à ce jour à\nmaintenir invisibles dans les profondeurs de son être, trompés par ce\nbrusque rayon du temps d’amour qu’ils crurent revenu, s’étaient\nréveillés, et à tire d’aile, étaient remontés lui chanter éperdument,\nsans pitié pour son infortune présente, les refrains oubliés du\nbonheur",
+      "start": 649,
+      "end": 1156
+    }
+  ],
+  "tokens": 197,
+  "processed_at": "2025-03-16T02:10:57.268885"
+}

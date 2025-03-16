@@ -1,0 +1,80 @@
+{
+  "text": "--«M. le Curé serait enchanté, ravi, si Madame Octave ne repose pas et\npouvait le recevoir. M. le Curé ne veut pas déranger. M. le Curé est\nen bas, j’y ai dit d’entrer dans la salle.»",
+  "entities": [
+    {
+      "text": "--«M.",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Curé",
+      "label": "ORG",
+      "start": 9,
+      "end": 13
+    },
+    {
+      "text": "Madame",
+      "label": "ORG",
+      "start": 40,
+      "end": 46
+    },
+    {
+      "text": "Octave",
+      "label": "ORG",
+      "start": 47,
+      "end": 53
+    },
+    {
+      "text": "Curé",
+      "label": "ORG",
+      "start": 98,
+      "end": 102
+    },
+    {
+      "text": "Curé",
+      "label": "ORG",
+      "start": 131,
+      "end": 135
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«M",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "le Curé serait enchanté, ravi, si Madame Octave ne repose pas et\npouvait le recevoir",
+      "start": 5,
+      "end": 90
+    },
+    {
+      "text": "M",
+      "start": 39,
+      "end": 41
+    },
+    {
+      "text": "le Curé ne veut pas déranger",
+      "start": 94,
+      "end": 123
+    },
+    {
+      "text": "M",
+      "start": 39,
+      "end": 41
+    },
+    {
+      "text": "le Curé est\nen bas, j’y ai dit d’entrer dans la salle",
+      "start": 127,
+      "end": 181
+    },
+    {
+      "text": "»",
+      "start": 182,
+      "end": 183
+    }
+  ],
+  "tokens": 36,
+  "processed_at": "2025-03-16T02:10:55.219831"
+}

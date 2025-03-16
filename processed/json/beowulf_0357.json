@@ -1,0 +1,161 @@
+{
+  "text": "Le plus grand charme du côté de Guermantes, c’est qu’on y avait\npresque tout le temps à côté de soi le cours de la Vivonne. On la\ntraversait une première fois, dix minutes après avoir quitté la\nmaison, sur une passerelle dite le Pont-Vieux. Dès le lendemain de\nnotre arrivée, le jour de Pâques, après le sermon s’il faisait beau\ntemps, je courais jusque-là, voir dans ce désordre d’un matin de\ngrande fête où quelques préparatifs somptueux font paraître plus\nsordides les ustensiles de ménage qui traînent encore, la rivière qui\nse promenait déjà en bleu-ciel entre les terres encore noires et nues,\naccompagnée seulement d’une bande de coucous arrivés trop tôt et de\nprimevères en avance, cependant que çà et là une violette au bec bleu\nlaissait fléchir sa tige sous le poids de la goutte d’odeur qu’elle\ntenait dans son cornet. Le Pont-Vieux débouchait dans un sentier de\nhalage qui à cet endroit se tapissait l’été du feuillage bleu d’un\nnoisetier sous lequel un pêcheur en chapeau de paille avait pris\nracine. A Combray où je savais quelle individualité de maréchal\nferrant ou de garçon épicier était dissimulée sous l’uniforme du\nsuisse ou le surplis de l’enfant de chœur, ce pêcheur est la seule\npersonne dont je n’aie jamais découvert l’identité. Il devait\nconnaître mes parents, car il soulevait son chapeau quand nous\npassions; je voulais alors demander son nom, mais on me faisait signe\nde me taire pour ne pas effrayer le poisson. Nous nous engagions dans\nle sentier de halage qui dominait le courant d’un talus de plusieurs\npieds; de l’autre côté la rive était basse, étendue en vastes prés\njusqu’au village et jusqu’à la gare qui en était distante. Ils étaient\nsemés des restes, à demi enfouis dans l’herbe, du château des anciens\ncomtes de Combray qui au moyen âge avait de ce côté le cours de la\nVivonne comme défense contre les attaques des sires de Guermantes et\ndes abbés de Martinville. Ce n’étaient plus que quelques fragments de\ntours bossuant la prairie, à peine apparents, quelques créneaux d’où\njadis l’arbalétrier lançait des pierres, d’où le guetteur surveillait\nNovepont, Clairefontaine, Martinville-le-Sec, Bailleau-l’Exempt,\ntoutes terres vassales de Guermantes entre lesquelles Combray était\nenclavé, aujourd’hui au ras de l’herbe, dominés par les enfants de\nl’école des frères qui venaient là apprendre leurs leçons ou jouer aux\nrécréations;--passé presque descendu dans la terre, couché au bord de\nl’eau comme un promeneur qui prend le frais, mais me donnant fort à\nsonger, me faisant ajouter dans le nom de Combray à la petite ville\nd’aujourd’hui une cité très différente, retenant mes pensées par son\nvisage incompréhensible et d’autrefois qu’il cachait à demi sous les\nboutons d’or. Ils étaient fort nombreux à cet endroit qu’ils avaient\nchoisi pour leurs jeux sur l’herbe, isolés, par couples, par troupes,\njaunes comme un jaune d’œuf, brillants d’autant plus, me semblait-il,\nque ne pouvant dériver vers aucune velléité de dégustation le plaisir\nque leur vue me causait, je l’accumulais dans leur surface dorée,\njusqu’à ce qu’il devînt assez puissant pour produire de l’inutile\nbeauté; et cela dès ma plus petite enfance, quand du sentier de halage\nje tendais les bras vers eux sans pouvoir épeler complètement leur\njoli nom de Princes de contes de fées français, venus peut-être il y a\nbien des siècles d’Asie mais apatriés pour toujours au village,\ncontents du modeste horizon, aimant le soleil et le bord de l’eau,\nfidèles à la petite vue de la gare, gardant encore pourtant comme\ncertaines de nos vieilles toiles peintes, dans leur simplicité\npopulaire, un poétique éclat d’orient.",
+  "entities": [
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 32,
+      "end": 43
+    },
+    {
+      "text": "Vivonne.",
+      "label": "ORG",
+      "start": 115,
+      "end": 123
+    },
+    {
+      "text": "Pont-Vieux.",
+      "label": "ORG",
+      "start": 229,
+      "end": 240
+    },
+    {
+      "text": "Pâques,",
+      "label": "ORG",
+      "start": 287,
+      "end": 294
+    },
+    {
+      "text": "Pont-Vieux",
+      "label": "ORG",
+      "start": 833,
+      "end": 843
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1016,
+      "end": 1023
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 1442,
+      "end": 1446
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1754,
+      "end": 1761
+    },
+    {
+      "text": "Vivonne",
+      "label": "ORG",
+      "start": 1811,
+      "end": 1818
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 1866,
+      "end": 1876
+    },
+    {
+      "text": "Martinville.",
+      "label": "ORG",
+      "start": 1893,
+      "end": 1905
+    },
+    {
+      "text": "Novepont,",
+      "label": "ORG",
+      "start": 2089,
+      "end": 2098
+    },
+    {
+      "text": "Clairefontaine,",
+      "label": "ORG",
+      "start": 2099,
+      "end": 2114
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 2180,
+      "end": 2190
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 2208,
+      "end": 2215
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 2540,
+      "end": 2547
+    },
+    {
+      "text": "Princes",
+      "label": "ORG",
+      "start": 3265,
+      "end": 3272
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le plus grand charme du côté de Guermantes, c’est qu’on y avait\npresque tout le temps à côté de soi le cours de la Vivonne",
+      "start": 0,
+      "end": 122
+    },
+    {
+      "text": "On la\ntraversait une première fois, dix minutes après avoir quitté la\nmaison, sur une passerelle dite le Pont-Vieux",
+      "start": 123,
+      "end": 239
+    },
+    {
+      "text": "Dès le lendemain de\nnotre arrivée, le jour de Pâques, après le sermon s’il faisait beau\ntemps, je courais jusque-là, voir dans ce désordre d’un matin de\ngrande fête où quelques préparatifs somptueux font paraître plus\nsordides les ustensiles de ménage qui traînent encore, la rivière qui\nse promenait déjà en bleu-ciel entre les terres encore noires et nues,\naccompagnée seulement d’une bande de coucous arrivés trop tôt et de\nprimevères en avance, cependant que çà et là une violette au bec bleu\nlaissait fléchir sa tige sous le poids de la goutte d’odeur qu’elle\ntenait dans son cornet",
+      "start": 240,
+      "end": 828
+    },
+    {
+      "text": "Le Pont-Vieux débouchait dans un sentier de\nhalage qui à cet endroit se tapissait l’été du feuillage bleu d’un\nnoisetier sous lequel un pêcheur en chapeau de paille avait pris\nracine",
+      "start": 829,
+      "end": 1012
+    },
+    {
+      "text": "A Combray où je savais quelle individualité de maréchal\nferrant ou de garçon épicier était dissimulée sous l’uniforme du\nsuisse ou le surplis de l’enfant de chœur, ce pêcheur est la seule\npersonne dont je n’aie jamais découvert l’identité",
+      "start": 1013,
+      "end": 1252
+    },
+    {
+      "text": "Il devait\nconnaître mes parents, car il soulevait son chapeau quand nous\npassions; je voulais alors demander son nom, mais on me faisait signe\nde me taire pour ne pas effrayer le poisson",
+      "start": 1253,
+      "end": 1440
+    },
+    {
+      "text": "Nous nous engagions dans\nle sentier de halage qui dominait le courant d’un talus de plusieurs\npieds; de l’autre côté la rive était basse, étendue en vastes prés\njusqu’au village et jusqu’à la gare qui en était distante",
+      "start": 1441,
+      "end": 1660
+    },
+    {
+      "text": "Ils étaient\nsemés des restes, à demi enfouis dans l’herbe, du château des anciens\ncomtes de Combray qui au moyen âge avait de ce côté le cours de la\nVivonne comme défense contre les attaques des sires de Guermantes et\ndes abbés de Martinville",
+      "start": 1661,
+      "end": 1904
+    },
+    {
+      "text": "Ce n’étaient plus que quelques fragments de\ntours bossuant la prairie, à peine apparents, quelques créneaux d’où\njadis l’arbalétrier lançait des pierres, d’où le guetteur surveillait\nNovepont, Clairefontaine, Martinville-le-Sec, Bailleau-l’Exempt,\ntoutes terres vassales de Guermantes entre lesquelles Combray était\nenclavé, aujourd’hui au ras de l’herbe, dominés par les enfants de\nl’école des frères qui venaient là apprendre leurs leçons ou jouer aux\nrécréations;--passé presque descendu dans la terre, couché au bord de\nl’eau comme un promeneur qui prend le frais, mais me donnant fort à\nsonger, me faisant ajouter dans le nom de Combray à la petite ville\nd’aujourd’hui une cité très différente, retenant mes pensées par son\nvisage incompréhensible et d’autrefois qu’il cachait à demi sous les\nboutons d’or",
+      "start": 1905,
+      "end": 2716
+    },
+    {
+      "text": "Ils étaient fort nombreux à cet endroit qu’ils avaient\nchoisi pour leurs jeux sur l’herbe, isolés, par couples, par troupes,\njaunes comme un jaune d’œuf, brillants d’autant plus, me semblait-il,\nque ne pouvant dériver vers aucune velléité de dégustation le plaisir\nque leur vue me causait, je l’accumulais dans leur surface dorée,\njusqu’à ce qu’il devînt assez puissant pour produire de l’inutile\nbeauté; et cela dès ma plus petite enfance, quand du sentier de halage\nje tendais les bras vers eux sans pouvoir épeler complètement leur\njoli nom de Princes de contes de fées français, venus peut-être il y a\nbien des siècles d’Asie mais apatriés pour toujours au village,\ncontents du modeste horizon, aimant le soleil et le bord de l’eau,\nfidèles à la petite vue de la gare, gardant encore pourtant comme\ncertaines de nos vieilles toiles peintes, dans leur simplicité\npopulaire, un poétique éclat d’orient",
+      "start": 2717,
+      "end": 3621
+    }
+  ],
+  "tokens": 596,
+  "processed_at": "2025-03-16T02:10:55.635454"
+}

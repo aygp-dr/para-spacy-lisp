@@ -1,0 +1,36 @@
+{
+  "text": "Déjà moins intérieur à mon corps que cette vie des personnages, venait\nensuite, à demi projeté devant moi, le paysage où se déroulait\nl’action et qui exerçait sur ma pensée une bien plus grande influence\nque l’autre, que celui que j’avais sous les yeux quand je les levais\ndu livre. C’est ainsi que pendant deux étés, dans la chaleur du jardin\nde Combray, j’ai eu, à cause du livre que je lisais alors, la\nnostalgie d’un pays montueux et fluviatile, où je verrais beaucoup de\nscieries et où, au fond de l’eau claire, des morceaux de bois\npourrissaient sous des touffes de cresson: non loin montaient le long\nde murs bas, des grappes de fleurs violettes et rougeâtres. Et comme\nle rêve d’une femme qui m’aurait aimé était toujours présent à ma\npensée, ces étés-là ce rêve fut imprégné de la fraîcheur des eaux\ncourantes; et quelle que fût la femme que j’évoquais, des grappes de\nfleurs violettes et rougeâtres s’élevaient aussitôt de chaque côté\nd’elle comme des couleurs complémentaires.",
+  "entities": [
+    {
+      "text": "Déjà",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 347,
+      "end": 355
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Déjà moins intérieur à mon corps que cette vie des personnages, venait\nensuite, à demi projeté devant moi, le paysage où se déroulait\nl’action et qui exerçait sur ma pensée une bien plus grande influence\nque l’autre, que celui que j’avais sous les yeux quand je les levais\ndu livre",
+      "start": 0,
+      "end": 281
+    },
+    {
+      "text": "C’est ainsi que pendant deux étés, dans la chaleur du jardin\nde Combray, j’ai eu, à cause du livre que je lisais alors, la\nnostalgie d’un pays montueux et fluviatile, où je verrais beaucoup de\nscieries et où, au fond de l’eau claire, des morceaux de bois\npourrissaient sous des touffes de cresson: non loin montaient le long\nde murs bas, des grappes de fleurs violettes et rougeâtres",
+      "start": 282,
+      "end": 666
+    },
+    {
+      "text": "Et comme\nle rêve d’une femme qui m’aurait aimé était toujours présent à ma\npensée, ces étés-là ce rêve fut imprégné de la fraîcheur des eaux\ncourantes; et quelle que fût la femme que j’évoquais, des grappes de\nfleurs violettes et rougeâtres s’élevaient aussitôt de chaque côté\nd’elle comme des couleurs complémentaires",
+      "start": 667,
+      "end": 986
+    }
+  ],
+  "tokens": 170,
+  "processed_at": "2025-03-16T02:10:54.959079"
+}

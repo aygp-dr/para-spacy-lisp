@@ -1,0 +1,48 @@
+{
+  "text": "Dans la chambre voisine, j’entendais ma tante qui causait toute seule\nà mi-voix. Elle ne parlait jamais qu’assez bas parce qu’elle croyait\navoir dans la tête quelque chose de cassé et de flottant qu’elle eût\ndéplacé en parlant trop fort, mais elle ne restait jamais longtemps,\nmême seule, sans dire quelque chose, parce qu’elle croyait que c’était\nsalutaire pour sa gorge et qu’en empêchant le sang de s’y arrêter,\ncela rendrait moins fréquents les étouffements et les angoisses dont\nelle souffrait; puis, dans l’inertie absolu où elle vivait, elle\nprêtait à ses moindres sensations une importance extraordinaire; elle\nles douait d’une motilité qui lui rendait difficile de les garder pour\nelle, et à défaut de confident à qui les communiquer, elle se les\nannonçait à elle-même, en un perpétuel monologue qui était sa seule\nforme d’activité. Malheureusement, ayant pris l’habitude de penser\ntout haut, elle ne faisait pas toujours attention à ce qu’il n’y eût\npersonne dans la chambre voisine, et je l’entendais souvent se dire à\nelle-même: «Il faut que je me rappelle bien que je n’ai pas dormi»\n(car ne jamais dormir était sa grande prétention dont notre langage à\ntous gardait le respect et la trace: le matin Françoise ne venait pas\n«l’éveiller», mais «entrait» chez elle; quand ma tante voulait faire\nun somme dans la journée, on disait qu’elle voulait «réfléchir» ou\n«reposer»; et quand il lui arrivait de s’oublier en causant jusqu’à\ndire: «Ce qui m’a réveillée» ou «j’ai rêvé que», elle rougissait et se\nreprenait au plus vite).",
+  "entities": [
+    {
+      "text": "Dans",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 81,
+      "end": 85
+    },
+    {
+      "text": "Malheureusement,",
+      "label": "ORG",
+      "start": 842,
+      "end": 858
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1213,
+      "end": 1222
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Dans la chambre voisine, j’entendais ma tante qui causait toute seule\nà mi-voix",
+      "start": 0,
+      "end": 79
+    },
+    {
+      "text": "Elle ne parlait jamais qu’assez bas parce qu’elle croyait\navoir dans la tête quelque chose de cassé et de flottant qu’elle eût\ndéplacé en parlant trop fort, mais elle ne restait jamais longtemps,\nmême seule, sans dire quelque chose, parce qu’elle croyait que c’était\nsalutaire pour sa gorge et qu’en empêchant le sang de s’y arrêter,\ncela rendrait moins fréquents les étouffements et les angoisses dont\nelle souffrait; puis, dans l’inertie absolu où elle vivait, elle\nprêtait à ses moindres sensations une importance extraordinaire; elle\nles douait d’une motilité qui lui rendait difficile de les garder pour\nelle, et à défaut de confident à qui les communiquer, elle se les\nannonçait à elle-même, en un perpétuel monologue qui était sa seule\nforme d’activité",
+      "start": 80,
+      "end": 840
+    },
+    {
+      "text": "Malheureusement, ayant pris l’habitude de penser\ntout haut, elle ne faisait pas toujours attention à ce qu’il n’y eût\npersonne dans la chambre voisine, et je l’entendais souvent se dire à\nelle-même: «Il faut que je me rappelle bien que je n’ai pas dormi»\n(car ne jamais dormir était sa grande prétention dont notre langage à\ntous gardait le respect et la trace: le matin Françoise ne venait pas\n«l’éveiller», mais «entrait» chez elle; quand ma tante voulait faire\nun somme dans la journée, on disait qu’elle voulait «réfléchir» ou\n«reposer»; et quand il lui arrivait de s’oublier en causant jusqu’à\ndire: «Ce qui m’a réveillée» ou «j’ai rêvé que», elle rougissait et se\nreprenait au plus vite)",
+      "start": 841,
+      "end": 1535
+    }
+  ],
+  "tokens": 254,
+  "processed_at": "2025-03-16T02:10:54.586744"
+}

@@ -1,0 +1,25 @@
+{
+  "text": "--«As-tu vu la tête qu’il a fait quand il s’est aperçu qu’elle n’était\npas là? dit M. Verdurin à sa femme, je crois qu’on peut dire qu’il est\npincé!»",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 86,
+      "end": 94
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«As-tu vu la tête qu’il a fait quand il s’est aperçu qu’elle n’était\npas là? dit M",
+      "start": 0,
+      "end": 84
+    },
+    {
+      "text": "Verdurin à sa femme, je crois qu’on peut dire qu’il est\npincé!»",
+      "start": 85,
+      "end": 149
+    }
+  ],
+  "tokens": 29,
+  "processed_at": "2025-03-16T02:10:56.129424"
+}

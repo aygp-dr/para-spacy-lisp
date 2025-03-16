@@ -1,0 +1,36 @@
+{
+  "text": "--«Oui, mais si vous l’aviez connue à ce moment-là, ce qu’elle était\njolie! Elle habitait un petit hôtel très étrange avec des\nchinoiseries. Je me rappelle que nous étions embêtés par le bruit des\ncrieurs de journaux, elle a fini par me faire lever.»",
+  "entities": [
+    {
+      "text": "--«Oui,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 76,
+      "end": 80
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Oui, mais si vous l’aviez connue à ce moment-là, ce qu’elle était\njolie! Elle habitait un petit hôtel très étrange avec des\nchinoiseries",
+      "start": 0,
+      "end": 139
+    },
+    {
+      "text": "Je me rappelle que nous étions embêtés par le bruit des\ncrieurs de journaux, elle a fini par me faire lever",
+      "start": 140,
+      "end": 248
+    },
+    {
+      "text": "»",
+      "start": 249,
+      "end": 250
+    }
+  ],
+  "tokens": 44,
+  "processed_at": "2025-03-16T02:10:57.617221"
+}

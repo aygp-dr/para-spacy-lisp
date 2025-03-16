@@ -1,0 +1,26 @@
+{
+  "text": "--Voilà! s’écria Odette, voilà les grandes choses dont je lui demande\nde me parler, mais il ne veut jamais.",
+  "entities": [
+    {
+      "text": "--Voilà!",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 17,
+      "end": 24
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Voilà! s’écria Odette, voilà les grandes choses dont je lui demande\nde me parler, mais il ne veut jamais",
+      "start": 0,
+      "end": 106
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:56.453399"
+}

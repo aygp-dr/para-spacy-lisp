@@ -1,0 +1,36 @@
+{
+  "text": "Odette depuis un moment donnait des signes d’émotion et d’incertitude.\nA défaut du sens de ce discours, elle comprenait qu’il pouvait rentrer\ndans le genre commun des «laïus», et scènes de reproches ou de\nsupplications dont l’habitude qu’elle avait des hommes lui permettait\nsans s’attacher aux détails des mots, de conclure qu’ils ne les\nprononceraient pas s’ils n’étaient pas amoureux, que du moment qu’ils\nétaient amoureux, il était inutile de leur obéir, qu’ils ne le\nseraient que plus après. Aussi aurait-elle écouté Swann avec le plus\ngrand calme si elle n’avait vu que l’heure passait et que pour peu\nqu’il parlât encore quelque temps, elle allait, comme elle le lui dit\navec un sourire tendre, obstiné et confus, «finir par manquer\nl’Ouverture!»",
+  "entities": [
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 522,
+      "end": 527
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Odette depuis un moment donnait des signes d’émotion et d’incertitude",
+      "start": 0,
+      "end": 69
+    },
+    {
+      "text": "A défaut du sens de ce discours, elle comprenait qu’il pouvait rentrer\ndans le genre commun des «laïus», et scènes de reproches ou de\nsupplications dont l’habitude qu’elle avait des hommes lui permettait\nsans s’attacher aux détails des mots, de conclure qu’ils ne les\nprononceraient pas s’ils n’étaient pas amoureux, que du moment qu’ils\nétaient amoureux, il était inutile de leur obéir, qu’ils ne le\nseraient que plus après",
+      "start": 70,
+      "end": 495
+    },
+    {
+      "text": "Aussi aurait-elle écouté Swann avec le plus\ngrand calme si elle n’avait vu que l’heure passait et que pour peu\nqu’il parlât encore quelque temps, elle allait, comme elle le lui dit\navec un sourire tendre, obstiné et confus, «finir par manquer\nl’Ouverture!»",
+      "start": 496,
+      "end": 753
+    }
+  ],
+  "tokens": 122,
+  "processed_at": "2025-03-16T02:10:56.810233"
+}

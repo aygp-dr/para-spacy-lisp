@@ -1,0 +1,38 @@
+{
+  "text": "--«Ah! mais, madame Octave, je ne sais pas si je dois, vous savez bien\nque ce n’est pas pour cela que je viens!» disait Eulalie avec la même\nhésitation et le même embarras, chaque fois, que si c’était la\npremière, et avec une apparence de mécontentement qui égayait ma tante\nmais ne lui déplaisait pas, car si un jour Eulalie, en prenant la\npièce, avait un air un peu moins contrarié que de coutume, ma tante\ndisait:",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Octave,",
+      "label": "ORG",
+      "start": 20,
+      "end": 27
+    },
+    {
+      "text": "Eulalie",
+      "label": "ORG",
+      "start": 120,
+      "end": 127
+    },
+    {
+      "text": "Eulalie,",
+      "label": "ORG",
+      "start": 318,
+      "end": 326
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! mais, madame Octave, je ne sais pas si je dois, vous savez bien\nque ce n’est pas pour cela que je viens!» disait Eulalie avec la même\nhésitation et le même embarras, chaque fois, que si c’était la\npremière, et avec une apparence de mécontentement qui égayait ma tante\nmais ne lui déplaisait pas, car si un jour Eulalie, en prenant la\npièce, avait un air un peu moins contrarié que de coutume, ma tante\ndisait:",
+      "start": 0,
+      "end": 416
+    }
+  ],
+  "tokens": 77,
+  "processed_at": "2025-03-16T02:10:55.257925"
+}

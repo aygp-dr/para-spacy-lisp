@@ -1,0 +1,63 @@
+{
+  "text": "«Tu sais, avait dit Mme Verdurin à son mari, je crois que nous faisons\nfausse route quand par modestie nous déprécions ce que nous offrons au\ndocteur. C’est un savant qui vit en dehors de l’existence pratique, il\nne connaît pas par lui-même la valeur des choses et il s’en rapporte à\nce que nous lui en disons.»--«Je n’avais pas osé te le dire, mais je\nl’avais remarqué», répondit M. Verdurin. Et au jour de l’an suivant,\nau lieu d’envoyer au docteur Cottard un rubis de trois mille francs en\nlui disant que c’était bien peu de chose, M. Verdurin acheta pour\ntrois cents francs une pierre reconstituée en laissant entendre qu’on\npouvait difficilement en voir d’aussi belle.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 24,
+      "end": 32
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 384,
+      "end": 393
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 451,
+      "end": 458
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 538,
+      "end": 546
+    }
+  ],
+  "sentences": [
+    {
+      "text": "«Tu sais, avait dit Mme Verdurin à son mari, je crois que nous faisons\nfausse route quand par modestie nous déprécions ce que nous offrons au\ndocteur",
+      "start": 0,
+      "end": 149
+    },
+    {
+      "text": "C’est un savant qui vit en dehors de l’existence pratique, il\nne connaît pas par lui-même la valeur des choses et il s’en rapporte à\nce que nous lui en disons",
+      "start": 150,
+      "end": 309
+    },
+    {
+      "text": "»--«Je n’avais pas osé te le dire, mais je\nl’avais remarqué», répondit M",
+      "start": 310,
+      "end": 382
+    },
+    {
+      "text": "Verdurin",
+      "start": 23,
+      "end": 32
+    },
+    {
+      "text": "Et au jour de l’an suivant,\nau lieu d’envoyer au docteur Cottard un rubis de trois mille francs en\nlui disant que c’était bien peu de chose, M",
+      "start": 393,
+      "end": 536
+    },
+    {
+      "text": "Verdurin acheta pour\ntrois cents francs une pierre reconstituée en laissant entendre qu’on\npouvait difficilement en voir d’aussi belle",
+      "start": 537,
+      "end": 672
+    }
+  ],
+  "tokens": 118,
+  "processed_at": "2025-03-16T02:10:55.840286"
+}

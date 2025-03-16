@@ -1,0 +1,41 @@
+{
+  "text": "Ainsi, par le chimisme même de son mal, après qu’il avait fait de la\njalousie avec son amour, il recommençait à fabriquer de la tendresse,\nde la pitié pour Odette. Elle était redevenue l’Odette charmante et\nbonne. Il avait des remords d’avoir été dur pour elle. Il voulait\nqu’elle vînt près de lui et, auparavant, il voulait lui avoir procuré\nquelque plaisir, pour voir la reconnaissance pétrir son visage et\nmodeler son sourire.",
+  "entities": [
+    {
+      "text": "Odette.",
+      "label": "ORG",
+      "start": 156,
+      "end": 163
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 164,
+      "end": 168
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ainsi, par le chimisme même de son mal, après qu’il avait fait de la\njalousie avec son amour, il recommençait à fabriquer de la tendresse,\nde la pitié pour Odette",
+      "start": 0,
+      "end": 162
+    },
+    {
+      "text": "Elle était redevenue l’Odette charmante et\nbonne",
+      "start": 163,
+      "end": 212
+    },
+    {
+      "text": "Il avait des remords d’avoir été dur pour elle",
+      "start": 213,
+      "end": 260
+    },
+    {
+      "text": "Il voulait\nqu’elle vînt près de lui et, auparavant, il voulait lui avoir procuré\nquelque plaisir, pour voir la reconnaissance pétrir son visage et\nmodeler son sourire",
+      "start": 261,
+      "end": 428
+    }
+  ],
+  "tokens": 73,
+  "processed_at": "2025-03-16T02:10:56.895836"
+}

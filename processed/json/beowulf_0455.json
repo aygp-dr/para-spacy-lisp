@@ -1,0 +1,20 @@
+{
+  "text": "--Allons, vous les caresserez plus tard; maintenant c’est vous qu’on va\ncaresser, qu’on va caresser dans l’oreille; vous aimez cela, je pense;\nvoilà un petit jeune homme qui va s’en charger.",
+  "entities": [
+    {
+      "text": "--Allons,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Allons, vous les caresserez plus tard; maintenant c’est vous qu’on va\ncaresser, qu’on va caresser dans l’oreille; vous aimez cela, je pense;\nvoilà un petit jeune homme qui va s’en charger",
+      "start": 0,
+      "end": 189
+    }
+  ],
+  "tokens": 31,
+  "processed_at": "2025-03-16T02:10:55.926613"
+}

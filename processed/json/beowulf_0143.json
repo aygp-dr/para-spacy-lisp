@@ -1,0 +1,18 @@
+{
+  "text": "Je ne savais pas ce que c’était qu’un «bleu». Je ne comprenais pas la\nmoitié des mots que disait la dame, mais la crainte que n’y fut cachée\nquelque question à laquelle il eût été impoli de ne pas répondre,\nm’empêchait de cesser de les écouter avec attention, et j’en éprouvais\nune grande fatigue.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "Je ne savais pas ce que c’était qu’un «bleu»",
+      "start": 0,
+      "end": 44
+    },
+    {
+      "text": "Je ne comprenais pas la\nmoitié des mots que disait la dame, mais la crainte que n’y fut cachée\nquelque question à laquelle il eût été impoli de ne pas répondre,\nm’empêchait de cesser de les écouter avec attention, et j’en éprouvais\nune grande fatigue",
+      "start": 45,
+      "end": 296
+    }
+  ],
+  "tokens": 54,
+  "processed_at": "2025-03-16T02:10:54.901170"
+}

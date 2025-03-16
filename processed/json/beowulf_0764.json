@@ -1,0 +1,329 @@
+{
+  "text": "Il avait eu un moment l’idée, pour pouvoir aller à Compiègne et à\nPierrefonds sans avoir l’air que ce fût pour rencontrer Odette, de s’y\nfaire emmener par un de ses amis, le marquis de Forestelle, qui avait\nun château dans le voisinage. Celui-ci, à qui il avait fait part de\nson projet sans lui en dire le motif, ne se sentait pas de joie et\ns’émerveillait que Swann, pour la première fois depuis quinze ans,\nconsentît enfin à venir voir sa propriété et, quoiqu’il ne voulait pas\ns’y arrêter, lui avait-il dit, lui promît du moins de faire ensemble\ndes promenades et des excursions pendant plusieurs jours. Swann\ns’imaginait déjà là-bas avec M. de Forestelle. Même avant d’y voir\nOdette, même s’il ne réussissait pas à l’y voir, quel bonheur il\naurait à mettre le pied sur cette terre où ne sachant pas l’endroit\nexact, à tel moment, de sa présence, il sentirait palpiter partout la\npossibilité de sa brusque apparition: dans la cour du château, devenu\nbeau pour lui parce que c’était à cause d’elle qu’il était allé le\nvoir; dans toutes les rues de la ville, qui lui semblait romanesque;\nsur chaque route de la forêt, rosée par un couchant profond et\ntendre;--asiles innombrables et alternatifs, où venait simultanément se\nréfugier, dans l’incertaine ubiquité de ses espérances, son cœur\nheureux, vagabond et multiplié. «Surtout, dirait-il à M. de\nForestelle, prenons garde de ne pas tomber sur Odette et les Verdurin;\nje viens d’apprendre qu’ils sont justement aujourd’hui à Pierrefonds.\nOn a assez le temps de se voir à Paris, ce ne serait pas la peine de\nle quitter pour ne pas pouvoir faire un pas les uns sans les autres.»\nEt son ami ne comprendrait pas pourquoi une fois là-bas il changerait\nvingt fois de projets, inspecterait les salles à manger de tous les\nhôtels de Compiègne sans se décider à s’asseoir dans aucune de celles\noù pourtant on n’avait pas vu trace de Verdurin, ayant l’air de\nrechercher ce qu’il disait vouloir fuir et du reste le fuyant dès\nqu’il l’aurait trouvé, car s’il avait rencontré le petit groupe, il\ns’en serait écarté avec affectation, content d’avoir vu Odette et\nqu’elle l’eût vu, surtout qu’elle l’eût vu ne se souciant pas d’elle.\nMais non, elle devinerait bien que c’était pour elle qu’il était là.\nEt quand M. de Forestelle venait le chercher pour partir, il lui\ndisait: «Hélas! non, je ne peux pas aller aujourd’hui à Pierrefonds,\nOdette y est justement.» Et Swann était heureux malgré tout de sentir\nque, si seul de tous les mortels il n’avait pas le droit en ce jour\nd’aller à Pierrefonds, c’était parce qu’il était en effet pour Odette\nquelqu’un de différent des autres, son amant, et que cette restriction\napportée pour lui au droit universel de libre circulation, n’était\nqu’une des formes de cet esclavage, de cet amour qui lui était si\ncher. Décidément il valait mieux ne pas risquer de se brouiller avec\nelle, patienter, attendre son retour. Il passait ses journées penché\nsur une carte de la forêt de Compiègne comme si ç’avait été la carte\ndu Tendre, s’entourait de photographies du château de Pierrefonds. Dés\nque venait le jour où il était possible qu’elle revînt, il rouvrait\nl’indicateur, calculait quel train elle avait dû prendre, et si elle\ns’était attardée, ceux qui lui restaient encore. Il ne sortait pas de\npeur de manquer une dépêche, ne se couchait pas, pour le cas où,\nrevenue par le dernier train, elle aurait voulu lui faire la surprise\nde venir le voir au milieu de la nuit. Justement il entendait sonner à\nla porte cochère, il lui semblait qu’on tardait à ouvrir, il voulait\néveiller le concierge, se mettait à la fenêtre pour appeler Odette si\nc’était elle, car malgré les recommandations qu’il était descendu\nfaire plus de dix fois lui-même, on était capable de lui dire qu’il\nn’était pas là. C’était un domestique qui rentrait. Il remarquait le\nvol incessant des voitures qui passaient, auquel il n’avait jamais\nfait attention autrefois. Il écoutait chacune venir au loin,\ns’approcher, dépasser sa porte sans s’être arrêtée et porter plus loin\nun message qui n’était pas pour lui. Il attendait toute la nuit, bien\ninutilement, car les Verdurin ayant avancé leur retour, Odette était à\nParis depuis midi; elle n’avait pas eu l’idée de l’en prévenir; ne\nsachant que faire elle avait été passer sa soirée seule au théâtre et\nil y avait longtemps qu’elle était rentrée se coucher et dormait.",
+  "entities": [
+    {
+      "text": "Compiègne",
+      "label": "ORG",
+      "start": 51,
+      "end": 60
+    },
+    {
+      "text": "Pierrefonds",
+      "label": "ORG",
+      "start": 66,
+      "end": 77
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 122,
+      "end": 129
+    },
+    {
+      "text": "Forestelle,",
+      "label": "ORG",
+      "start": 185,
+      "end": 196
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 361,
+      "end": 367
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 607,
+      "end": 612
+    },
+    {
+      "text": "Forestelle.",
+      "label": "ORG",
+      "start": 648,
+      "end": 659
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 660,
+      "end": 664
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 680,
+      "end": 687
+    },
+    {
+      "text": "«Surtout,",
+      "label": "ORG",
+      "start": 1321,
+      "end": 1330
+    },
+    {
+      "text": "Forestelle,",
+      "label": "ORG",
+      "start": 1349,
+      "end": 1360
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1396,
+      "end": 1402
+    },
+    {
+      "text": "Verdurin;",
+      "label": "ORG",
+      "start": 1410,
+      "end": 1419
+    },
+    {
+      "text": "Pierrefonds.",
+      "label": "ORG",
+      "start": 1477,
+      "end": 1489
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 1523,
+      "end": 1529
+    },
+    {
+      "text": "Compiègne",
+      "label": "ORG",
+      "start": 1777,
+      "end": 1786
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 1876,
+      "end": 1885
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 2091,
+      "end": 2097
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2171,
+      "end": 2175
+    },
+    {
+      "text": "Forestelle",
+      "label": "ORG",
+      "start": 2255,
+      "end": 2265
+    },
+    {
+      "text": "«Hélas!",
+      "label": "ORG",
+      "start": 2313,
+      "end": 2320
+    },
+    {
+      "text": "Pierrefonds,",
+      "label": "ORG",
+      "start": 2361,
+      "end": 2373
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 2374,
+      "end": 2380
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2402,
+      "end": 2407
+    },
+    {
+      "text": "Pierrefonds,",
+      "label": "ORG",
+      "start": 2522,
+      "end": 2534
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 2575,
+      "end": 2581
+    },
+    {
+      "text": "Décidément",
+      "label": "ORG",
+      "start": 2792,
+      "end": 2802
+    },
+    {
+      "text": "Compiègne",
+      "label": "ORG",
+      "start": 2953,
+      "end": 2962
+    },
+    {
+      "text": "Tendre,",
+      "label": "ORG",
+      "start": 2996,
+      "end": 3003
+    },
+    {
+      "text": "Pierrefonds.",
+      "label": "ORG",
+      "start": 3047,
+      "end": 3059
+    },
+    {
+      "text": "Justement",
+      "label": "ORG",
+      "start": 3445,
+      "end": 3454
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 3606,
+      "end": 3612
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 4109,
+      "end": 4117
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 4144,
+      "end": 4150
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 4159,
+      "end": 4164
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il avait eu un moment l’idée, pour pouvoir aller à Compiègne et à\nPierrefonds sans avoir l’air que ce fût pour rencontrer Odette, de s’y\nfaire emmener par un de ses amis, le marquis de Forestelle, qui avait\nun château dans le voisinage",
+      "start": 0,
+      "end": 235
+    },
+    {
+      "text": "Celui-ci, à qui il avait fait part de\nson projet sans lui en dire le motif, ne se sentait pas de joie et\ns’émerveillait que Swann, pour la première fois depuis quinze ans,\nconsentît enfin à venir voir sa propriété et, quoiqu’il ne voulait pas\ns’y arrêter, lui avait-il dit, lui promît du moins de faire ensemble\ndes promenades et des excursions pendant plusieurs jours",
+      "start": 236,
+      "end": 605
+    },
+    {
+      "text": "Swann\ns’imaginait déjà là-bas avec M",
+      "start": 606,
+      "end": 643
+    },
+    {
+      "text": "de Forestelle",
+      "start": 181,
+      "end": 195
+    },
+    {
+      "text": "Même avant d’y voir\nOdette, même s’il ne réussissait pas à l’y voir, quel bonheur il\naurait à mettre le pied sur cette terre où ne sachant pas l’endroit\nexact, à tel moment, de sa présence, il sentirait palpiter partout la\npossibilité de sa brusque apparition: dans la cour du château, devenu\nbeau pour lui parce que c’était à cause d’elle qu’il était allé le\nvoir; dans toutes les rues de la ville, qui lui semblait romanesque;\nsur chaque route de la forêt, rosée par un couchant profond et\ntendre;--asiles innombrables et alternatifs, où venait simultanément se\nréfugier, dans l’incertaine ubiquité de ses espérances, son cœur\nheureux, vagabond et multiplié",
+      "start": 659,
+      "end": 1319
+    },
+    {
+      "text": "«Surtout, dirait-il à M",
+      "start": 1320,
+      "end": 1344
+    },
+    {
+      "text": "de\nForestelle, prenons garde de ne pas tomber sur Odette et les Verdurin;\nje viens d’apprendre qu’ils sont justement aujourd’hui à Pierrefonds",
+      "start": 1345,
+      "end": 1488
+    },
+    {
+      "text": "On a assez le temps de se voir à Paris, ce ne serait pas la peine de\nle quitter pour ne pas pouvoir faire un pas les uns sans les autres",
+      "start": 1489,
+      "end": 1626
+    },
+    {
+      "text": "»\nEt son ami ne comprendrait pas pourquoi une fois là-bas il changerait\nvingt fois de projets, inspecterait les salles à manger de tous les\nhôtels de Compiègne sans se décider à s’asseoir dans aucune de celles\noù pourtant on n’avait pas vu trace de Verdurin, ayant l’air de\nrechercher ce qu’il disait vouloir fuir et du reste le fuyant dès\nqu’il l’aurait trouvé, car s’il avait rencontré le petit groupe, il\ns’en serait écarté avec affectation, content d’avoir vu Odette et\nqu’elle l’eût vu, surtout qu’elle l’eût vu ne se souciant pas d’elle",
+      "start": 1627,
+      "end": 2169
+    },
+    {
+      "text": "Mais non, elle devinerait bien que c’était pour elle qu’il était là",
+      "start": 2170,
+      "end": 2238
+    },
+    {
+      "text": "Et quand M",
+      "start": 2239,
+      "end": 2250
+    },
+    {
+      "text": "de Forestelle venait le chercher pour partir, il lui\ndisait: «Hélas! non, je ne peux pas aller aujourd’hui à Pierrefonds,\nOdette y est justement",
+      "start": 2251,
+      "end": 2396
+    },
+    {
+      "text": "» Et Swann était heureux malgré tout de sentir\nque, si seul de tous les mortels il n’avait pas le droit en ce jour\nd’aller à Pierrefonds, c’était parce qu’il était en effet pour Odette\nquelqu’un de différent des autres, son amant, et que cette restriction\napportée pour lui au droit universel de libre circulation, n’était\nqu’une des formes de cet esclavage, de cet amour qui lui était si\ncher",
+      "start": 2397,
+      "end": 2790
+    },
+    {
+      "text": "Décidément il valait mieux ne pas risquer de se brouiller avec\nelle, patienter, attendre son retour",
+      "start": 2791,
+      "end": 2891
+    },
+    {
+      "text": "Il passait ses journées penché\nsur une carte de la forêt de Compiègne comme si ç’avait été la carte\ndu Tendre, s’entourait de photographies du château de Pierrefonds",
+      "start": 2892,
+      "end": 3058
+    },
+    {
+      "text": "Dés\nque venait le jour où il était possible qu’elle revînt, il rouvrait\nl’indicateur, calculait quel train elle avait dû prendre, et si elle\ns’était attardée, ceux qui lui restaient encore",
+      "start": 3059,
+      "end": 3248
+    },
+    {
+      "text": "Il ne sortait pas de\npeur de manquer une dépêche, ne se couchait pas, pour le cas où,\nrevenue par le dernier train, elle aurait voulu lui faire la surprise\nde venir le voir au milieu de la nuit",
+      "start": 3249,
+      "end": 3443
+    },
+    {
+      "text": "Justement il entendait sonner à\nla porte cochère, il lui semblait qu’on tardait à ouvrir, il voulait\néveiller le concierge, se mettait à la fenêtre pour appeler Odette si\nc’était elle, car malgré les recommandations qu’il était descendu\nfaire plus de dix fois lui-même, on était capable de lui dire qu’il\nn’était pas là",
+      "start": 3444,
+      "end": 3764
+    },
+    {
+      "text": "C’était un domestique qui rentrait",
+      "start": 3765,
+      "end": 3800
+    },
+    {
+      "text": "Il remarquait le\nvol incessant des voitures qui passaient, auquel il n’avait jamais\nfait attention autrefois",
+      "start": 3801,
+      "end": 3910
+    },
+    {
+      "text": "Il écoutait chacune venir au loin,\ns’approcher, dépasser sa porte sans s’être arrêtée et porter plus loin\nun message qui n’était pas pour lui",
+      "start": 3911,
+      "end": 4053
+    },
+    {
+      "text": "Il attendait toute la nuit, bien\ninutilement, car les Verdurin ayant avancé leur retour, Odette était à\nParis depuis midi; elle n’avait pas eu l’idée de l’en prévenir; ne\nsachant que faire elle avait été passer sa soirée seule au théâtre et\nil y avait longtemps qu’elle était rentrée se coucher et dormait",
+      "start": 4054,
+      "end": 4360
+    }
+  ],
+  "tokens": 750,
+  "processed_at": "2025-03-16T02:10:56.840145"
+}

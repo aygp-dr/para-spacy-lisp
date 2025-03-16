@@ -1,0 +1,25 @@
+{
+  "text": "--«Dumont, grand-père.»",
+  "entities": [
+    {
+      "text": "--«Dumont,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Dumont, grand-père",
+      "start": 0,
+      "end": 21
+    },
+    {
+      "text": "»",
+      "start": 22,
+      "end": 23
+    }
+  ],
+  "tokens": 2,
+  "processed_at": "2025-03-16T02:10:55.038784"
+}

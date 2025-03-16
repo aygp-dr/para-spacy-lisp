@@ -1,0 +1,64 @@
+{
+  "text": "Cette année-là, quand, un peu plus tôt que d’habitude, mes parents\neurent fixé le jour de rentrer à Paris, le matin du départ, comme on\nm’avait fait friser pour être photographié, coiffer avec précaution un\nchapeau que je n’avais encore jamais mis et revêtir une douillette de\nvelours, après m’avoir cherché partout, ma mère me trouva en larmes\ndans le petit raidillon, contigu à Tansonville, en train de dire adieu\naux aubépines, entourant de mes bras les branches piquantes, et, comme\nune princesse de tragédie à qui pèseraient ces vains ornements, ingrat\nenvers l’importune main qui en formant tous ces nœuds avait pris soin\nsur mon front d’assembler mes cheveux, foulant aux pieds mes\npapillotes arrachées et mon chapeau neuf. Ma mère ne fut pas touchée\npar mes larmes, mais elle ne put retenir un cri à la vue de la coiffe\ndéfoncée et de la douillette perdue. Je ne l’entendis pas: «O mes\npauvres petites aubépines, disais-je en pleurant, ce n’est pas vous\nqui voudriez me faire du chagrin, me forcer à partir. Vous, vous ne\nm’avez jamais fait de peine! Aussi je vous aimerai toujours.» Et,\nessuyant mes larmes, je leur promettais, quand je serais grand, de ne\npas imiter la vie insensée des autres hommes et, même à Paris, les\njours de printemps, au lieu d’aller faire des visites et écouter des\nniaiseries, de partir dans la campagne voir les premières aubépines.",
+  "entities": [
+    {
+      "text": "Cette",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 100,
+      "end": 106
+    },
+    {
+      "text": "Tansonville,",
+      "label": "ORG",
+      "start": 380,
+      "end": 392
+    },
+    {
+      "text": "Vous,",
+      "label": "ORG",
+      "start": 1016,
+      "end": 1021
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 1222,
+      "end": 1228
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cette année-là, quand, un peu plus tôt que d’habitude, mes parents\neurent fixé le jour de rentrer à Paris, le matin du départ, comme on\nm’avait fait friser pour être photographié, coiffer avec précaution un\nchapeau que je n’avais encore jamais mis et revêtir une douillette de\nvelours, après m’avoir cherché partout, ma mère me trouva en larmes\ndans le petit raidillon, contigu à Tansonville, en train de dire adieu\naux aubépines, entourant de mes bras les branches piquantes, et, comme\nune princesse de tragédie à qui pèseraient ces vains ornements, ingrat\nenvers l’importune main qui en formant tous ces nœuds avait pris soin\nsur mon front d’assembler mes cheveux, foulant aux pieds mes\npapillotes arrachées et mon chapeau neuf",
+      "start": 0,
+      "end": 729
+    },
+    {
+      "text": "Ma mère ne fut pas touchée\npar mes larmes, mais elle ne put retenir un cri à la vue de la coiffe\ndéfoncée et de la douillette perdue",
+      "start": 730,
+      "end": 863
+    },
+    {
+      "text": "Je ne l’entendis pas: «O mes\npauvres petites aubépines, disais-je en pleurant, ce n’est pas vous\nqui voudriez me faire du chagrin, me forcer à partir",
+      "start": 864,
+      "end": 1014
+    },
+    {
+      "text": "Vous, vous ne\nm’avez jamais fait de peine! Aussi je vous aimerai toujours",
+      "start": 1015,
+      "end": 1089
+    },
+    {
+      "text": "» Et,\nessuyant mes larmes, je leur promettais, quand je serais grand, de ne\npas imiter la vie insensée des autres hommes et, même à Paris, les\njours de printemps, au lieu d’aller faire des visites et écouter des\nniaiseries, de partir dans la campagne voir les premières aubépines",
+      "start": 1090,
+      "end": 1369
+    }
+  ],
+  "tokens": 235,
+  "processed_at": "2025-03-16T02:10:55.500354"
+}

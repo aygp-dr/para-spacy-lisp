@@ -1,0 +1,31 @@
+{
+  "text": "Et ma tante ne répondait même pas, exhalant un soupir qui semblait\ndevoir être le dernier, les yeux clos, comme morte. Mais à peine\nFrançoise était-elle descendue que quatre coups donnés avec la plus\ngrande violence retentissaient dans la maison et ma tante, dressée sur\nson lit, criait:",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 119,
+      "end": 123
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 132,
+      "end": 141
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et ma tante ne répondait même pas, exhalant un soupir qui semblait\ndevoir être le dernier, les yeux clos, comme morte",
+      "start": 0,
+      "end": 117
+    },
+    {
+      "text": "Mais à peine\nFrançoise était-elle descendue que quatre coups donnés avec la plus\ngrande violence retentissaient dans la maison et ma tante, dressée sur\nson lit, criait:",
+      "start": 118,
+      "end": 287
+    }
+  ],
+  "tokens": 48,
+  "processed_at": "2025-03-16T02:10:55.279886"
+}

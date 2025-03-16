@@ -1,0 +1,54 @@
+{
+  "text": "Mais dès que je l’eus appelée et qu’elle fut revenue près du lit de la\nCharité de Giotto, ses larmes cessèrent aussitôt de couler; elle ne\nput reconnaître ni cette agréable sensation de pitié et\nd’attendrissement qu’elle connaissait bien et que la lecture des\njournaux lui avait souvent donnée, ni aucun plaisir de même famille,\ndans l’ennui et dans l’irritation de s’être levée au milieu de la nuit\npour la fille de cuisine; et à la vue des mêmes souffrances dont la\ndescription l’avait fait pleurer, elle n’eut plus que des\nronchonnements de mauvaise humeur, même d’affreux sarcasmes, disant,\nquand elle crut que nous étions partis et ne pouvions plus l’entendre:\n«Elle n’avait qu’à ne pas faire ce qu’il faut pour ça! ça lui a fait\nplaisir! qu’elle ne fasse pas de manières maintenant. Faut-il tout de\nmême qu’un garçon ait été abandonné du bon Dieu pour aller avec ça.\nAh! c’est bien comme on disait dans le patois de ma pauvre mère:",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Charité",
+      "label": "ORG",
+      "start": 71,
+      "end": 78
+    },
+    {
+      "text": "Giotto,",
+      "label": "ORG",
+      "start": 82,
+      "end": 89
+    },
+    {
+      "text": "«Elle",
+      "label": "ORG",
+      "start": 666,
+      "end": 671
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 848,
+      "end": 852
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais dès que je l’eus appelée et qu’elle fut revenue près du lit de la\nCharité de Giotto, ses larmes cessèrent aussitôt de couler; elle ne\nput reconnaître ni cette agréable sensation de pitié et\nd’attendrissement qu’elle connaissait bien et que la lecture des\njournaux lui avait souvent donnée, ni aucun plaisir de même famille,\ndans l’ennui et dans l’irritation de s’être levée au milieu de la nuit\npour la fille de cuisine; et à la vue des mêmes souffrances dont la\ndescription l’avait fait pleurer, elle n’eut plus que des\nronchonnements de mauvaise humeur, même d’affreux sarcasmes, disant,\nquand elle crut que nous étions partis et ne pouvions plus l’entendre:\n«Elle n’avait qu’à ne pas faire ce qu’il faut pour ça! ça lui a fait\nplaisir! qu’elle ne fasse pas de manières maintenant",
+      "start": 0,
+      "end": 787
+    },
+    {
+      "text": "Faut-il tout de\nmême qu’un garçon ait été abandonné du bon Dieu pour aller avec ça",
+      "start": 788,
+      "end": 871
+    },
+    {
+      "text": "Ah! c’est bien comme on disait dans le patois de ma pauvre mère:",
+      "start": 872,
+      "end": 937
+    }
+  ],
+  "tokens": 163,
+  "processed_at": "2025-03-16T02:10:55.374157"
+}

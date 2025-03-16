@@ -1,0 +1,37 @@
+{
+  "text": "Mais tandis que, une heure après son réveil, il donnait des\nindications au coiffeur pour que sa brosse ne se dérangeât pas en\nwagon, il repensa à son rêve, il revit comme il les avait sentis tout\nprès de lui, le teint pâle d’Odette, les joues trop maigres, les\ntraits tirés, les yeux battus, tout ce que--au cours des tendresses\nsuccessives qui avaient fait de son durable amour pour Odette un long\noubli de l’image première qu’il avait reçue d’elle--il avait cessé de\nremarquer depuis les premiers temps de leur liaison dans lesquels sans\ndoute, pendant qu’il dormait, sa mémoire en avait été chercher la\nsensation exacte. Et avec cette muflerie intermittente qui\nreparaissait chez lui dès qu’il n’était plus malheureux et que\nbaissait du même coup le niveau de sa moralité, il s’écria en\nlui-même: «Dire que j’ai gâché des années de ma vie, que j’ai voulu\nmourir, que j’ai eu mon plus grand amour, pour une femme qui ne me\nplaisait pas, qui n’était pas mon genre!»",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 225,
+      "end": 231
+    },
+    {
+      "text": "«Dire",
+      "label": "ORG",
+      "start": 800,
+      "end": 805
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais tandis que, une heure après son réveil, il donnait des\nindications au coiffeur pour que sa brosse ne se dérangeât pas en\nwagon, il repensa à son rêve, il revit comme il les avait sentis tout\nprès de lui, le teint pâle d’Odette, les joues trop maigres, les\ntraits tirés, les yeux battus, tout ce que--au cours des tendresses\nsuccessives qui avaient fait de son durable amour pour Odette un long\noubli de l’image première qu’il avait reçue d’elle--il avait cessé de\nremarquer depuis les premiers temps de leur liaison dans lesquels sans\ndoute, pendant qu’il dormait, sa mémoire en avait été chercher la\nsensation exacte",
+      "start": 0,
+      "end": 622
+    },
+    {
+      "text": "Et avec cette muflerie intermittente qui\nreparaissait chez lui dès qu’il n’était plus malheureux et que\nbaissait du même coup le niveau de sa moralité, il s’écria en\nlui-même: «Dire que j’ai gâché des années de ma vie, que j’ai voulu\nmourir, que j’ai eu mon plus grand amour, pour une femme qui ne me\nplaisait pas, qui n’était pas mon genre!»",
+      "start": 623,
+      "end": 966
+    }
+  ],
+  "tokens": 169,
+  "processed_at": "2025-03-16T02:10:57.470611"
+}

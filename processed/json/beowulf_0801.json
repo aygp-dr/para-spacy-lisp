@@ -1,0 +1,26 @@
+{
+  "text": "Maintenant, à toutes les paroles de Swann elle répondait d’un ton\nparfois irrité, parfois indulgent:",
+  "entities": [
+    {
+      "text": "Maintenant,",
+      "label": "ORG",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 36,
+      "end": 41
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Maintenant, à toutes les paroles de Swann elle répondait d’un ton\nparfois irrité, parfois indulgent:",
+      "start": 0,
+      "end": 100
+    }
+  ],
+  "tokens": 15,
+  "processed_at": "2025-03-16T02:10:56.957218"
+}

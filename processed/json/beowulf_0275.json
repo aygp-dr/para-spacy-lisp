@@ -1,0 +1,18 @@
+{
+  "text": "«Il lui paraît une rose.»",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "«Il lui paraît une rose",
+      "start": 0,
+      "end": 23
+    },
+    {
+      "text": "»",
+      "start": 24,
+      "end": 25
+    }
+  ],
+  "tokens": 5,
+  "processed_at": "2025-03-16T02:10:55.380833"
+}

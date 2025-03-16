@@ -1,0 +1,25 @@
+{
+  "text": "Mais ma grand’mère, même si le temps trop chaud s’était gâté, si un\norage ou seulement un grain était survenu, venait me supplier de\nsortir. Et ne voulant pas renoncer à ma lecture, j’allais du moins la\ncontinuer au jardin, sous le marronnier, dans une petite guérite en\nsparterie et en toile au fond de laquelle j’étais assis et me croyais\ncaché aux yeux des personnes qui pourraient venir faire visite à mes\nparents.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais ma grand’mère, même si le temps trop chaud s’était gâté, si un\norage ou seulement un grain était survenu, venait me supplier de\nsortir",
+      "start": 0,
+      "end": 139
+    },
+    {
+      "text": "Et ne voulant pas renoncer à ma lecture, j’allais du moins la\ncontinuer au jardin, sous le marronnier, dans une petite guérite en\nsparterie et en toile au fond de laquelle j’étais assis et me croyais\ncaché aux yeux des personnes qui pourraient venir faire visite à mes\nparents",
+      "start": 140,
+      "end": 417
+    }
+  ],
+  "tokens": 74,
+  "processed_at": "2025-03-16T02:10:54.940482"
+}

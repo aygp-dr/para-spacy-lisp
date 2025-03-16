@@ -1,0 +1,13 @@
+{
+  "text": "Il essaya de sourire mais il avait l’air atterré.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "Il essaya de sourire mais il avait l’air atterré",
+      "start": 0,
+      "end": 48
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:56.757668"
+}

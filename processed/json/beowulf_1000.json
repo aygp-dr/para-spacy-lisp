@@ -1,0 +1,60 @@
+{
+  "text": "Je me redisais en étouffant mes sanglots les mots où Gilberte avait\nlaissé éclater sa joie de ne pas venir de longtemps aux\nChamps-Élysées. Mais déjà le charme dont, par son simple\nfonctionnement, se remplissait mon esprit dès qu’il songeait à elle,\nla position particulière, unique,--fût elle affligeante,--où me plaçait\ninévitablement par rapport à Gilberte, la contrainte interne d’un pli\nmental, avaient commencé à ajouter, même à cette marque\nd’indifférence, quelque chose de romanesque, et au milieu de mes\nlarmes se formait un sourire qui n’était que l’ébauche timide d’un\nbaiser. Et quand vint l’heure du courrier, je me dis ce soir-là comme\ntous les autres: Je vais recevoir une lettre de Gilberte, elle va me\ndire enfin qu’elle n’a jamais cessé de m’aimer, et m’expliquera la\nraison mystérieuse pour laquelle elle a été forcée de me le cacher\njusqu’ici, de faire semblant de pouvoir être heureuse sans me voir, la\nraison pour laquelle elle a pris l’apparence de la Gilberte simple\ncamarade.",
+  "entities": [
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 53,
+      "end": 61
+    },
+    {
+      "text": "Champs-Élysées.",
+      "label": "ORG",
+      "start": 124,
+      "end": 139
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 140,
+      "end": 144
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 351,
+      "end": 360
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 698,
+      "end": 707
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 975,
+      "end": 983
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je me redisais en étouffant mes sanglots les mots où Gilberte avait\nlaissé éclater sa joie de ne pas venir de longtemps aux\nChamps-Élysées",
+      "start": 0,
+      "end": 138
+    },
+    {
+      "text": "Mais déjà le charme dont, par son simple\nfonctionnement, se remplissait mon esprit dès qu’il songeait à elle,\nla position particulière, unique,--fût elle affligeante,--où me plaçait\ninévitablement par rapport à Gilberte, la contrainte interne d’un pli\nmental, avaient commencé à ajouter, même à cette marque\nd’indifférence, quelque chose de romanesque, et au milieu de mes\nlarmes se formait un sourire qui n’était que l’ébauche timide d’un\nbaiser",
+      "start": 139,
+      "end": 586
+    },
+    {
+      "text": "Et quand vint l’heure du courrier, je me dis ce soir-là comme\ntous les autres: Je vais recevoir une lettre de Gilberte, elle va me\ndire enfin qu’elle n’a jamais cessé de m’aimer, et m’expliquera la\nraison mystérieuse pour laquelle elle a été forcée de me le cacher\njusqu’ici, de faire semblant de pouvoir être heureuse sans me voir, la\nraison pour laquelle elle a pris l’apparence de la Gilberte simple\ncamarade",
+      "start": 587,
+      "end": 999
+    }
+  ],
+  "tokens": 163,
+  "processed_at": "2025-03-16T02:10:57.581660"
+}

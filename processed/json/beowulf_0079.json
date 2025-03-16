@@ -1,0 +1,32 @@
+{
+  "text": "--«Eh! là, mon Dieu», soupirait Françoise, qui ne pouvait pas entendre\nparler d’un malheur arrivé à un inconnu, même dans une partie du monde\néloignée, sans commencer à gémir.",
+  "entities": [
+    {
+      "text": "--«Eh!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Dieu»,",
+      "label": "ORG",
+      "start": 15,
+      "end": 21
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 32,
+      "end": 42
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Eh! là, mon Dieu», soupirait Françoise, qui ne pouvait pas entendre\nparler d’un malheur arrivé à un inconnu, même dans une partie du monde\néloignée, sans commencer à gémir",
+      "start": 0,
+      "end": 174
+    }
+  ],
+  "tokens": 29,
+  "processed_at": "2025-03-16T02:10:54.642269"
+}

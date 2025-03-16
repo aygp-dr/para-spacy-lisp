@@ -1,0 +1,150 @@
+{
+  "text": "Sur le palier, Swann avait été rejoint par le maître d’hôtel qui ne se\ntrouvait pas là au moment où il était arrivé et avait été chargé par\nOdette de lui dire,--mais il y avait bien une heure déjà,--au cas où il\nviendrait encore, qu’elle irait probablement prendre du chocolat chez\nPrévost avant de rentrer. Swann partit chez Prévost, mais à chaque pas\nsa voiture était arrêtée par d’autres ou par des gens qui\ntraversaient, odieux obstacles qu’il eût été heureux de renverser si\nle procès-verbal de l’agent ne l’eût retardé plus encore que le\npassage du piéton. Il comptait le temps qu’il mettait, ajoutait\nquelques secondes à toutes les minutes pour être sûr de ne pas les\navoir faites trop courtes, ce qui lui eût laissé croire plus grande\nqu’elle n’était en réalité sa chance d’arriver assez tôt et de trouver\nencore Odette. Et à un moment, comme un fiévreux qui vient de dormir\net qui prend conscience de l’absurdité des rêvasseries qu’il ruminait\nsans se distinguer nettement d’elles, Swann tout d’un coup aperçut en\nlui l’étrangeté des pensées qu’il roulait depuis le moment où on lui\navait dit chez les Verdurin qu’Odette était déjà partie, la nouveauté\nde la douleur au cœur dont il souffrait, mais qu’il constata seulement\ncomme s’il venait de s’éveiller. Quoi? toute cette agitation parce\nqu’il ne verrait Odette que demain, ce que précisément il avait\nsouhaité, il y a une heure, en se rendant chez Mme Verdurin. Il fut\nbien obligé de constater que dans cette même voiture qui l’emmenait\nchez Prévost, il n’était plus le même, et qu’il n’était plus seul,\nqu’un être nouveau était là avec lui, adhérent, amalgamé à lui, duquel\nil ne pourrait peut-être pas se débarrasser, avec qui il allait être\nobligé d’user de ménagements comme avec un maître ou avec une maladie.\nEt pourtant depuis un moment qu’il sentait qu’une nouvelle personne\ns’était ainsi ajoutée à lui, sa vie lui paraissait plus intéressante.\nC’est à peine s’il se disait que cette rencontre possible chez Prévost\n(de laquelle l’attente saccageait, dénudait à ce point les moments qui\nla précédaient qu’il ne trouvait plus une seule idée, un seul souvenir\nderrière lequel il pût faire reposer son esprit), il était probable\npourtant, si elle avait lieu, qu’elle serait comme les autres, fort\npeu de chose. Comme chaque soir, dès qu’il serait avec Odette, jetant\nfurtivement sur son changeant visage un regard aussitôt détourné de\npeur qu’elle n’y vît l’avance d’un désir et ne crût plus à son\ndésintéressement, il cesserait de pouvoir penser à elle, trop occupé à\ntrouver des prétextes qui lui permissent de ne pas la quitter tout de\nsuite et de s’assurer, sans avoir l’air d’y tenir, qu’il la\nretrouverait le lendemain chez les Verdurin: c’est-à-dire de prolonger\npour l’instant et de renouveler un jour de plus la déception et la\ntorture que lui apportait la vaine présence de cette femme qu’il\napprochait sans oser l’étreindre.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 15,
+      "end": 20
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 140,
+      "end": 146
+    },
+    {
+      "text": "Prévost",
+      "label": "ORG",
+      "start": 282,
+      "end": 289
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 308,
+      "end": 313
+    },
+    {
+      "text": "Prévost,",
+      "label": "ORG",
+      "start": 326,
+      "end": 334
+    },
+    {
+      "text": "Odette.",
+      "label": "ORG",
+      "start": 821,
+      "end": 828
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 991,
+      "end": 996
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 1111,
+      "end": 1119
+    },
+    {
+      "text": "Quoi?",
+      "label": "ORG",
+      "start": 1266,
+      "end": 1271
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1317,
+      "end": 1323
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 1415,
+      "end": 1424
+    },
+    {
+      "text": "Prévost,",
+      "label": "ORG",
+      "start": 1505,
+      "end": 1513
+    },
+    {
+      "text": "Prévost",
+      "label": "ORG",
+      "start": 1979,
+      "end": 1986
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 2279,
+      "end": 2284
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 2320,
+      "end": 2327
+    },
+    {
+      "text": "Verdurin:",
+      "label": "ORG",
+      "start": 2702,
+      "end": 2711
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sur le palier, Swann avait été rejoint par le maître d’hôtel qui ne se\ntrouvait pas là au moment où il était arrivé et avait été chargé par\nOdette de lui dire,--mais il y avait bien une heure déjà,--au cas où il\nviendrait encore, qu’elle irait probablement prendre du chocolat chez\nPrévost avant de rentrer",
+      "start": 0,
+      "end": 306
+    },
+    {
+      "text": "Swann partit chez Prévost, mais à chaque pas\nsa voiture était arrêtée par d’autres ou par des gens qui\ntraversaient, odieux obstacles qu’il eût été heureux de renverser si\nle procès-verbal de l’agent ne l’eût retardé plus encore que le\npassage du piéton",
+      "start": 307,
+      "end": 561
+    },
+    {
+      "text": "Il comptait le temps qu’il mettait, ajoutait\nquelques secondes à toutes les minutes pour être sûr de ne pas les\navoir faites trop courtes, ce qui lui eût laissé croire plus grande\nqu’elle n’était en réalité sa chance d’arriver assez tôt et de trouver\nencore Odette",
+      "start": 562,
+      "end": 827
+    },
+    {
+      "text": "Et à un moment, comme un fiévreux qui vient de dormir\net qui prend conscience de l’absurdité des rêvasseries qu’il ruminait\nsans se distinguer nettement d’elles, Swann tout d’un coup aperçut en\nlui l’étrangeté des pensées qu’il roulait depuis le moment où on lui\navait dit chez les Verdurin qu’Odette était déjà partie, la nouveauté\nde la douleur au cœur dont il souffrait, mais qu’il constata seulement\ncomme s’il venait de s’éveiller",
+      "start": 828,
+      "end": 1264
+    },
+    {
+      "text": "Quoi? toute cette agitation parce\nqu’il ne verrait Odette que demain, ce que précisément il avait\nsouhaité, il y a une heure, en se rendant chez Mme Verdurin",
+      "start": 1265,
+      "end": 1423
+    },
+    {
+      "text": "Il fut\nbien obligé de constater que dans cette même voiture qui l’emmenait\nchez Prévost, il n’était plus le même, et qu’il n’était plus seul,\nqu’un être nouveau était là avec lui, adhérent, amalgamé à lui, duquel\nil ne pourrait peut-être pas se débarrasser, avec qui il allait être\nobligé d’user de ménagements comme avec un maître ou avec une maladie",
+      "start": 1424,
+      "end": 1776
+    },
+    {
+      "text": "Et pourtant depuis un moment qu’il sentait qu’une nouvelle personne\ns’était ainsi ajoutée à lui, sa vie lui paraissait plus intéressante",
+      "start": 1777,
+      "end": 1914
+    },
+    {
+      "text": "C’est à peine s’il se disait que cette rencontre possible chez Prévost\n(de laquelle l’attente saccageait, dénudait à ce point les moments qui\nla précédaient qu’il ne trouvait plus une seule idée, un seul souvenir\nderrière lequel il pût faire reposer son esprit), il était probable\npourtant, si elle avait lieu, qu’elle serait comme les autres, fort\npeu de chose",
+      "start": 1915,
+      "end": 2277
+    },
+    {
+      "text": "Comme chaque soir, dès qu’il serait avec Odette, jetant\nfurtivement sur son changeant visage un regard aussitôt détourné de\npeur qu’elle n’y vît l’avance d’un désir et ne crût plus à son\ndésintéressement, il cesserait de pouvoir penser à elle, trop occupé à\ntrouver des prétextes qui lui permissent de ne pas la quitter tout de\nsuite et de s’assurer, sans avoir l’air d’y tenir, qu’il la\nretrouverait le lendemain chez les Verdurin: c’est-à-dire de prolonger\npour l’instant et de renouveler un jour de plus la déception et la\ntorture que lui apportait la vaine présence de cette femme qu’il\napprochait sans oser l’étreindre",
+      "start": 2278,
+      "end": 2902
+    }
+  ],
+  "tokens": 490,
+  "processed_at": "2025-03-16T02:10:56.168776"
+}

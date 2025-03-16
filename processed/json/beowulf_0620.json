@@ -1,0 +1,36 @@
+{
+  "text": "--«Vraiment, qu’est-ce que vous leur reprochez? Est-ce un parti pris?\nTrouvez-vous peut-être que c’est un peu triste? D’ailleurs, comme je\ndis toujours, il ne faut jamais discuter sur les romans ni sur les\npièces de théâtre. Chacun a sa manière de voir et vous pouvez trouver\ndétestable ce que j’aime le mieux.»",
+  "entities": [
+    {
+      "text": "--«Vraiment,",
+      "label": "ORG",
+      "start": 0,
+      "end": 12
+    },
+    {
+      "text": "Chacun",
+      "label": "ORG",
+      "start": 225,
+      "end": 231
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Vraiment, qu’est-ce que vous leur reprochez? Est-ce un parti pris?\nTrouvez-vous peut-être que c’est un peu triste? D’ailleurs, comme je\ndis toujours, il ne faut jamais discuter sur les romans ni sur les\npièces de théâtre",
+      "start": 0,
+      "end": 223
+    },
+    {
+      "text": "Chacun a sa manière de voir et vous pouvez trouver\ndétestable ce que j’aime le mieux",
+      "start": 224,
+      "end": 309
+    },
+    {
+      "text": "»",
+      "start": 310,
+      "end": 311
+    }
+  ],
+  "tokens": 52,
+  "processed_at": "2025-03-16T02:10:56.412977"
+}

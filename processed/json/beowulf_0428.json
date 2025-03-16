@@ -1,0 +1,75 @@
+{
+  "text": "--«C’est une si excellente femme, répondit-il. Je vous accorde qu’elle\nn’est pas étourdissante; mais je vous assure qu’elle est agréable\nquand on cause seul avec elle. «Je n’en doute pas, s’empressa de\nconcéder Swann. Je voulais dire qu’elle ne me semblait pas «éminente»\najouta-t-il en détachant cet adjectif, et en somme c’est plutôt un\ncompliment!» «Tenez, dit M. Verdurin, je vais vous étonner, elle écrit\nd’une manière charmante. Vous n’avez jamais entendu son neveu? c’est\nadmirable, n’est-ce pas, docteur? Voulez-vous que je lui demande de\njouer quelque chose, Monsieur Swann?»",
+  "entities": [
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 211,
+      "end": 217
+    },
+    {
+      "text": "«Tenez,",
+      "label": "ORG",
+      "start": 352,
+      "end": 359
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 367,
+      "end": 376
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 435,
+      "end": 439
+    },
+    {
+      "text": "Monsieur",
+      "label": "ORG",
+      "start": 568,
+      "end": 576
+    },
+    {
+      "text": "Swann?»",
+      "label": "ORG",
+      "start": 577,
+      "end": 584
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«C’est une si excellente femme, répondit-il",
+      "start": 0,
+      "end": 45
+    },
+    {
+      "text": "Je vous accorde qu’elle\nn’est pas étourdissante; mais je vous assure qu’elle est agréable\nquand on cause seul avec elle",
+      "start": 46,
+      "end": 166
+    },
+    {
+      "text": "«Je n’en doute pas, s’empressa de\nconcéder Swann",
+      "start": 167,
+      "end": 216
+    },
+    {
+      "text": "Je voulais dire qu’elle ne me semblait pas «éminente»\najouta-t-il en détachant cet adjectif, et en somme c’est plutôt un\ncompliment!» «Tenez, dit M",
+      "start": 217,
+      "end": 365
+    },
+    {
+      "text": "Verdurin, je vais vous étonner, elle écrit\nd’une manière charmante",
+      "start": 366,
+      "end": 433
+    },
+    {
+      "text": "Vous n’avez jamais entendu son neveu? c’est\nadmirable, n’est-ce pas, docteur? Voulez-vous que je lui demande de\njouer quelque chose, Monsieur Swann?»",
+      "start": 434,
+      "end": 584
+    }
+  ],
+  "tokens": 90,
+  "processed_at": "2025-03-16T02:10:55.851968"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "Même à une ou deux remarques particulières que fit Swann sur sa phrase\npréférée:",
+  "entities": [
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 51,
+      "end": 56
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Même à une ou deux remarques particulières que fit Swann sur sa phrase\npréférée:",
+      "start": 0,
+      "end": 80
+    }
+  ],
+  "tokens": 14,
+  "processed_at": "2025-03-16T02:10:55.961627"
+}

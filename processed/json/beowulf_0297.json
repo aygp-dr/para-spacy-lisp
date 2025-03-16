@@ -1,0 +1,43 @@
+{
+  "text": "--«Là, Françoise, disait ma tante, quand je vous le disais, qu’ils\nseraient allés du côté de Guermantes! Mon dieu! ils doivent avoir une\nfaim! et votre gigot qui doit être tout desséché après ce qu’il a\nattendu. Aussi est-ce une heure pour rentrer! comment, vous êtes allés\ndu côté de Guermantes!»",
+  "entities": [
+    {
+      "text": "--«Là,",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 7,
+      "end": 17
+    },
+    {
+      "text": "Guermantes!",
+      "label": "ORG",
+      "start": 93,
+      "end": 104
+    },
+    {
+      "text": "Guermantes!»",
+      "label": "ORG",
+      "start": 285,
+      "end": 297
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Là, Françoise, disait ma tante, quand je vous le disais, qu’ils\nseraient allés du côté de Guermantes! Mon dieu! ils doivent avoir une\nfaim! et votre gigot qui doit être tout desséché après ce qu’il a\nattendu",
+      "start": 0,
+      "end": 210
+    },
+    {
+      "text": "Aussi est-ce une heure pour rentrer! comment, vous êtes allés\ndu côté de Guermantes!»",
+      "start": 211,
+      "end": 297
+    }
+  ],
+  "tokens": 51,
+  "processed_at": "2025-03-16T02:10:55.448784"
+}

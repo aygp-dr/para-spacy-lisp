@@ -1,0 +1,37 @@
+{
+  "text": "Mais le concert recommença et Swann comprit qu’il ne pourrait pas s’en\naller avant la fin de ce nouveau numéro du programme. Il souffrait de\nrester enfermé au milieu de ces gens dont la bêtise et les ridicules\nle frappaient d’autant plus douloureusement qu’ignorant son amour,\nincapables, s’ils l’avaient connu, de s’y intéresser et de faire autre\nchose que d’en sourire comme d’un enfantillage ou de le déplorer comme\nune folie, ils le lui faisaient apparaître sous l’aspect d’un état\nsubjectif qui n’existait que pour lui, dont rien d’extérieur ne lui\naffirmait la réalité; il souffrait surtout, et au point que même le\nson des instruments lui donnait envie de crier, de prolonger son exil\ndans ce lieu où Odette ne viendrait jamais, où personne, où rien ne la\nconnaissait, d’où elle était entièrement absente.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 30,
+      "end": 35
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 708,
+      "end": 714
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais le concert recommença et Swann comprit qu’il ne pourrait pas s’en\naller avant la fin de ce nouveau numéro du programme",
+      "start": 0,
+      "end": 123
+    },
+    {
+      "text": "Il souffrait de\nrester enfermé au milieu de ces gens dont la bêtise et les ridicules\nle frappaient d’autant plus douloureusement qu’ignorant son amour,\nincapables, s’ils l’avaient connu, de s’y intéresser et de faire autre\nchose que d’en sourire comme d’un enfantillage ou de le déplorer comme\nune folie, ils le lui faisaient apparaître sous l’aspect d’un état\nsubjectif qui n’existait que pour lui, dont rien d’extérieur ne lui\naffirmait la réalité; il souffrait surtout, et au point que même le\nson des instruments lui donnait envie de crier, de prolonger son exil\ndans ce lieu où Odette ne viendrait jamais, où personne, où rien ne la\nconnaissait, d’où elle était entièrement absente",
+      "start": 124,
+      "end": 811
+    }
+  ],
+  "tokens": 135,
+  "processed_at": "2025-03-16T02:10:57.266997"
+}

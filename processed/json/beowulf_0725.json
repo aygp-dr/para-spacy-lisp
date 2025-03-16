@@ -1,0 +1,77 @@
+{
+  "text": "Mme Verdurin, voyant que Swann était à deux pas, prit cette expression\noù le désir de faire taire celui qui parle et de garder un air\ninnocent aux yeux de celui qui entend, se neutralise en une nullité\nintense du regard, où l’immobile signe d’intelligence du complice se\ndissimule sous les sourires de l’ingénu et qui enfin, commune à tous\nceux qui s’aperçoivent d’une gaffe, la révèle instantanément sinon à\nceux qui la font, du moins à celui qui en est l’objet. Odette eut\nsoudain l’air d’une désespérée qui renonce à lutter contre les\ndifficultés écrasantes de la vie, et Swann comptait anxieusement les\nminutes qui le séparaient du moment où, après avoir quitté ce\nrestaurant, pendant le retour avec elle, il allait pouvoir lui\ndemander des explications, obtenir qu’elle n’allât pas le lendemain à\nChatou ou qu’elle l’y fit inviter et apaiser dans ses bras l’angoisse\nqu’il ressentait. Enfin on demanda leurs voitures. Mme Verdurin dit à\nSwann:",
+  "entities": [
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 4,
+      "end": 13
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 464,
+      "end": 470
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 575,
+      "end": 580
+    },
+    {
+      "text": "Chatou",
+      "label": "ORG",
+      "start": 802,
+      "end": 808
+    },
+    {
+      "text": "Enfin",
+      "label": "ORG",
+      "start": 890,
+      "end": 895
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 927,
+      "end": 935
+    },
+    {
+      "text": "Swann:",
+      "label": "ORG",
+      "start": 942,
+      "end": 948
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mme Verdurin, voyant que Swann était à deux pas, prit cette expression\noù le désir de faire taire celui qui parle et de garder un air\ninnocent aux yeux de celui qui entend, se neutralise en une nullité\nintense du regard, où l’immobile signe d’intelligence du complice se\ndissimule sous les sourires de l’ingénu et qui enfin, commune à tous\nceux qui s’aperçoivent d’une gaffe, la révèle instantanément sinon à\nceux qui la font, du moins à celui qui en est l’objet",
+      "start": 0,
+      "end": 462
+    },
+    {
+      "text": "Odette eut\nsoudain l’air d’une désespérée qui renonce à lutter contre les\ndifficultés écrasantes de la vie, et Swann comptait anxieusement les\nminutes qui le séparaient du moment où, après avoir quitté ce\nrestaurant, pendant le retour avec elle, il allait pouvoir lui\ndemander des explications, obtenir qu’elle n’allât pas le lendemain à\nChatou ou qu’elle l’y fit inviter et apaiser dans ses bras l’angoisse\nqu’il ressentait",
+      "start": 463,
+      "end": 888
+    },
+    {
+      "text": "Enfin on demanda leurs voitures",
+      "start": 889,
+      "end": 921
+    },
+    {
+      "text": "Mme Verdurin dit à\nSwann:",
+      "start": 922,
+      "end": 948
+    }
+  ],
+  "tokens": 159,
+  "processed_at": "2025-03-16T02:10:56.725472"
+}

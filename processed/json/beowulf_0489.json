@@ -1,0 +1,31 @@
+{
+  "text": "--Ah! enfin, comme vous voudrez. Pourvu qu’il n’aille pas lâcher au\ndernier moment!",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Pourvu",
+      "label": "ORG",
+      "start": 33,
+      "end": 39
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! enfin, comme vous voudrez",
+      "start": 0,
+      "end": 31
+    },
+    {
+      "text": "Pourvu qu’il n’aille pas lâcher au\ndernier moment!",
+      "start": 32,
+      "end": 83
+    }
+  ],
+  "tokens": 13,
+  "processed_at": "2025-03-16T02:10:56.023258"
+}

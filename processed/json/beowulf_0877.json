@@ -1,0 +1,65 @@
+{
+  "text": "--Comment la princesse est venue exprès de Guermantes? Mais c’est trop!\nJe ne savais pas, je suis confuse, s’écrie naïvement Mme de\nSaint-Euverte qui était peu habituée au tour d’esprit de Swann. Et\nexaminant la coiffure de la princesse: Mais c’est vrai, cela imite...\ncomment dirais-je, pas les châtaignes, non, oh! c’est une idée\nravissante, mais comment la princesse pouvait-elle connaître mon\nprogramme. Les musiciens ne me l’ont même pas communiqué à moi.",
+  "entities": [
+    {
+      "text": "--Comment",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Guermantes?",
+      "label": "ORG",
+      "start": 43,
+      "end": 54
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 55,
+      "end": 59
+    },
+    {
+      "text": "Saint-Euverte",
+      "label": "ORG",
+      "start": 132,
+      "end": 145
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 189,
+      "end": 195
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 238,
+      "end": 242
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Comment la princesse est venue exprès de Guermantes? Mais c’est trop!\nJe ne savais pas, je suis confuse, s’écrie naïvement Mme de\nSaint-Euverte qui était peu habituée au tour d’esprit de Swann",
+      "start": 0,
+      "end": 194
+    },
+    {
+      "text": "Et\nexaminant la coiffure de la princesse: Mais c’est vrai, cela imite",
+      "start": 195,
+      "end": 265
+    },
+    {
+      "text": "comment dirais-je, pas les châtaignes, non, oh! c’est une idée\nravissante, mais comment la princesse pouvait-elle connaître mon\nprogramme",
+      "start": 268,
+      "end": 406
+    },
+    {
+      "text": "Les musiciens ne me l’ont même pas communiqué à moi",
+      "start": 407,
+      "end": 459
+    }
+  ],
+  "tokens": 73,
+  "processed_at": "2025-03-16T02:10:57.182617"
+}

@@ -1,0 +1,172 @@
+{
+  "text": "Comme tout ce qui environnait Odette et n’était en quelque sorte que\nle mode selon lequel il pouvait la voir, causer avec elle, il aimait\nla société des Verdurin. Là, comme au fond de tous les\ndivertissements, repas, musique, jeux, soupers costumés, parties de\ncampagne, parties de théâtre, même les rares «grandes soirées» données\npour les «ennuyeux», il y avait la présence d’Odette, la vue d’Odette,\nla conversation avec Odette, dont les Verdurin faisaient à Swann, en\nl’invitant, le don inestimable, il se plaisait mieux que partout\nailleurs dans le «petit noyau», et cherchait à lui attribuer des\nmérites réels, car il s’imaginait ainsi que par goût il le\nfréquenterait toute sa vie. Or, n’osant pas se dire, par peur de ne\npas le croire, qu’il aimerait toujours Odette, du moins en cherchant à\nsupposer qu’il fréquenterait toujours les Verdurin (proposition qui, a\npriori, soulevait moins d’objections de principe de la part de son\nintelligence), il se voyait dans l’avenir continuant à rencontrer\nchaque soir Odette; cela ne revenait peut-être pas tout à fait au même\nque l’aimer toujours, mais, pour le moment, pendant qu’il l’aimait,\ncroire qu’il ne cesserait pas un jour de la voir, c’est tout ce qu’il\ndemandait. «Quel charmant milieu, se disait-il. Comme c’est au fond la\nvraie vie qu’on mène là! Comme on y est plus intelligent, plus artiste\nque dans le monde. Comme Mme Verdurin, malgré de petites exagérations\nun peu risibles, a un amour sincère de la peinture, de la musique!\nquelle passion pour les œuvres, quel désir de faire plaisir aux\nartistes! Elle se fait une idée inexacte des gens du monde; mais avec\ncela que le monde n’en a pas une plus fausse encore des milieux\nartistes! Peut-être n’ai-je pas de grands besoins intellectuels à\nassouvir dans la conversation, mais je me plais parfaitement bien avec\nCottard, quoiqu’il fasse des calembours ineptes. Et quant au peintre,\nsi sa prétention est déplaisante quand il cherche à étonner, en\nrevanche c’est une des plus belles intelligences que j’aie connues. Et\npuis surtout, là, on se sent libre, on fait ce qu’on veut sans\ncontrainte, sans cérémonie. Quelle dépense de bonne humeur il se fait\npar jour dans ce salon-là! Décidément, sauf quelques rares exceptions,\nje n’irai plus jamais que dans ce milieu. C’est là que j’aurai de plus\nen plus mes habitudes et ma vie.»",
+  "entities": [
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 30,
+      "end": 36
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 153,
+      "end": 162
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 378,
+      "end": 385
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 441,
+      "end": 449
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 462,
+      "end": 468
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 768,
+      "end": 775
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 842,
+      "end": 850
+    },
+    {
+      "text": "Odette;",
+      "label": "ORG",
+      "start": 1016,
+      "end": 1023
+    },
+    {
+      "text": "«Quel",
+      "label": "ORG",
+      "start": 1224,
+      "end": 1229
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1261,
+      "end": 1266
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1309,
+      "end": 1314
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1374,
+      "end": 1379
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 1384,
+      "end": 1393
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1566,
+      "end": 1570
+    },
+    {
+      "text": "Cottard,",
+      "label": "ORG",
+      "start": 1827,
+      "end": 1835
+    },
+    {
+      "text": "Quelle",
+      "label": "ORG",
+      "start": 2123,
+      "end": 2129
+    },
+    {
+      "text": "Décidément,",
+      "label": "ORG",
+      "start": 2192,
+      "end": 2203
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Comme tout ce qui environnait Odette et n’était en quelque sorte que\nle mode selon lequel il pouvait la voir, causer avec elle, il aimait\nla société des Verdurin",
+      "start": 0,
+      "end": 161
+    },
+    {
+      "text": "Là, comme au fond de tous les\ndivertissements, repas, musique, jeux, soupers costumés, parties de\ncampagne, parties de théâtre, même les rares «grandes soirées» données\npour les «ennuyeux», il y avait la présence d’Odette, la vue d’Odette,\nla conversation avec Odette, dont les Verdurin faisaient à Swann, en\nl’invitant, le don inestimable, il se plaisait mieux que partout\nailleurs dans le «petit noyau», et cherchait à lui attribuer des\nmérites réels, car il s’imaginait ainsi que par goût il le\nfréquenterait toute sa vie",
+      "start": 162,
+      "end": 687
+    },
+    {
+      "text": "Or, n’osant pas se dire, par peur de ne\npas le croire, qu’il aimerait toujours Odette, du moins en cherchant à\nsupposer qu’il fréquenterait toujours les Verdurin (proposition qui, a\npriori, soulevait moins d’objections de principe de la part de son\nintelligence), il se voyait dans l’avenir continuant à rencontrer\nchaque soir Odette; cela ne revenait peut-être pas tout à fait au même\nque l’aimer toujours, mais, pour le moment, pendant qu’il l’aimait,\ncroire qu’il ne cesserait pas un jour de la voir, c’est tout ce qu’il\ndemandait",
+      "start": 688,
+      "end": 1222
+    },
+    {
+      "text": "«Quel charmant milieu, se disait-il",
+      "start": 1223,
+      "end": 1259
+    },
+    {
+      "text": "Comme c’est au fond la\nvraie vie qu’on mène là! Comme on y est plus intelligent, plus artiste\nque dans le monde",
+      "start": 1260,
+      "end": 1372
+    },
+    {
+      "text": "Comme Mme Verdurin, malgré de petites exagérations\nun peu risibles, a un amour sincère de la peinture, de la musique!\nquelle passion pour les œuvres, quel désir de faire plaisir aux\nartistes! Elle se fait une idée inexacte des gens du monde; mais avec\ncela que le monde n’en a pas une plus fausse encore des milieux\nartistes! Peut-être n’ai-je pas de grands besoins intellectuels à\nassouvir dans la conversation, mais je me plais parfaitement bien avec\nCottard, quoiqu’il fasse des calembours ineptes",
+      "start": 1373,
+      "end": 1874
+    },
+    {
+      "text": "Et quant au peintre,\nsi sa prétention est déplaisante quand il cherche à étonner, en\nrevanche c’est une des plus belles intelligences que j’aie connues",
+      "start": 1875,
+      "end": 2027
+    },
+    {
+      "text": "Et\npuis surtout, là, on se sent libre, on fait ce qu’on veut sans\ncontrainte, sans cérémonie",
+      "start": 2028,
+      "end": 2121
+    },
+    {
+      "text": "Quelle dépense de bonne humeur il se fait\npar jour dans ce salon-là! Décidément, sauf quelques rares exceptions,\nje n’irai plus jamais que dans ce milieu",
+      "start": 2122,
+      "end": 2276
+    },
+    {
+      "text": "C’est là que j’aurai de plus\nen plus mes habitudes et ma vie",
+      "start": 2277,
+      "end": 2338
+    },
+    {
+      "text": "»",
+      "start": 322,
+      "end": 323
+    }
+  ],
+  "tokens": 392,
+  "processed_at": "2025-03-16T02:10:56.293697"
+}

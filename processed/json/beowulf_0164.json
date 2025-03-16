@@ -1,0 +1,53 @@
+{
+  "text": "La rue Sainte-Hildegarde tournait trop court pour qu’on pût voir venir\nde loin, et c’était par cette fente entre les deux maisons de l’avenue\nde la gare qu’on apercevait toujours de nouveaux casques courant et\nbrillant au soleil. Le jardinier aurait voulu savoir s’il y en avait\nencore beaucoup à passer, et il avait soif, car le soleil tapait.\nAlors tout d’un coup, sa fille s’élançant comme d’une place assiégée,\nfaisait une sortie, atteignait l’angle de la rue, et après avoir bravé\ncent fois la mort, venait nous rapporter, avec une carafe de coco, la\nnouvelle qu’ils étaient bien un mille qui venaient sans arrêter, du\ncôté de Thiberzy et de Méséglise. Françoise et le jardinier,\nréconciliés, discutaient sur la conduite à tenir en cas de guerre:",
+  "entities": [
+    {
+      "text": "Sainte-Hildegarde",
+      "label": "ORG",
+      "start": 7,
+      "end": 24
+    },
+    {
+      "text": "Thiberzy",
+      "label": "ORG",
+      "start": 632,
+      "end": 640
+    },
+    {
+      "text": "Méséglise.",
+      "label": "ORG",
+      "start": 647,
+      "end": 657
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 658,
+      "end": 667
+    }
+  ],
+  "sentences": [
+    {
+      "text": "La rue Sainte-Hildegarde tournait trop court pour qu’on pût voir venir\nde loin, et c’était par cette fente entre les deux maisons de l’avenue\nde la gare qu’on apercevait toujours de nouveaux casques courant et\nbrillant au soleil",
+      "start": 0,
+      "end": 228
+    },
+    {
+      "text": "Le jardinier aurait voulu savoir s’il y en avait\nencore beaucoup à passer, et il avait soif, car le soleil tapait",
+      "start": 229,
+      "end": 343
+    },
+    {
+      "text": "Alors tout d’un coup, sa fille s’élançant comme d’une place assiégée,\nfaisait une sortie, atteignait l’angle de la rue, et après avoir bravé\ncent fois la mort, venait nous rapporter, avec une carafe de coco, la\nnouvelle qu’ils étaient bien un mille qui venaient sans arrêter, du\ncôté de Thiberzy et de Méséglise",
+      "start": 344,
+      "end": 656
+    },
+    {
+      "text": "Françoise et le jardinier,\nréconciliés, discutaient sur la conduite à tenir en cas de guerre:",
+      "start": 657,
+      "end": 751
+    }
+  ],
+  "tokens": 127,
+  "processed_at": "2025-03-16T02:10:54.996281"
+}

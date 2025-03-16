@@ -1,0 +1,26 @@
+{
+  "text": "--Ah! si madame Verdurin commence à peloter les bronzes, nous\nn’entendrons pas de musique ce soir, dit le peintre.",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 16,
+      "end": 24
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! si madame Verdurin commence à peloter les bronzes, nous\nn’entendrons pas de musique ce soir, dit le peintre",
+      "start": 0,
+      "end": 113
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:55.917251"
+}

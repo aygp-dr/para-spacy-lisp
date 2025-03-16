@@ -1,0 +1,37 @@
+{
+  "text": "--Vous savez que votre ami nous plaît beaucoup, dit Mme Verdurin à\nOdette au moment où celle-ci lui souhaitait le bonsoir. Il est simple,\ncharmant; si vous n’avez jamais à nous présenter que des amis comme\ncela, vous pouvez les amener.",
+  "entities": [
+    {
+      "text": "--Vous",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 56,
+      "end": 64
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 67,
+      "end": 73
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Vous savez que votre ami nous plaît beaucoup, dit Mme Verdurin à\nOdette au moment où celle-ci lui souhaitait le bonsoir",
+      "start": 0,
+      "end": 121
+    },
+    {
+      "text": "Il est simple,\ncharmant; si vous n’avez jamais à nous présenter que des amis comme\ncela, vous pouvez les amener",
+      "start": 122,
+      "end": 234
+    }
+  ],
+  "tokens": 41,
+  "processed_at": "2025-03-16T02:10:56.012443"
+}

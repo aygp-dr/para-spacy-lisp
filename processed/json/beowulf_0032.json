@@ -1,0 +1,105 @@
+{
+  "text": "Pourtant un jour que ma grand’mère était allée demander un service à\nune dame qu’elle avait connue au Sacré-Cœur (et avec laquelle, à cause\nde notre conception des castes elle n’avait pas voulu rester en\nrelations malgré une sympathie réciproque), la marquise de\nVilleparisis, de la célèbre famille de Bouillon, celle-ci lui avait\ndit: «Je crois que vous connaissez beaucoup M. Swann qui est un grand\nami de mes neveux des Laumes». Ma grand’mère était revenue de sa\nvisite enthousiasmée par la maison qui donnait sur des jardins et où\nMme de Villeparisis lui conseillait de louer, et aussi par un giletier\net sa fille, qui avaient leur boutique dans la cour et chez qui elle\nétait entrée demander qu’on fît un point à sa jupe qu’elle avait\ndéchirée dans l’escalier. Ma grand’mère avait trouvé ces gens\nparfaits, elle déclarait que la petite était une perle et que le\ngiletier était l’homme le plus distingué, le mieux qu’elle eût jamais\nvu. Car pour elle, la distinction était quelque chose d’absolument\nindépendant du rang social. Elle s’extasiait sur une réponse que le\ngiletier lui avait faite, disant à maman: «Sévigné n’aurait pas mieux\ndit!» et en revanche, d’un neveu de Mme de Villeparisis qu’elle avait\nrencontré chez elle: «Ah! ma fille, comme il est commun!»",
+  "entities": [
+    {
+      "text": "Pourtant",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Sacré-Cœur",
+      "label": "ORG",
+      "start": 102,
+      "end": 112
+    },
+    {
+      "text": "Villeparisis,",
+      "label": "ORG",
+      "start": 263,
+      "end": 276
+    },
+    {
+      "text": "Bouillon,",
+      "label": "ORG",
+      "start": 302,
+      "end": 311
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 378,
+      "end": 383
+    },
+    {
+      "text": "Laumes».",
+      "label": "ORG",
+      "start": 423,
+      "end": 431
+    },
+    {
+      "text": "Villeparisis",
+      "label": "ORG",
+      "start": 542,
+      "end": 554
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1032,
+      "end": 1036
+    },
+    {
+      "text": "«Sévigné",
+      "label": "ORG",
+      "start": 1114,
+      "end": 1122
+    },
+    {
+      "text": "Villeparisis",
+      "label": "ORG",
+      "start": 1185,
+      "end": 1197
+    },
+    {
+      "text": "«Ah!",
+      "label": "ORG",
+      "start": 1233,
+      "end": 1237
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pourtant un jour que ma grand’mère était allée demander un service à\nune dame qu’elle avait connue au Sacré-Cœur (et avec laquelle, à cause\nde notre conception des castes elle n’avait pas voulu rester en\nrelations malgré une sympathie réciproque), la marquise de\nVilleparisis, de la célèbre famille de Bouillon, celle-ci lui avait\ndit: «Je crois que vous connaissez beaucoup M",
+      "start": 0,
+      "end": 376
+    },
+    {
+      "text": "Swann qui est un grand\nami de mes neveux des Laumes»",
+      "start": 377,
+      "end": 430
+    },
+    {
+      "text": "Ma grand’mère était revenue de sa\nvisite enthousiasmée par la maison qui donnait sur des jardins et où\nMme de Villeparisis lui conseillait de louer, et aussi par un giletier\net sa fille, qui avaient leur boutique dans la cour et chez qui elle\nétait entrée demander qu’on fît un point à sa jupe qu’elle avait\ndéchirée dans l’escalier",
+      "start": 431,
+      "end": 764
+    },
+    {
+      "text": "Ma grand’mère avait trouvé ces gens\nparfaits, elle déclarait que la petite était une perle et que le\ngiletier était l’homme le plus distingué, le mieux qu’elle eût jamais\nvu",
+      "start": 765,
+      "end": 939
+    },
+    {
+      "text": "Car pour elle, la distinction était quelque chose d’absolument\nindépendant du rang social",
+      "start": 940,
+      "end": 1030
+    },
+    {
+      "text": "Elle s’extasiait sur une réponse que le\ngiletier lui avait faite, disant à maman: «Sévigné n’aurait pas mieux\ndit!» et en revanche, d’un neveu de Mme de Villeparisis qu’elle avait\nrencontré chez elle: «Ah! ma fille, comme il est commun!»",
+      "start": 1031,
+      "end": 1269
+    }
+  ],
+  "tokens": 214,
+  "processed_at": "2025-03-16T02:10:54.461007"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "Mais il n’entrait jamais chez elle. Deux fois seulement, dans\nl’après-midi, il était allé participer à cette opération capitale pour\nelle «prendre le thé». L’isolement et le vide de ces courtes rues\n(faites presque toutes de petits hôtels contigus, dont tout à coup\nvenait rompre la monotonie quelque sinistre échoppe, témoignage\nhistorique et reste sordide du temps où ces quartiers étaient encore\nmal famés), la neige qui était restée dans le jardin et aux arbres, le\nnégligé de la saison, le voisinage de la nature, donnaient quelque\nchose de plus mystérieux à la chaleur, aux fleurs qu’il avait trouvées\nen entrant.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Deux",
+      "label": "ORG",
+      "start": 36,
+      "end": 40
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais il n’entrait jamais chez elle",
+      "start": 0,
+      "end": 34
+    },
+    {
+      "text": "Deux fois seulement, dans\nl’après-midi, il était allé participer à cette opération capitale pour\nelle «prendre le thé»",
+      "start": 35,
+      "end": 154
+    },
+    {
+      "text": "L’isolement et le vide de ces courtes rues\n(faites presque toutes de petits hôtels contigus, dont tout à coup\nvenait rompre la monotonie quelque sinistre échoppe, témoignage\nhistorique et reste sordide du temps où ces quartiers étaient encore\nmal famés), la neige qui était restée dans le jardin et aux arbres, le\nnégligé de la saison, le voisinage de la nature, donnaient quelque\nchose de plus mystérieux à la chaleur, aux fleurs qu’il avait trouvées\nen entrant",
+      "start": 155,
+      "end": 618
+    }
+  ],
+  "tokens": 101,
+  "processed_at": "2025-03-16T02:10:56.098503"
+}

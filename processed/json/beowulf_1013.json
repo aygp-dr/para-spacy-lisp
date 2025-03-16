@@ -1,0 +1,26 @@
+{
+  "text": "--Brouillés? mais pourquoi veux-tu que nous soyons brouillés»,\nrépondit-elle vivement comme si j’avais attenté à la fiction de ses\nbons rapports avec Swann et essayé de travailler à un «rapprochement».",
+  "entities": [
+    {
+      "text": "--Brouillés?",
+      "label": "ORG",
+      "start": 0,
+      "end": 12
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 150,
+      "end": 155
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Brouillés? mais pourquoi veux-tu que nous soyons brouillés»,\nrépondit-elle vivement comme si j’avais attenté à la fiction de ses\nbons rapports avec Swann et essayé de travailler à un «rapprochement»",
+      "start": 0,
+      "end": 200
+    }
+  ],
+  "tokens": 30,
+  "processed_at": "2025-03-16T02:10:57.598969"
+}

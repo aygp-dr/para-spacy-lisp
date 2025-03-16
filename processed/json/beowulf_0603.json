@@ -1,0 +1,25 @@
+{
+  "text": "--Je me suis approché, dit-il, pour voir comment c’était fait, j’ai mis\nle nez dessus. Ah! bien ouiche! on ne pourrait pas dire si c’est fait\navec de la colle, avec du rubis, avec du savon, avec du bronze, avec\ndu soleil, avec du caca!",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je me suis approché, dit-il, pour voir comment c’était fait, j’ai mis\nle nez dessus",
+      "start": 0,
+      "end": 85
+    },
+    {
+      "text": "Ah! bien ouiche! on ne pourrait pas dire si c’est fait\navec de la colle, avec du rubis, avec du savon, avec du bronze, avec\ndu soleil, avec du caca!",
+      "start": 86,
+      "end": 235
+    }
+  ],
+  "tokens": 45,
+  "processed_at": "2025-03-16T02:10:56.360064"
+}

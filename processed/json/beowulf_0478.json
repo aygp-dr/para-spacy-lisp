@@ -1,0 +1,32 @@
+{
+  "text": "--Comment, s’écria Mme Verdurin, il y a encore des gens qui se font\nsoigner par Potain!",
+  "entities": [
+    {
+      "text": "--Comment,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 23,
+      "end": 32
+    },
+    {
+      "text": "Potain!",
+      "label": "ORG",
+      "start": 80,
+      "end": 87
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Comment, s’écria Mme Verdurin, il y a encore des gens qui se font\nsoigner par Potain!",
+      "start": 0,
+      "end": 87
+    }
+  ],
+  "tokens": 16,
+  "processed_at": "2025-03-16T02:10:55.993473"
+}

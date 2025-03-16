@@ -1,0 +1,278 @@
+{
+  "text": "C’est qu’elle n’avait même pas pensé à lui. Et de tels moments où elle\noubliait jusqu’à l’existence de Swann étaient plus utiles à Odette,\nservaient mieux à lui attacher Swann, que toute sa coquetterie. Car\nainsi Swann vivait dans cette agitation douloureuse qui avait déjà été\nassez puissante pour faire éclore son amour le soir où il n’avait pas\ntrouvé Odette chez les Verdurin et l’avait cherchée toute la soirée.\nEt il n’avait pas, comme j’eus à Combray dans mon enfance, des\njournées heureuses pendant lesquelles s’oublient les souffrances qui\nrenaîtront le soir. Les journées, Swann les passait sans Odette; et\npar moments il se disait que laisser une aussi jolie femme sortir\nainsi seule dans Paris était aussi imprudent que de poser un écrin\nplein de bijoux au milieu de la rue. Alors il s’indignait contre tous\nles passants comme contre autant de voleurs. Mais leur visage\ncollectif et informe échappant à son imagination ne nourrissait pas sa\njalousie. Il fatiguait la pensée de Swann, lequel, se passant la main\nsur les yeux, s’écriait: «À la grâce de Dieu», comme ceux qui après\ns’être acharnés à étreindre le problème de la réalité du monde\nextérieur ou de l’immortalité de l’âme accordent la détente d’un acte\nde foi à leur cerveau lassé. Mais toujours la pensée de l’absente\nétait indissolublement mêlée aux actes les plus simples de la vie de\nSwann,--déjeuner, recevoir son courrier, sortir, se coucher,--par la\ntristesse même qu’il avait à les accomplir sans elle, comme ces\ninitiales de Philibert le Beau que dans l’église de Brou, à cause du\nregret qu’elle avait de lui, Marguerite d’Autriche entrelaça partout\naux siennes. Certains jours, au lieu de rester chez lui, il allait\nprendre son déjeuner dans un restaurant assez voisin dont il avait\napprécié autrefois la bonne cuisine et où maintenant il n’allait plus\nque pour une de ces raisons, à la fois mystiques et saugrenues, qu’on\nappelle romanesques; c’est que ce restaurant (lequel existe encore)\nportait le même nom que la rue habitée par Odette: Lapérouse.\nQuelquefois, quand elle avait fait un court déplacement ce n’est\nqu’après plusieurs jours qu’elle songeait à lui faire savoir qu’elle\nétait revenue à Paris. Et elle lui disait tout simplement, sans plus\nprendre comme autrefois la précaution de se couvrir à tout hasard d’un\npetit morceau emprunté à la vérité, qu’elle venait d’y rentrer à\nl’instant même par le train du matin. Ces paroles étaient mensongères;\ndu moins pour Odette elles étaient mensongères, inconsistantes,\nn’ayant pas, comme si elles avaient été vraies, un point d’appui dans\nle souvenir de son arrivée à la gare; même elle était empêchée de se\nles représenter au moment où elle les prononçait, par l’image\ncontradictoire de ce qu’elle avait fait de tout différent au moment où\nelle prétendait être descendue du train. Mais dans l’esprit de Swann\nau contraire ces paroles qui ne rencontraient aucun obstacle venaient\ns’incruster et prendre l’inamovibilité d’une vérité si indubitable que\nsi un ami lui disait être venu par ce train et ne pas avoir vu Odette\nil était persuadé que c’était l’ami qui se trompait de jour ou d’heure\npuisque son dire ne se conciliait pas avec les paroles d’Odette.\nCelles-ci ne lui eussent paru mensongères que s’il s’était d’abord\ndéfié qu’elles le fussent. Pour qu’il crût qu’elle mentait, un soupçon\npréalable était une condition nécessaire. C’était d’ailleurs aussi une\ncondition suffisante. Alors tout ce que disait Odette lui paraissait\nsuspect. L’entendait-il citer un nom, c’était certainement celui d’un\nde ses amants; une fois cette supposition forgée, il passait des\nsemaines à se désoler; il s’aboucha même une fois avec une agence de\nrenseignements pour savoir l’adresse, l’emploi du temps de l’inconnu\nqui ne le laisserait respirer que quand il serait parti en voyage, et\ndont il finit par apprendre que c’était un oncle d’Odette mort depuis\nvingt ans.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 103,
+      "end": 108
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 131,
+      "end": 138
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 170,
+      "end": 176
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 213,
+      "end": 218
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 355,
+      "end": 361
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 371,
+      "end": 379
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 450,
+      "end": 457
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 583,
+      "end": 588
+    },
+    {
+      "text": "Odette;",
+      "label": "ORG",
+      "start": 606,
+      "end": 613
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 700,
+      "end": 705
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 865,
+      "end": 869
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 989,
+      "end": 995
+    },
+    {
+      "text": "Dieu»,",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1069
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1253,
+      "end": 1257
+    },
+    {
+      "text": "Philibert",
+      "label": "ORG",
+      "start": 1505,
+      "end": 1514
+    },
+    {
+      "text": "Beau",
+      "label": "ORG",
+      "start": 1518,
+      "end": 1522
+    },
+    {
+      "text": "Brou,",
+      "label": "ORG",
+      "start": 1544,
+      "end": 1549
+    },
+    {
+      "text": "Marguerite",
+      "label": "ORG",
+      "start": 1590,
+      "end": 1600
+    },
+    {
+      "text": "Certains",
+      "label": "ORG",
+      "start": 1643,
+      "end": 1651
+    },
+    {
+      "text": "Odette:",
+      "label": "ORG",
+      "start": 2015,
+      "end": 2022
+    },
+    {
+      "text": "Lapérouse.",
+      "label": "ORG",
+      "start": 2023,
+      "end": 2033
+    },
+    {
+      "text": "Quelquefois,",
+      "label": "ORG",
+      "start": 2034,
+      "end": 2046
+    },
+    {
+      "text": "Paris.",
+      "label": "ORG",
+      "start": 2184,
+      "end": 2190
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 2458,
+      "end": 2464
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2821,
+      "end": 2825
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2843,
+      "end": 2848
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 3053,
+      "end": 3059
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 3290,
+      "end": 3294
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 3452,
+      "end": 3458
+    }
+  ],
+  "sentences": [
+    {
+      "text": "C’est qu’elle n’avait même pas pensé à lui",
+      "start": 0,
+      "end": 42
+    },
+    {
+      "text": "Et de tels moments où elle\noubliait jusqu’à l’existence de Swann étaient plus utiles à Odette,\nservaient mieux à lui attacher Swann, que toute sa coquetterie",
+      "start": 43,
+      "end": 201
+    },
+    {
+      "text": "Car\nainsi Swann vivait dans cette agitation douloureuse qui avait déjà été\nassez puissante pour faire éclore son amour le soir où il n’avait pas\ntrouvé Odette chez les Verdurin et l’avait cherchée toute la soirée",
+      "start": 202,
+      "end": 415
+    },
+    {
+      "text": "Et il n’avait pas, comme j’eus à Combray dans mon enfance, des\njournées heureuses pendant lesquelles s’oublient les souffrances qui\nrenaîtront le soir",
+      "start": 416,
+      "end": 567
+    },
+    {
+      "text": "Les journées, Swann les passait sans Odette; et\npar moments il se disait que laisser une aussi jolie femme sortir\nainsi seule dans Paris était aussi imprudent que de poser un écrin\nplein de bijoux au milieu de la rue",
+      "start": 568,
+      "end": 785
+    },
+    {
+      "text": "Alors il s’indignait contre tous\nles passants comme contre autant de voleurs",
+      "start": 786,
+      "end": 863
+    },
+    {
+      "text": "Mais leur visage\ncollectif et informe échappant à son imagination ne nourrissait pas sa\njalousie",
+      "start": 864,
+      "end": 961
+    },
+    {
+      "text": "Il fatiguait la pensée de Swann, lequel, se passant la main\nsur les yeux, s’écriait: «À la grâce de Dieu», comme ceux qui après\ns’être acharnés à étreindre le problème de la réalité du monde\nextérieur ou de l’immortalité de l’âme accordent la détente d’un acte\nde foi à leur cerveau lassé",
+      "start": 962,
+      "end": 1251
+    },
+    {
+      "text": "Mais toujours la pensée de l’absente\nétait indissolublement mêlée aux actes les plus simples de la vie de\nSwann,--déjeuner, recevoir son courrier, sortir, se coucher,--par la\ntristesse même qu’il avait à les accomplir sans elle, comme ces\ninitiales de Philibert le Beau que dans l’église de Brou, à cause du\nregret qu’elle avait de lui, Marguerite d’Autriche entrelaça partout\naux siennes",
+      "start": 1252,
+      "end": 1641
+    },
+    {
+      "text": "Certains jours, au lieu de rester chez lui, il allait\nprendre son déjeuner dans un restaurant assez voisin dont il avait\napprécié autrefois la bonne cuisine et où maintenant il n’allait plus\nque pour une de ces raisons, à la fois mystiques et saugrenues, qu’on\nappelle romanesques; c’est que ce restaurant (lequel existe encore)\nportait le même nom que la rue habitée par Odette: Lapérouse",
+      "start": 1642,
+      "end": 2032
+    },
+    {
+      "text": "Quelquefois, quand elle avait fait un court déplacement ce n’est\nqu’après plusieurs jours qu’elle songeait à lui faire savoir qu’elle\nétait revenue à Paris",
+      "start": 2033,
+      "end": 2189
+    },
+    {
+      "text": "Et elle lui disait tout simplement, sans plus\nprendre comme autrefois la précaution de se couvrir à tout hasard d’un\npetit morceau emprunté à la vérité, qu’elle venait d’y rentrer à\nl’instant même par le train du matin",
+      "start": 2190,
+      "end": 2409
+    },
+    {
+      "text": "Ces paroles étaient mensongères;\ndu moins pour Odette elles étaient mensongères, inconsistantes,\nn’ayant pas, comme si elles avaient été vraies, un point d’appui dans\nle souvenir de son arrivée à la gare; même elle était empêchée de se\nles représenter au moment où elle les prononçait, par l’image\ncontradictoire de ce qu’elle avait fait de tout différent au moment où\nelle prétendait être descendue du train",
+      "start": 2410,
+      "end": 2819
+    },
+    {
+      "text": "Mais dans l’esprit de Swann\nau contraire ces paroles qui ne rencontraient aucun obstacle venaient\ns’incruster et prendre l’inamovibilité d’une vérité si indubitable que\nsi un ami lui disait être venu par ce train et ne pas avoir vu Odette\nil était persuadé que c’était l’ami qui se trompait de jour ou d’heure\npuisque son dire ne se conciliait pas avec les paroles d’Odette",
+      "start": 2820,
+      "end": 3194
+    },
+    {
+      "text": "Celles-ci ne lui eussent paru mensongères que s’il s’était d’abord\ndéfié qu’elles le fussent",
+      "start": 3195,
+      "end": 3288
+    },
+    {
+      "text": "Pour qu’il crût qu’elle mentait, un soupçon\npréalable était une condition nécessaire",
+      "start": 3289,
+      "end": 3374
+    },
+    {
+      "text": "C’était d’ailleurs aussi une\ncondition suffisante",
+      "start": 3375,
+      "end": 3425
+    },
+    {
+      "text": "Alors tout ce que disait Odette lui paraissait\nsuspect",
+      "start": 3426,
+      "end": 3481
+    },
+    {
+      "text": "L’entendait-il citer un nom, c’était certainement celui d’un\nde ses amants; une fois cette supposition forgée, il passait des\nsemaines à se désoler; il s’aboucha même une fois avec une agence de\nrenseignements pour savoir l’adresse, l’emploi du temps de l’inconnu\nqui ne le laisserait respirer que quand il serait parti en voyage, et\ndont il finit par apprendre que c’était un oncle d’Odette mort depuis\nvingt ans",
+      "start": 3482,
+      "end": 3896
+    }
+  ],
+  "tokens": 639,
+  "processed_at": "2025-03-16T02:10:56.843399"
+}

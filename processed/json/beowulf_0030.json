@@ -1,0 +1,25 @@
+{
+  "text": "Aussi, ma grand’tante en usait-elle cavalièrement avec lui. Comme elle\ncroyait qu’il devait être flatté par nos invitations, elle trouvait\ntout naturel qu’il ne vînt pas nous voir l’été sans avoir à la main un\npanier de pêches ou de framboises de son jardin et que de chacun de\nses voyages d’Italie il m’eût rapporté des photographies de\nchefs-d’œuvre.",
+  "entities": [
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 60,
+      "end": 65
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Aussi, ma grand’tante en usait-elle cavalièrement avec lui",
+      "start": 0,
+      "end": 58
+    },
+    {
+      "text": "Comme elle\ncroyait qu’il devait être flatté par nos invitations, elle trouvait\ntout naturel qu’il ne vînt pas nous voir l’été sans avoir à la main un\npanier de pêches ou de framboises de son jardin et que de chacun de\nses voyages d’Italie il m’eût rapporté des photographies de\nchefs-d’œuvre",
+      "start": 59,
+      "end": 351
+    }
+  ],
+  "tokens": 59,
+  "processed_at": "2025-03-16T02:10:54.453561"
+}

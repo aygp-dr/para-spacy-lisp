@@ -1,0 +1,65 @@
+{
+  "text": "Mais au fur et à mesure que les «camarades» avaient pris plus de place\ndans la vie de Mme Verdurin, les ennuyeux, les réprouvés, ce fut tout\nce qui retenait les amis loin d’elle, ce qui les empêchait quelquefois\nd’être libres, ce fut la mère de l’un, la profession de l’autre, la\nmaison de campagne ou la mauvaise santé d’un troisième. Si le docteur\nCottard croyait devoir partir en sortant de table pour retourner\nauprès d’un malade en danger: «Qui sait, lui disait Mme Verdurin, cela\nlui fera peut-être beaucoup plus de bien que vous n’alliez pas le\ndéranger ce soir; il passera une bonne nuit sans vous; demain matin\nvous irez de bonne heure et vous le trouverez guéri.» Dès le\ncommencement de décembre elle était malade à la pensée que les fidèles\n«lâcheraient» pour le jour de Noël et le 1er janvier. La tante du\npianiste exigeait qu’il vînt dîner ce jour-là en famille chez sa mère\nà elle:",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 90,
+      "end": 99
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 350,
+      "end": 357
+    },
+    {
+      "text": "«Qui",
+      "label": "ORG",
+      "start": 445,
+      "end": 449
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 471,
+      "end": 480
+    },
+    {
+      "text": "Noël",
+      "label": "ORG",
+      "start": 782,
+      "end": 786
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais au fur et à mesure que les «camarades» avaient pris plus de place\ndans la vie de Mme Verdurin, les ennuyeux, les réprouvés, ce fut tout\nce qui retenait les amis loin d’elle, ce qui les empêchait quelquefois\nd’être libres, ce fut la mère de l’un, la profession de l’autre, la\nmaison de campagne ou la mauvaise santé d’un troisième",
+      "start": 0,
+      "end": 334
+    },
+    {
+      "text": "Si le docteur\nCottard croyait devoir partir en sortant de table pour retourner\nauprès d’un malade en danger: «Qui sait, lui disait Mme Verdurin, cela\nlui fera peut-être beaucoup plus de bien que vous n’alliez pas le\ndéranger ce soir; il passera une bonne nuit sans vous; demain matin\nvous irez de bonne heure et vous le trouverez guéri",
+      "start": 335,
+      "end": 671
+    },
+    {
+      "text": "» Dès le\ncommencement de décembre elle était malade à la pensée que les fidèles\n«lâcheraient» pour le jour de Noël et le 1er janvier",
+      "start": 672,
+      "end": 804
+    },
+    {
+      "text": "La tante du\npianiste exigeait qu’il vînt dîner ce jour-là en famille chez sa mère\nà elle:",
+      "start": 805,
+      "end": 895
+    }
+  ],
+  "tokens": 161,
+  "processed_at": "2025-03-16T02:10:55.729186"
+}

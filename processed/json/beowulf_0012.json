@@ -1,0 +1,23 @@
+{
+  "text": "Je me rendormais, et parfois je n’avais plus que de courts réveils\nd’un instant, le temps d’entendre les craquements organiques des\nboiseries, d’ouvrir les yeux pour fixer le kaléidoscope de\nl’obscurité, de goûter grâce à une lueur momentanée de conscience le\nsommeil où étaient plongés les meubles, la chambre, le tout dont je\nn’étais qu’une petite partie et à l’insensibilité duquel je retournais\nvite m’unir. Ou bien en dormant j’avais rejoint sans effort un âge à\njamais révolu de ma vie primitive, retrouvé telle de mes terreurs\nenfantines comme celle que mon grand-oncle me tirât par mes boucles et\nqu’avait dissipée le jour,--date pour moi d’une ère nouvelle,--où on les\navait coupées. J’avais oublié cet événement pendant mon sommeil, j’en\nretrouvais le souvenir aussitôt que j’avais réussi à m’éveiller pour\néchapper aux mains de mon grand-oncle, mais par mesure de précaution\nj’entourais complètement ma tête de mon oreiller avant de retourner\ndans le monde des rêves.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "Je me rendormais, et parfois je n’avais plus que de courts réveils\nd’un instant, le temps d’entendre les craquements organiques des\nboiseries, d’ouvrir les yeux pour fixer le kaléidoscope de\nl’obscurité, de goûter grâce à une lueur momentanée de conscience le\nsommeil où étaient plongés les meubles, la chambre, le tout dont je\nn’étais qu’une petite partie et à l’insensibilité duquel je retournais\nvite m’unir",
+      "start": 0,
+      "end": 410
+    },
+    {
+      "text": "Ou bien en dormant j’avais rejoint sans effort un âge à\njamais révolu de ma vie primitive, retrouvé telle de mes terreurs\nenfantines comme celle que mon grand-oncle me tirât par mes boucles et\nqu’avait dissipée le jour,--date pour moi d’une ère nouvelle,--où on les\navait coupées",
+      "start": 411,
+      "end": 691
+    },
+    {
+      "text": "J’avais oublié cet événement pendant mon sommeil, j’en\nretrouvais le souvenir aussitôt que j’avais réussi à m’éveiller pour\néchapper aux mains de mon grand-oncle, mais par mesure de précaution\nj’entourais complètement ma tête de mon oreiller avant de retourner\ndans le monde des rêves",
+      "start": 692,
+      "end": 977
+    }
+  ],
+  "tokens": 156,
+  "processed_at": "2025-03-16T02:10:54.383608"
+}

@@ -1,0 +1,139 @@
+{
+  "text": "Combien depuis ce jour, dans mes promenades du côté de Guermantes, il\nme parut plus affligeant encore qu’auparavant de n’avoir pas de\ndispositions pour les lettres, et de devoir renoncer à être jamais un\nécrivain célèbre. Les regrets que j’en éprouvais, tandis que je\nrestais seul à rêver un peu à l’écart, me faisaient tant souffrir, que\npour ne plus les ressentir, de lui-même par une sorte d’inhibition\ndevant la douleur, mon esprit s’arrêtait entièrement de penser aux\nvers, aux romans, à un avenir poétique sur lequel mon manque de talent\nm’interdisait de compter. Alors, bien en dehors de toutes ces\npréoccupations littéraires et ne s’y rattachant en rien, tout d’un\ncoup un toit, un reflet de soleil sur une pierre, l’odeur d’un chemin\nme faisaient arrêter par un plaisir particulier qu’ils me donnaient,\net aussi parce qu’ils avaient l’air de cacher au delà de ce que je\nvoyais, quelque chose qu’ils invitaient à venir prendre et que malgré\nmes efforts je n’arrivais pas à découvrir. Comme je sentais que cela\nse trouvait en eux, je restais là, immobile, à regarder, à respirer, à\ntâcher d’aller avec ma pensée au delà de l’image ou de l’odeur. Et\ns’il me fallait rattraper mon grand-père, poursuivre ma route, je\ncherchais à les retrouver, en fermant les yeux; je m’attachais à me\nrappeler exactement la ligne du toit, la nuance de la pierre qui, sans\nque je pusse comprendre pourquoi, m’avaient semblé pleines, prêtes à\ns’entr’ouvrir, à me livrer ce dont elles n’étaient qu’un couvercle.\nCertes ce n’était pas des impressions de ce genre qui pouvaient me\nrendre l’espérance que j’avais perdue de pouvoir être un jour écrivain\net poète, car elles étaient toujours liées à un objet particulier\ndépourvu de valeur intellectuelle et ne se rapportant à aucune vérité\nabstraite. Mais du moins elles me donnaient un plaisir irraisonné,\nl’illusion d’une sorte de fécondité et par là me distrayaient de\nl’ennui, du sentiment de mon impuissance que j’avais éprouvés chaque\nfois que j’avais cherché un sujet philosophique pour une grande œuvre\nlittéraire. Mais le devoir de conscience était si ardu que\nm’imposaient ces impressions de forme, de parfum ou de couleur--de\ntâcher d’apercevoir ce qui se cachait derrière elles, que je ne\ntardais pas à me chercher à moi-même des excuses qui me permissent de\nme dérober à ces efforts et de m’épargner cette fatigue. Par bonheur\nmes parents m’appelaient, je sentais que je n’avais pas présentement\nla tranquillité nécessaire pour poursuivre utilement ma recherche, et\nqu’il valait mieux n’y plus penser jusqu’à ce que je fusse rentré, et\nne pas me fatiguer d’avance sans résultat. Alors je ne m’occupais plus\nde cette chose inconnue qui s’enveloppait d’une forme ou d’un parfum,\nbien tranquille puisque je la ramenais à la maison, protégée par le\nrevêtement d’images sous lesquelles je la trouverais vivante, comme\nles poissons que les jours où on m’avait laissé aller à la pêche, je\nrapportais dans mon panier couverts par une couche d’herbe qui\npréservait leur fraîcheur. Une fois à la maison je songeais à autre\nchose et ainsi s’entassaient dans mon esprit (comme dans ma chambre\nles fleurs que j’avais cueillies dans mes promenades ou les objets\nqu’on m’avait donnés), une pierre où jouait un reflet, un toit, un son\nde cloche, une odeur de feuilles, bien des images différentes sous\nlesquelles il y a longtemps qu’est morte la réalité pressentie que je\nn’ai pas eu assez de volonté pour arriver à découvrir. Une fois\npourtant,--où notre promenade s’étant prolongée fort au delà de sa\ndurée habituelle, nous avions été bien heureux de rencontrer à\nmi-chemin du retour, comme l’après-midi finissait, le docteur\nPercepied qui passait en voiture à bride abattue, nous avait reconnus\net fait monter avec lui,--j’eus une impression de ce genre et ne\nl’abandonnai pas sans un peu l’approfondir. On m’avait fait monter\nprès du cocher, nous allions comme le vent parce que le docteur avait\nencore avant de rentrer à Combray à s’arrêter à Martinville-le-Sec\nchez un malade à la porte duquel il avait été convenu que nous\nl’attendrions. Au tournant d’un chemin j’éprouvai tout à coup ce\nplaisir spécial qui ne ressemblait à aucun autre, à apercevoir les\ndeux clochers de Martinville, sur lesquels donnait le soleil couchant\net que le mouvement de notre voiture et les lacets du chemin avaient\nl’air de faire changer de place, puis celui de Vieuxvicq qui, séparé\nd’eux par une colline et une vallée, et situé sur un plateau plus\nélevé dans le lointain, semblait pourtant tout voisin d’eux.",
+  "entities": [
+    {
+      "text": "Combien",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 55,
+      "end": 66
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 992,
+      "end": 997
+    },
+    {
+      "text": "Certes",
+      "label": "ORG",
+      "start": 1498,
+      "end": 1504
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1783,
+      "end": 1787
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2055,
+      "end": 2059
+    },
+    {
+      "text": "Percepied",
+      "label": "PERSON",
+      "start": 3657,
+      "end": 3666
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 3955,
+      "end": 3962
+    },
+    {
+      "text": "Martinville,",
+      "label": "ORG",
+      "start": 4208,
+      "end": 4220
+    },
+    {
+      "text": "Vieuxvicq",
+      "label": "ORG",
+      "start": 4377,
+      "end": 4386
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Combien depuis ce jour, dans mes promenades du côté de Guermantes, il\nme parut plus affligeant encore qu’auparavant de n’avoir pas de\ndispositions pour les lettres, et de devoir renoncer à être jamais un\nécrivain célèbre",
+      "start": 0,
+      "end": 220
+    },
+    {
+      "text": "Les regrets que j’en éprouvais, tandis que je\nrestais seul à rêver un peu à l’écart, me faisaient tant souffrir, que\npour ne plus les ressentir, de lui-même par une sorte d’inhibition\ndevant la douleur, mon esprit s’arrêtait entièrement de penser aux\nvers, aux romans, à un avenir poétique sur lequel mon manque de talent\nm’interdisait de compter",
+      "start": 221,
+      "end": 568
+    },
+    {
+      "text": "Alors, bien en dehors de toutes ces\npréoccupations littéraires et ne s’y rattachant en rien, tout d’un\ncoup un toit, un reflet de soleil sur une pierre, l’odeur d’un chemin\nme faisaient arrêter par un plaisir particulier qu’ils me donnaient,\net aussi parce qu’ils avaient l’air de cacher au delà de ce que je\nvoyais, quelque chose qu’ils invitaient à venir prendre et que malgré\nmes efforts je n’arrivais pas à découvrir",
+      "start": 569,
+      "end": 990
+    },
+    {
+      "text": "Comme je sentais que cela\nse trouvait en eux, je restais là, immobile, à regarder, à respirer, à\ntâcher d’aller avec ma pensée au delà de l’image ou de l’odeur",
+      "start": 991,
+      "end": 1151
+    },
+    {
+      "text": "Et\ns’il me fallait rattraper mon grand-père, poursuivre ma route, je\ncherchais à les retrouver, en fermant les yeux; je m’attachais à me\nrappeler exactement la ligne du toit, la nuance de la pierre qui, sans\nque je pusse comprendre pourquoi, m’avaient semblé pleines, prêtes à\ns’entr’ouvrir, à me livrer ce dont elles n’étaient qu’un couvercle",
+      "start": 1152,
+      "end": 1496
+    },
+    {
+      "text": "Certes ce n’était pas des impressions de ce genre qui pouvaient me\nrendre l’espérance que j’avais perdue de pouvoir être un jour écrivain\net poète, car elles étaient toujours liées à un objet particulier\ndépourvu de valeur intellectuelle et ne se rapportant à aucune vérité\nabstraite",
+      "start": 1497,
+      "end": 1781
+    },
+    {
+      "text": "Mais du moins elles me donnaient un plaisir irraisonné,\nl’illusion d’une sorte de fécondité et par là me distrayaient de\nl’ennui, du sentiment de mon impuissance que j’avais éprouvés chaque\nfois que j’avais cherché un sujet philosophique pour une grande œuvre\nlittéraire",
+      "start": 1782,
+      "end": 2053
+    },
+    {
+      "text": "Mais le devoir de conscience était si ardu que\nm’imposaient ces impressions de forme, de parfum ou de couleur--de\ntâcher d’apercevoir ce qui se cachait derrière elles, que je ne\ntardais pas à me chercher à moi-même des excuses qui me permissent de\nme dérober à ces efforts et de m’épargner cette fatigue",
+      "start": 2054,
+      "end": 2358
+    },
+    {
+      "text": "Par bonheur\nmes parents m’appelaient, je sentais que je n’avais pas présentement\nla tranquillité nécessaire pour poursuivre utilement ma recherche, et\nqu’il valait mieux n’y plus penser jusqu’à ce que je fusse rentré, et\nne pas me fatiguer d’avance sans résultat",
+      "start": 2359,
+      "end": 2622
+    },
+    {
+      "text": "Alors je ne m’occupais plus\nde cette chose inconnue qui s’enveloppait d’une forme ou d’un parfum,\nbien tranquille puisque je la ramenais à la maison, protégée par le\nrevêtement d’images sous lesquelles je la trouverais vivante, comme\nles poissons que les jours où on m’avait laissé aller à la pêche, je\nrapportais dans mon panier couverts par une couche d’herbe qui\npréservait leur fraîcheur",
+      "start": 2623,
+      "end": 3015
+    },
+    {
+      "text": "Une fois à la maison je songeais à autre\nchose et ainsi s’entassaient dans mon esprit (comme dans ma chambre\nles fleurs que j’avais cueillies dans mes promenades ou les objets\nqu’on m’avait donnés), une pierre où jouait un reflet, un toit, un son\nde cloche, une odeur de feuilles, bien des images différentes sous\nlesquelles il y a longtemps qu’est morte la réalité pressentie que je\nn’ai pas eu assez de volonté pour arriver à découvrir",
+      "start": 3016,
+      "end": 3454
+    },
+    {
+      "text": "Une fois\npourtant,--où notre promenade s’étant prolongée fort au delà de sa\ndurée habituelle, nous avions été bien heureux de rencontrer à\nmi-chemin du retour, comme l’après-midi finissait, le docteur\nPercepied qui passait en voiture à bride abattue, nous avait reconnus\net fait monter avec lui,--j’eus une impression de ce genre et ne\nl’abandonnai pas sans un peu l’approfondir",
+      "start": 3455,
+      "end": 3834
+    },
+    {
+      "text": "On m’avait fait monter\nprès du cocher, nous allions comme le vent parce que le docteur avait\nencore avant de rentrer à Combray à s’arrêter à Martinville-le-Sec\nchez un malade à la porte duquel il avait été convenu que nous\nl’attendrions",
+      "start": 3835,
+      "end": 4072
+    },
+    {
+      "text": "Au tournant d’un chemin j’éprouvai tout à coup ce\nplaisir spécial qui ne ressemblait à aucun autre, à apercevoir les\ndeux clochers de Martinville, sur lesquels donnait le soleil couchant\net que le mouvement de notre voiture et les lacets du chemin avaient\nl’air de faire changer de place, puis celui de Vieuxvicq qui, séparé\nd’eux par une colline et une vallée, et situé sur un plateau plus\nélevé dans le lointain, semblait pourtant tout voisin d’eux",
+      "start": 4073,
+      "end": 4524
+    }
+  ],
+  "tokens": 752,
+  "processed_at": "2025-03-16T02:10:55.684516"
+}

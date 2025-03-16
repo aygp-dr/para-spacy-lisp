@@ -1,0 +1,25 @@
+{
+  "text": "--«Non, pas du tout, ça ne me gêne pas.»",
+  "entities": [
+    {
+      "text": "--«Non,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Non, pas du tout, ça ne me gêne pas",
+      "start": 0,
+      "end": 38
+    },
+    {
+      "text": "»",
+      "start": 39,
+      "end": 40
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:56.217550"
+}

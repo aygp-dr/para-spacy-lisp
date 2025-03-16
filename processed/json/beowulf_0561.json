@@ -1,0 +1,63 @@
+{
+  "text": "Il élevait son autre main le long de la joue d’Odette; elle le regarda\nfixement, de l’air languissant et grave qu’ont les femmes du maître\nflorentin avec lesquelles il lui avait trouvé de la ressemblance;\namenés au bord des paupières, ses yeux brillants, larges et minces,\ncomme les leurs, semblaient prêts à se détacher ainsi que deux larmes.\nElle fléchissait le cou comme on leur voit faire à toutes, dans les\nscènes païennes comme dans les tableaux religieux. Et, en une attitude\nqui sans doute lui était habituelle, qu’elle savait convenable à ces\nmoments-là et qu’elle faisait attention à ne pas oublier de prendre,\nelle semblait avoir besoin de toute sa force pour retenir son visage,\ncomme si une force invisible l’eût attiré vers Swann. Et ce fut Swann,\nqui, avant qu’elle le laissât tomber, comme malgré elle, sur ses\nlèvres, le retint un instant, à quelque distance, entre ses deux\nmains. Il avait voulu laisser à sa pensée le temps d’accourir, de\nreconnaître le rêve qu’elle avait si longtemps caressé et d’assister à\nsa réalisation, comme une parente qu’on appelle pour prendre sa part\ndu succès d’un enfant qu’elle a beaucoup aimé. Peut-être aussi Swann\nattachait-il sur ce visage d’Odette non encore possédée, ni même\nencore embrassée par lui, qu’il voyait pour la dernière fois, ce\nregard avec lequel, un jour de départ, on voudrait emporter un paysage\nqu’on va quitter pour toujours.",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 344,
+      "end": 348
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 738,
+      "end": 744
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 755,
+      "end": 761
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1161,
+      "end": 1166
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il élevait son autre main le long de la joue d’Odette; elle le regarda\nfixement, de l’air languissant et grave qu’ont les femmes du maître\nflorentin avec lesquelles il lui avait trouvé de la ressemblance;\namenés au bord des paupières, ses yeux brillants, larges et minces,\ncomme les leurs, semblaient prêts à se détacher ainsi que deux larmes",
+      "start": 0,
+      "end": 342
+    },
+    {
+      "text": "Elle fléchissait le cou comme on leur voit faire à toutes, dans les\nscènes païennes comme dans les tableaux religieux",
+      "start": 343,
+      "end": 461
+    },
+    {
+      "text": "Et, en une attitude\nqui sans doute lui était habituelle, qu’elle savait convenable à ces\nmoments-là et qu’elle faisait attention à ne pas oublier de prendre,\nelle semblait avoir besoin de toute sa force pour retenir son visage,\ncomme si une force invisible l’eût attiré vers Swann",
+      "start": 462,
+      "end": 743
+    },
+    {
+      "text": "Et ce fut Swann,\nqui, avant qu’elle le laissât tomber, comme malgré elle, sur ses\nlèvres, le retint un instant, à quelque distance, entre ses deux\nmains",
+      "start": 744,
+      "end": 897
+    },
+    {
+      "text": "Il avait voulu laisser à sa pensée le temps d’accourir, de\nreconnaître le rêve qu’elle avait si longtemps caressé et d’assister à\nsa réalisation, comme une parente qu’on appelle pour prendre sa part\ndu succès d’un enfant qu’elle a beaucoup aimé",
+      "start": 898,
+      "end": 1143
+    },
+    {
+      "text": "Peut-être aussi Swann\nattachait-il sur ce visage d’Odette non encore possédée, ni même\nencore embrassée par lui, qu’il voyait pour la dernière fois, ce\nregard avec lequel, un jour de départ, on voudrait emporter un paysage\nqu’on va quitter pour toujours",
+      "start": 1144,
+      "end": 1398
+    }
+  ],
+  "tokens": 234,
+  "processed_at": "2025-03-16T02:10:56.227514"
+}

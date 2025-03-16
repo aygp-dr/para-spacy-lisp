@@ -1,0 +1,25 @@
+{
+  "text": "--«Dumont! Oh! je me méfie.»",
+  "entities": [
+    {
+      "text": "--«Dumont!",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Dumont! Oh! je me méfie",
+      "start": 0,
+      "end": 26
+    },
+    {
+      "text": "»",
+      "start": 27,
+      "end": 28
+    }
+  ],
+  "tokens": 5,
+  "processed_at": "2025-03-16T02:10:55.043945"
+}

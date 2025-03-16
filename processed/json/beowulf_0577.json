@@ -1,0 +1,155 @@
+{
+  "text": "Certes, elle avait la prétention d’aimer les «antiquités» et prenait\nun air ravi et fin pour dire qu’elle adorait passer toute une journée\nà «bibeloter», à chercher «du bric-à-brac», des choses «du temps».\nBien qu’elle s’entêtât dans une sorte de point d’honneur (et semblât\npratiquer quelque précepte familial) en ne répondant jamais aux\nquestions et en ne «rendant pas de comptes» sur l’emploi de ses\njournées, elle parla une fois à Swann d’une amie qui l’avait invitée\net chez qui tout était «de l’époque». Mais Swann ne put arriver à lui\nfaire dire quelle était cette époque. Pourtant, après avoir réfléchi,\nelle répondit que c’était «moyenâgeux». Elle entendait par là qu’il y\navait des boiseries. Quelque temps après, elle lui reparla de son amie\net ajouta, sur le ton hésitant et de l’air entendu dont on cite\nquelqu’un avec qui on a dîné la veille et dont on n’avait jamais\nentendu le nom, mais que vos amphitryons avaient l’air de considérer\ncomme quelqu’un de si célèbre qu’on espère que l’interlocuteur saura\nbien de qui vous voulez parler: «Elle a une salle à manger... du...\ndix-huitième!» Elle trouvait du reste cela affreux, nu, comme si la\nmaison n’était pas finie, les femmes y paraissaient affreuses et la\nmode n’en prendrait jamais. Enfin, une troisième fois, elle en reparla\net montra à Swann l’adresse de l’homme qui avait fait cette salle à\nmanger et qu’elle avait envie de faire venir, quand elle aurait de\nl’argent pour voir s’il ne pourrait pas lui en faire, non pas certes\nune pareille, mais celle qu’elle rêvait et que, malheureusement, les\ndimensions de son petit hôtel ne comportaient pas, avec de hauts\ndressoirs, des meubles Renaissance et des cheminées comme au château\nde Blois. Ce jour-là, elle laissa échapper devant Swann ce qu’elle\npensait de son habitation du quai d’Orléans; comme il avait critiqué\nque l’amie d’Odette donnât non pas dans le Louis XVI, car, disait-il,\nbien que cela ne se fasse pas, cela peut être charmant, mais dans le\nfaux ancien: «Tu ne voudrais pas qu’elle vécût comme toi au milieu de\nmeubles cassés et de tapis usés», lui dit-elle, le respect humain de\nla bourgeoise l’emportant encore chez elle sur le dilettantisme de la\ncocotte.",
+  "entities": [
+    {
+      "text": "Certes,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Bien",
+      "label": "ORG",
+      "start": 206,
+      "end": 210
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 435,
+      "end": 440
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 510,
+      "end": 514
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 515,
+      "end": 520
+    },
+    {
+      "text": "Pourtant,",
+      "label": "ORG",
+      "start": 580,
+      "end": 589
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 652,
+      "end": 656
+    },
+    {
+      "text": "Quelque",
+      "label": "ORG",
+      "start": 703,
+      "end": 710
+    },
+    {
+      "text": "«Elle",
+      "label": "ORG",
+      "start": 1052,
+      "end": 1057
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1103,
+      "end": 1107
+    },
+    {
+      "text": "Enfin,",
+      "label": "ORG",
+      "start": 1252,
+      "end": 1258
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1307,
+      "end": 1312
+    },
+    {
+      "text": "Renaissance",
+      "label": "ORG",
+      "start": 1656,
+      "end": 1667
+    },
+    {
+      "text": "Blois.",
+      "label": "ORG",
+      "start": 1705,
+      "end": 1711
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1752,
+      "end": 1757
+    },
+    {
+      "text": "Louis",
+      "label": "ORG",
+      "start": 1881,
+      "end": 1886
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Certes, elle avait la prétention d’aimer les «antiquités» et prenait\nun air ravi et fin pour dire qu’elle adorait passer toute une journée\nà «bibeloter», à chercher «du bric-à-brac», des choses «du temps»",
+      "start": 0,
+      "end": 204
+    },
+    {
+      "text": "Bien qu’elle s’entêtât dans une sorte de point d’honneur (et semblât\npratiquer quelque précepte familial) en ne répondant jamais aux\nquestions et en ne «rendant pas de comptes» sur l’emploi de ses\njournées, elle parla une fois à Swann d’une amie qui l’avait invitée\net chez qui tout était «de l’époque»",
+      "start": 205,
+      "end": 508
+    },
+    {
+      "text": "Mais Swann ne put arriver à lui\nfaire dire quelle était cette époque",
+      "start": 509,
+      "end": 578
+    },
+    {
+      "text": "Pourtant, après avoir réfléchi,\nelle répondit que c’était «moyenâgeux»",
+      "start": 579,
+      "end": 650
+    },
+    {
+      "text": "Elle entendait par là qu’il y\navait des boiseries",
+      "start": 651,
+      "end": 701
+    },
+    {
+      "text": "Quelque temps après, elle lui reparla de son amie\net ajouta, sur le ton hésitant et de l’air entendu dont on cite\nquelqu’un avec qui on a dîné la veille et dont on n’avait jamais\nentendu le nom, mais que vos amphitryons avaient l’air de considérer\ncomme quelqu’un de si célèbre qu’on espère que l’interlocuteur saura\nbien de qui vous voulez parler: «Elle a une salle à manger",
+      "start": 702,
+      "end": 1078
+    },
+    {
+      "text": "du",
+      "start": 1081,
+      "end": 1084
+    },
+    {
+      "text": "dix-huitième!» Elle trouvait du reste cela affreux, nu, comme si la\nmaison n’était pas finie, les femmes y paraissaient affreuses et la\nmode n’en prendrait jamais",
+      "start": 1087,
+      "end": 1250
+    },
+    {
+      "text": "Enfin, une troisième fois, elle en reparla\net montra à Swann l’adresse de l’homme qui avait fait cette salle à\nmanger et qu’elle avait envie de faire venir, quand elle aurait de\nl’argent pour voir s’il ne pourrait pas lui en faire, non pas certes\nune pareille, mais celle qu’elle rêvait et que, malheureusement, les\ndimensions de son petit hôtel ne comportaient pas, avec de hauts\ndressoirs, des meubles Renaissance et des cheminées comme au château\nde Blois",
+      "start": 1251,
+      "end": 1710
+    },
+    {
+      "text": "Ce jour-là, elle laissa échapper devant Swann ce qu’elle\npensait de son habitation du quai d’Orléans; comme il avait critiqué\nque l’amie d’Odette donnât non pas dans le Louis XVI, car, disait-il,\nbien que cela ne se fasse pas, cela peut être charmant, mais dans le\nfaux ancien: «Tu ne voudrais pas qu’elle vécût comme toi au milieu de\nmeubles cassés et de tapis usés», lui dit-elle, le respect humain de\nla bourgeoise l’emportant encore chez elle sur le dilettantisme de la\ncocotte",
+      "start": 1711,
+      "end": 2193
+    }
+  ],
+  "tokens": 371,
+  "processed_at": "2025-03-16T02:10:56.281818"
+}

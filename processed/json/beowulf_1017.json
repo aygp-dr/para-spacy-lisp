@@ -1,0 +1,100 @@
+{
+  "text": "--Eh bien oui! il venait à Combray, et puis à Paris il a autre chose à\nfaire et moi aussi. Mais je t’assure que nous n’avions pas du tout\nl’air de deux personnes brouillées. Nous sommes restés un moment\nensemble parce qu’on ne lui apportait pas son paquet. Il m’a demandé\nde tes nouvelles, il m’a dit que tu jouais avec sa fille, ajouta ma\nmère, m’émerveillant du prodige que j’existasse dans l’esprit de\nSwann, bien plus, que ce fût d’une façon assez complète, pour que,\nquand je tremblais d’amour devant lui aux Champs-Élysées, il sût mon\nnom, qui était ma mère, et pût amalgamer autour de ma qualité de\ncamarade de sa fille quelques renseignements sur mes grands-parents,\nleur famille, l’endroit que nous habitions, certaines particularités\nde notre vie d’autrefois, peut-être même inconnues de moi. Mais ma\nmère ne paraissait pas avoir trouvé un charme particulier à ce rayon\ndes Trois Quartiers où elle avait représenté pour Swann, au moment où\nil l’avait vue, une personne définie avec qui il avait des souvenirs\ncommuns qui avaient motivé chez lui le mouvement de s’approcher\nd’elle, le geste de la saluer.",
+  "entities": [
+    {
+      "text": "--Eh",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 27,
+      "end": 35
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 46,
+      "end": 51
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 91,
+      "end": 95
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 174,
+      "end": 178
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 405,
+      "end": 411
+    },
+    {
+      "text": "Champs-Élysées,",
+      "label": "ORG",
+      "start": 514,
+      "end": 529
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 803,
+      "end": 807
+    },
+    {
+      "text": "Trois",
+      "label": "ORG",
+      "start": 884,
+      "end": 889
+    },
+    {
+      "text": "Quartiers",
+      "label": "ORG",
+      "start": 890,
+      "end": 899
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 930,
+      "end": 936
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Eh bien oui! il venait à Combray, et puis à Paris il a autre chose à\nfaire et moi aussi",
+      "start": 0,
+      "end": 89
+    },
+    {
+      "text": "Mais je t’assure que nous n’avions pas du tout\nl’air de deux personnes brouillées",
+      "start": 90,
+      "end": 172
+    },
+    {
+      "text": "Nous sommes restés un moment\nensemble parce qu’on ne lui apportait pas son paquet",
+      "start": 173,
+      "end": 255
+    },
+    {
+      "text": "Il m’a demandé\nde tes nouvelles, il m’a dit que tu jouais avec sa fille, ajouta ma\nmère, m’émerveillant du prodige que j’existasse dans l’esprit de\nSwann, bien plus, que ce fût d’une façon assez complète, pour que,\nquand je tremblais d’amour devant lui aux Champs-Élysées, il sût mon\nnom, qui était ma mère, et pût amalgamer autour de ma qualité de\ncamarade de sa fille quelques renseignements sur mes grands-parents,\nleur famille, l’endroit que nous habitions, certaines particularités\nde notre vie d’autrefois, peut-être même inconnues de moi",
+      "start": 256,
+      "end": 801
+    },
+    {
+      "text": "Mais ma\nmère ne paraissait pas avoir trouvé un charme particulier à ce rayon\ndes Trois Quartiers où elle avait représenté pour Swann, au moment où\nil l’avait vue, une personne définie avec qui il avait des souvenirs\ncommuns qui avaient motivé chez lui le mouvement de s’approcher\nd’elle, le geste de la saluer",
+      "start": 802,
+      "end": 1112
+    }
+  ],
+  "tokens": 190,
+  "processed_at": "2025-03-16T02:10:57.602673"
+}

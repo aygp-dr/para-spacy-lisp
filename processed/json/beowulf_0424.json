@@ -1,0 +1,140 @@
+{
+  "text": "Comme le sens critique qu’il croyait exercer sur tout lui faisait\ncomplètement défaut, le raffinement de politesse qui consiste à\naffirmer, à quelqu’un qu’on oblige, sans souhaiter d’en être cru, que\nc’est à lui qu’on a obligation, était peine perdue avec lui, il\nprenait tout au pied de la lettre. Quel que fût l’aveuglement de Mme\nVerdurin à son égard, elle avait fini, tout en continuant à le trouver\ntrès fin, par être agacée de voir que quand elle l’invitait dans une\navant-scène à entendre Sarah Bernhardt, lui disant, pour plus de\ngrâce: «Vous êtes trop aimable d’être venu, docteur, d’autant plus que\nje suis sûre que vous avez déjà souvent entendu Sarah Bernhardt, et\npuis nous sommes peut-être trop près de la scène», le docteur Cottard\nqui était entré dans la loge avec un sourire qui attendait pour se\npréciser ou pour disparaître que quelqu’un d’autorisé le renseignât\nsur la valeur du spectacle, lui répondait: «En effet on est beaucoup\ntrop près et on commence à être fatigué de Sarah Bernhardt. Mais vous\nm’avez exprimé le désir que je vienne. Pour moi vos désirs sont des\nordres. Je suis trop heureux de vous rendre ce petit service. Que ne\nferait-on pas pour vous être agréable, vous êtes si bonne!» Et il\najoutait: «Sarah Bernhardt c’est bien la Voix d’Or, n’est-ce pas? On\nécrit souvent aussi qu’elle brûle les planches. C’est une expression\nbizarre, n’est-ce pas?» dans l’espoir de commentaires qui ne venaient\npoint.",
+  "entities": [
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Quel",
+      "label": "ORG",
+      "start": 299,
+      "end": 303
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 333,
+      "end": 341
+    },
+    {
+      "text": "Sarah",
+      "label": "ORG",
+      "start": 496,
+      "end": 501
+    },
+    {
+      "text": "Bernhardt,",
+      "label": "ORG",
+      "start": 502,
+      "end": 512
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 545,
+      "end": 550
+    },
+    {
+      "text": "Sarah",
+      "label": "ORG",
+      "start": 657,
+      "end": 662
+    },
+    {
+      "text": "Bernhardt,",
+      "label": "ORG",
+      "start": 663,
+      "end": 673
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 739,
+      "end": 746
+    },
+    {
+      "text": "Sarah",
+      "label": "ORG",
+      "start": 994,
+      "end": 999
+    },
+    {
+      "text": "Bernhardt.",
+      "label": "ORG",
+      "start": 1000,
+      "end": 1010
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1011,
+      "end": 1015
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 1060,
+      "end": 1064
+    },
+    {
+      "text": "«Sarah",
+      "label": "ORG",
+      "start": 1234,
+      "end": 1240
+    },
+    {
+      "text": "Bernhardt",
+      "label": "ORG",
+      "start": 1241,
+      "end": 1250
+    },
+    {
+      "text": "Voix",
+      "label": "ORG",
+      "start": 1265,
+      "end": 1269
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Comme le sens critique qu’il croyait exercer sur tout lui faisait\ncomplètement défaut, le raffinement de politesse qui consiste à\naffirmer, à quelqu’un qu’on oblige, sans souhaiter d’en être cru, que\nc’est à lui qu’on a obligation, était peine perdue avec lui, il\nprenait tout au pied de la lettre",
+      "start": 0,
+      "end": 297
+    },
+    {
+      "text": "Quel que fût l’aveuglement de Mme\nVerdurin à son égard, elle avait fini, tout en continuant à le trouver\ntrès fin, par être agacée de voir que quand elle l’invitait dans une\navant-scène à entendre Sarah Bernhardt, lui disant, pour plus de\ngrâce: «Vous êtes trop aimable d’être venu, docteur, d’autant plus que\nje suis sûre que vous avez déjà souvent entendu Sarah Bernhardt, et\npuis nous sommes peut-être trop près de la scène», le docteur Cottard\nqui était entré dans la loge avec un sourire qui attendait pour se\npréciser ou pour disparaître que quelqu’un d’autorisé le renseignât\nsur la valeur du spectacle, lui répondait: «En effet on est beaucoup\ntrop près et on commence à être fatigué de Sarah Bernhardt",
+      "start": 298,
+      "end": 1009
+    },
+    {
+      "text": "Mais vous\nm’avez exprimé le désir que je vienne",
+      "start": 1010,
+      "end": 1058
+    },
+    {
+      "text": "Pour moi vos désirs sont des\nordres",
+      "start": 1059,
+      "end": 1095
+    },
+    {
+      "text": "Je suis trop heureux de vous rendre ce petit service",
+      "start": 1096,
+      "end": 1149
+    },
+    {
+      "text": "Que ne\nferait-on pas pour vous être agréable, vous êtes si bonne!» Et il\najoutait: «Sarah Bernhardt c’est bien la Voix d’Or, n’est-ce pas? On\nécrit souvent aussi qu’elle brûle les planches",
+      "start": 1150,
+      "end": 1339
+    },
+    {
+      "text": "C’est une expression\nbizarre, n’est-ce pas?» dans l’espoir de commentaires qui ne venaient\npoint",
+      "start": 1340,
+      "end": 1437
+    }
+  ],
+  "tokens": 244,
+  "processed_at": "2025-03-16T02:10:55.837454"
+}

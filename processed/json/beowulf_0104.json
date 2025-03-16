@@ -1,0 +1,82 @@
+{
+  "text": "L’abside de l’église de Combray, peut-on vraiment en parler? Elle\nétait si grossière, si dénuée de beauté artistique et même d’élan\nreligieux. Du dehors, comme le croisement des rues sur lequel elle\ndonnait était en contre-bas, sa grossière muraille s’exhaussait d’un\nsoubassement en moellons nullement polis, hérissés de cailloux, et qui\nn’avait rien de particulièrement ecclésiastique, les verrières\nsemblaient percées à une hauteur excessive, et le tout avait plus\nl’air d’un mur de prison que d’église. Et certes, plus tard, quand je\nme rappelais toutes les glorieuses absides que j’ai vues, il ne me\nserait jamais venu à la pensée de rapprocher d’elles l’abside de\nCombray. Seulement, un jour, au détour d’une petite rue provinciale,\nj’aperçus, en face du croisement de trois ruelles, une muraille fruste\net surélevée, avec des verrières percées en haut et offrant le même\naspect asymétrique que l’abside de Combray. Alors je ne me suis pas\ndemandé comme à Chartres ou à Reims avec quelle puissance y était\nexprimé le sentiment religieux, mais je me suis involontairement\nécrié: «L’Église!»",
+  "entities": [
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 24,
+      "end": 32
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 61,
+      "end": 65
+    },
+    {
+      "text": "Combray.",
+      "label": "ORG",
+      "start": 670,
+      "end": 678
+    },
+    {
+      "text": "Seulement,",
+      "label": "ORG",
+      "start": 679,
+      "end": 689
+    },
+    {
+      "text": "Combray.",
+      "label": "ORG",
+      "start": 913,
+      "end": 921
+    },
+    {
+      "text": "Chartres",
+      "label": "ORG",
+      "start": 962,
+      "end": 970
+    },
+    {
+      "text": "Reims",
+      "label": "ORG",
+      "start": 976,
+      "end": 981
+    },
+    {
+      "text": "«L’Église!»",
+      "label": "ORG",
+      "start": 1084,
+      "end": 1095
+    }
+  ],
+  "sentences": [
+    {
+      "text": "L’abside de l’église de Combray, peut-on vraiment en parler? Elle\nétait si grossière, si dénuée de beauté artistique et même d’élan\nreligieux",
+      "start": 0,
+      "end": 141
+    },
+    {
+      "text": "Du dehors, comme le croisement des rues sur lequel elle\ndonnait était en contre-bas, sa grossière muraille s’exhaussait d’un\nsoubassement en moellons nullement polis, hérissés de cailloux, et qui\nn’avait rien de particulièrement ecclésiastique, les verrières\nsemblaient percées à une hauteur excessive, et le tout avait plus\nl’air d’un mur de prison que d’église",
+      "start": 142,
+      "end": 505
+    },
+    {
+      "text": "Et certes, plus tard, quand je\nme rappelais toutes les glorieuses absides que j’ai vues, il ne me\nserait jamais venu à la pensée de rapprocher d’elles l’abside de\nCombray",
+      "start": 506,
+      "end": 677
+    },
+    {
+      "text": "Seulement, un jour, au détour d’une petite rue provinciale,\nj’aperçus, en face du croisement de trois ruelles, une muraille fruste\net surélevée, avec des verrières percées en haut et offrant le même\naspect asymétrique que l’abside de Combray",
+      "start": 678,
+      "end": 920
+    },
+    {
+      "text": "Alors je ne me suis pas\ndemandé comme à Chartres ou à Reims avec quelle puissance y était\nexprimé le sentiment religieux, mais je me suis involontairement\nécrié: «L’Église!»",
+      "start": 921,
+      "end": 1095
+    }
+  ],
+  "tokens": 173,
+  "processed_at": "2025-03-16T02:10:54.744558"
+}

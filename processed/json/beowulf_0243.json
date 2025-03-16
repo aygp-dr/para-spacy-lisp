@@ -1,0 +1,31 @@
+{
+  "text": "--«Je ne sais pas ce qu’avait Eulalie; je lui ai pourtant donné la même\nchose que d’habitude, elle n’avait pas l’air contente.»",
+  "entities": [
+    {
+      "text": "--«Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Eulalie;",
+      "label": "ORG",
+      "start": 30,
+      "end": 38
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Je ne sais pas ce qu’avait Eulalie; je lui ai pourtant donné la même\nchose que d’habitude, elle n’avait pas l’air contente",
+      "start": 0,
+      "end": 125
+    },
+    {
+      "text": "»",
+      "start": 126,
+      "end": 127
+    }
+  ],
+  "tokens": 22,
+  "processed_at": "2025-03-16T02:10:55.261211"
+}

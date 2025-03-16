@@ -1,0 +1,30 @@
+{
+  "text": "--«Il ressemble surtout à son père, grogna mon oncle qui ne se souciait\npas plus de faire des présentations à distance en disant le nom de\nmaman que d’en faire de près. C’est tout à fait son père et aussi ma\npauvre mère.»",
+  "entities": [
+    {
+      "text": "--«Il",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Il ressemble surtout à son père, grogna mon oncle qui ne se souciait\npas plus de faire des présentations à distance en disant le nom de\nmaman que d’en faire de près",
+      "start": 0,
+      "end": 167
+    },
+    {
+      "text": "C’est tout à fait son père et aussi ma\npauvre mère",
+      "start": 168,
+      "end": 219
+    },
+    {
+      "text": "»",
+      "start": 220,
+      "end": 221
+    }
+  ],
+  "tokens": 43,
+  "processed_at": "2025-03-16T02:10:54.852039"
+}

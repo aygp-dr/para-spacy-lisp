@@ -1,0 +1,25 @@
+{
+  "text": "--«Ah! à moins de ça.»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! à moins de ça",
+      "start": 0,
+      "end": 20
+    },
+    {
+      "text": "»",
+      "start": 21,
+      "end": 22
+    }
+  ],
+  "tokens": 5,
+  "processed_at": "2025-03-16T02:10:54.720078"
+}

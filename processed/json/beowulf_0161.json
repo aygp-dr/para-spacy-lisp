@@ -1,0 +1,20 @@
+{
+  "text": "--«C’est beau, n’est-ce pas, madame Françoise, de voir des jeunes gens\nqui ne tiennent pas à la vie? disait le jardinier pour la faire\n«monter».",
+  "entities": [
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 36,
+      "end": 46
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«C’est beau, n’est-ce pas, madame Françoise, de voir des jeunes gens\nqui ne tiennent pas à la vie? disait le jardinier pour la faire\n«monter»",
+      "start": 0,
+      "end": 143
+    }
+  ],
+  "tokens": 25,
+  "processed_at": "2025-03-16T02:10:54.987282"
+}

@@ -1,0 +1,59 @@
+{
+  "text": "--«Il paraît que c’est une bête bien affable», ajoutait Françoise qui\ntenait le renseignement de Théodore, «spirituelle comme une personne,\ntoujours de bonne humeur, toujours aimable, toujours quelque chose de\ngracieux. C’est rare qu’une bête qui n’a que cet âge-là soit déjà si\ngalante. Madame Octave, il va falloir que je vous quitte, je n’ai pas\nle temps de m’amuser, voilà bientôt dix heures, mon fourneau n’est\nseulement pas éclairé, et j’ai encore à plumer mes asperges.»",
+  "entities": [
+    {
+      "text": "--«Il",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 56,
+      "end": 65
+    },
+    {
+      "text": "Théodore,",
+      "label": "ORG",
+      "start": 97,
+      "end": 106
+    },
+    {
+      "text": "Madame",
+      "label": "ORG",
+      "start": 288,
+      "end": 294
+    },
+    {
+      "text": "Octave,",
+      "label": "ORG",
+      "start": 295,
+      "end": 302
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Il paraît que c’est une bête bien affable», ajoutait Françoise qui\ntenait le renseignement de Théodore, «spirituelle comme une personne,\ntoujours de bonne humeur, toujours aimable, toujours quelque chose de\ngracieux",
+      "start": 0,
+      "end": 218
+    },
+    {
+      "text": "C’est rare qu’une bête qui n’a que cet âge-là soit déjà si\ngalante",
+      "start": 219,
+      "end": 286
+    },
+    {
+      "text": "Madame Octave, il va falloir que je vous quitte, je n’ai pas\nle temps de m’amuser, voilà bientôt dix heures, mon fourneau n’est\nseulement pas éclairé, et j’ai encore à plumer mes asperges",
+      "start": 287,
+      "end": 475
+    },
+    {
+      "text": "»",
+      "start": 44,
+      "end": 45
+    }
+  ],
+  "tokens": 77,
+  "processed_at": "2025-03-16T02:10:54.722877"
+}

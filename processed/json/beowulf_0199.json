@@ -1,0 +1,26 @@
+{
+  "text": "Mais au sujet de Bergotte il avait dit vrai.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Bergotte",
+      "label": "ORG",
+      "start": 17,
+      "end": 25
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais au sujet de Bergotte il avait dit vrai",
+      "start": 0,
+      "end": 43
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:55.114067"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Certes, ce qui palpite ainsi au fond de moi, ce doit être l’image, le\nsouvenir visuel, qui, lié à cette saveur, tente de la suivre jusqu’à\nmoi. Mais il se débat trop loin, trop confusément; à peine si je\nperçois le reflet neutre où se confond l’insaisissable tourbillon des\ncouleurs remuées; mais je ne puis distinguer la forme, lui demander\ncomme au seul interprète possible, de me traduire le témoignage de sa\ncontemporaine, de son inséparable compagne, la saveur, lui demander de\nm’apprendre de quelle circonstance particulière, de quelle époque du\npassé il s’agit.",
+  "entities": [
+    {
+      "text": "Certes,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 144,
+      "end": 148
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Certes, ce qui palpite ainsi au fond de moi, ce doit être l’image, le\nsouvenir visuel, qui, lié à cette saveur, tente de la suivre jusqu’à\nmoi",
+      "start": 0,
+      "end": 142
+    },
+    {
+      "text": "Mais il se débat trop loin, trop confusément; à peine si je\nperçois le reflet neutre où se confond l’insaisissable tourbillon des\ncouleurs remuées; mais je ne puis distinguer la forme, lui demander\ncomme au seul interprète possible, de me traduire le témoignage de sa\ncontemporaine, de son inséparable compagne, la saveur, lui demander de\nm’apprendre de quelle circonstance particulière, de quelle époque du\npassé il s’agit",
+      "start": 143,
+      "end": 567
+    }
+  ],
+  "tokens": 94,
+  "processed_at": "2025-03-16T02:10:54.561520"
+}

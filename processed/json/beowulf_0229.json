@@ -1,0 +1,37 @@
+{
+  "text": "Une vive rougeur animait les joues de ma tante, c’était Eulalie.\nMalheureusement, à peine venait-elle d’être introduite que Françoise\nrentrait et avec un sourire qui avait pour but de se mettre elle-même\nà l’unisson de la joie qu’elle ne doutait pas que ses paroles allaient\ncauser à ma tante, articulant les syllabes pour montrer que, malgré\nl’emploi du style indirect, elle rapportait, en bonne domestique, les\nparoles mêmes dont avait daigné se servir le visiteur:",
+  "entities": [
+    {
+      "text": "Eulalie.",
+      "label": "ORG",
+      "start": 56,
+      "end": 64
+    },
+    {
+      "text": "Malheureusement,",
+      "label": "ORG",
+      "start": 65,
+      "end": 81
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 124,
+      "end": 133
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Une vive rougeur animait les joues de ma tante, c’était Eulalie",
+      "start": 0,
+      "end": 63
+    },
+    {
+      "text": "Malheureusement, à peine venait-elle d’être introduite que Françoise\nrentrait et avec un sourire qui avait pour but de se mettre elle-même\nà l’unisson de la joie qu’elle ne doutait pas que ses paroles allaient\ncauser à ma tante, articulant les syllabes pour montrer que, malgré\nl’emploi du style indirect, elle rapportait, en bonne domestique, les\nparoles mêmes dont avait daigné se servir le visiteur:",
+      "start": 64,
+      "end": 467
+    }
+  ],
+  "tokens": 75,
+  "processed_at": "2025-03-16T02:10:55.216554"
+}

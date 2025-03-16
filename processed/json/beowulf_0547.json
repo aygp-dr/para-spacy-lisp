@@ -1,0 +1,53 @@
+{
+  "text": "D’ailleurs on commençait à éteindre partout. Sous les arbres des\nboulevards, dans une obscurité mystérieuse, les passants plus rares\nerraient, à peine reconnaissables. Parfois l’ombre d’une femme qui\ns’approchait de lui, lui murmurant un mot à l’oreille, lui demandant\nde la ramener, fit tressaillir Swann. Il frôlait anxieusement tous ces\ncorps obscurs comme si parmi les fantômes des morts, dans le royaume\nsombre, il eût cherché Eurydice.",
+  "entities": [
+    {
+      "text": "Sous",
+      "label": "ORG",
+      "start": 45,
+      "end": 49
+    },
+    {
+      "text": "Parfois",
+      "label": "ORG",
+      "start": 168,
+      "end": 175
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 300,
+      "end": 306
+    },
+    {
+      "text": "Eurydice.",
+      "label": "ORG",
+      "start": 432,
+      "end": 441
+    }
+  ],
+  "sentences": [
+    {
+      "text": "D’ailleurs on commençait à éteindre partout",
+      "start": 0,
+      "end": 43
+    },
+    {
+      "text": "Sous les arbres des\nboulevards, dans une obscurité mystérieuse, les passants plus rares\nerraient, à peine reconnaissables",
+      "start": 44,
+      "end": 166
+    },
+    {
+      "text": "Parfois l’ombre d’une femme qui\ns’approchait de lui, lui murmurant un mot à l’oreille, lui demandant\nde la ramener, fit tressaillir Swann",
+      "start": 167,
+      "end": 305
+    },
+    {
+      "text": "Il frôlait anxieusement tous ces\ncorps obscurs comme si parmi les fantômes des morts, dans le royaume\nsombre, il eût cherché Eurydice",
+      "start": 306,
+      "end": 440
+    }
+  ],
+  "tokens": 67,
+  "processed_at": "2025-03-16T02:10:56.189791"
+}

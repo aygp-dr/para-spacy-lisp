@@ -1,0 +1,20 @@
+{
+  "text": "--Je te dirai que je l’ai trouvé extrêmement bête.",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je te dirai que je l’ai trouvé extrêmement bête",
+      "start": 0,
+      "end": 49
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:56.590103"
+}

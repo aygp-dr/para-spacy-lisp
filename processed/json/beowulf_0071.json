@@ -1,0 +1,31 @@
+{
+  "text": "--«Françoise, imaginez-vous que Mme Goupil est passée plus d’un quart\nd’heure en retard pour aller chercher sa sœur; pour peu qu’elle\ns’attarde sur son chemin cela ne me surprendrait point qu’elle arrive\naprès l’élévation.»",
+  "entities": [
+    {
+      "text": "--«Françoise,",
+      "label": "ORG",
+      "start": 0,
+      "end": 13
+    },
+    {
+      "text": "Goupil",
+      "label": "ORG",
+      "start": 36,
+      "end": 42
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Françoise, imaginez-vous que Mme Goupil est passée plus d’un quart\nd’heure en retard pour aller chercher sa sœur; pour peu qu’elle\ns’attarde sur son chemin cela ne me surprendrait point qu’elle arrive\naprès l’élévation",
+      "start": 0,
+      "end": 221
+    },
+    {
+      "text": "»",
+      "start": 222,
+      "end": 223
+    }
+  ],
+  "tokens": 34,
+  "processed_at": "2025-03-16T02:10:54.616580"
+}

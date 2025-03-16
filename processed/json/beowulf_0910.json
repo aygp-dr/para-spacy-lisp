@@ -1,0 +1,18 @@
+{
+  "text": "Il y a dans le violon,--si ne voyant pas l’instrument, on ne peut pas\nrapporter ce qu’on entend à son image laquelle modifie la sonorité--des\naccents qui lui sont si communs avec certaines voix de contralto,\nqu’on a l’illusion qu’une chanteuse s’est ajoutée au concert. On lève\nles yeux, on ne voit que les étuis, précieux comme des boîtes\nchinoises, mais, par moment, on est encore trompé par l’appel décevant\nde la sirène; parfois aussi on croit entendre un génie captif qui se\ndébat au fond de la docte boîte, ensorcelée et frémissante, comme un\ndiable dans un bénitier; parfois enfin, c’est, dans l’air, comme un\nêtre surnaturel et pur qui passe en déroulant son message invisible.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "Il y a dans le violon,--si ne voyant pas l’instrument, on ne peut pas\nrapporter ce qu’on entend à son image laquelle modifie la sonorité--des\naccents qui lui sont si communs avec certaines voix de contralto,\nqu’on a l’illusion qu’une chanteuse s’est ajoutée au concert",
+      "start": 0,
+      "end": 268
+    },
+    {
+      "text": "On lève\nles yeux, on ne voit que les étuis, précieux comme des boîtes\nchinoises, mais, par moment, on est encore trompé par l’appel décevant\nde la sirène; parfois aussi on croit entendre un génie captif qui se\ndébat au fond de la docte boîte, ensorcelée et frémissante, comme un\ndiable dans un bénitier; parfois enfin, c’est, dans l’air, comme un\nêtre surnaturel et pur qui passe en déroulant son message invisible",
+      "start": 269,
+      "end": 684
+    }
+  ],
+  "tokens": 117,
+  "processed_at": "2025-03-16T02:10:57.276193"
+}

@@ -1,0 +1,65 @@
+{
+  "text": "Quelquefois il espérait qu’elle mourrait sans souffrances dans un\naccident, elle qui était dehors, dans les rues, sur les routes, du\nmatin au soir. Et comme elle revenait saine et sauve, il admirait que\nle corps humain fût si souple et si fort, qu’il pût continuellement\ntenir en échec, déjouer tous les périls qui l’environnent (et que\nSwann trouvait innombrables depuis que son secret désir les avait\nsupputés), et permît ainsi aux êtres de se livrer chaque jour et à peu\nprès impunément à leur œuvre de mensonge, à la poursuite du plaisir.\nEt Swann sentait bien près de son cœur ce Mahomet II dont il aimait le\nportrait par Bellini et qui, ayant senti qu’il était devenu amoureux\nfou d’une de ses femmes la poignarda afin, dit naïvement son biographe\nvénitien, de retrouver sa liberté d’esprit. Puis il s’indignait de ne\npenser ainsi qu’à soi, et les souffrances qu’il avait éprouvées lui\nsemblaient ne mériter aucune pitié puisque lui-même faisait si bon\nmarché de la vie d’Odette.",
+  "entities": [
+    {
+      "text": "Quelquefois",
+      "label": "ORG",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 337,
+      "end": 342
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 546,
+      "end": 551
+    },
+    {
+      "text": "Mahomet",
+      "label": "ORG",
+      "start": 585,
+      "end": 592
+    },
+    {
+      "text": "Bellini",
+      "label": "ORG",
+      "start": 627,
+      "end": 634
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 798,
+      "end": 802
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quelquefois il espérait qu’elle mourrait sans souffrances dans un\naccident, elle qui était dehors, dans les rues, sur les routes, du\nmatin au soir",
+      "start": 0,
+      "end": 146
+    },
+    {
+      "text": "Et comme elle revenait saine et sauve, il admirait que\nle corps humain fût si souple et si fort, qu’il pût continuellement\ntenir en échec, déjouer tous les périls qui l’environnent (et que\nSwann trouvait innombrables depuis que son secret désir les avait\nsupputés), et permît ainsi aux êtres de se livrer chaque jour et à peu\nprès impunément à leur œuvre de mensonge, à la poursuite du plaisir",
+      "start": 147,
+      "end": 541
+    },
+    {
+      "text": "Et Swann sentait bien près de son cœur ce Mahomet II dont il aimait le\nportrait par Bellini et qui, ayant senti qu’il était devenu amoureux\nfou d’une de ses femmes la poignarda afin, dit naïvement son biographe\nvénitien, de retrouver sa liberté d’esprit",
+      "start": 542,
+      "end": 796
+    },
+    {
+      "text": "Puis il s’indignait de ne\npenser ainsi qu’à soi, et les souffrances qu’il avait éprouvées lui\nsemblaient ne mériter aucune pitié puisque lui-même faisait si bon\nmarché de la vie d’Odette",
+      "start": 797,
+      "end": 984
+    }
+  ],
+  "tokens": 168,
+  "processed_at": "2025-03-16T02:10:57.298260"
+}

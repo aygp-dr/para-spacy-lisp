@@ -1,0 +1,60 @@
+{
+  "text": "Souvent il se trouvait qu’il s’était tant attardé avec la jeune\nouvrière avant d’aller chez les Verdurin, qu’une fois la petite phrase\njouée par le pianiste, Swann s’apercevait qu’il était bientôt l’heure\nqu’Odette rentrât. Il la reconduisait jusqu’à la porte de son petit\nhôtel, rue La Pérouse, derrière l’Arc de Triomphe. Et c’était\npeut-être à cause de cela, pour ne pas lui demander toutes les\nfaveurs, qu’il sacrifiait le plaisir moins nécessaire pour lui de la\nvoir plus tôt, d’arriver chez les Verdurin avec elle, à l’exercice de\nce droit qu’elle lui reconnaissait de partir ensemble et auquel il\nattachait plus de prix, parce que, grâce à cela, il avait l’impression\nque personne ne la voyait, ne se mettait entre eux, ne l’empêchait\nd’être encore avec lui, après qu’il l’avait quittée.",
+  "entities": [
+    {
+      "text": "Souvent",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 96,
+      "end": 105
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 158,
+      "end": 163
+    },
+    {
+      "text": "Pérouse,",
+      "label": "ORG",
+      "start": 287,
+      "end": 295
+    },
+    {
+      "text": "Triomphe.",
+      "label": "ORG",
+      "start": 314,
+      "end": 323
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 501,
+      "end": 509
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Souvent il se trouvait qu’il s’était tant attardé avec la jeune\nouvrière avant d’aller chez les Verdurin, qu’une fois la petite phrase\njouée par le pianiste, Swann s’apercevait qu’il était bientôt l’heure\nqu’Odette rentrât",
+      "start": 0,
+      "end": 222
+    },
+    {
+      "text": "Il la reconduisait jusqu’à la porte de son petit\nhôtel, rue La Pérouse, derrière l’Arc de Triomphe",
+      "start": 223,
+      "end": 322
+    },
+    {
+      "text": "Et c’était\npeut-être à cause de cela, pour ne pas lui demander toutes les\nfaveurs, qu’il sacrifiait le plaisir moins nécessaire pour lui de la\nvoir plus tôt, d’arriver chez les Verdurin avec elle, à l’exercice de\nce droit qu’elle lui reconnaissait de partir ensemble et auquel il\nattachait plus de prix, parce que, grâce à cela, il avait l’impression\nque personne ne la voyait, ne se mettait entre eux, ne l’empêchait\nd’être encore avec lui, après qu’il l’avait quittée",
+      "start": 323,
+      "end": 793
+    }
+  ],
+  "tokens": 131,
+  "processed_at": "2025-03-16T02:10:56.090824"
+}

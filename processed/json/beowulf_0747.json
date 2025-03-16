@@ -1,0 +1,121 @@
+{
+  "text": "En somme la vie qu’on menait chez les Verdurin et qu’il avait appelée\nsi souvent «la vraie vie», lui semblait la pire de toutes, et leur\npetit noyau le dernier des milieux. «C’est vraiment, disait-il, ce\nqu’il y a de plus bas dans l’échelle sociale, le dernier cercle de\nDante. Nul doute que le texte auguste ne se réfère aux Verdurin! Au\nfond, comme les gens du monde dont on peut médire, mais qui tout de\nmême sont autre chose que ces bandes de voyous, montrent leur profonde\nsagesse en refusant de les connaître, d’y salir même le bout de leurs\ndoigts. Quelle divination dans ce «Noli me tangere» du faubourg\nSaint-Germain.» Il avait quitté depuis bien longtemps les allées du\nBois, il était presque arrivé chez lui, que, pas encore dégrisé de sa\ndouleur et de la verve d’insincérité dont les intonations menteuses,\nla sonorité artificielle de sa propre voix lui versaient d’instant en\ninstant plus abondamment l’ivresse, il continuait encore à pérorer\ntout haut dans le silence de la nuit: «Les gens du monde ont leurs\ndéfauts que personne ne reconnaît mieux que moi, mais enfin ce sont\ntout de même des gens avec qui certaines choses sont impossibles.\nTelle femme élégante que j’ai connue était loin d’être parfaite, mais\nenfin il y avait tout de même chez elle un fond de délicatesse, une\nloyauté dans les procédés qui l’auraient rendue, quoi qu’il arrivât,\nincapable d’une félonie et qui suffisent à mettre des abîmes entre\nelle et une mégère comme la Verdurin. Verdurin! quel nom! Ah! on peut\ndire qu’ils sont complets, qu’ils sont beaux dans leur genre! Dieu\nmerci, il n’était que temps de ne plus condescendre à la promiscuité\navec cette infamie, avec ces ordures.»",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 38,
+      "end": 46
+    },
+    {
+      "text": "Dante.",
+      "label": "ORG",
+      "start": 271,
+      "end": 277
+    },
+    {
+      "text": "Verdurin!",
+      "label": "ORG",
+      "start": 326,
+      "end": 335
+    },
+    {
+      "text": "Quelle",
+      "label": "ORG",
+      "start": 556,
+      "end": 562
+    },
+    {
+      "text": "«Noli",
+      "label": "ORG",
+      "start": 582,
+      "end": 587
+    },
+    {
+      "text": "Saint-Germain.»",
+      "label": "ORG",
+      "start": 612,
+      "end": 627
+    },
+    {
+      "text": "Bois,",
+      "label": "ORG",
+      "start": 680,
+      "end": 685
+    },
+    {
+      "text": "«Les",
+      "label": "ORG",
+      "start": 994,
+      "end": 998
+    },
+    {
+      "text": "Telle",
+      "label": "ORG",
+      "start": 1157,
+      "end": 1162
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 1459,
+      "end": 1468
+    },
+    {
+      "text": "Verdurin!",
+      "label": "ORG",
+      "start": 1469,
+      "end": 1478
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 1563,
+      "end": 1567
+    }
+  ],
+  "sentences": [
+    {
+      "text": "En somme la vie qu’on menait chez les Verdurin et qu’il avait appelée\nsi souvent «la vraie vie», lui semblait la pire de toutes, et leur\npetit noyau le dernier des milieux",
+      "start": 0,
+      "end": 171
+    },
+    {
+      "text": "«C’est vraiment, disait-il, ce\nqu’il y a de plus bas dans l’échelle sociale, le dernier cercle de\nDante",
+      "start": 172,
+      "end": 276
+    },
+    {
+      "text": "Nul doute que le texte auguste ne se réfère aux Verdurin! Au\nfond, comme les gens du monde dont on peut médire, mais qui tout de\nmême sont autre chose que ces bandes de voyous, montrent leur profonde\nsagesse en refusant de les connaître, d’y salir même le bout de leurs\ndoigts",
+      "start": 277,
+      "end": 554
+    },
+    {
+      "text": "Quelle divination dans ce «Noli me tangere» du faubourg\nSaint-Germain",
+      "start": 555,
+      "end": 625
+    },
+    {
+      "text": "» Il avait quitté depuis bien longtemps les allées du\nBois, il était presque arrivé chez lui, que, pas encore dégrisé de sa\ndouleur et de la verve d’insincérité dont les intonations menteuses,\nla sonorité artificielle de sa propre voix lui versaient d’instant en\ninstant plus abondamment l’ivresse, il continuait encore à pérorer\ntout haut dans le silence de la nuit: «Les gens du monde ont leurs\ndéfauts que personne ne reconnaît mieux que moi, mais enfin ce sont\ntout de même des gens avec qui certaines choses sont impossibles",
+      "start": 626,
+      "end": 1155
+    },
+    {
+      "text": "Telle femme élégante que j’ai connue était loin d’être parfaite, mais\nenfin il y avait tout de même chez elle un fond de délicatesse, une\nloyauté dans les procédés qui l’auraient rendue, quoi qu’il arrivât,\nincapable d’une félonie et qui suffisent à mettre des abîmes entre\nelle et une mégère comme la Verdurin",
+      "start": 1156,
+      "end": 1467
+    },
+    {
+      "text": "Verdurin! quel nom! Ah! on peut\ndire qu’ils sont complets, qu’ils sont beaux dans leur genre! Dieu\nmerci, il n’était que temps de ne plus condescendre à la promiscuité\navec cette infamie, avec ces ordures",
+      "start": 1468,
+      "end": 1673
+    },
+    {
+      "text": "»",
+      "start": 94,
+      "end": 95
+    }
+  ],
+  "tokens": 289,
+  "processed_at": "2025-03-16T02:10:56.788046"
+}

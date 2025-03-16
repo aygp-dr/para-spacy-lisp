@@ -1,0 +1,31 @@
+{
+  "text": "--Et puis il est intéressant, on voit qu’il connaît du monde. Dame, ça\nsait tant de choses, les médecins.",
+  "entities": [
+    {
+      "text": "--Et",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Dame,",
+      "label": "ORG",
+      "start": 62,
+      "end": 67
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Et puis il est intéressant, on voit qu’il connaît du monde",
+      "start": 0,
+      "end": 60
+    },
+    {
+      "text": "Dame, ça\nsait tant de choses, les médecins",
+      "start": 61,
+      "end": 104
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:56.525474"
+}

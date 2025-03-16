@@ -1,0 +1,41 @@
+{
+  "text": "Il serait malgré tout revenu à Combray. Il n’était pas pourtant l’ami\nque mes parents eussent souhaité pour moi; ils avaient fini par penser\nque les larmes que lui avait fait verser l’indisposition de ma\ngrand’mère n’étaient pas feintes; mais ils savaient d’instinct ou par\nexpérience que les élans de notre sensibilité ont peu d’empire sur la\nsuite de nos actes et la conduite de notre vie, et que le respect des\nobligations morales, la fidélité aux amis, l’exécution d’une œuvre,\nl’observance d’un régime, ont un fondement plus sûr dans des habitudes\naveugles que dans ces transports momentanés, ardents et stériles. Ils\nauraient préféré pour moi à Bloch des compagnons qui ne me donneraient\npas plus qu’il n’est convenu d’accorder à ses amis, selon les règles\nde la morale bourgeoise; qui ne m’enverraient pas inopinément une\ncorbeille de fruits parce qu’ils auraient ce jour-là pensé à moi avec\ntendresse, mais qui, n’étant pas capables de faire pencher en ma\nfaveur la juste balance des devoirs et des exigences de l’amitié sur\nun simple mouvement de leur imagination et de leur sensibilité, ne la\nfausseraient pas davantage à mon préjudice. Nos torts même font\ndifficilement départir de ce qu’elles nous doivent ces natures dont ma\ngrand’tante était le modèle, elle qui brouillée depuis des années avec\nune nièce à qui elle ne parlait jamais, ne modifia pas pour cela le\ntestament où elle lui laissait toute sa fortune, parce que c’était sa\nplus proche parente et que cela «se devait».",
+  "entities": [
+    {
+      "text": "Combray.",
+      "label": "ORG",
+      "start": 31,
+      "end": 39
+    },
+    {
+      "text": "Bloch",
+      "label": "ORG",
+      "start": 651,
+      "end": 656
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il serait malgré tout revenu à Combray",
+      "start": 0,
+      "end": 38
+    },
+    {
+      "text": "Il n’était pas pourtant l’ami\nque mes parents eussent souhaité pour moi; ils avaient fini par penser\nque les larmes que lui avait fait verser l’indisposition de ma\ngrand’mère n’étaient pas feintes; mais ils savaient d’instinct ou par\nexpérience que les élans de notre sensibilité ont peu d’empire sur la\nsuite de nos actes et la conduite de notre vie, et que le respect des\nobligations morales, la fidélité aux amis, l’exécution d’une œuvre,\nl’observance d’un régime, ont un fondement plus sûr dans des habitudes\naveugles que dans ces transports momentanés, ardents et stériles",
+      "start": 39,
+      "end": 617
+    },
+    {
+      "text": "Ils\nauraient préféré pour moi à Bloch des compagnons qui ne me donneraient\npas plus qu’il n’est convenu d’accorder à ses amis, selon les règles\nde la morale bourgeoise; qui ne m’enverraient pas inopinément une\ncorbeille de fruits parce qu’ils auraient ce jour-là pensé à moi avec\ntendresse, mais qui, n’étant pas capables de faire pencher en ma\nfaveur la juste balance des devoirs et des exigences de l’amitié sur\nun simple mouvement de leur imagination et de leur sensibilité, ne la\nfausseraient pas davantage à mon préjudice",
+      "start": 618,
+      "end": 1145
+    },
+    {
+      "text": "Nos torts même font\ndifficilement départir de ce qu’elles nous doivent ces natures dont ma\ngrand’tante était le modèle, elle qui brouillée depuis des années avec\nune nièce à qui elle ne parlait jamais, ne modifia pas pour cela le\ntestament où elle lui laissait toute sa fortune, parce que c’était sa\nplus proche parente et que cela «se devait»",
+      "start": 1146,
+      "end": 1490
+    }
+  ],
+  "tokens": 249,
+  "processed_at": "2025-03-16T02:10:55.109133"
+}

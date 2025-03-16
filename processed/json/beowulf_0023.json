@@ -1,0 +1,81 @@
+{
+  "text": "Quand ces tours de jardin de ma grand’mère avaient lieu après dîner,\nune chose avait le pouvoir de la faire rentrer: c’était, à un des\nmoments où la révolution de sa promenade la ramenait périodiquement,\ncomme un insecte, en face des lumières du petit salon où les liqueurs\nétaient servies sur la table à jeu,--si ma grand’tante lui criait:\n«Bathilde! viens donc empêcher ton mari de boire du cognac!» Pour la\ntaquiner, en effet (elle avait apporté dans la famille de mon père un\nesprit si différent que tout le monde la plaisantait et la\ntourmentait), comme les liqueurs étaient défendues à mon grand-père,\nma grand’tante lui en faisait boire quelques gouttes. Ma pauvre\ngrand’mère entrait, priait ardemment son mari de ne pas goûter au\ncognac; il se fâchait, buvait tout de même sa gorgée, et ma grand’mère\nrepartait, triste, découragée, souriante pourtant, car elle était si\nhumble de cœur et si douce que sa tendresse pour les autres et le peu\nde cas qu’elle faisait de sa propre personne et de ses souffrances, se\nconciliaient dans son regard en un sourire où, contrairement à ce\nqu’on voit dans le visage de beaucoup d’humains, il n’y avait\nd’ironie que pour elle-même, et pour nous tous comme un baiser de ses\nyeux qui ne pouvaient voir ceux qu’elle chérissait sans les caresser\npassionnément du regard. Ce supplice que lui infligeait ma\ngrand’tante, le spectacle des vaines prières de ma grand’mère et de sa\nfaiblesse, vaincue d’avance, essayant inutilement d’ôter à mon\ngrand-père le verre à liqueur, c’était de ces choses à la vue\ndesquelles on s’habitue plus tard jusqu’à les considérer en riant et à\nprendre le parti du persécuteur assez résolument et gaiement pour se\npersuader à soi-même qu’il ne s’agit pas de persécution; elles me\ncausaient alors une telle horreur, que j’aurais aimé battre ma\ngrand’tante. Mais dès que j’entendais: «Bathilde, viens donc empêcher\nton mari de boire du cognac!» déjà homme par la lâcheté, je faisais ce\nque nous faisons tous, une fois que nous sommes grands, quand il y a\ndevant nous des souffrances et des injustices: je ne voulais pas les\nvoir; je montais sangloter tout en haut de la maison à côté de la\nsalle d’études, sous les toits, dans une petite pièce sentant l’iris,\net que parfumait aussi un cassis sauvage poussé au dehors entre les\npierres de la muraille et qui passait une branche de fleurs par la\nfenêtre entr’ouverte. Destinée à un usage plus spécial et plus\nvulgaire, cette pièce, d’où l’on voyait pendant le jour jusqu’au\ndonjon de Roussainville-le-Pin, servit longtemps de refuge pour moi,\nsans doute parce qu’elle était la seule qu’il me fût permis de fermer\nà clef, à toutes celles de mes occupations qui réclamaient une\ninviolable solitude: la lecture, la rêverie, les larmes et la volupté.\nHélas! je ne savais pas que, bien plus tristement que les petits\nécarts de régime de son mari, mon manque de volonté, ma santé\ndélicate, l’incertitude qu’ils projetaient sur mon avenir,\npréoccupaient ma grand’mère, au cours de ces déambulations\nincessantes, de l’après-midi et du soir, où on voyait passer et\nrepasser, obliquement levé vers le ciel, son beau visage aux joues\nbrunes et sillonnées, devenues au retour de l’âge presque mauves comme\nles labours à l’automne, barrées, si elle sortait, par une voilette à\ndemi relevée, et sur lesquelles, amené là par le froid ou quelque\ntriste pensée, était toujours en train de sécher un pleur\ninvolontaire.",
+  "entities": [
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "«Bathilde!",
+      "label": "ORG",
+      "start": 341,
+      "end": 351
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 402,
+      "end": 406
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1823,
+      "end": 1827
+    },
+    {
+      "text": "«Bathilde,",
+      "label": "ORG",
+      "start": 1849,
+      "end": 1859
+    },
+    {
+      "text": "Destinée",
+      "label": "ORG",
+      "start": 2382,
+      "end": 2390
+    },
+    {
+      "text": "Hélas!",
+      "label": "ORG",
+      "start": 2761,
+      "end": 2767
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quand ces tours de jardin de ma grand’mère avaient lieu après dîner,\nune chose avait le pouvoir de la faire rentrer: c’était, à un des\nmoments où la révolution de sa promenade la ramenait périodiquement,\ncomme un insecte, en face des lumières du petit salon où les liqueurs\nétaient servies sur la table à jeu,--si ma grand’tante lui criait:\n«Bathilde! viens donc empêcher ton mari de boire du cognac!» Pour la\ntaquiner, en effet (elle avait apporté dans la famille de mon père un\nesprit si différent que tout le monde la plaisantait et la\ntourmentait), comme les liqueurs étaient défendues à mon grand-père,\nma grand’tante lui en faisait boire quelques gouttes",
+      "start": 0,
+      "end": 660
+    },
+    {
+      "text": "Ma pauvre\ngrand’mère entrait, priait ardemment son mari de ne pas goûter au\ncognac; il se fâchait, buvait tout de même sa gorgée, et ma grand’mère\nrepartait, triste, découragée, souriante pourtant, car elle était si\nhumble de cœur et si douce que sa tendresse pour les autres et le peu\nde cas qu’elle faisait de sa propre personne et de ses souffrances, se\nconciliaient dans son regard en un sourire où, contrairement à ce\nqu’on voit dans le visage de beaucoup d’humains, il n’y avait\nd’ironie que pour elle-même, et pour nous tous comme un baiser de ses\nyeux qui ne pouvaient voir ceux qu’elle chérissait sans les caresser\npassionnément du regard",
+      "start": 661,
+      "end": 1309
+    },
+    {
+      "text": "Ce supplice que lui infligeait ma\ngrand’tante, le spectacle des vaines prières de ma grand’mère et de sa\nfaiblesse, vaincue d’avance, essayant inutilement d’ôter à mon\ngrand-père le verre à liqueur, c’était de ces choses à la vue\ndesquelles on s’habitue plus tard jusqu’à les considérer en riant et à\nprendre le parti du persécuteur assez résolument et gaiement pour se\npersuader à soi-même qu’il ne s’agit pas de persécution; elles me\ncausaient alors une telle horreur, que j’aurais aimé battre ma\ngrand’tante",
+      "start": 1310,
+      "end": 1821
+    },
+    {
+      "text": "Mais dès que j’entendais: «Bathilde, viens donc empêcher\nton mari de boire du cognac!» déjà homme par la lâcheté, je faisais ce\nque nous faisons tous, une fois que nous sommes grands, quand il y a\ndevant nous des souffrances et des injustices: je ne voulais pas les\nvoir; je montais sangloter tout en haut de la maison à côté de la\nsalle d’études, sous les toits, dans une petite pièce sentant l’iris,\net que parfumait aussi un cassis sauvage poussé au dehors entre les\npierres de la muraille et qui passait une branche de fleurs par la\nfenêtre entr’ouverte",
+      "start": 1822,
+      "end": 2380
+    },
+    {
+      "text": "Destinée à un usage plus spécial et plus\nvulgaire, cette pièce, d’où l’on voyait pendant le jour jusqu’au\ndonjon de Roussainville-le-Pin, servit longtemps de refuge pour moi,\nsans doute parce qu’elle était la seule qu’il me fût permis de fermer\nà clef, à toutes celles de mes occupations qui réclamaient une\ninviolable solitude: la lecture, la rêverie, les larmes et la volupté",
+      "start": 2381,
+      "end": 2759
+    },
+    {
+      "text": "Hélas! je ne savais pas que, bien plus tristement que les petits\nécarts de régime de son mari, mon manque de volonté, ma santé\ndélicate, l’incertitude qu’ils projetaient sur mon avenir,\npréoccupaient ma grand’mère, au cours de ces déambulations\nincessantes, de l’après-midi et du soir, où on voyait passer et\nrepasser, obliquement levé vers le ciel, son beau visage aux joues\nbrunes et sillonnées, devenues au retour de l’âge presque mauves comme\nles labours à l’automne, barrées, si elle sortait, par une voilette à\ndemi relevée, et sur lesquelles, amené là par le froid ou quelque\ntriste pensée, était toujours en train de sécher un pleur\ninvolontaire",
+      "start": 2760,
+      "end": 3414
+    }
+  ],
+  "tokens": 576,
+  "processed_at": "2025-03-16T02:10:54.424194"
+}

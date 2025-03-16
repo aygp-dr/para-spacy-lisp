@@ -1,0 +1,72 @@
+{
+  "text": "--«Je soigne en ce moment une baronne, la baronne Putbus, les Putbus\nétaient aux Croisades, n’est-ce pas? Ils ont, en Poméranie, un lac qui\nest grand comme dix fois la place de la Concorde. Je la soigne pour de\nl’arthrite sèche, c’est une femme charmante. Elle connaît du reste Mme\nVerdurin, je crois.",
+  "entities": [
+    {
+      "text": "--«Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Putbus,",
+      "label": "ORG",
+      "start": 50,
+      "end": 57
+    },
+    {
+      "text": "Putbus",
+      "label": "ORG",
+      "start": 62,
+      "end": 68
+    },
+    {
+      "text": "Croisades,",
+      "label": "ORG",
+      "start": 81,
+      "end": 91
+    },
+    {
+      "text": "Poméranie,",
+      "label": "ORG",
+      "start": 118,
+      "end": 128
+    },
+    {
+      "text": "Concorde.",
+      "label": "ORG",
+      "start": 180,
+      "end": 189
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 256,
+      "end": 260
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 282,
+      "end": 291
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Je soigne en ce moment une baronne, la baronne Putbus, les Putbus\nétaient aux Croisades, n’est-ce pas? Ils ont, en Poméranie, un lac qui\nest grand comme dix fois la place de la Concorde",
+      "start": 0,
+      "end": 188
+    },
+    {
+      "text": "Je la soigne pour de\nl’arthrite sèche, c’est une femme charmante",
+      "start": 189,
+      "end": 254
+    },
+    {
+      "text": "Elle connaît du reste Mme\nVerdurin, je crois",
+      "start": 255,
+      "end": 300
+    }
+  ],
+  "tokens": 53,
+  "processed_at": "2025-03-16T02:10:56.520162"
+}

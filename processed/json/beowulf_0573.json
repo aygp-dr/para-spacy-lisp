@@ -1,0 +1,102 @@
+{
+  "text": "--«Mais les bals qu’on donne à Paris, les bals chics, je veux dire.\nTiens, Herbinger, tu sais, celui qui est chez un coulissier? mais si,\ntu dois savoir, c’est un des hommes les plus lancés de Paris, ce grand\njeune homme blond qui est tellement snob, il a toujours une fleur à la\nboutonnière, une raie dans le dos, des paletots clairs; il est avec ce\nvieux tableau qu’il promène à toutes les premières. Eh bien! il a\ndonné un bal, l’autre soir, il y avait tout ce qu’il y a de chic à\nParis. Ce que j’aurais aimé y aller! mais il fallait présenter sa\ncarte d’invitation à la porte et je n’avais pas pu en avoir. Au fond\nj’aime autant ne pas y être allée, c’était une tuerie, je n’aurais\nrien vu. C’est plutôt pour pouvoir dire qu’on était chez Herbinger. Et\ntu sais, moi, la gloriole! Du reste, tu peux bien te dire que sur cent\nqui racontent qu’elles y étaient, il y a bien la moitié dont ça n’est\npas vrai... Mais ça m’étonne que toi, un homme si «pschutt», tu n’y\nétais pas.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 31,
+      "end": 37
+    },
+    {
+      "text": "Tiens,",
+      "label": "ORG",
+      "start": 68,
+      "end": 74
+    },
+    {
+      "text": "Herbinger,",
+      "label": "ORG",
+      "start": 75,
+      "end": 85
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 193,
+      "end": 199
+    },
+    {
+      "text": "Paris.",
+      "label": "ORG",
+      "start": 484,
+      "end": 490
+    },
+    {
+      "text": "Herbinger.",
+      "label": "ORG",
+      "start": 743,
+      "end": 753
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 910,
+      "end": 914
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais les bals qu’on donne à Paris, les bals chics, je veux dire",
+      "start": 0,
+      "end": 66
+    },
+    {
+      "text": "Tiens, Herbinger, tu sais, celui qui est chez un coulissier? mais si,\ntu dois savoir, c’est un des hommes les plus lancés de Paris, ce grand\njeune homme blond qui est tellement snob, il a toujours une fleur à la\nboutonnière, une raie dans le dos, des paletots clairs; il est avec ce\nvieux tableau qu’il promène à toutes les premières",
+      "start": 67,
+      "end": 401
+    },
+    {
+      "text": "Eh bien! il a\ndonné un bal, l’autre soir, il y avait tout ce qu’il y a de chic à\nParis",
+      "start": 402,
+      "end": 489
+    },
+    {
+      "text": "Ce que j’aurais aimé y aller! mais il fallait présenter sa\ncarte d’invitation à la porte et je n’avais pas pu en avoir",
+      "start": 490,
+      "end": 609
+    },
+    {
+      "text": "Au fond\nj’aime autant ne pas y être allée, c’était une tuerie, je n’aurais\nrien vu",
+      "start": 610,
+      "end": 693
+    },
+    {
+      "text": "C’est plutôt pour pouvoir dire qu’on était chez Herbinger",
+      "start": 694,
+      "end": 752
+    },
+    {
+      "text": "Et\ntu sais, moi, la gloriole! Du reste, tu peux bien te dire que sur cent\nqui racontent qu’elles y étaient, il y a bien la moitié dont ça n’est\npas vrai",
+      "start": 753,
+      "end": 906
+    },
+    {
+      "text": "Mais ça m’étonne que toi, un homme si «pschutt», tu n’y\nétais pas",
+      "start": 909,
+      "end": 975
+    },
+    {
+      "text": "»",
+      "start": 956,
+      "end": 957
+    }
+  ],
+  "tokens": 188,
+  "processed_at": "2025-03-16T02:10:56.270034"
+}

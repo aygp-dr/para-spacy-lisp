@@ -1,0 +1,42 @@
+{
+  "text": "Ceux même qui ne la connaissaient pas étaient avertis par quelque\nchose de singulier et d’excessif--ou peut-être par une radiation\ntélépathique comme celles qui déchaînaient des applaudissements dans\nla foule ignorante aux moments où la Berma était sublime,--que ce\ndevait être quelque personne connue. Ils se demandaient: «Qui\nest-ce?», interrogeaient quelquefois un passant, ou se promettaient de\nse rappeler la toilette comme un point de repère pour des amis plus\ninstruits qui les renseigneraient aussitôt. D’autres promeneurs,\ns’arrêtant à demi, disaient:",
+  "entities": [
+    {
+      "text": "Ceux",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Berma",
+      "label": "ORG",
+      "start": 237,
+      "end": 242
+    },
+    {
+      "text": "«Qui",
+      "label": "ORG",
+      "start": 323,
+      "end": 327
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ceux même qui ne la connaissaient pas étaient avertis par quelque\nchose de singulier et d’excessif--ou peut-être par une radiation\ntélépathique comme celles qui déchaînaient des applaudissements dans\nla foule ignorante aux moments où la Berma était sublime,--que ce\ndevait être quelque personne connue",
+      "start": 0,
+      "end": 301
+    },
+    {
+      "text": "Ils se demandaient: «Qui\nest-ce?», interrogeaient quelquefois un passant, ou se promettaient de\nse rappeler la toilette comme un point de repère pour des amis plus\ninstruits qui les renseigneraient aussitôt",
+      "start": 302,
+      "end": 509
+    },
+    {
+      "text": "D’autres promeneurs,\ns’arrêtant à demi, disaient:",
+      "start": 510,
+      "end": 560
+    }
+  ],
+  "tokens": 81,
+  "processed_at": "2025-03-16T02:10:57.612826"
+}

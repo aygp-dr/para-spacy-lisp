@@ -1,0 +1,32 @@
+{
+  "text": "Swann voulait partir, mais au moment où il allait enfin s’échapper, le\ngénéral de Froberville lui demanda à connaître Mme de Cambremer et il\nfut obligé de rentrer avec lui dans le salon pour la chercher.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Froberville",
+      "label": "ORG",
+      "start": 82,
+      "end": 93
+    },
+    {
+      "text": "Cambremer",
+      "label": "ORG",
+      "start": 125,
+      "end": 134
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann voulait partir, mais au moment où il allait enfin s’échapper, le\ngénéral de Froberville lui demanda à connaître Mme de Cambremer et il\nfut obligé de rentrer avec lui dans le salon pour la chercher",
+      "start": 0,
+      "end": 202
+    }
+  ],
+  "tokens": 36,
+  "processed_at": "2025-03-16T02:10:57.235386"
+}

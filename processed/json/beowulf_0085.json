@@ -1,0 +1,43 @@
+{
+  "text": "--«Mais ça sera la fille à M. Pupin», disait Françoise qui préférait\ns’en tenir à une explication immédiate, ayant été déjà deux fois\ndepuis le matin chez Camus.",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Pupin»,",
+      "label": "ORG",
+      "start": 30,
+      "end": 37
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 45,
+      "end": 54
+    },
+    {
+      "text": "Camus.",
+      "label": "ORG",
+      "start": 155,
+      "end": 161
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais ça sera la fille à M",
+      "start": 0,
+      "end": 28
+    },
+    {
+      "text": "Pupin», disait Françoise qui préférait\ns’en tenir à une explication immédiate, ayant été déjà deux fois\ndepuis le matin chez Camus",
+      "start": 29,
+      "end": 160
+    }
+  ],
+  "tokens": 28,
+  "processed_at": "2025-03-16T02:10:54.661846"
+}

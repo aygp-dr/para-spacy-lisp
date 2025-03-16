@@ -1,0 +1,156 @@
+{
+  "text": "On ne se gênait guère pour l’envoyer quérir dès qu’on avait besoin\nd’une recette de sauce gribiche ou de salade à l’ananas pour des\ngrands dîners où on ne l’invitait pas, ne lui trouvant pas un prestige\nsuffisant pour qu’on pût le servir à des étrangers qui venaient pour\nla première fois. Si la conversation tombait sur les princes de la\nMaison de France: «des gens que nous ne connaîtrons jamais ni vous ni\nmoi et nous nous en passons, n’est-ce pas», disait ma grand’tante à\nSwann qui avait peut-être dans sa poche une lettre de Twickenham; elle\nlui faisait pousser le piano et tourner les pages les soirs où la sœur\nde ma grand’mère chantait, ayant pour manier cet être ailleurs si\nrecherché, la naïve brusquerie d’un enfant qui joue avec un bibelot de\ncollection sans plus de précautions qu’avec un objet bon marché. Sans\ndoute le Swann que connurent à la même époque tant de clubmen était\nbien différent de celui que créait ma grand’tante, quand le soir, dans\nle petit jardin de Combray, après qu’avaient retenti les deux coups\nhésitants de la clochette, elle injectait et vivifiait de tout ce\nqu’elle savait sur la famille Swann, l’obscur et incertain personnage\nqui se détachait, suivi de ma grand’mère, sur un fond de ténèbres, et\nqu’on reconnaissait à la voix. Mais même au point de vue des plus\ninsignifiantes choses de la vie, nous ne sommes pas un tout\nmatériellement constitué, identique pour tout le monde et dont chacun\nn’a qu’à aller prendre connaissance comme d’un cahier des charges ou\nd’un testament; notre personnalité sociale est une création de la\npensée des autres. Même l’acte si simple que nous appelons «voir une\npersonne que nous connaissons» est en partie un acte intellectuel.\nNous remplissons l’apparence physique de l’être que nous voyons, de\ntoutes les notions que nous avons sur lui et dans l’aspect total que\nnous nous représentons, ces notions ont certainement la plus grande\npart. Elles finissent par gonfler si parfaitement les joues, par\nsuivre en une adhérence si exacte la ligne du nez, elles se mêlent si\nbien de nuancer la sonorité de la voix comme si celle-ci n’était\nqu’une transparente enveloppe, que chaque fois que nous voyons ce\nvisage et que nous entendons cette voix, ce sont ces notions que nous\nretrouvons, que nous écoutons. Sans doute, dans le Swann qu’ils\ns’étaient constitué, mes parents avaient omis par ignorance de faire\nentrer une foule de particularités de sa vie mondaine qui étaient\ncause que d’autres personnes, quand elles étaient en sa présence,\nvoyaient les élégances régner dans son visage et s’arrêter à son nez\nbusqué comme à leur frontière naturelle; mais aussi ils avaient pu\nentasser dans ce visage désaffecté de son prestige, vacant et\nspacieux, au fond de ces yeux dépréciés, le vague et doux\nrésidu,--mi-mémoire, mi-oubli,--des heures oisives passées ensemble\naprès nos dîners hebdomadaires, autour de la table de jeu ou au\njardin, durant notre vie de bon voisinage campagnard. L’enveloppe\ncorporelle de notre ami en avait été si bien bourrée, ainsi que de\nquelques souvenirs relatifs à ses parents, que ce Swann-là était\ndevenu un être complet et vivant, et que j’ai l’impression de quitter\nune personne pour aller vers une autre qui en est distincte, quand,\ndans ma mémoire, du Swann que j’ai connu plus tard avec exactitude je\npasse à ce premier Swann,--à ce premier Swann dans lequel je retrouve\nles erreurs charmantes de ma jeunesse, et qui d’ailleurs ressemble\nmoins à l’autre qu’aux personnes que j’ai connues à la même époque,\ncomme s’il en était de notre vie ainsi que d’un musée où tous les\nportraits d’un même temps ont un air de famille, une même tonalité--à\nce premier Swann rempli de loisir, parfumé par l’odeur du grand\nmarronnier, des paniers de framboises et d’un brin d’estragon.",
+  "entities": [
+    {
+      "text": "Maison",
+      "label": "ORG",
+      "start": 339,
+      "end": 345
+    },
+    {
+      "text": "France:",
+      "label": "ORG",
+      "start": 349,
+      "end": 356
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 477,
+      "end": 482
+    },
+    {
+      "text": "Twickenham;",
+      "label": "ORG",
+      "start": 531,
+      "end": 542
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 821,
+      "end": 825
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 835,
+      "end": 840
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 984,
+      "end": 992
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1129,
+      "end": 1135
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1270,
+      "end": 1274
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 1589,
+      "end": 1593
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 1706,
+      "end": 1710
+    },
+    {
+      "text": "Elles",
+      "label": "ORG",
+      "start": 1917,
+      "end": 1922
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 2278,
+      "end": 2282
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2298,
+      "end": 2303
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3083,
+      "end": 3088
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3256,
+      "end": 3261
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3325,
+      "end": 3330
+    }
+  ],
+  "sentences": [
+    {
+      "text": "On ne se gênait guère pour l’envoyer quérir dès qu’on avait besoin\nd’une recette de sauce gribiche ou de salade à l’ananas pour des\ngrands dîners où on ne l’invitait pas, ne lui trouvant pas un prestige\nsuffisant pour qu’on pût le servir à des étrangers qui venaient pour\nla première fois",
+      "start": 0,
+      "end": 288
+    },
+    {
+      "text": "Si la conversation tombait sur les princes de la\nMaison de France: «des gens que nous ne connaîtrons jamais ni vous ni\nmoi et nous nous en passons, n’est-ce pas», disait ma grand’tante à\nSwann qui avait peut-être dans sa poche une lettre de Twickenham; elle\nlui faisait pousser le piano et tourner les pages les soirs où la sœur\nde ma grand’mère chantait, ayant pour manier cet être ailleurs si\nrecherché, la naïve brusquerie d’un enfant qui joue avec un bibelot de\ncollection sans plus de précautions qu’avec un objet bon marché",
+      "start": 289,
+      "end": 819
+    },
+    {
+      "text": "Sans\ndoute le Swann que connurent à la même époque tant de clubmen était\nbien différent de celui que créait ma grand’tante, quand le soir, dans\nle petit jardin de Combray, après qu’avaient retenti les deux coups\nhésitants de la clochette, elle injectait et vivifiait de tout ce\nqu’elle savait sur la famille Swann, l’obscur et incertain personnage\nqui se détachait, suivi de ma grand’mère, sur un fond de ténèbres, et\nqu’on reconnaissait à la voix",
+      "start": 820,
+      "end": 1268
+    },
+    {
+      "text": "Mais même au point de vue des plus\ninsignifiantes choses de la vie, nous ne sommes pas un tout\nmatériellement constitué, identique pour tout le monde et dont chacun\nn’a qu’à aller prendre connaissance comme d’un cahier des charges ou\nd’un testament; notre personnalité sociale est une création de la\npensée des autres",
+      "start": 1269,
+      "end": 1587
+    },
+    {
+      "text": "Même l’acte si simple que nous appelons «voir une\npersonne que nous connaissons» est en partie un acte intellectuel",
+      "start": 1588,
+      "end": 1704
+    },
+    {
+      "text": "Nous remplissons l’apparence physique de l’être que nous voyons, de\ntoutes les notions que nous avons sur lui et dans l’aspect total que\nnous nous représentons, ces notions ont certainement la plus grande\npart",
+      "start": 1705,
+      "end": 1915
+    },
+    {
+      "text": "Elles finissent par gonfler si parfaitement les joues, par\nsuivre en une adhérence si exacte la ligne du nez, elles se mêlent si\nbien de nuancer la sonorité de la voix comme si celle-ci n’était\nqu’une transparente enveloppe, que chaque fois que nous voyons ce\nvisage et que nous entendons cette voix, ce sont ces notions que nous\nretrouvons, que nous écoutons",
+      "start": 1916,
+      "end": 2276
+    },
+    {
+      "text": "Sans doute, dans le Swann qu’ils\ns’étaient constitué, mes parents avaient omis par ignorance de faire\nentrer une foule de particularités de sa vie mondaine qui étaient\ncause que d’autres personnes, quand elles étaient en sa présence,\nvoyaient les élégances régner dans son visage et s’arrêter à son nez\nbusqué comme à leur frontière naturelle; mais aussi ils avaient pu\nentasser dans ce visage désaffecté de son prestige, vacant et\nspacieux, au fond de ces yeux dépréciés, le vague et doux\nrésidu,--mi-mémoire, mi-oubli,--des heures oisives passées ensemble\naprès nos dîners hebdomadaires, autour de la table de jeu ou au\njardin, durant notre vie de bon voisinage campagnard",
+      "start": 2277,
+      "end": 2952
+    },
+    {
+      "text": "L’enveloppe\ncorporelle de notre ami en avait été si bien bourrée, ainsi que de\nquelques souvenirs relatifs à ses parents, que ce Swann-là était\ndevenu un être complet et vivant, et que j’ai l’impression de quitter\nune personne pour aller vers une autre qui en est distincte, quand,\ndans ma mémoire, du Swann que j’ai connu plus tard avec exactitude je\npasse à ce premier Swann,--à ce premier Swann dans lequel je retrouve\nles erreurs charmantes de ma jeunesse, et qui d’ailleurs ressemble\nmoins à l’autre qu’aux personnes que j’ai connues à la même époque,\ncomme s’il en était de notre vie ainsi que d’un musée où tous les\nportraits d’un même temps ont un air de famille, une même tonalité--à\nce premier Swann rempli de loisir, parfumé par l’odeur du grand\nmarronnier, des paniers de framboises et d’un brin d’estragon",
+      "start": 2953,
+      "end": 3772
+    }
+  ],
+  "tokens": 637,
+  "processed_at": "2025-03-16T02:10:54.457009"
+}

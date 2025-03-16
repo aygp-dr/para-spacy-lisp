@@ -1,0 +1,60 @@
+{
+  "text": "Quand, à notre retour, ma tante nous faisait demander si Mme Goupil\nétait arrivée en retard à la messe, nous étions incapables de la\nrenseigner. En revanche nous ajoutions à son trouble en lui disant\nqu’un peintre travaillait dans l’église à copier le vitrail de Gilbert\nle Mauvais. Françoise, envoyée aussitôt chez l’épicier, était revenue\nbredouille par la faute de l’absence de Théodore à qui sa double\nprofession de chantre ayant une part de l’entretien de l’église, et de\ngarçon épicier donnait, avec des relations dans tous les mondes, un\nsavoir universel.",
+  "entities": [
+    {
+      "text": "Quand,",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Goupil",
+      "label": "ORG",
+      "start": 61,
+      "end": 67
+    },
+    {
+      "text": "Gilbert",
+      "label": "ORG",
+      "start": 263,
+      "end": 270
+    },
+    {
+      "text": "Mauvais.",
+      "label": "ORG",
+      "start": 274,
+      "end": 282
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 283,
+      "end": 293
+    },
+    {
+      "text": "Théodore",
+      "label": "ORG",
+      "start": 381,
+      "end": 389
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quand, à notre retour, ma tante nous faisait demander si Mme Goupil\nétait arrivée en retard à la messe, nous étions incapables de la\nrenseigner",
+      "start": 0,
+      "end": 143
+    },
+    {
+      "text": "En revanche nous ajoutions à son trouble en lui disant\nqu’un peintre travaillait dans l’église à copier le vitrail de Gilbert\nle Mauvais",
+      "start": 144,
+      "end": 281
+    },
+    {
+      "text": "Françoise, envoyée aussitôt chez l’épicier, était revenue\nbredouille par la faute de l’absence de Théodore à qui sa double\nprofession de chantre ayant une part de l’entretien de l’église, et de\ngarçon épicier donnait, avec des relations dans tous les mondes, un\nsavoir universel",
+      "start": 282,
+      "end": 561
+    }
+  ],
+  "tokens": 92,
+  "processed_at": "2025-03-16T02:10:54.785930"
+}

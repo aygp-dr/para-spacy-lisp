@@ -1,0 +1,36 @@
+{
+  "text": "Le docteur Cottard ne savait jamais d’une façon certaine de quel ton\nil devait répondre à quelqu’un, si son interlocuteur voulait rire ou\nétait sérieux. Et à tout hasard il ajoutait à toutes ses expressions\nde physionomie l’offre d’un sourire conditionnel et provisoire dont la\nfinesse expectante le disculperait du reproche de naïveté, si le\npropos qu’on lui avait tenu se trouvait avoir été facétieux. Mais\ncomme pour faire face à l’hypothèse opposée il n’osait pas laisser ce\nsourire s’affirmer nettement sur son visage, on y voyait flotter\nperpétuellement une incertitude où se lisait la question qu’il n’osait\npas poser: «Dites-vous cela pour de bon?» Il n’était pas plus assuré\nde la façon dont il devait se comporter dans la rue, et même en\ngénéral dans la vie, que dans un salon, et on le voyait opposer aux\npassants, aux voitures, aux événements un malicieux sourire qui ôtait\nd’avance à son attitude toute impropriété puisqu’il prouvait, si elle\nn’était pas de mise, qu’il le savait bien et que s’il avait adopté\ncelle-là, c’était par plaisanterie.",
+  "entities": [
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 11,
+      "end": 18
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 404,
+      "end": 408
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le docteur Cottard ne savait jamais d’une façon certaine de quel ton\nil devait répondre à quelqu’un, si son interlocuteur voulait rire ou\nétait sérieux",
+      "start": 0,
+      "end": 151
+    },
+    {
+      "text": "Et à tout hasard il ajoutait à toutes ses expressions\nde physionomie l’offre d’un sourire conditionnel et provisoire dont la\nfinesse expectante le disculperait du reproche de naïveté, si le\npropos qu’on lui avait tenu se trouvait avoir été facétieux",
+      "start": 152,
+      "end": 402
+    },
+    {
+      "text": "Mais\ncomme pour faire face à l’hypothèse opposée il n’osait pas laisser ce\nsourire s’affirmer nettement sur son visage, on y voyait flotter\nperpétuellement une incertitude où se lisait la question qu’il n’osait\npas poser: «Dites-vous cela pour de bon?» Il n’était pas plus assuré\nde la façon dont il devait se comporter dans la rue, et même en\ngénéral dans la vie, que dans un salon, et on le voyait opposer aux\npassants, aux voitures, aux événements un malicieux sourire qui ôtait\nd’avance à son attitude toute impropriété puisqu’il prouvait, si elle\nn’était pas de mise, qu’il le savait bien et que s’il avait adopté\ncelle-là, c’était par plaisanterie",
+      "start": 403,
+      "end": 1057
+    }
+  ],
+  "tokens": 175,
+  "processed_at": "2025-03-16T02:10:55.827352"
+}

@@ -1,0 +1,127 @@
+{
+  "text": "Il entendit les plaisanteries que ferait Mme Verdurin après dîner, les\nplaisanteries qui, quel que fût l’ennuyeux qu’elles eussent pour\ncible, l’avaient toujours amusé parce qu’il voyait Odette en rire, en\nrire avec lui, presque en lui. Maintenant il sentait que c’était\npeut-être de lui qu’on allait faire rire Odette. «Quelle gaieté\nfétide! disait-il en donnant à sa bouche une expression de dégoût si\nforte qu’il avait lui-même la sensation musculaire de sa grimace\njusque dans son cou révulsé contre le col de sa chemise. Et comment\nune créature dont le visage est fait à l’image de Dieu peut-elle\ntrouver matière à rire dans ces plaisanteries nauséabondes? Toute\nnarine un peu délicate se détournerait avec horreur pour ne pas se\nlaisser offusquer par de tels relents. C’est vraiment incroyable de\npenser qu’un être humain peut ne pas comprendre qu’en se permettant un\nsourire à l’égard d’un semblable qui lui a tendu loyalement la main,\nil se dégrade jusqu’à une fange d’où il ne sera plus possible à la\nmeilleure volonté du monde de jamais le relever. J’habite à trop de\nmilliers de mètres d’altitude au-dessus des bas-fonds où clapotent et\nclabaudent de tels sales papotages, pour que je puisse être éclaboussé\npar les plaisanteries d’une Verdurin, s’écria-t-il, en relevant la\ntête, en redressant fièrement son corps en arrière. Dieu m’est témoin\nque j’ai sincèrement voulu tirer Odette de là, et l’élever dans une\natmosphère plus noble et plus pure. Mais la patience humaine a des\nbornes, et la mienne est à bout, se dit-il, comme si cette mission\nd’arracher Odette à une atmosphère de sarcasmes datait de plus\nlongtemps que de quelques minutes, et comme s’il ne se l’était pas\ndonnée seulement depuis qu’il pensait que ces sarcasmes l’avaient\npeut-être lui-même pour objet et tentaient de détacher Odette de lui.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 45,
+      "end": 53
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 187,
+      "end": 193
+    },
+    {
+      "text": "Maintenant",
+      "label": "ORG",
+      "start": 237,
+      "end": 247
+    },
+    {
+      "text": "Odette.",
+      "label": "ORG",
+      "start": 312,
+      "end": 319
+    },
+    {
+      "text": "«Quelle",
+      "label": "ORG",
+      "start": 320,
+      "end": 327
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 587,
+      "end": 591
+    },
+    {
+      "text": "Toute",
+      "label": "ORG",
+      "start": 662,
+      "end": 667
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 1247,
+      "end": 1256
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 1338,
+      "end": 1342
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1389,
+      "end": 1395
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1460,
+      "end": 1464
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1569,
+      "end": 1575
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1809,
+      "end": 1815
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il entendit les plaisanteries que ferait Mme Verdurin après dîner, les\nplaisanteries qui, quel que fût l’ennuyeux qu’elles eussent pour\ncible, l’avaient toujours amusé parce qu’il voyait Odette en rire, en\nrire avec lui, presque en lui",
+      "start": 0,
+      "end": 235
+    },
+    {
+      "text": "Maintenant il sentait que c’était\npeut-être de lui qu’on allait faire rire Odette",
+      "start": 236,
+      "end": 318
+    },
+    {
+      "text": "«Quelle gaieté\nfétide! disait-il en donnant à sa bouche une expression de dégoût si\nforte qu’il avait lui-même la sensation musculaire de sa grimace\njusque dans son cou révulsé contre le col de sa chemise",
+      "start": 319,
+      "end": 524
+    },
+    {
+      "text": "Et comment\nune créature dont le visage est fait à l’image de Dieu peut-elle\ntrouver matière à rire dans ces plaisanteries nauséabondes? Toute\nnarine un peu délicate se détournerait avec horreur pour ne pas se\nlaisser offusquer par de tels relents",
+      "start": 525,
+      "end": 772
+    },
+    {
+      "text": "C’est vraiment incroyable de\npenser qu’un être humain peut ne pas comprendre qu’en se permettant un\nsourire à l’égard d’un semblable qui lui a tendu loyalement la main,\nil se dégrade jusqu’à une fange d’où il ne sera plus possible à la\nmeilleure volonté du monde de jamais le relever",
+      "start": 773,
+      "end": 1057
+    },
+    {
+      "text": "J’habite à trop de\nmilliers de mètres d’altitude au-dessus des bas-fonds où clapotent et\nclabaudent de tels sales papotages, pour que je puisse être éclaboussé\npar les plaisanteries d’une Verdurin, s’écria-t-il, en relevant la\ntête, en redressant fièrement son corps en arrière",
+      "start": 1058,
+      "end": 1336
+    },
+    {
+      "text": "Dieu m’est témoin\nque j’ai sincèrement voulu tirer Odette de là, et l’élever dans une\natmosphère plus noble et plus pure",
+      "start": 1337,
+      "end": 1458
+    },
+    {
+      "text": "Mais la patience humaine a des\nbornes, et la mienne est à bout, se dit-il, comme si cette mission\nd’arracher Odette à une atmosphère de sarcasmes datait de plus\nlongtemps que de quelques minutes, et comme s’il ne se l’était pas\ndonnée seulement depuis qu’il pensait que ces sarcasmes l’avaient\npeut-être lui-même pour objet et tentaient de détacher Odette de lui",
+      "start": 1459,
+      "end": 1822
+    }
+  ],
+  "tokens": 300,
+  "processed_at": "2025-03-16T02:10:56.783627"
+}

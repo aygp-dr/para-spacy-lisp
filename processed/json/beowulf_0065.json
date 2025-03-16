@@ -1,0 +1,43 @@
+{
+  "text": "D’un côté de son lit était une grande commode jaune en bois de\ncitronnier et une table qui tenait à la fois de l’officine et du\nmaître-autel, où, au-dessus d’une statuette de la Vierge et d’une\nbouteille de Vichy-Célestins, on trouvait des livres de messe et des\nordonnances de médicaments, tous ce qu’il fallait pour suivre de son\nlit les offices et son régime, pour ne manquer l’heure ni de la\npepsine, ni des vêpres. De l’autre côté, son lit longeait la fenêtre,\nelle avait la rue sous les yeux et y lisait du matin au soir, pour se\ndésennuyer, à la façon des princes persans, la chronique quotidienne\nmais immémoriale de Combray, qu’elle commentait ensuite avec\nFrançoise.",
+  "entities": [
+    {
+      "text": "Vierge",
+      "label": "ORG",
+      "start": 178,
+      "end": 184
+    },
+    {
+      "text": "Vichy-Célestins,",
+      "label": "ORG",
+      "start": 207,
+      "end": 223
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 625,
+      "end": 633
+    },
+    {
+      "text": "Françoise.",
+      "label": "ORG",
+      "start": 666,
+      "end": 676
+    }
+  ],
+  "sentences": [
+    {
+      "text": "D’un côté de son lit était une grande commode jaune en bois de\ncitronnier et une table qui tenait à la fois de l’officine et du\nmaître-autel, où, au-dessus d’une statuette de la Vierge et d’une\nbouteille de Vichy-Célestins, on trouvait des livres de messe et des\nordonnances de médicaments, tous ce qu’il fallait pour suivre de son\nlit les offices et son régime, pour ne manquer l’heure ni de la\npepsine, ni des vêpres",
+      "start": 0,
+      "end": 418
+    },
+    {
+      "text": "De l’autre côté, son lit longeait la fenêtre,\nelle avait la rue sous les yeux et y lisait du matin au soir, pour se\ndésennuyer, à la façon des princes persans, la chronique quotidienne\nmais immémoriale de Combray, qu’elle commentait ensuite avec\nFrançoise",
+      "start": 419,
+      "end": 675
+    }
+  ],
+  "tokens": 118,
+  "processed_at": "2025-03-16T02:10:54.594124"
+}

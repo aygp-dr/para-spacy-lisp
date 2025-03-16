@@ -1,0 +1,25 @@
+{
+  "text": "--«Mais non, il n’y a absolument rien, et entre nous, je trouve qu’elle\na bien tort et qu’elle se conduit comme une fameuse cruche, qu’elle\nest du reste.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais non, il n’y a absolument rien, et entre nous, je trouve qu’elle\na bien tort et qu’elle se conduit comme une fameuse cruche, qu’elle\nest du reste",
+      "start": 0,
+      "end": 152
+    },
+    {
+      "text": "»",
+      "start": 153,
+      "end": 154
+    }
+  ],
+  "tokens": 28,
+  "processed_at": "2025-03-16T02:10:56.149964"
+}

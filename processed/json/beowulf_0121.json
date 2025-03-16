@@ -1,0 +1,81 @@
+{
+  "text": "Enfin ma mère me disait: «Voyons, ne reste pas ici indéfiniment, monte\ndans ta chambre si tu as trop chaud dehors, mais va d’abord prendre\nl’air un instant pour ne pas lier en sortant de table.» J’allais\nm’asseoir près de la pompe et de son auge, souvent ornée, comme un\nfond gothique, d’une salamandre, qui sculptait sur la pierre fruste le\nrelief mobile de son corps allégorique et fuselé, sur le banc sans\ndossier ombragé d’un lilas, dans ce petit coin du jardin qui s’ouvrait\npar une porte de service sur la rue du Saint-Esprit et de la terre peu\nsoignée duquel s’élevait par deux degrés, en saillie de la maison, et\ncomme une construction indépendante, l’arrière-cuisine. On apercevait\nson dallage rouge et luisant comme du porphyre. Elle avait moins l’air\nde l’antre de Françoise que d’un petit temple à Vénus. Elle regorgeait\ndes offrandes du crémier, du fruitier, de la marchande de légumes,\nvenus parfois de hameaux assez lointains pour lui dédier les prémices\nde leurs champs. Et son faîte était toujours couronné du roucoulement\nd’une colombe.",
+  "entities": [
+    {
+      "text": "Enfin",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "«Voyons,",
+      "label": "ORG",
+      "start": 25,
+      "end": 33
+    },
+    {
+      "text": "Saint-Esprit",
+      "label": "ORG",
+      "start": 519,
+      "end": 531
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 739,
+      "end": 743
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 776,
+      "end": 785
+    },
+    {
+      "text": "Vénus.",
+      "label": "ORG",
+      "start": 810,
+      "end": 816
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 817,
+      "end": 821
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Enfin ma mère me disait: «Voyons, ne reste pas ici indéfiniment, monte\ndans ta chambre si tu as trop chaud dehors, mais va d’abord prendre\nl’air un instant pour ne pas lier en sortant de table",
+      "start": 0,
+      "end": 192
+    },
+    {
+      "text": "» J’allais\nm’asseoir près de la pompe et de son auge, souvent ornée, comme un\nfond gothique, d’une salamandre, qui sculptait sur la pierre fruste le\nrelief mobile de son corps allégorique et fuselé, sur le banc sans\ndossier ombragé d’un lilas, dans ce petit coin du jardin qui s’ouvrait\npar une porte de service sur la rue du Saint-Esprit et de la terre peu\nsoignée duquel s’élevait par deux degrés, en saillie de la maison, et\ncomme une construction indépendante, l’arrière-cuisine",
+      "start": 193,
+      "end": 675
+    },
+    {
+      "text": "On apercevait\nson dallage rouge et luisant comme du porphyre",
+      "start": 676,
+      "end": 737
+    },
+    {
+      "text": "Elle avait moins l’air\nde l’antre de Françoise que d’un petit temple à Vénus",
+      "start": 738,
+      "end": 815
+    },
+    {
+      "text": "Elle regorgeait\ndes offrandes du crémier, du fruitier, de la marchande de légumes,\nvenus parfois de hameaux assez lointains pour lui dédier les prémices\nde leurs champs",
+      "start": 816,
+      "end": 985
+    },
+    {
+      "text": "Et son faîte était toujours couronné du roucoulement\nd’une colombe",
+      "start": 986,
+      "end": 1053
+    }
+  ],
+  "tokens": 178,
+  "processed_at": "2025-03-16T02:10:54.807805"
+}

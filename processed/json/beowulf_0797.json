@@ -1,0 +1,86 @@
+{
+  "text": "Et pourtant il aurait voulu vivre jusqu’à l’époque où il ne l’aimerait\nplus, où elle n’aurait aucune raison de lui mentir et où il pourrait\nenfin apprendre d’elle si le jour où il était allé la voir dans\nl’après-midi, elle était ou non couchée avec Forcheville. Souvent\npendant quelques jours, le soupçon qu’elle aimait quelqu’un d’autre le\ndétournait de se poser cette question relative à Forcheville, la lui\nrendait presque indifférente, comme ces formes nouvelles d’un même\nétat maladif qui semblent momentanément nous avoir délivrés des\nprécédentes. Même il y avait des jours où il n’était tourmenté par\naucun soupçon. Il se croyait guéri. Mais le lendemain matin, au\nréveil, il sentait à la même place la même douleur dont, la veille\npendant la journée, il avait comme dilué la sensation dans le torrent\ndes impressions différentes. Mais elle n’avait pas bougé de place. Et\nmême, c’était l’acuité de cette douleur qui avait réveillé Swann.",
+  "entities": [
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 249,
+      "end": 261
+    },
+    {
+      "text": "Souvent",
+      "label": "ORG",
+      "start": 262,
+      "end": 269
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 390,
+      "end": 402
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 554,
+      "end": 558
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 644,
+      "end": 648
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 838,
+      "end": 842
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 938,
+      "end": 944
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et pourtant il aurait voulu vivre jusqu’à l’époque où il ne l’aimerait\nplus, où elle n’aurait aucune raison de lui mentir et où il pourrait\nenfin apprendre d’elle si le jour où il était allé la voir dans\nl’après-midi, elle était ou non couchée avec Forcheville",
+      "start": 0,
+      "end": 260
+    },
+    {
+      "text": "Souvent\npendant quelques jours, le soupçon qu’elle aimait quelqu’un d’autre le\ndétournait de se poser cette question relative à Forcheville, la lui\nrendait presque indifférente, comme ces formes nouvelles d’un même\nétat maladif qui semblent momentanément nous avoir délivrés des\nprécédentes",
+      "start": 261,
+      "end": 552
+    },
+    {
+      "text": "Même il y avait des jours où il n’était tourmenté par\naucun soupçon",
+      "start": 553,
+      "end": 621
+    },
+    {
+      "text": "Il se croyait guéri",
+      "start": 622,
+      "end": 642
+    },
+    {
+      "text": "Mais le lendemain matin, au\nréveil, il sentait à la même place la même douleur dont, la veille\npendant la journée, il avait comme dilué la sensation dans le torrent\ndes impressions différentes",
+      "start": 643,
+      "end": 836
+    },
+    {
+      "text": "Mais elle n’avait pas bougé de place",
+      "start": 837,
+      "end": 874
+    },
+    {
+      "text": "Et\nmême, c’était l’acuité de cette douleur qui avait réveillé Swann",
+      "start": 875,
+      "end": 943
+    }
+  ],
+  "tokens": 155,
+  "processed_at": "2025-03-16T02:10:56.944042"
+}

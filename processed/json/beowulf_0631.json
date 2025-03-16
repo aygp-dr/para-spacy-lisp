@@ -1,0 +1,41 @@
+{
+  "text": "--Mais ce n’est pas du tout par peur de la duchesse (si c’est des La\nTrémoïlle que vous parlez). Je vous assure que tout le monde aime\naller chez elle. Je ne vous dis pas qu’elle soit «profonde» (il\nprononça profonde, comme si ç’avait été un mot ridicule, car son\nlangage gardait la trace d’habitudes d’esprit qu’une certaine\nrénovation, marquée par l’amour de la musique, lui avait momentanément\nfait perdre--il exprimait parfois ses opinions avec chaleur--) mais,\ntrès sincèrement, elle est intelligente et son mari est un véritable\nlettré. Ce sont des gens charmants.",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Trémoïlle",
+      "label": "ORG",
+      "start": 69,
+      "end": 78
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais ce n’est pas du tout par peur de la duchesse (si c’est des La\nTrémoïlle que vous parlez)",
+      "start": 0,
+      "end": 95
+    },
+    {
+      "text": "Je vous assure que tout le monde aime\naller chez elle",
+      "start": 96,
+      "end": 150
+    },
+    {
+      "text": "Je ne vous dis pas qu’elle soit «profonde» (il\nprononça profonde, comme si ç’avait été un mot ridicule, car son\nlangage gardait la trace d’habitudes d’esprit qu’une certaine\nrénovation, marquée par l’amour de la musique, lui avait momentanément\nfait perdre--il exprimait parfois ses opinions avec chaleur--) mais,\ntrès sincèrement, elle est intelligente et son mari est un véritable\nlettré",
+      "start": 151,
+      "end": 541
+    },
+    {
+      "text": "Ce sont des gens charmants",
+      "start": 542,
+      "end": 569
+    }
+  ],
+  "tokens": 94,
+  "processed_at": "2025-03-16T02:10:56.443836"
+}

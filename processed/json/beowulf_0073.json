@@ -1,0 +1,48 @@
+{
+  "text": "--«Françoise, vous seriez venue cinq minutes plus tôt, vous auriez vu\npasser Mme Imbert qui tenait des asperges deux fois grosses comme\ncelles de la mère Callot; tâchez donc de savoir par sa bonne où elle\nles a eues. Vous qui, cette année, nous mettez des asperges à toutes\nles sauces, vous auriez pu en prendre de pareilles pour nos\nvoyageurs.»",
+  "entities": [
+    {
+      "text": "--«Françoise,",
+      "label": "ORG",
+      "start": 0,
+      "end": 13
+    },
+    {
+      "text": "Imbert",
+      "label": "ORG",
+      "start": 81,
+      "end": 87
+    },
+    {
+      "text": "Callot;",
+      "label": "ORG",
+      "start": 154,
+      "end": 161
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 217,
+      "end": 221
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Françoise, vous seriez venue cinq minutes plus tôt, vous auriez vu\npasser Mme Imbert qui tenait des asperges deux fois grosses comme\ncelles de la mère Callot; tâchez donc de savoir par sa bonne où elle\nles a eues",
+      "start": 0,
+      "end": 215
+    },
+    {
+      "text": "Vous qui, cette année, nous mettez des asperges à toutes\nles sauces, vous auriez pu en prendre de pareilles pour nos\nvoyageurs",
+      "start": 216,
+      "end": 343
+    },
+    {
+      "text": "»",
+      "start": 344,
+      "end": 345
+    }
+  ],
+  "tokens": 61,
+  "processed_at": "2025-03-16T02:10:54.622225"
+}

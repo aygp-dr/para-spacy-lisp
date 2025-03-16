@@ -1,0 +1,74 @@
+{
+  "text": "Elle le pria d’éteindre la lumière avant de s’en aller, il referma\nlui-même les rideaux du lit et partit. Mais quand il fut rentré chez\nlui, l’idée lui vint brusquement que peut-être Odette attendait\nquelqu’un ce soir, qu’elle avait seulement simulé la fatigue et\nqu’elle ne lui avait demandé d’éteindre que pour qu’il crût qu’elle\nallait s’endormir, qu’aussitôt qu’il avait été parti, elle l’avait\nrallumée, et fait rentrer celui qui devait passer la nuit auprès\nd’elle. Il regarda l’heure. Il y avait à peu près une heure et demie\nqu’il l’avait quittée, il ressortit, prit un fiacre et se fit arrêter\ntout près de chez elle, dans une petite rue perpendiculaire à celle\nsur laquelle donnait derrière son hôtel et où il allait quelquefois\nfrapper à la fenêtre de sa chambre à coucher pour qu’elle vînt lui\nouvrir; il descendit de voiture, tout était désert et noir dans ce\nquartier, il n’eut que quelques pas à faire à pied et déboucha presque\ndevant chez elle. Parmi l’obscurité de toutes les fenêtres éteintes\ndepuis longtemps dans la rue, il en vit une seule d’où\ndébordait,--entre les volets qui en pressaient la pulpe mystérieuse et\ndorée,--la lumière qui remplissait la chambre et qui, tant d’autres\nsoirs, du plus loin qu’il l’apercevait, en arrivant dans la rue le\nréjouissait et lui annonçait: «elle est là qui t’attend» et qui\nmaintenant, le torturait en lui disant: «elle est là avec celui\nqu’elle attendait». Il voulait savoir qui; il se glissa le long du mur\njusqu’à la fenêtre, mais entre les lames obliques des volets il ne\npouvait rien voir; il entendait seulement dans le silence de la nuit\nle murmure d’une conversation. Certes, il souffrait de voir cette\nlumière dans l’atmosphère d’or de laquelle se mouvait derrière le\nchâssis le couple invisible et détesté, d’entendre ce murmure qui\nrévélait la présence de celui qui était venu après son départ, la\nfausseté d’Odette, le bonheur qu’elle était en train de goûter avec\nlui.",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 106,
+      "end": 110
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 183,
+      "end": 189
+    },
+    {
+      "text": "Parmi",
+      "label": "ORG",
+      "start": 962,
+      "end": 967
+    },
+    {
+      "text": "Certes,",
+      "label": "ORG",
+      "start": 1639,
+      "end": 1646
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle le pria d’éteindre la lumière avant de s’en aller, il referma\nlui-même les rideaux du lit et partit",
+      "start": 0,
+      "end": 104
+    },
+    {
+      "text": "Mais quand il fut rentré chez\nlui, l’idée lui vint brusquement que peut-être Odette attendait\nquelqu’un ce soir, qu’elle avait seulement simulé la fatigue et\nqu’elle ne lui avait demandé d’éteindre que pour qu’il crût qu’elle\nallait s’endormir, qu’aussitôt qu’il avait été parti, elle l’avait\nrallumée, et fait rentrer celui qui devait passer la nuit auprès\nd’elle",
+      "start": 105,
+      "end": 470
+    },
+    {
+      "text": "Il regarda l’heure",
+      "start": 471,
+      "end": 490
+    },
+    {
+      "text": "Il y avait à peu près une heure et demie\nqu’il l’avait quittée, il ressortit, prit un fiacre et se fit arrêter\ntout près de chez elle, dans une petite rue perpendiculaire à celle\nsur laquelle donnait derrière son hôtel et où il allait quelquefois\nfrapper à la fenêtre de sa chambre à coucher pour qu’elle vînt lui\nouvrir; il descendit de voiture, tout était désert et noir dans ce\nquartier, il n’eut que quelques pas à faire à pied et déboucha presque\ndevant chez elle",
+      "start": 491,
+      "end": 960
+    },
+    {
+      "text": "Parmi l’obscurité de toutes les fenêtres éteintes\ndepuis longtemps dans la rue, il en vit une seule d’où\ndébordait,--entre les volets qui en pressaient la pulpe mystérieuse et\ndorée,--la lumière qui remplissait la chambre et qui, tant d’autres\nsoirs, du plus loin qu’il l’apercevait, en arrivant dans la rue le\nréjouissait et lui annonçait: «elle est là qui t’attend» et qui\nmaintenant, le torturait en lui disant: «elle est là avec celui\nqu’elle attendait»",
+      "start": 961,
+      "end": 1419
+    },
+    {
+      "text": "Il voulait savoir qui; il se glissa le long du mur\njusqu’à la fenêtre, mais entre les lames obliques des volets il ne\npouvait rien voir; il entendait seulement dans le silence de la nuit\nle murmure d’une conversation",
+      "start": 1420,
+      "end": 1637
+    },
+    {
+      "text": "Certes, il souffrait de voir cette\nlumière dans l’atmosphère d’or de laquelle se mouvait derrière le\nchâssis le couple invisible et détesté, d’entendre ce murmure qui\nrévélait la présence de celui qui était venu après son départ, la\nfausseté d’Odette, le bonheur qu’elle était en train de goûter avec\nlui",
+      "start": 1638,
+      "end": 1943
+    }
+  ],
+  "tokens": 328,
+  "processed_at": "2025-03-16T02:10:56.657829"
+}

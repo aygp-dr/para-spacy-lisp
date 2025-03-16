@@ -1,0 +1,68 @@
+{
+  "text": "Il la regardait; un fragment de la fresque apparaissait dans son\nvisage et dans son corps, que dès lors il chercha toujours à y\nretrouver soit qu’il fût auprès d’Odette, soit qu’il pensât seulement\nà elle, et bien qu’il ne tînt sans doute au chef-d’œuvre florentin que\nparce qu’il le retrouvait en elle, pourtant cette ressemblance lui\nconférait à elle aussi une beauté, la rendait plus précieuse. Swann se\nreprocha d’avoir méconnu le prix d’un être qui eût paru adorable au\ngrand Sandro, et il se félicita que le plaisir qu’il avait à voir\nOdette trouvât une justification dans sa propre culture esthétique. Il\nse dit qu’en associant la pensée d’Odette à ses rêves de bonheur il ne\ns’était pas résigné à un pis-aller aussi imparfait qu’il l’avait cru\njusqu’ici, puisqu’elle contentait en lui ses goûts d’art les plus\nraffinés. Il oubliait qu’Odette n’était pas plus pour cela une femme\nselon son désir, puisque précisément son désir avait toujours été\norienté dans un sens opposé à ses goûts esthétiques. Le mot d’«œuvre\nflorentine» rendit un grand service à Swann. Il lui permit, comme un\ntitre, de faire pénétrer l’image d’Odette dans un monde de rêves, où\nelle n’avait pas eu accès jusqu’ici et où elle s’imprégna de noblesse.\nEt tandis que la vue purement charnelle qu’il avait eue de cette\nfemme, en renouvelant perpétuellement ses doutes sur la qualité de son\nvisage, de son corps, de toute sa beauté, affaiblissait son amour, ces\ndoutes furent détruits, cet amour assuré quand il eut à la place pour\nbase les données d’une esthétique certaine; sans compter que le baiser\net la possession qui semblaient naturels et médiocres s’ils lui\nétaient accordés par une chair abîmée, venant couronner l’adoration\nd’une pièce de musée, lui parurent devoir être surnaturels et\ndélicieux.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 398,
+      "end": 403
+    },
+    {
+      "text": "Sandro,",
+      "label": "ORG",
+      "start": 481,
+      "end": 488
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 541,
+      "end": 547
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 1060,
+      "end": 1066
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il la regardait; un fragment de la fresque apparaissait dans son\nvisage et dans son corps, que dès lors il chercha toujours à y\nretrouver soit qu’il fût auprès d’Odette, soit qu’il pensât seulement\nà elle, et bien qu’il ne tînt sans doute au chef-d’œuvre florentin que\nparce qu’il le retrouvait en elle, pourtant cette ressemblance lui\nconférait à elle aussi une beauté, la rendait plus précieuse",
+      "start": 0,
+      "end": 396
+    },
+    {
+      "text": "Swann se\nreprocha d’avoir méconnu le prix d’un être qui eût paru adorable au\ngrand Sandro, et il se félicita que le plaisir qu’il avait à voir\nOdette trouvât une justification dans sa propre culture esthétique",
+      "start": 397,
+      "end": 607
+    },
+    {
+      "text": "Il\nse dit qu’en associant la pensée d’Odette à ses rêves de bonheur il ne\ns’était pas résigné à un pis-aller aussi imparfait qu’il l’avait cru\njusqu’ici, puisqu’elle contentait en lui ses goûts d’art les plus\nraffinés",
+      "start": 608,
+      "end": 826
+    },
+    {
+      "text": "Il oubliait qu’Odette n’était pas plus pour cela une femme\nselon son désir, puisque précisément son désir avait toujours été\norienté dans un sens opposé à ses goûts esthétiques",
+      "start": 827,
+      "end": 1004
+    },
+    {
+      "text": "Le mot d’«œuvre\nflorentine» rendit un grand service à Swann",
+      "start": 1005,
+      "end": 1065
+    },
+    {
+      "text": "Il lui permit, comme un\ntitre, de faire pénétrer l’image d’Odette dans un monde de rêves, où\nelle n’avait pas eu accès jusqu’ici et où elle s’imprégna de noblesse",
+      "start": 1066,
+      "end": 1229
+    },
+    {
+      "text": "Et tandis que la vue purement charnelle qu’il avait eue de cette\nfemme, en renouvelant perpétuellement ses doutes sur la qualité de son\nvisage, de son corps, de toute sa beauté, affaiblissait son amour, ces\ndoutes furent détruits, cet amour assuré quand il eut à la place pour\nbase les données d’une esthétique certaine; sans compter que le baiser\net la possession qui semblaient naturels et médiocres s’ils lui\nétaient accordés par une chair abîmée, venant couronner l’adoration\nd’une pièce de musée, lui parurent devoir être surnaturels et\ndélicieux",
+      "start": 1230,
+      "end": 1782
+    }
+  ],
+  "tokens": 297,
+  "processed_at": "2025-03-16T02:10:56.109220"
+}

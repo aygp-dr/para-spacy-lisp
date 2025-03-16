@@ -1,0 +1,32 @@
+{
+  "text": "Pourtant les fidèles s’étant dispersés, le docteur sentit qu’il y\navait là une occasion propice et pendant que Mme Verdurin disait un\ndernier mot sur la sonate de Vinteuil, comme un nageur débutant qui se\njette à l’eau pour apprendre, mais choisit un moment où il n’y a pas\ntrop de monde pour le voir:",
+  "entities": [
+    {
+      "text": "Pourtant",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 115,
+      "end": 123
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 163,
+      "end": 172
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pourtant les fidèles s’étant dispersés, le docteur sentit qu’il y\navait là une occasion propice et pendant que Mme Verdurin disait un\ndernier mot sur la sonate de Vinteuil, comme un nageur débutant qui se\njette à l’eau pour apprendre, mais choisit un moment où il n’y a pas\ntrop de monde pour le voir:",
+      "start": 0,
+      "end": 301
+    }
+  ],
+  "tokens": 55,
+  "processed_at": "2025-03-16T02:10:55.971161"
+}

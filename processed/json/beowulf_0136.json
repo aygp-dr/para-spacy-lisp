@@ -1,0 +1,36 @@
+{
+  "text": "--«Je ne connais pas son père, dit la dame en rose avec une légère\ninclinaison de la tête, et je n’ai jamais connu votre pauvre mère, mon\nami. Vous vous souvenez, c’est peu après votre grand chagrin que nous\nnous sommes connus.»",
+  "entities": [
+    {
+      "text": "--«Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 143,
+      "end": 147
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Je ne connais pas son père, dit la dame en rose avec une légère\ninclinaison de la tête, et je n’ai jamais connu votre pauvre mère, mon\nami",
+      "start": 0,
+      "end": 141
+    },
+    {
+      "text": "Vous vous souvenez, c’est peu après votre grand chagrin que nous\nnous sommes connus",
+      "start": 142,
+      "end": 226
+    },
+    {
+      "text": "»",
+      "start": 227,
+      "end": 228
+    }
+  ],
+  "tokens": 42,
+  "processed_at": "2025-03-16T02:10:54.874247"
+}

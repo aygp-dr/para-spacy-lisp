@@ -1,0 +1,53 @@
+{
+  "text": "Et tout d’un coup le souvenir m’est apparu. Ce goût c’était celui du petit\nmorceau de madeleine que le dimanche matin à Combray (parce que ce\njour-là je ne sortais pas avant l’heure de la messe), quand j’allais\nlui dire bonjour dans sa chambre, ma tante Léonie m’offrait après\nl’avoir trempé dans son infusion de thé ou de tilleul. La vue de la\npetite madeleine ne m’avait rien rappelé avant que je n’y eusse goûté;\npeut-être parce que, en ayant souvent aperçu depuis, sans en manger,\nsur les tablettes des pâtissiers, leur image avait quitté ces jours de\nCombray pour se lier à d’autres plus récents; peut-être parce que de\nces souvenirs abandonnés si longtemps hors de la mémoire, rien ne\nsurvivait, tout s’était désagrégé; les formes,--et celle aussi du petit\ncoquillage de pâtisserie, si grassement sensuel, sous son plissage\nsévère et dévot--s’étaient abolies, ou, ensommeillées, avaient perdu la\nforce d’expansion qui leur eût permis de rejoindre la conscience.\nMais, quand d’un passé ancien rien ne subsiste, après la mort des\nêtres, après la destruction des choses, seules, plus frêles mais plus\nvivaces, plus immatérielles, plus persistantes, plus fidèles, l’odeur\net la saveur restent encore longtemps, comme des âmes, à se rappeler,\nà attendre, à espérer, sur la ruine de tout le reste, à porter sans\nfléchir, sur leur gouttelette presque impalpable, l’édifice immense du\nsouvenir.",
+  "entities": [
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 120,
+      "end": 127
+    },
+    {
+      "text": "Léonie",
+      "label": "ORG",
+      "start": 254,
+      "end": 260
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 556,
+      "end": 563
+    },
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 968,
+      "end": 973
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et tout d’un coup le souvenir m’est apparu",
+      "start": 0,
+      "end": 42
+    },
+    {
+      "text": "Ce goût c’était celui du petit\nmorceau de madeleine que le dimanche matin à Combray (parce que ce\njour-là je ne sortais pas avant l’heure de la messe), quand j’allais\nlui dire bonjour dans sa chambre, ma tante Léonie m’offrait après\nl’avoir trempé dans son infusion de thé ou de tilleul",
+      "start": 43,
+      "end": 330
+    },
+    {
+      "text": "La vue de la\npetite madeleine ne m’avait rien rappelé avant que je n’y eusse goûté;\npeut-être parce que, en ayant souvent aperçu depuis, sans en manger,\nsur les tablettes des pâtissiers, leur image avait quitté ces jours de\nCombray pour se lier à d’autres plus récents; peut-être parce que de\nces souvenirs abandonnés si longtemps hors de la mémoire, rien ne\nsurvivait, tout s’était désagrégé; les formes,--et celle aussi du petit\ncoquillage de pâtisserie, si grassement sensuel, sous son plissage\nsévère et dévot--s’étaient abolies, ou, ensommeillées, avaient perdu la\nforce d’expansion qui leur eût permis de rejoindre la conscience",
+      "start": 331,
+      "end": 966
+    },
+    {
+      "text": "Mais, quand d’un passé ancien rien ne subsiste, après la mort des\nêtres, après la destruction des choses, seules, plus frêles mais plus\nvivaces, plus immatérielles, plus persistantes, plus fidèles, l’odeur\net la saveur restent encore longtemps, comme des âmes, à se rappeler,\nà attendre, à espérer, sur la ruine de tout le reste, à porter sans\nfléchir, sur leur gouttelette presque impalpable, l’édifice immense du\nsouvenir",
+      "start": 967,
+      "end": 1391
+    }
+  ],
+  "tokens": 226,
+  "processed_at": "2025-03-16T02:10:54.568511"
+}

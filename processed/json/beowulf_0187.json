@@ -1,0 +1,25 @@
+{
+  "text": "«Oui, je suis de la race élue.»",
+  "entities": [
+    {
+      "text": "«Oui,",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "«Oui, je suis de la race élue",
+      "start": 0,
+      "end": 29
+    },
+    {
+      "text": "»",
+      "start": 30,
+      "end": 31
+    }
+  ],
+  "tokens": 7,
+  "processed_at": "2025-03-16T02:10:55.076172"
+}

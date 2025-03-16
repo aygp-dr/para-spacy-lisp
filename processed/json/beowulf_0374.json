@@ -1,0 +1,26 @@
+{
+  "text": "Sans me dire que ce qui était caché derrière les clochers de\nMartinville devait être quelque chose d’analogue à une jolie phrase,\npuisque c’était sous la forme de mots qui me faisaient plaisir, que\ncela m’était apparu, demandant un crayon et du papier au docteur, je\ncomposai malgré les cahots de la voiture, pour soulager ma conscience\net obéir à mon enthousiasme, le petit morceau suivant que j’ai\nretrouvé depuis et auquel je n’ai eu à faire subir que peu de\nchangements:",
+  "entities": [
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Martinville",
+      "label": "ORG",
+      "start": 61,
+      "end": 72
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sans me dire que ce qui était caché derrière les clochers de\nMartinville devait être quelque chose d’analogue à une jolie phrase,\npuisque c’était sous la forme de mots qui me faisaient plaisir, que\ncela m’était apparu, demandant un crayon et du papier au docteur, je\ncomposai malgré les cahots de la voiture, pour soulager ma conscience\net obéir à mon enthousiasme, le petit morceau suivant que j’ai\nretrouvé depuis et auquel je n’ai eu à faire subir que peu de\nchangements:",
+      "start": 0,
+      "end": 474
+    }
+  ],
+  "tokens": 82,
+  "processed_at": "2025-03-16T02:10:55.694545"
+}

@@ -1,0 +1,109 @@
+{
+  "text": "Au fond du salon de Mlle Vinteuil, sur la cheminée était posé un petit\nportrait de son père que vivement elle alla chercher au moment où\nretentit le roulement d’une voiture qui venait de la route, puis elle\nse jeta sur un canapé, et tira près d’elle une petite table sur\nlaquelle elle plaça le portrait, comme M. Vinteuil autrefois avait mis\nà côté de lui le morceau qu’il avait le désir de jouer à mes parents.\nBientôt son amie entra. Mlle Vinteuil l’accueillit sans se lever, ses\ndeux mains derrière la tête et se recula sur le bord opposé du sofa\ncomme pour lui faire une place. Mais aussitôt elle sentit qu’elle\nsemblait ainsi lui imposer une attitude qui lui était peut-être\nimportune. Elle pensa que son amie aimerait peut-être mieux être loin\nd’elle sur une chaise, elle se trouva indiscrète, la délicatesse de\nson cœur s’en alarma; reprenant toute la place sur le sofa elle ferma\nles yeux et se mit à bâiller pour indiquer que l’envie de dormir était\nla seule raison pour laquelle elle s’était ainsi étendue. Malgré la\nfamiliarité rude et dominatrice qu’elle avait avec sa camarade, je\nreconnaissais les gestes obséquieux et réticents, les brusques\nscrupules de son père. Bientôt elle se leva, feignit de vouloir fermer\nles volets et de n’y pas réussir.",
+  "entities": [
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 20,
+      "end": 24
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 25,
+      "end": 34
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 313,
+      "end": 321
+    },
+    {
+      "text": "Bientôt",
+      "label": "ORG",
+      "start": 412,
+      "end": 419
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 436,
+      "end": 440
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 441,
+      "end": 449
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 582,
+      "end": 586
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 691,
+      "end": 695
+    },
+    {
+      "text": "Malgré",
+      "label": "ORG",
+      "start": 1017,
+      "end": 1023
+    },
+    {
+      "text": "Bientôt",
+      "label": "ORG",
+      "start": 1180,
+      "end": 1187
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Au fond du salon de Mlle Vinteuil, sur la cheminée était posé un petit\nportrait de son père que vivement elle alla chercher au moment où\nretentit le roulement d’une voiture qui venait de la route, puis elle\nse jeta sur un canapé, et tira près d’elle une petite table sur\nlaquelle elle plaça le portrait, comme M",
+      "start": 0,
+      "end": 311
+    },
+    {
+      "text": "Vinteuil autrefois avait mis\nà côté de lui le morceau qu’il avait le désir de jouer à mes parents",
+      "start": 312,
+      "end": 410
+    },
+    {
+      "text": "Bientôt son amie entra",
+      "start": 411,
+      "end": 434
+    },
+    {
+      "text": "Mlle Vinteuil l’accueillit sans se lever, ses\ndeux mains derrière la tête et se recula sur le bord opposé du sofa\ncomme pour lui faire une place",
+      "start": 435,
+      "end": 580
+    },
+    {
+      "text": "Mais aussitôt elle sentit qu’elle\nsemblait ainsi lui imposer une attitude qui lui était peut-être\nimportune",
+      "start": 581,
+      "end": 689
+    },
+    {
+      "text": "Elle pensa que son amie aimerait peut-être mieux être loin\nd’elle sur une chaise, elle se trouva indiscrète, la délicatesse de\nson cœur s’en alarma; reprenant toute la place sur le sofa elle ferma\nles yeux et se mit à bâiller pour indiquer que l’envie de dormir était\nla seule raison pour laquelle elle s’était ainsi étendue",
+      "start": 690,
+      "end": 1015
+    },
+    {
+      "text": "Malgré la\nfamiliarité rude et dominatrice qu’elle avait avec sa camarade, je\nreconnaissais les gestes obséquieux et réticents, les brusques\nscrupules de son père",
+      "start": 1016,
+      "end": 1178
+    },
+    {
+      "text": "Bientôt elle se leva, feignit de vouloir fermer\nles volets et de n’y pas réussir",
+      "start": 1179,
+      "end": 1260
+    }
+  ],
+  "tokens": 220,
+  "processed_at": "2025-03-16T02:10:55.572004"
+}

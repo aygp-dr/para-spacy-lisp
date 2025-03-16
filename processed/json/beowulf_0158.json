@@ -1,0 +1,65 @@
+{
+  "text": "Enfin, en continuant à suivre du dedans au dehors les états\nsimultanément juxtaposés dans ma conscience, et avant d’arriver\njusqu’à l’horizon réel qui les enveloppait, je trouve des plaisirs\nd’un autre genre, celui d’être bien assis, de sentir la bonne odeur de\nl’air, de ne pas être dérangé par une visite; et, quand une heure\nsonnait au clocher de Saint-Hilaire, de voir tomber morceau par\nmorceau ce qui de l’après-midi était déjà consommé, jusqu’à ce que\nj’entendisse le dernier coup qui me permettait de faire le total et\naprès lequel, le long silence qui le suivait, semblait faire\ncommencer, dans le ciel bleu, toute la partie qui m’était encore\nconcédée pour lire jusqu’au bon dîner qu’apprêtait Françoise et qui me\nréconforterait des fatigues prises, pendant la lecture du livre, à la\nsuite de son héros. Et à chaque heure il me semblait que c’était\nquelques instants seulement auparavant que la précédente avait sonné;\nla plus récente venait s’inscrire tout près de l’autre dans le ciel et\nje ne pouvais croire que soixante minutes eussent tenu dans ce petit\narc bleu qui était compris entre leurs deux marques d’or. Quelquefois\nmême cette heure prématurée sonnait deux coups de plus que la\ndernière; il y en avait donc une que je n’avais pas entendue, quelque\nchose qui avait eu lieu n’avait pas eu lieu pour moi; l’intérêt de la\nlecture, magique comme un profond sommeil, avait donné le change à mes\noreilles hallucinées et effacé la cloche d’or sur la surface azurée du\nsilence. Beaux après-midi du dimanche sous le marronnier du jardin de\nCombray, soigneusement vidés par moi des incidents médiocres de mon\nexistence personnelle que j’y avais remplacés par une vie d’aventures\net d’aspirations étranges au sein d’un pays arrosé d’eaux vives, vous\nm’évoquez encore cette vie quand je pense à vous et vous la contenez\nen effet pour l’avoir peu à peu contournée et enclose--tandis que je\nprogressais dans ma lecture et que tombait la chaleur du jour--dans le\ncristal successif, lentement changeant et traversé de feuillages, de\nvos heures silencieuses, sonores, odorantes et limpides.",
+  "entities": [
+    {
+      "text": "Enfin,",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Saint-Hilaire,",
+      "label": "ORG",
+      "start": 350,
+      "end": 364
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 704,
+      "end": 713
+    },
+    {
+      "text": "Quelquefois",
+      "label": "ORG",
+      "start": 1127,
+      "end": 1138
+    },
+    {
+      "text": "Beaux",
+      "label": "ORG",
+      "start": 1492,
+      "end": 1497
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 1553,
+      "end": 1561
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Enfin, en continuant à suivre du dedans au dehors les états\nsimultanément juxtaposés dans ma conscience, et avant d’arriver\njusqu’à l’horizon réel qui les enveloppait, je trouve des plaisirs\nd’un autre genre, celui d’être bien assis, de sentir la bonne odeur de\nl’air, de ne pas être dérangé par une visite; et, quand une heure\nsonnait au clocher de Saint-Hilaire, de voir tomber morceau par\nmorceau ce qui de l’après-midi était déjà consommé, jusqu’à ce que\nj’entendisse le dernier coup qui me permettait de faire le total et\naprès lequel, le long silence qui le suivait, semblait faire\ncommencer, dans le ciel bleu, toute la partie qui m’était encore\nconcédée pour lire jusqu’au bon dîner qu’apprêtait Françoise et qui me\nréconforterait des fatigues prises, pendant la lecture du livre, à la\nsuite de son héros",
+      "start": 0,
+      "end": 812
+    },
+    {
+      "text": "Et à chaque heure il me semblait que c’était\nquelques instants seulement auparavant que la précédente avait sonné;\nla plus récente venait s’inscrire tout près de l’autre dans le ciel et\nje ne pouvais croire que soixante minutes eussent tenu dans ce petit\narc bleu qui était compris entre leurs deux marques d’or",
+      "start": 813,
+      "end": 1125
+    },
+    {
+      "text": "Quelquefois\nmême cette heure prématurée sonnait deux coups de plus que la\ndernière; il y en avait donc une que je n’avais pas entendue, quelque\nchose qui avait eu lieu n’avait pas eu lieu pour moi; l’intérêt de la\nlecture, magique comme un profond sommeil, avait donné le change à mes\noreilles hallucinées et effacé la cloche d’or sur la surface azurée du\nsilence",
+      "start": 1126,
+      "end": 1490
+    },
+    {
+      "text": "Beaux après-midi du dimanche sous le marronnier du jardin de\nCombray, soigneusement vidés par moi des incidents médiocres de mon\nexistence personnelle que j’y avais remplacés par une vie d’aventures\net d’aspirations étranges au sein d’un pays arrosé d’eaux vives, vous\nm’évoquez encore cette vie quand je pense à vous et vous la contenez\nen effet pour l’avoir peu à peu contournée et enclose--tandis que je\nprogressais dans ma lecture et que tombait la chaleur du jour--dans le\ncristal successif, lentement changeant et traversé de feuillages, de\nvos heures silencieuses, sonores, odorantes et limpides",
+      "start": 1491,
+      "end": 2094
+    }
+  ],
+  "tokens": 346,
+  "processed_at": "2025-03-16T02:10:54.972173"
+}

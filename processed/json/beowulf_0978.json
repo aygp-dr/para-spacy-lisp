@@ -1,0 +1,76 @@
+{
+  "text": "Retournerait-elle seulement aux Champs-Élysées? Le lendemain elle n’y\nétait pas; mais je l’y vis les jours suivants; je tournais tout le\ntemps autour de l’endroit où elle jouait avec ses amies, si bien\nqu’une fois où elles ne se trouvèrent pas en nombre pour leur partie\nde barres, elle me fit demander si je voulais compléter leur camp, et\nje jouai désormais avec elle chaque fois qu’elle était là. Mais ce\nn’était pas tous les jours; il y en avait où elle était empêchée de\nvenir par ses cours, le catéchisme, un goûter, toute cette vie séparée\nde la mienne que par deux fois, condensée dans le nom de Gilberte,\nj’avais senti passer si douloureusement près de moi, dans le raidillon\nde Combray et sur la pelouse des Champs-Élysées. Ces jours-là, elle\nannonçait d’avance qu’on ne la verrait pas; si c’était à cause de ses\nétudes, elle disait: «C’est rasant, je ne pourrai pas venir demain;\nvous allez tous vous amuser sans moi», d’un air chagrin qui me\nconsolait un peu; mais en revanche quand elle était invitée à une\nmatinée, et que, ne le sachant pas je lui demandais si elle viendrait\njouer, elle me répondait: «J’espère bien que non! J’espère bien que\nmaman me laissera aller chez mon amie.» Du moins ces jours-là, je\nsavais que je ne la verrais pas, tandis que d’autres fois, c’était à\nl’improviste que sa mère l’emmenait faire des courses avec elle, et le\nlendemain elle disait: «Ah! oui, je suis sortie avec maman», comme une\nchose naturelle, et qui n’eût pas été pour quelqu’un le plus grand\nmalheur possible. Il y avait aussi les jours de mauvais temps où son\ninstitutrice, qui pour elle-même craignait la pluie, ne voulait pas\nl’emmener aux Champs-Élysées.",
+  "entities": [
+    {
+      "text": "Champs-Élysées?",
+      "label": "ORG",
+      "start": 32,
+      "end": 47
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 400,
+      "end": 404
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 604,
+      "end": 613
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 688,
+      "end": 695
+    },
+    {
+      "text": "Champs-Élysées.",
+      "label": "ORG",
+      "start": 718,
+      "end": 733
+    },
+    {
+      "text": "«Ah!",
+      "label": "ORG",
+      "start": 1387,
+      "end": 1391
+    },
+    {
+      "text": "Champs-Élysées.",
+      "label": "ORG",
+      "start": 1653,
+      "end": 1668
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Retournerait-elle seulement aux Champs-Élysées? Le lendemain elle n’y\nétait pas; mais je l’y vis les jours suivants; je tournais tout le\ntemps autour de l’endroit où elle jouait avec ses amies, si bien\nqu’une fois où elles ne se trouvèrent pas en nombre pour leur partie\nde barres, elle me fit demander si je voulais compléter leur camp, et\nje jouai désormais avec elle chaque fois qu’elle était là",
+      "start": 0,
+      "end": 398
+    },
+    {
+      "text": "Mais ce\nn’était pas tous les jours; il y en avait où elle était empêchée de\nvenir par ses cours, le catéchisme, un goûter, toute cette vie séparée\nde la mienne que par deux fois, condensée dans le nom de Gilberte,\nj’avais senti passer si douloureusement près de moi, dans le raidillon\nde Combray et sur la pelouse des Champs-Élysées",
+      "start": 399,
+      "end": 732
+    },
+    {
+      "text": "Ces jours-là, elle\nannonçait d’avance qu’on ne la verrait pas; si c’était à cause de ses\nétudes, elle disait: «C’est rasant, je ne pourrai pas venir demain;\nvous allez tous vous amuser sans moi», d’un air chagrin qui me\nconsolait un peu; mais en revanche quand elle était invitée à une\nmatinée, et que, ne le sachant pas je lui demandais si elle viendrait\njouer, elle me répondait: «J’espère bien que non! J’espère bien que\nmaman me laissera aller chez mon amie",
+      "start": 733,
+      "end": 1195
+    },
+    {
+      "text": "» Du moins ces jours-là, je\nsavais que je ne la verrais pas, tandis que d’autres fois, c’était à\nl’improviste que sa mère l’emmenait faire des courses avec elle, et le\nlendemain elle disait: «Ah! oui, je suis sortie avec maman», comme une\nchose naturelle, et qui n’eût pas été pour quelqu’un le plus grand\nmalheur possible",
+      "start": 1196,
+      "end": 1518
+    },
+    {
+      "text": "Il y avait aussi les jours de mauvais temps où son\ninstitutrice, qui pour elle-même craignait la pluie, ne voulait pas\nl’emmener aux Champs-Élysées",
+      "start": 1519,
+      "end": 1667
+    }
+  ],
+  "tokens": 291,
+  "processed_at": "2025-03-16T02:10:57.509658"
+}

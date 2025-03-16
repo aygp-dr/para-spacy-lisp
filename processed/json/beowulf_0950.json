@@ -1,0 +1,170 @@
+{
+  "text": "Quelquefois il allait dans des maisons de rendez-vous, espérant\napprendre quelque chose d’elle, sans oser la nommer cependant. «J’ai\nune petite qui va vous plaire», disait l’entremetteuse.» Et il restait\nune heure à causer tristement avec quelque pauvre fille étonnée qu’il\nne fit rien de plus. Une toute jeune et ravissante lui dit un jour:\n«Ce que je voudrais, c’est trouver un ami, alors il pourrait être sûr,\nje n’irais plus jamais avec personne.»--«Vraiment, crois-tu que ce soit\npossible qu’une femme soit touchée qu’on l’aime, ne vous trompe\njamais?» lui demanda Swann anxieusement. «Pour sûr! ça dépend des\ncaractères!» Swann ne pouvait s’empêcher de dire à ces filles les\nmêmes choses qui auraient plu à la princesse des Laumes. A celle qui\ncherchait un ami, il dit en souriant: «C’est gentil, tu as mis des\nyeux bleus de la couleur de ta ceinture.»--«Vous aussi, vous avez des\nmanchettes bleues.»--«Comme nous avons une belle conversation, pour un\nendroit de ce genre! Je ne t’ennuie pas, tu as peut-être à\nfaire?»--«Non, j’ai tout mon temps. Si vous m’aviez ennuyée, je vous\nl’aurais dit. Au contraire j’aime bien vous entendre causer.»--«Je suis\ntrès flatté. N’est-ce pas que nous causons gentiment?» dit-il à\nl’entremetteuse qui venait d’entrer.--«Mais oui, c’est justement ce que\nje me disais. Comme ils sont sages! Voilà! on vient maintenant pour\ncauser chez moi. Le Prince le disait, l’autre jour, c’est bien mieux\nici que chez sa femme. Il paraît que maintenant dans le monde elles\nont toutes un genre, c’est un vrai scandale! Je vous quitte, je suis\ndiscrète.» Et elle laissa Swann avec la fille qui avait les yeux\nbleus. Mais bientôt il se leva et lui dit adieu, elle lui était\nindifférente, elle ne connaissait pas Odette.",
+  "entities": [
+    {
+      "text": "Quelquefois",
+      "label": "ORG",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 570,
+      "end": 575
+    },
+    {
+      "text": "«Pour",
+      "label": "ORG",
+      "start": 590,
+      "end": 595
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 628,
+      "end": 633
+    },
+    {
+      "text": "Laumes.",
+      "label": "ORG",
+      "start": 730,
+      "end": 737
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 909,
+      "end": 914
+    },
+    {
+      "text": "Voilà!",
+      "label": "ORG",
+      "start": 1330,
+      "end": 1336
+    },
+    {
+      "text": "Prince",
+      "label": "ORG",
+      "start": 1382,
+      "end": 1388
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1594,
+      "end": 1599
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1640,
+      "end": 1644
+    },
+    {
+      "text": "Odette.",
+      "label": "ORG",
+      "start": 1735,
+      "end": 1742
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quelquefois il allait dans des maisons de rendez-vous, espérant\napprendre quelque chose d’elle, sans oser la nommer cependant",
+      "start": 0,
+      "end": 125
+    },
+    {
+      "text": "«J’ai\nune petite qui va vous plaire», disait l’entremetteuse",
+      "start": 126,
+      "end": 187
+    },
+    {
+      "text": "» Et il restait\nune heure à causer tristement avec quelque pauvre fille étonnée qu’il\nne fit rien de plus",
+      "start": 188,
+      "end": 293
+    },
+    {
+      "text": "Une toute jeune et ravissante lui dit un jour:\n«Ce que je voudrais, c’est trouver un ami, alors il pourrait être sûr,\nje n’irais plus jamais avec personne",
+      "start": 294,
+      "end": 449
+    },
+    {
+      "text": "»--«Vraiment, crois-tu que ce soit\npossible qu’une femme soit touchée qu’on l’aime, ne vous trompe\njamais?» lui demanda Swann anxieusement",
+      "start": 450,
+      "end": 588
+    },
+    {
+      "text": "«Pour sûr! ça dépend des\ncaractères!» Swann ne pouvait s’empêcher de dire à ces filles les\nmêmes choses qui auraient plu à la princesse des Laumes",
+      "start": 589,
+      "end": 736
+    },
+    {
+      "text": "A celle qui\ncherchait un ami, il dit en souriant: «C’est gentil, tu as mis des\nyeux bleus de la couleur de ta ceinture",
+      "start": 737,
+      "end": 856
+    },
+    {
+      "text": "»--«Vous aussi, vous avez des\nmanchettes bleues",
+      "start": 857,
+      "end": 904
+    },
+    {
+      "text": "»--«Comme nous avons une belle conversation, pour un\nendroit de ce genre! Je ne t’ennuie pas, tu as peut-être à\nfaire?»--«Non, j’ai tout mon temps",
+      "start": 905,
+      "end": 1051
+    },
+    {
+      "text": "Si vous m’aviez ennuyée, je vous\nl’aurais dit",
+      "start": 1052,
+      "end": 1098
+    },
+    {
+      "text": "Au contraire j’aime bien vous entendre causer",
+      "start": 1099,
+      "end": 1145
+    },
+    {
+      "text": "»--«Je suis\ntrès flatté",
+      "start": 1146,
+      "end": 1169
+    },
+    {
+      "text": "N’est-ce pas que nous causons gentiment?» dit-il à\nl’entremetteuse qui venait d’entrer",
+      "start": 1170,
+      "end": 1257
+    },
+    {
+      "text": "--«Mais oui, c’est justement ce que\nje me disais",
+      "start": 1258,
+      "end": 1306
+    },
+    {
+      "text": "Comme ils sont sages! Voilà! on vient maintenant pour\ncauser chez moi",
+      "start": 1307,
+      "end": 1377
+    },
+    {
+      "text": "Le Prince le disait, l’autre jour, c’est bien mieux\nici que chez sa femme",
+      "start": 1378,
+      "end": 1452
+    },
+    {
+      "text": "Il paraît que maintenant dans le monde elles\nont toutes un genre, c’est un vrai scandale! Je vous quitte, je suis\ndiscrète",
+      "start": 1453,
+      "end": 1576
+    },
+    {
+      "text": "» Et elle laissa Swann avec la fille qui avait les yeux\nbleus",
+      "start": 1577,
+      "end": 1638
+    },
+    {
+      "text": "Mais bientôt il se leva et lui dit adieu, elle lui était\nindifférente, elle ne connaissait pas Odette",
+      "start": 1639,
+      "end": 1741
+    }
+  ],
+  "tokens": 289,
+  "processed_at": "2025-03-16T02:10:57.414509"
+}

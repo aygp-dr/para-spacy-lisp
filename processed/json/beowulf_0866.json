@@ -1,0 +1,20 @@
+{
+  "text": "--Mais je crois même qu’ils ont de belles choses, ils doivent avoir la\nfameuse table de mosaïque sur laquelle a été signé le traité de...",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais je crois même qu’ils ont de belles choses, ils doivent avoir la\nfameuse table de mosaïque sur laquelle a été signé le traité de",
+      "start": 0,
+      "end": 134
+    }
+  ],
+  "tokens": 25,
+  "processed_at": "2025-03-16T02:10:57.152894"
+}

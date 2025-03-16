@@ -1,0 +1,115 @@
+{
+  "text": "Au lieu des expressions abstraites «temps où j’étais heureux», «temps\noù j’étais aimé», qu’il avait souvent prononcées jusque-là et sans\ntrop souffrir, car son intelligence n’y avait enfermé du passé que de\nprétendus extraits qui n’en conservaient rien, il retrouva tout ce qui\nde ce bonheur perdu avait fixé à jamais la spécifique et volatile\nessence; il revit tout, les pétales neigeux et frisés du chrysanthème\nqu’elle lui avait jeté dans sa voiture, qu’il avait gardé contre ses\nlèvres--l’adresse en relief de la «Maison Dorée» sur la lettre où il\navait lu: «Ma main tremble si fort en vous écrivant»--le rapprochement\nde ses sourcils quand elle lui avait dit d’un air suppliant: «Ce n’est\npas dans trop longtemps que vous me ferez signe?», il sentit l’odeur\ndu fer du coiffeur par lequel il se faisait relever sa «brosse»\npendant que Lorédan allait chercher la petite ouvrière, les pluies\nd’orage qui tombèrent si souvent ce printemps-là, le retour glacial\ndans sa victoria, au clair de lune, toutes les mailles d’habitudes\nmentales, d’impressions saisonnières, de créations cutanées, qui\navaient étendu sur une suite de semaines un réseau uniforme dans\nlequel son corps se trouvait repris. A ce moment-là, il satisfaisait\nune curiosité voluptueuse en connaissant les plaisirs des gens qui\nvivent par l’amour. Il avait cru qu’il pourrait s’en tenir là, qu’il\nne serait pas obligé d’en apprendre les douleurs; comme maintenant le\ncharme d’Odette lui était peu de chose auprès de cette formidable\nterreur qui le prolongeait comme un trouble halo, cette immense\nangoisse de ne pas savoir à tous moments ce qu’elle avait fait, de ne\npas la posséder partout et toujours! Hélas, il se rappela l’accent\ndont elle s’était écriée: «Mais je pourrai toujours vous voir, je suis\ntoujours libre!» elle qui ne l’était plus jamais! l’intérêt, la\ncuriosité qu’elle avait eus pour sa vie à lui, le désir passionné\nqu’il lui fit la faveur,--redoutée au contraire par lui en ce temps-là\ncomme une cause d’ennuyeux dérangements--de l’y laisser pénétrer; comme\nelle avait été obligée de le prier pour qu’il se laissât mener chez\nles Verdurin; et, quand il la faisait venir chez lui une fois par\nmois, comme il avait fallu, avant qu’il se laissât fléchir, qu’elle\nlui répétât le délice que serait cette habitude de se voir tous les\njours dont elle rêvait alors qu’elle ne lui semblait à lui qu’un\nfastidieux tracas, puis qu’elle avait prise en dégoût et\ndéfinitivement rompue, pendant qu’elle était devenue pour lui un si\ninvincible et si douloureux besoin. Il ne savait pas dire si vrai\nquand, à la troisième fois qu’il l’avait vue, comme elle lui répétait:\n«Mais pourquoi ne me laissez-vous pas venir plus souvent», il lui\navait dit en riant, avec galanterie: «par peur de souffrir».\nMaintenant, hélas! il arrivait encore parfois qu’elle lui écrivît d’un\nrestaurant ou d’un hôtel sur du papier qui en portait le nom imprimé;\nmais c’était comme des lettres de feu qui le brûlaient. «C’est écrit\nde l’hôtel Vouillemont? Qu’y peut-elle être allée faire! avec qui? que\ns’y est-il passé?» Il se rappela les becs de gaz qu’on éteignait\nboulevard des Italiens quand il l’avait rencontrée contre tout espoir\nparmi les ombres errantes dans cette nuit qui lui avait semblé presque\nsurnaturelle et qui en effet--nuit d’un temps où il n’avait même pas à\nse demander s’il ne la contrarierait pas en la cherchant, en la\nretrouvant, tant il était sûr qu’elle n’avait pas de plus grande joie\nque de le voir et de rentrer avec lui,--appartenait bien à un monde\nmystérieux où on ne peut jamais revenir quand les portes s’en sont\nrefermées. Et Swann aperçut, immobile en face de ce bonheur revécu, un\nmalheureux qui lui fit pitié parce qu’il ne le reconnut pas tout de\nsuite, si bien qu’il dut baisser les yeux pour qu’on ne vît pas qu’ils\nétaient pleins de larmes. C’était lui-même.",
+  "entities": [
+    {
+      "text": "«Maison",
+      "label": "ORG",
+      "start": 517,
+      "end": 524
+    },
+    {
+      "text": "Dorée»",
+      "label": "ORG",
+      "start": 525,
+      "end": 531
+    },
+    {
+      "text": "Lorédan",
+      "label": "ORG",
+      "start": 839,
+      "end": 846
+    },
+    {
+      "text": "Hélas,",
+      "label": "ORG",
+      "start": 1671,
+      "end": 1677
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 1727,
+      "end": 1732
+    },
+    {
+      "text": "Verdurin;",
+      "label": "ORG",
+      "start": 2117,
+      "end": 2126
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 2642,
+      "end": 2647
+    },
+    {
+      "text": "Maintenant,",
+      "label": "ORG",
+      "start": 2769,
+      "end": 2780
+    },
+    {
+      "text": "Vouillemont?",
+      "label": "ORG",
+      "start": 2990,
+      "end": 3002
+    },
+    {
+      "text": "Italiens",
+      "label": "ORG",
+      "start": 3129,
+      "end": 3137
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3610,
+      "end": 3615
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Au lieu des expressions abstraites «temps où j’étais heureux», «temps\noù j’étais aimé», qu’il avait souvent prononcées jusque-là et sans\ntrop souffrir, car son intelligence n’y avait enfermé du passé que de\nprétendus extraits qui n’en conservaient rien, il retrouva tout ce qui\nde ce bonheur perdu avait fixé à jamais la spécifique et volatile\nessence; il revit tout, les pétales neigeux et frisés du chrysanthème\nqu’elle lui avait jeté dans sa voiture, qu’il avait gardé contre ses\nlèvres--l’adresse en relief de la «Maison Dorée» sur la lettre où il\navait lu: «Ma main tremble si fort en vous écrivant»--le rapprochement\nde ses sourcils quand elle lui avait dit d’un air suppliant: «Ce n’est\npas dans trop longtemps que vous me ferez signe?», il sentit l’odeur\ndu fer du coiffeur par lequel il se faisait relever sa «brosse»\npendant que Lorédan allait chercher la petite ouvrière, les pluies\nd’orage qui tombèrent si souvent ce printemps-là, le retour glacial\ndans sa victoria, au clair de lune, toutes les mailles d’habitudes\nmentales, d’impressions saisonnières, de créations cutanées, qui\navaient étendu sur une suite de semaines un réseau uniforme dans\nlequel son corps se trouvait repris",
+      "start": 0,
+      "end": 1194
+    },
+    {
+      "text": "A ce moment-là, il satisfaisait\nune curiosité voluptueuse en connaissant les plaisirs des gens qui\nvivent par l’amour",
+      "start": 1195,
+      "end": 1313
+    },
+    {
+      "text": "Il avait cru qu’il pourrait s’en tenir là, qu’il\nne serait pas obligé d’en apprendre les douleurs; comme maintenant le\ncharme d’Odette lui était peu de chose auprès de cette formidable\nterreur qui le prolongeait comme un trouble halo, cette immense\nangoisse de ne pas savoir à tous moments ce qu’elle avait fait, de ne\npas la posséder partout et toujours! Hélas, il se rappela l’accent\ndont elle s’était écriée: «Mais je pourrai toujours vous voir, je suis\ntoujours libre!» elle qui ne l’était plus jamais! l’intérêt, la\ncuriosité qu’elle avait eus pour sa vie à lui, le désir passionné\nqu’il lui fit la faveur,--redoutée au contraire par lui en ce temps-là\ncomme une cause d’ennuyeux dérangements--de l’y laisser pénétrer; comme\nelle avait été obligée de le prier pour qu’il se laissât mener chez\nles Verdurin; et, quand il la faisait venir chez lui une fois par\nmois, comme il avait fallu, avant qu’il se laissât fléchir, qu’elle\nlui répétât le délice que serait cette habitude de se voir tous les\njours dont elle rêvait alors qu’elle ne lui semblait à lui qu’un\nfastidieux tracas, puis qu’elle avait prise en dégoût et\ndéfinitivement rompue, pendant qu’elle était devenue pour lui un si\ninvincible et si douloureux besoin",
+      "start": 1314,
+      "end": 2539
+    },
+    {
+      "text": "Il ne savait pas dire si vrai\nquand, à la troisième fois qu’il l’avait vue, comme elle lui répétait:\n«Mais pourquoi ne me laissez-vous pas venir plus souvent», il lui\navait dit en riant, avec galanterie: «par peur de souffrir»",
+      "start": 2540,
+      "end": 2767
+    },
+    {
+      "text": "Maintenant, hélas! il arrivait encore parfois qu’elle lui écrivît d’un\nrestaurant ou d’un hôtel sur du papier qui en portait le nom imprimé;\nmais c’était comme des lettres de feu qui le brûlaient",
+      "start": 2768,
+      "end": 2964
+    },
+    {
+      "text": "«C’est écrit\nde l’hôtel Vouillemont? Qu’y peut-elle être allée faire! avec qui? que\ns’y est-il passé?» Il se rappela les becs de gaz qu’on éteignait\nboulevard des Italiens quand il l’avait rencontrée contre tout espoir\nparmi les ombres errantes dans cette nuit qui lui avait semblé presque\nsurnaturelle et qui en effet--nuit d’un temps où il n’avait même pas à\nse demander s’il ne la contrarierait pas en la cherchant, en la\nretrouvant, tant il était sûr qu’elle n’avait pas de plus grande joie\nque de le voir et de rentrer avec lui,--appartenait bien à un monde\nmystérieux où on ne peut jamais revenir quand les portes s’en sont\nrefermées",
+      "start": 2965,
+      "end": 3605
+    },
+    {
+      "text": "Et Swann aperçut, immobile en face de ce bonheur revécu, un\nmalheureux qui lui fit pitié parce qu’il ne le reconnut pas tout de\nsuite, si bien qu’il dut baisser les yeux pour qu’on ne vît pas qu’ils\nétaient pleins de larmes",
+      "start": 3606,
+      "end": 3830
+    },
+    {
+      "text": "C’était lui-même",
+      "start": 3831,
+      "end": 3848
+    }
+  ],
+  "tokens": 645,
+  "processed_at": "2025-03-16T02:10:57.271204"
+}

@@ -1,0 +1,25 @@
+{
+  "text": "--«Oui, je sais que vous avez votre banquet, je ne vous verrai donc que\nchez moi, mais ne venez pas trop tard.»",
+  "entities": [
+    {
+      "text": "--«Oui,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Oui, je sais que vous avez votre banquet, je ne vous verrai donc que\nchez moi, mais ne venez pas trop tard",
+      "start": 0,
+      "end": 109
+    },
+    {
+      "text": "»",
+      "start": 110,
+      "end": 111
+    }
+  ],
+  "tokens": 22,
+  "processed_at": "2025-03-16T02:10:56.640064"
+}

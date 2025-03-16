@@ -1,0 +1,37 @@
+{
+  "text": "--«Eh bien! Françoise, qu’est-ce que je disais? Ce que cela tombe! Mais\nje crois que j’ai entendu le grelot de la porte du jardin, allez donc\nvoir qui est-ce qui peut être dehors par un temps pareil.»",
+  "entities": [
+    {
+      "text": "--«Eh",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 12,
+      "end": 22
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 67,
+      "end": 71
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Eh bien! Françoise, qu’est-ce que je disais? Ce que cela tombe! Mais\nje crois que j’ai entendu le grelot de la porte du jardin, allez donc\nvoir qui est-ce qui peut être dehors par un temps pareil",
+      "start": 0,
+      "end": 198
+    },
+    {
+      "text": "»",
+      "start": 199,
+      "end": 200
+    }
+  ],
+  "tokens": 37,
+  "processed_at": "2025-03-16T02:10:55.191461"
+}

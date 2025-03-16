@@ -1,0 +1,68 @@
+{
+  "text": "Pour faire concurrence aux sentiments maladifs que Swann avait pour\nOdette, Mme Cottard, meilleur thérapeute que n’eût été son mari, avait\ngreffé à côté d’eux d’autres sentiments, normaux ceux-là, de\ngratitude, d’amitié, des sentiments qui dans l’esprit de Swann\nrendraient Odette plus humaine (plus semblable aux autres femmes,\nparce que d’autres femmes aussi pouvaient les lui inspirer),\nhâteraient sa transformation définitive en cette Odette aimée\nd’affection paisible, qui l’avait ramené un soir après une fête chez\nle peintre boire un verre d’orangeade avec Forcheville et près de qui\nSwann avait entrevu qu’il pourrait vivre heureux.",
+  "entities": [
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 51,
+      "end": 56
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 68,
+      "end": 75
+    },
+    {
+      "text": "Cottard,",
+      "label": "ORG",
+      "start": 80,
+      "end": 88
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 257,
+      "end": 262
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 274,
+      "end": 280
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 439,
+      "end": 445
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 564,
+      "end": 575
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 591,
+      "end": 596
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pour faire concurrence aux sentiments maladifs que Swann avait pour\nOdette, Mme Cottard, meilleur thérapeute que n’eût été son mari, avait\ngreffé à côté d’eux d’autres sentiments, normaux ceux-là, de\ngratitude, d’amitié, des sentiments qui dans l’esprit de Swann\nrendraient Odette plus humaine (plus semblable aux autres femmes,\nparce que d’autres femmes aussi pouvaient les lui inspirer),\nhâteraient sa transformation définitive en cette Odette aimée\nd’affection paisible, qui l’avait ramené un soir après une fête chez\nle peintre boire un verre d’orangeade avec Forcheville et près de qui\nSwann avait entrevu qu’il pourrait vivre heureux",
+      "start": 0,
+      "end": 639
+    }
+  ],
+  "tokens": 95,
+  "processed_at": "2025-03-16T02:10:57.450274"
+}

@@ -1,0 +1,69 @@
+{
+  "text": "Peut-être l’immobilité des choses autour de nous leur est-elle imposée\npar notre certitude que ce sont elles et non pas d’autres, par\nl’immobilité de notre pensée en face d’elles. Toujours est-il que,\nquand je me réveillais ainsi, mon esprit s’agitant pour chercher, sans\ny réussir, à savoir où j’étais, tout tournait autour de moi dans\nl’obscurité, les choses, les pays, les années. Mon corps, trop\nengourdi pour remuer, cherchait, d’après la forme de sa fatigue, à\nrepérer la position de ses membres pour en induire la direction du\nmur, la place des meubles, pour reconstruire et pour nommer la demeure\noù il se trouvait. Sa mémoire, la mémoire de ses côtes, de ses genoux,\nde ses épaules, lui présentait successivement plusieurs des chambres\noù il avait dormi, tandis qu’autour de lui les murs invisibles,\nchangeant de place selon la forme de la pièce imaginée,\ntourbillonnaient dans les ténèbres. Et avant même que ma pensée, qui\nhésitait au seuil des temps et des formes, eût identifié le logis en\nrapprochant les circonstances, lui,--mon corps,--se rappelait pour\nchacun le genre du lit, la place des portes, la prise de jour des\nfenêtres, l’existence d’un couloir, avec la pensée que j’avais en m’y\nendormant et que je retrouvais au réveil. Mon côté ankylosé, cherchant\nà deviner son orientation, s’imaginait, par exemple, allongé face au\nmur dans un grand lit à baldaquin et aussitôt je me disais: «Tiens,\nj’ai fini par m’endormir quoique maman ne soit pas venue me dire\nbonsoir», j’étais à la campagne chez mon grand-père, mort depuis bien\ndes années; et mon corps, le côté sur lequel je reposais, gardiens\nfidèles d’un passé que mon esprit n’aurait jamais dû oublier, me\nrappelaient la flamme de la veilleuse de verre de Bohême, en forme\nd’urne, suspendue au plafond par des chaînettes, la cheminée en marbre\nde Sienne, dans ma chambre à coucher de Combray, chez mes\ngrands-parents, en des jours lointains qu’en ce moment je me figurais\nactuels sans me les représenter exactement et que je reverrais mieux\ntout à l’heure quand je serais tout à fait éveillé.",
+  "entities": [
+    {
+      "text": "Toujours",
+      "label": "ORG",
+      "start": 180,
+      "end": 188
+    },
+    {
+      "text": "«Tiens,",
+      "label": "ORG",
+      "start": 1406,
+      "end": 1413
+    },
+    {
+      "text": "Bohême,",
+      "label": "ORG",
+      "start": 1731,
+      "end": 1738
+    },
+    {
+      "text": "Sienne,",
+      "label": "ORG",
+      "start": 1822,
+      "end": 1829
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 1859,
+      "end": 1867
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Peut-être l’immobilité des choses autour de nous leur est-elle imposée\npar notre certitude que ce sont elles et non pas d’autres, par\nl’immobilité de notre pensée en face d’elles",
+      "start": 0,
+      "end": 178
+    },
+    {
+      "text": "Toujours est-il que,\nquand je me réveillais ainsi, mon esprit s’agitant pour chercher, sans\ny réussir, à savoir où j’étais, tout tournait autour de moi dans\nl’obscurité, les choses, les pays, les années",
+      "start": 179,
+      "end": 382
+    },
+    {
+      "text": "Mon corps, trop\nengourdi pour remuer, cherchait, d’après la forme de sa fatigue, à\nrepérer la position de ses membres pour en induire la direction du\nmur, la place des meubles, pour reconstruire et pour nommer la demeure\noù il se trouvait",
+      "start": 383,
+      "end": 622
+    },
+    {
+      "text": "Sa mémoire, la mémoire de ses côtes, de ses genoux,\nde ses épaules, lui présentait successivement plusieurs des chambres\noù il avait dormi, tandis qu’autour de lui les murs invisibles,\nchangeant de place selon la forme de la pièce imaginée,\ntourbillonnaient dans les ténèbres",
+      "start": 623,
+      "end": 899
+    },
+    {
+      "text": "Et avant même que ma pensée, qui\nhésitait au seuil des temps et des formes, eût identifié le logis en\nrapprochant les circonstances, lui,--mon corps,--se rappelait pour\nchacun le genre du lit, la place des portes, la prise de jour des\nfenêtres, l’existence d’un couloir, avec la pensée que j’avais en m’y\nendormant et que je retrouvais au réveil",
+      "start": 900,
+      "end": 1246
+    },
+    {
+      "text": "Mon côté ankylosé, cherchant\nà deviner son orientation, s’imaginait, par exemple, allongé face au\nmur dans un grand lit à baldaquin et aussitôt je me disais: «Tiens,\nj’ai fini par m’endormir quoique maman ne soit pas venue me dire\nbonsoir», j’étais à la campagne chez mon grand-père, mort depuis bien\ndes années; et mon corps, le côté sur lequel je reposais, gardiens\nfidèles d’un passé que mon esprit n’aurait jamais dû oublier, me\nrappelaient la flamme de la veilleuse de verre de Bohême, en forme\nd’urne, suspendue au plafond par des chaînettes, la cheminée en marbre\nde Sienne, dans ma chambre à coucher de Combray, chez mes\ngrands-parents, en des jours lointains qu’en ce moment je me figurais\nactuels sans me les représenter exactement et que je reverrais mieux\ntout à l’heure quand je serais tout à fait éveillé",
+      "start": 1247,
+      "end": 2066
+    }
+  ],
+  "tokens": 346,
+  "processed_at": "2025-03-16T02:10:54.392904"
+}

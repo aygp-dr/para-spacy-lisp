@@ -1,0 +1,25 @@
+{
+  "text": "--«Qu’est-ce qu’ils ont à rire toutes ces bonnes gens-là, on a l’air de\nne pas engendrer la mélancolie dans votre petit coin là-bas, s’écria\nMme Verdurin. Si vous croyez que je m’amuse, moi, à rester toute seule\nen pénitence», ajouta-t-elle sur un ton dépité, en faisant l’enfant.",
+  "entities": [
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 145,
+      "end": 154
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Qu’est-ce qu’ils ont à rire toutes ces bonnes gens-là, on a l’air de\nne pas engendrer la mélancolie dans votre petit coin là-bas, s’écria\nMme Verdurin",
+      "start": 0,
+      "end": 153
+    },
+    {
+      "text": "Si vous croyez que je m’amuse, moi, à rester toute seule\nen pénitence», ajouta-t-elle sur un ton dépité, en faisant l’enfant",
+      "start": 154,
+      "end": 279
+    }
+  ],
+  "tokens": 47,
+  "processed_at": "2025-03-16T02:10:55.861695"
+}

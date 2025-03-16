@@ -1,0 +1,25 @@
+{
+  "text": "--«Il ne va jamais que dans les endroits chics.»",
+  "entities": [
+    {
+      "text": "--«Il",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Il ne va jamais que dans les endroits chics",
+      "start": 0,
+      "end": 46
+    },
+    {
+      "text": "»",
+      "start": 47,
+      "end": 48
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:56.261363"
+}

@@ -1,0 +1,20 @@
+{
+  "text": "--Voyez-vous ça? Ce qui m’étonne, c’est qu’ils trouvent encore des\npersonnes qui consentent à leur causer; il me semble que j’aurais\npeur: un mauvais coup est si vite reçu! Comment y a-t-il encore du\npeuple assez brute pour leur courir après.",
+  "entities": [
+    {
+      "text": "Comment",
+      "label": "ORG",
+      "start": 173,
+      "end": 180
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Voyez-vous ça? Ce qui m’étonne, c’est qu’ils trouvent encore des\npersonnes qui consentent à leur causer; il me semble que j’aurais\npeur: un mauvais coup est si vite reçu! Comment y a-t-il encore du\npeuple assez brute pour leur courir après",
+      "start": 0,
+      "end": 241
+    }
+  ],
+  "tokens": 41,
+  "processed_at": "2025-03-16T02:10:56.432781"
+}

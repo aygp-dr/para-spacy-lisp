@@ -1,0 +1,26 @@
+{
+  "text": "Elle ne comprenait pas que Swann habitât l’hôtel du quai d’Orléans\nque, sans oser le lui avouer, elle trouvait indigne de lui.",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 27,
+      "end": 32
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle ne comprenait pas que Swann habitât l’hôtel du quai d’Orléans\nque, sans oser le lui avouer, elle trouvait indigne de lui",
+      "start": 0,
+      "end": 125
+    }
+  ],
+  "tokens": 22,
+  "processed_at": "2025-03-16T02:10:56.278206"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Tour le monde se retira fort tard. Les premiers mots de Cottard à sa\nfemme furent:",
+  "entities": [
+    {
+      "text": "Tour",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 56,
+      "end": 63
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Tour le monde se retira fort tard",
+      "start": 0,
+      "end": 33
+    },
+    {
+      "text": "Les premiers mots de Cottard à sa\nfemme furent:",
+      "start": 34,
+      "end": 82
+    }
+  ],
+  "tokens": 16,
+  "processed_at": "2025-03-16T02:10:56.561210"
+}

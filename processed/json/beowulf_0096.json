@@ -1,0 +1,42 @@
+{
+  "text": "--«Ah! ce sera le nouveau chien que M. Galopin a rapporté de Lisieux.»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Galopin",
+      "label": "ORG",
+      "start": 39,
+      "end": 46
+    },
+    {
+      "text": "Lisieux.»",
+      "label": "ORG",
+      "start": 61,
+      "end": 70
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! ce sera le nouveau chien que M",
+      "start": 0,
+      "end": 37
+    },
+    {
+      "text": "Galopin a rapporté de Lisieux",
+      "start": 38,
+      "end": 68
+    },
+    {
+      "text": "»",
+      "start": 69,
+      "end": 70
+    }
+  ],
+  "tokens": 13,
+  "processed_at": "2025-03-16T02:10:54.717420"
+}

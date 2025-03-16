@@ -1,0 +1,25 @@
+{
+  "text": "--«Voyez-vous, Françoise, disait le jardinier, la révolution vaudrait\nmieux, parce que quand on la déclare il n’y a que ceux qui veulent\npartir qui y vont.»",
+  "entities": [
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 15,
+      "end": 25
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Voyez-vous, Françoise, disait le jardinier, la révolution vaudrait\nmieux, parce que quand on la déclare il n’y a que ceux qui veulent\npartir qui y vont",
+      "start": 0,
+      "end": 154
+    },
+    {
+      "text": "»",
+      "start": 155,
+      "end": 156
+    }
+  ],
+  "tokens": 26,
+  "processed_at": "2025-03-16T02:10:54.999362"
+}

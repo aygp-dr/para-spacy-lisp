@@ -1,0 +1,59 @@
+{
+  "text": "Elle s’attendait si peu à le voir qu’elle eut un mouvement d’effroi.\nQuant à lui, il avait couru Paris non parce qu’il croyait possible de\nla rejoindre, mais parce qu’il lui était trop cruel d’y renoncer. Mais\ncette joie que sa raison n’avait cessé d’estimer, pour ce soir,\nirréalisable, ne lui en paraissait maintenant que plus réelle; car, il\nn’y avait pas collaboré par la prévision des vraisemblances, elle lui\nrestait extérieure; il n’avait pas besoin de tirer de son esprit pour\nla lui fournir,--c’est d’elle-même qu’émanait, c’est elle-même qui\nprojetait vers lui--cette vérité qui rayonnait au point de dissiper\ncomme un songe l’isolement qu’il avait redouté, et sur laquelle il\nappuyait, il reposait, sans penser, sa rêverie heureuse. Ainsi un\nvoyageur arrivé par un beau temps au bord de la Méditerranée,\nincertain de l’existence des pays qu’il vient de quitter, laisse\néblouir sa vue, plutôt qu’il ne leur jette des regards, par les rayons\nqu’émet vers lui l’azur lumineux et résistant des eaux.",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 69,
+      "end": 74
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 97,
+      "end": 102
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 205,
+      "end": 209
+    },
+    {
+      "text": "Méditerranée,",
+      "label": "ORG",
+      "start": 801,
+      "end": 814
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle s’attendait si peu à le voir qu’elle eut un mouvement d’effroi",
+      "start": 0,
+      "end": 67
+    },
+    {
+      "text": "Quant à lui, il avait couru Paris non parce qu’il croyait possible de\nla rejoindre, mais parce qu’il lui était trop cruel d’y renoncer",
+      "start": 68,
+      "end": 203
+    },
+    {
+      "text": "Mais\ncette joie que sa raison n’avait cessé d’estimer, pour ce soir,\nirréalisable, ne lui en paraissait maintenant que plus réelle; car, il\nn’y avait pas collaboré par la prévision des vraisemblances, elle lui\nrestait extérieure; il n’avait pas besoin de tirer de son esprit pour\nla lui fournir,--c’est d’elle-même qu’émanait, c’est elle-même qui\nprojetait vers lui--cette vérité qui rayonnait au point de dissiper\ncomme un songe l’isolement qu’il avait redouté, et sur laquelle il\nappuyait, il reposait, sans penser, sa rêverie heureuse",
+      "start": 204,
+      "end": 742
+    },
+    {
+      "text": "Ainsi un\nvoyageur arrivé par un beau temps au bord de la Méditerranée,\nincertain de l’existence des pays qu’il vient de quitter, laisse\néblouir sa vue, plutôt qu’il ne leur jette des regards, par les rayons\nqu’émet vers lui l’azur lumineux et résistant des eaux",
+      "start": 743,
+      "end": 1005
+    }
+  ],
+  "tokens": 164,
+  "processed_at": "2025-03-16T02:10:56.197958"
+}

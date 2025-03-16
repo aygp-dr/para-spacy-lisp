@@ -1,0 +1,13 @@
+{
+  "text": "Le jardinier croyait qu’à la déclaration de guerre on arrêtait tous\nles chemins de fer.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "Le jardinier croyait qu’à la déclaration de guerre on arrêtait tous\nles chemins de fer",
+      "start": 0,
+      "end": 86
+    }
+  ],
+  "tokens": 15,
+  "processed_at": "2025-03-16T02:10:55.005410"
+}

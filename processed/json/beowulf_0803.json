@@ -1,0 +1,20 @@
+{
+  "text": "Elle regardait cette tête qui n’était qu’un peu plus vieillie par le\nsouci (mais dont maintenant tous pensaient, en vertu de cette même\naptitude qui permet de découvrir les intentions d’un morceau\nsymphonique dont on a lu le programme, et les ressemblances d’un\nenfant quand on connaît sa parenté: «Il n’est pas positivement laid si\nvous voulez, mais il est ridicule: ce monocle, ce toupet, ce\nsourire!», réalisant dans leur imagination suggestionnée la\ndémarcation immatérielle qui sépare à quelques mois de distance une\ntête d’amant de cœur et une tête de cocu), elle disait:",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle regardait cette tête qui n’était qu’un peu plus vieillie par le\nsouci (mais dont maintenant tous pensaient, en vertu de cette même\naptitude qui permet de découvrir les intentions d’un morceau\nsymphonique dont on a lu le programme, et les ressemblances d’un\nenfant quand on connaît sa parenté: «Il n’est pas positivement laid si\nvous voulez, mais il est ridicule: ce monocle, ce toupet, ce\nsourire!», réalisant dans leur imagination suggestionnée la\ndémarcation immatérielle qui sépare à quelques mois de distance une\ntête d’amant de cœur et une tête de cocu), elle disait:",
+      "start": 0,
+      "end": 577
+    }
+  ],
+  "tokens": 94,
+  "processed_at": "2025-03-16T02:10:56.962095"
+}

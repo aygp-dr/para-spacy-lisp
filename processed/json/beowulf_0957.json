@@ -1,0 +1,26 @@
+{
+  "text": "Swann fut bien étonné, il supposait que son nom n’était jamais proféré\ndevant les Verdurin.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 82,
+      "end": 91
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann fut bien étonné, il supposait que son nom n’était jamais proféré\ndevant les Verdurin",
+      "start": 0,
+      "end": 90
+    }
+  ],
+  "tokens": 15,
+  "processed_at": "2025-03-16T02:10:57.435696"
+}

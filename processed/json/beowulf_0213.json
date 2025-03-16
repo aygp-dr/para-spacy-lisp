@@ -1,0 +1,66 @@
+{
+  "text": "Tandis que je lisais au jardin, ce que ma grand’tante n’aurait pas\ncompris que je fisse en dehors du dimanche, jour où il est défendu de\ns’occuper à rien de sérieux et où elle ne cousait pas (un jour de\nsemaine, elle m’aurait dit «Comment tu t’amuses encore à lire, ce\nn’est pourtant pas dimanche» en donnant au mot amusement le sens\nd’enfantillage et de perte de temps), ma tante Léonie devisait avec\nFrançoise en attendant l’heure d’Eulalie. Elle lui annonçait qu’elle\nvenait de voir passer Mme Goupil «sans parapluie, avec la robe de soie\nqu’elle s’est fait faire à Châteaudun. Si elle a loin à aller avant\nvêpres elle pourrait bien la faire saucer».",
+  "entities": [
+    {
+      "text": "Tandis",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "«Comment",
+      "label": "ORG",
+      "start": 230,
+      "end": 238
+    },
+    {
+      "text": "Léonie",
+      "label": "ORG",
+      "start": 381,
+      "end": 387
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 402,
+      "end": 411
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 444,
+      "end": 448
+    },
+    {
+      "text": "Goupil",
+      "label": "ORG",
+      "start": 497,
+      "end": 503
+    },
+    {
+      "text": "Châteaudun.",
+      "label": "ORG",
+      "start": 569,
+      "end": 580
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Tandis que je lisais au jardin, ce que ma grand’tante n’aurait pas\ncompris que je fisse en dehors du dimanche, jour où il est défendu de\ns’occuper à rien de sérieux et où elle ne cousait pas (un jour de\nsemaine, elle m’aurait dit «Comment tu t’amuses encore à lire, ce\nn’est pourtant pas dimanche» en donnant au mot amusement le sens\nd’enfantillage et de perte de temps), ma tante Léonie devisait avec\nFrançoise en attendant l’heure d’Eulalie",
+      "start": 0,
+      "end": 442
+    },
+    {
+      "text": "Elle lui annonçait qu’elle\nvenait de voir passer Mme Goupil «sans parapluie, avec la robe de soie\nqu’elle s’est fait faire à Châteaudun",
+      "start": 443,
+      "end": 579
+    },
+    {
+      "text": "Si elle a loin à aller avant\nvêpres elle pourrait bien la faire saucer»",
+      "start": 580,
+      "end": 652
+    }
+  ],
+  "tokens": 115,
+  "processed_at": "2025-03-16T02:10:55.163550"
+}

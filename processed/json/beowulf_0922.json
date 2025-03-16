@@ -1,0 +1,54 @@
+{
+  "text": "Elle secoua la tête en fronçant la bouche, signe fréquemment employé\npar les gens pour répondre qu’ils n’iront pas, que cela les ennuie a\nquelqu’un qui leur a demandé: «Viendrez-vous voir passer la cavalcade,\nassisterez-vous à la Revue?» Mais ce hochement de tête affecté ainsi\nd’habitude à un événement à venir mêle à cause de cela de quelque\nincertitude la dénégation d’un événement passé. De plus il n’évoque\nque des raisons de convenance personnelle plutôt que la réprobation,\nqu’une impossibilité morale. En voyant Odette lui faire ainsi le signe\nque c’était faux, Swann comprit que c’était peut-être vrai.",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Revue?»",
+      "label": "ORG",
+      "start": 230,
+      "end": 237
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 238,
+      "end": 242
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 520,
+      "end": 526
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 570,
+      "end": 575
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle secoua la tête en fronçant la bouche, signe fréquemment employé\npar les gens pour répondre qu’ils n’iront pas, que cela les ennuie a\nquelqu’un qui leur a demandé: «Viendrez-vous voir passer la cavalcade,\nassisterez-vous à la Revue?» Mais ce hochement de tête affecté ainsi\nd’habitude à un événement à venir mêle à cause de cela de quelque\nincertitude la dénégation d’un événement passé",
+      "start": 0,
+      "end": 390
+    },
+    {
+      "text": "De plus il n’évoque\nque des raisons de convenance personnelle plutôt que la réprobation,\nqu’une impossibilité morale",
+      "start": 391,
+      "end": 508
+    },
+    {
+      "text": "En voyant Odette lui faire ainsi le signe\nque c’était faux, Swann comprit que c’était peut-être vrai",
+      "start": 509,
+      "end": 610
+    }
+  ],
+  "tokens": 98,
+  "processed_at": "2025-03-16T02:10:57.326896"
+}

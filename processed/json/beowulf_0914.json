@@ -1,0 +1,48 @@
+{
+  "text": "A partir de cette soirée, Swann comprit que le sentiment qu’Odette\navait eu pour lui ne renaîtrait jamais, que ses espérances de bonheur\nne se réaliseraient plus. Et les jours où par hasard elle avait encore\nété gentille et tendre avec lui, si elle avait eu quelque attention,\nil notait ces signes apparents et menteurs d’un léger retour vers lui,\navec cette sollicitude attendrie et sceptique, cette joie désespérée\nde ceux qui, soignant un ami arrivé aux derniers jours d’une maladie\nincurable, relatent comme des faits précieux «hier, il a fait ses\ncomptes lui-même et c’est lui qui a relevé une erreur d’addition que\nnous avions faite; il a mangé un œuf avec plaisir, s’il le digère bien\non essaiera demain d’une côtelette», quoiqu’ils les sachent dénués de\nsignification à la veille d’une mort inévitable. Sans doute Swann\nétait certain que s’il avait vécu maintenant loin d’Odette, elle\naurait fini par lui devenir indifférente, de sorte qu’il aurait été\ncontent qu’elle quittât Paris pour toujours; il aurait eu le courage\nde rester; mais il n’avait pas celui de partir.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 26,
+      "end": 31
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 811,
+      "end": 815
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 822,
+      "end": 827
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 985,
+      "end": 990
+    }
+  ],
+  "sentences": [
+    {
+      "text": "A partir de cette soirée, Swann comprit que le sentiment qu’Odette\navait eu pour lui ne renaîtrait jamais, que ses espérances de bonheur\nne se réaliseraient plus",
+      "start": 0,
+      "end": 161
+    },
+    {
+      "text": "Et les jours où par hasard elle avait encore\nété gentille et tendre avec lui, si elle avait eu quelque attention,\nil notait ces signes apparents et menteurs d’un léger retour vers lui,\navec cette sollicitude attendrie et sceptique, cette joie désespérée\nde ceux qui, soignant un ami arrivé aux derniers jours d’une maladie\nincurable, relatent comme des faits précieux «hier, il a fait ses\ncomptes lui-même et c’est lui qui a relevé une erreur d’addition que\nnous avions faite; il a mangé un œuf avec plaisir, s’il le digère bien\non essaiera demain d’une côtelette», quoiqu’ils les sachent dénués de\nsignification à la veille d’une mort inévitable",
+      "start": 162,
+      "end": 809
+    },
+    {
+      "text": "Sans doute Swann\nétait certain que s’il avait vécu maintenant loin d’Odette, elle\naurait fini par lui devenir indifférente, de sorte qu’il aurait été\ncontent qu’elle quittât Paris pour toujours; il aurait eu le courage\nde rester; mais il n’avait pas celui de partir",
+      "start": 810,
+      "end": 1076
+    }
+  ],
+  "tokens": 179,
+  "processed_at": "2025-03-16T02:10:57.292166"
+}

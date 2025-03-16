@@ -1,0 +1,231 @@
+{
+  "text": "Vivant dans une famille provinciale qui avait peu de relations,\nn’allant guère au bal, elle s’était grisée dans la solitude de son\nmanoir, à ralentir, à précipiter la danse de tous ces couples\nimaginaires, à les égrener comme des fleurs, à quitter un moment le\nbal pour entendre le vent souffler dans les sapins, au bord du lac, et\nà y voir tout d’un coup s’avancer, plus différent de tout ce qu’on a\njamais rêvé que ne sont les amants de la terre, un mince jeune homme à\nla voix un peu chantante, étrangère et fausse, en gants blancs. Mais\naujourd’hui la beauté démodée de cette musique semblait défraîchie.\nPrivée depuis quelques années de l’estime des connaisseurs, elle avait\nperdu son honneur et son charme et ceux mêmes dont le goût est mauvais\nn’y trouvaient plus qu’un plaisir inavoué et médiocre. Mme de\nCambremer jeta un regard furtif derrière elle. Elle savait que sa\njeune bru (pleine de respect pour sa nouvelle famille, sauf en ce qui\ntouchait les choses de l’esprit sur lesquelles, sachant jusqu’à\nl’harmonie et jusqu’au grec, elle avait des lumières spéciales)\nméprisait Chopin et souffrait quand elle en entendait jouer. Mais loin\nde la surveillance de cette wagnérienne qui était plus loin avec un\ngroupe de personnes de son âge, Mme de Cambremer se laissait aller à\ndes impressions délicieuses. La princesse des Laumes les éprouvait\naussi. Sans être par nature douée pour la musique, elle avait reçu il\ny a quinze ans les leçons qu’un professeur de piano du faubourg\nSaint-Germain, femme de génie qui avait été à la fin de sa vie réduite\nà la misère, avait recommencé, à l’âge de soixante-dix ans, à donner\naux filles et aux petites-filles de ses anciennes élèves. Elle était\nmorte aujourd’hui. Mais sa méthode, son beau son, renaissaient parfois\nsous les doigts de ses élèves, même de celles qui étaient devenues\npour le reste des personnes médiocres, avaient abandonné la musique et\nn’ouvraient presque plus jamais un piano. Aussi Mme des Laumes\nput-elle secouer la tête, en pleine connaissance de cause, avec une\nappréciation juste de la façon dont le pianiste jouait ce prélude\nqu’elle savait par cœur. La fin de la phrase commencée chanta\nd’elle-même sur ses lèvres. Et elle murmura «C’est toujours charmant»,\navec un double ch au commencement du mot qui était une marque de\ndélicatesse et dont elle sentait ses lèvres si romanesquement\nfroissées comme une belle fleur, qu’elle harmonisa instinctivement son\nregard avec elles en lui donnant à ce moment-là une sorte de\nsentimentalité et de vague. Cependant Mme de Gallardon était en train\nde se dire qu’il était fâcheux qu’elle n’eût que bien rarement\nl’occasion de rencontrer la princesse des Laumes, car elle souhaitait\nlui donner une leçon en ne répondant pas à son salut. Elle ne savait\npas que sa cousine fût là. Un mouvement de tête de Mme de Franquetot\nla lui découvrit. Aussitôt elle se précipita vers elle en dérangeant\ntout le monde; mais désireuse de garder un air hautain et glacial qui\nrappelât à tous qu’elle ne désirait pas avoir de relations avec une\npersonne chez qui on pouvait se trouver nez à nez avec la princesse\nMathilde, et au-devant de qui elle n’avait pas à aller car elle\nn’était pas «sa contemporaine», elle voulut pourtant compenser cet air\nde hauteur et de réserve par quelque propos qui justifiât sa démarche\net forçât la princesse à engager la conversation; aussi une fois\narrivée près de sa cousine, Mme de Gallardon, avec un visage dur, une\nmain tendue comme une carte forcée, lui dit: «Comment va ton mari?» de\nla même voix soucieuse que si le prince avait été gravement malade. La\nprincesse éclatant d’un rire qui lui était particulier et qui était\ndestiné à la fois à montrer aux autres qu’elle se moquait de quelqu’un\net aussi à se faire paraître plus jolie en concentrant les traits de\nson visage autour de sa bouche animée et de son regard brillant, lui\nrépondit:",
+  "entities": [
+    {
+      "text": "Vivant",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 536,
+      "end": 540
+    },
+    {
+      "text": "Privée",
+      "label": "ORG",
+      "start": 609,
+      "end": 615
+    },
+    {
+      "text": "Cambremer",
+      "label": "ORG",
+      "start": 813,
+      "end": 822
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 860,
+      "end": 864
+    },
+    {
+      "text": "Chopin",
+      "label": "ORG",
+      "start": 1087,
+      "end": 1093
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1138,
+      "end": 1142
+    },
+    {
+      "text": "Cambremer",
+      "label": "ORG",
+      "start": 1255,
+      "end": 1264
+    },
+    {
+      "text": "Laumes",
+      "label": "ORG",
+      "start": 1331,
+      "end": 1337
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 1359,
+      "end": 1363
+    },
+    {
+      "text": "Saint-Germain,",
+      "label": "ORG",
+      "start": 1486,
+      "end": 1500
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1684,
+      "end": 1688
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1714,
+      "end": 1718
+    },
+    {
+      "text": "Laumes",
+      "label": "ORG",
+      "start": 1960,
+      "end": 1966
+    },
+    {
+      "text": "Cependant",
+      "label": "ORG",
+      "start": 2521,
+      "end": 2530
+    },
+    {
+      "text": "Gallardon",
+      "label": "ORG",
+      "start": 2538,
+      "end": 2547
+    },
+    {
+      "text": "Laumes,",
+      "label": "ORG",
+      "start": 2668,
+      "end": 2675
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 2750,
+      "end": 2754
+    },
+    {
+      "text": "Franquetot",
+      "label": "ORG",
+      "start": 2823,
+      "end": 2833
+    },
+    {
+      "text": "Mathilde,",
+      "label": "ORG",
+      "start": 3109,
+      "end": 3118
+    },
+    {
+      "text": "Gallardon,",
+      "label": "ORG",
+      "start": 3414,
+      "end": 3424
+    },
+    {
+      "text": "«Comment",
+      "label": "ORG",
+      "start": 3494,
+      "end": 3502
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Vivant dans une famille provinciale qui avait peu de relations,\nn’allant guère au bal, elle s’était grisée dans la solitude de son\nmanoir, à ralentir, à précipiter la danse de tous ces couples\nimaginaires, à les égrener comme des fleurs, à quitter un moment le\nbal pour entendre le vent souffler dans les sapins, au bord du lac, et\nà y voir tout d’un coup s’avancer, plus différent de tout ce qu’on a\njamais rêvé que ne sont les amants de la terre, un mince jeune homme à\nla voix un peu chantante, étrangère et fausse, en gants blancs",
+      "start": 0,
+      "end": 534
+    },
+    {
+      "text": "Mais\naujourd’hui la beauté démodée de cette musique semblait défraîchie",
+      "start": 535,
+      "end": 607
+    },
+    {
+      "text": "Privée depuis quelques années de l’estime des connaisseurs, elle avait\nperdu son honneur et son charme et ceux mêmes dont le goût est mauvais\nn’y trouvaient plus qu’un plaisir inavoué et médiocre",
+      "start": 608,
+      "end": 804
+    },
+    {
+      "text": "Mme de\nCambremer jeta un regard furtif derrière elle",
+      "start": 805,
+      "end": 858
+    },
+    {
+      "text": "Elle savait que sa\njeune bru (pleine de respect pour sa nouvelle famille, sauf en ce qui\ntouchait les choses de l’esprit sur lesquelles, sachant jusqu’à\nl’harmonie et jusqu’au grec, elle avait des lumières spéciales)\nméprisait Chopin et souffrait quand elle en entendait jouer",
+      "start": 859,
+      "end": 1136
+    },
+    {
+      "text": "Mais loin\nde la surveillance de cette wagnérienne qui était plus loin avec un\ngroupe de personnes de son âge, Mme de Cambremer se laissait aller à\ndes impressions délicieuses",
+      "start": 1137,
+      "end": 1312
+    },
+    {
+      "text": "La princesse des Laumes les éprouvait\naussi",
+      "start": 1313,
+      "end": 1357
+    },
+    {
+      "text": "Sans être par nature douée pour la musique, elle avait reçu il\ny a quinze ans les leçons qu’un professeur de piano du faubourg\nSaint-Germain, femme de génie qui avait été à la fin de sa vie réduite\nà la misère, avait recommencé, à l’âge de soixante-dix ans, à donner\naux filles et aux petites-filles de ses anciennes élèves",
+      "start": 1358,
+      "end": 1682
+    },
+    {
+      "text": "Elle était\nmorte aujourd’hui",
+      "start": 1683,
+      "end": 1712
+    },
+    {
+      "text": "Mais sa méthode, son beau son, renaissaient parfois\nsous les doigts de ses élèves, même de celles qui étaient devenues\npour le reste des personnes médiocres, avaient abandonné la musique et\nn’ouvraient presque plus jamais un piano",
+      "start": 1713,
+      "end": 1944
+    },
+    {
+      "text": "Aussi Mme des Laumes\nput-elle secouer la tête, en pleine connaissance de cause, avec une\nappréciation juste de la façon dont le pianiste jouait ce prélude\nqu’elle savait par cœur",
+      "start": 1945,
+      "end": 2124
+    },
+    {
+      "text": "La fin de la phrase commencée chanta\nd’elle-même sur ses lèvres",
+      "start": 2125,
+      "end": 2189
+    },
+    {
+      "text": "Et elle murmura «C’est toujours charmant»,\navec un double ch au commencement du mot qui était une marque de\ndélicatesse et dont elle sentait ses lèvres si romanesquement\nfroissées comme une belle fleur, qu’elle harmonisa instinctivement son\nregard avec elles en lui donnant à ce moment-là une sorte de\nsentimentalité et de vague",
+      "start": 2190,
+      "end": 2519
+    },
+    {
+      "text": "Cependant Mme de Gallardon était en train\nde se dire qu’il était fâcheux qu’elle n’eût que bien rarement\nl’occasion de rencontrer la princesse des Laumes, car elle souhaitait\nlui donner une leçon en ne répondant pas à son salut",
+      "start": 2520,
+      "end": 2748
+    },
+    {
+      "text": "Elle ne savait\npas que sa cousine fût là",
+      "start": 2749,
+      "end": 2790
+    },
+    {
+      "text": "Un mouvement de tête de Mme de Franquetot\nla lui découvrit",
+      "start": 2791,
+      "end": 2850
+    },
+    {
+      "text": "Aussitôt elle se précipita vers elle en dérangeant\ntout le monde; mais désireuse de garder un air hautain et glacial qui\nrappelât à tous qu’elle ne désirait pas avoir de relations avec une\npersonne chez qui on pouvait se trouver nez à nez avec la princesse\nMathilde, et au-devant de qui elle n’avait pas à aller car elle\nn’était pas «sa contemporaine», elle voulut pourtant compenser cet air\nde hauteur et de réserve par quelque propos qui justifiât sa démarche\net forçât la princesse à engager la conversation; aussi une fois\narrivée près de sa cousine, Mme de Gallardon, avec un visage dur, une\nmain tendue comme une carte forcée, lui dit: «Comment va ton mari?» de\nla même voix soucieuse que si le prince avait été gravement malade",
+      "start": 2851,
+      "end": 3586
+    },
+    {
+      "text": "La\nprincesse éclatant d’un rire qui lui était particulier et qui était\ndestiné à la fois à montrer aux autres qu’elle se moquait de quelqu’un\net aussi à se faire paraître plus jolie en concentrant les traits de\nson visage autour de sa bouche animée et de son regard brillant, lui\nrépondit:",
+      "start": 3587,
+      "end": 3877
+    }
+  ],
+  "tokens": 665,
+  "processed_at": "2025-03-16T02:10:57.037689"
+}

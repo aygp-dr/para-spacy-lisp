@@ -1,0 +1,36 @@
+{
+  "text": "Ce que ma grand’tante interrompit par: «Abondance de biens...» car\ndepuis que sa fille était malade elle croyait devoir la remonter en\nlui présentant toujours tout par le bon côté. Mais mon père prenant la\nparole:",
+  "entities": [
+    {
+      "text": "«Abondance",
+      "label": "ORG",
+      "start": 39,
+      "end": 49
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 181,
+      "end": 185
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ce que ma grand’tante interrompit par: «Abondance de biens",
+      "start": 0,
+      "end": 58
+    },
+    {
+      "text": "» car\ndepuis que sa fille était malade elle croyait devoir la remonter en\nlui présentant toujours tout par le bon côté",
+      "start": 61,
+      "end": 179
+    },
+    {
+      "text": "Mais mon père prenant la\nparole:",
+      "start": 180,
+      "end": 213
+    }
+  ],
+  "tokens": 36,
+  "processed_at": "2025-03-16T02:10:55.335662"
+}

@@ -1,0 +1,30 @@
+{
+  "text": "--Mais je ne vous dis pas, mais ça n’est pas moins laid pour ça. Je\ncomprends très bien qu’on ne puisse pas avoir de jolies choses, mais\nau moins qu’on n’ait pas de choses ridicules. Qu’est-ce que vous\nvoulez? je ne connais rien de plus pompier, de plus bourgeois que cet\nhorrible style avec ces commodes qui ont des têtes de cygnes comme des\nbaignoires.",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais je ne vous dis pas, mais ça n’est pas moins laid pour ça",
+      "start": 0,
+      "end": 63
+    },
+    {
+      "text": "Je\ncomprends très bien qu’on ne puisse pas avoir de jolies choses, mais\nau moins qu’on n’ait pas de choses ridicules",
+      "start": 64,
+      "end": 181
+    },
+    {
+      "text": "Qu’est-ce que vous\nvoulez? je ne connais rien de plus pompier, de plus bourgeois que cet\nhorrible style avec ces commodes qui ont des têtes de cygnes comme des\nbaignoires",
+      "start": 182,
+      "end": 353
+    }
+  ],
+  "tokens": 65,
+  "processed_at": "2025-03-16T02:10:57.149610"
+}

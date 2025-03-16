@@ -1,0 +1,31 @@
+{
+  "text": "--«Il ne faudra aucune lumière et qu’il joue la sonate Clair de lune\ndans l’obscurité pour mieux voir s’éclairer les choses.»",
+  "entities": [
+    {
+      "text": "--«Il",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Clair",
+      "label": "ORG",
+      "start": 55,
+      "end": 60
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Il ne faudra aucune lumière et qu’il joue la sonate Clair de lune\ndans l’obscurité pour mieux voir s’éclairer les choses",
+      "start": 0,
+      "end": 123
+    },
+    {
+      "text": "»",
+      "start": 124,
+      "end": 125
+    }
+  ],
+  "tokens": 21,
+  "processed_at": "2025-03-16T02:10:56.722999"
+}

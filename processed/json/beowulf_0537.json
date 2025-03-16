@@ -1,0 +1,42 @@
+{
+  "text": "--«Voyons, ne dites pas du mal d’Odette, dit Mme Verdurin en faisant\nl’enfant. Elle est charmante.»",
+  "entities": [
+    {
+      "text": "--«Voyons,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 49,
+      "end": 57
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 79,
+      "end": 83
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Voyons, ne dites pas du mal d’Odette, dit Mme Verdurin en faisant\nl’enfant",
+      "start": 0,
+      "end": 77
+    },
+    {
+      "text": "Elle est charmante",
+      "start": 78,
+      "end": 97
+    },
+    {
+      "text": "»",
+      "start": 98,
+      "end": 99
+    }
+  ],
+  "tokens": 16,
+  "processed_at": "2025-03-16T02:10:56.163336"
+}

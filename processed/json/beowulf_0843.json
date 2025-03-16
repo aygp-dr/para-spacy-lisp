@@ -1,0 +1,37 @@
+{
+  "text": "--Oriane, ne te fâche pas, reprit Mme de Gallardon qui ne pouvait\njamais s’empêcher de sacrifier ses plus grandes espérances sociales et\nd’éblouir un jour le monde, au plaisir obscur, immédiat et privé, de\ndire quelque chose de désagréable, il y a des gens qui prétendent que\nce M. Swann, c’est quelqu’un qu’on ne peut pas recevoir chez soi,\nest-ce vrai?",
+  "entities": [
+    {
+      "text": "--Oriane,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Gallardon",
+      "label": "ORG",
+      "start": 41,
+      "end": 50
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 282,
+      "end": 288
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Oriane, ne te fâche pas, reprit Mme de Gallardon qui ne pouvait\njamais s’empêcher de sacrifier ses plus grandes espérances sociales et\nd’éblouir un jour le monde, au plaisir obscur, immédiat et privé, de\ndire quelque chose de désagréable, il y a des gens qui prétendent que\nce M",
+      "start": 0,
+      "end": 280
+    },
+    {
+      "text": "Swann, c’est quelqu’un qu’on ne peut pas recevoir chez soi,\nest-ce vrai?",
+      "start": 281,
+      "end": 354
+    }
+  ],
+  "tokens": 61,
+  "processed_at": "2025-03-16T02:10:57.087911"
+}

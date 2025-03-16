@@ -1,0 +1,31 @@
+{
+  "text": "--«Voyons, vous pouvez bien revenir seul, nous vous l’avons laissée\nassez de fois, dit Mme Verdurin.»",
+  "entities": [
+    {
+      "text": "--«Voyons,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Verdurin.»",
+      "label": "ORG",
+      "start": 91,
+      "end": 101
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Voyons, vous pouvez bien revenir seul, nous vous l’avons laissée\nassez de fois, dit Mme Verdurin",
+      "start": 0,
+      "end": 99
+    },
+    {
+      "text": "»",
+      "start": 100,
+      "end": 101
+    }
+  ],
+  "tokens": 16,
+  "processed_at": "2025-03-16T02:10:56.750467"
+}

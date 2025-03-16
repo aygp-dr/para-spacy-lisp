@@ -1,0 +1,136 @@
+{
+  "text": "Ma mère ne vint pas, et sans ménagements pour mon amour-propre (engagé\nà ce que la fable de la recherche dont elle était censée m’avoir prié\nde lui dire le résultat ne fût pas démentie) me fit dire par Françoise\nces mots: «Il n’y a pas de réponse» que depuis j’ai si souvent entendu\ndes concierges de «palaces» ou des valets de pied de tripots,\nrapporter à quelque pauvre fille qui s’étonne: «Comment, il n’a rien\ndit, mais c’est impossible! Vous avez pourtant bien remis ma lettre.\nC’est bien, je vais attendre encore.» Et--de même qu’elle assure\ninvariablement n’avoir pas besoin du bec supplémentaire que le\nconcierge veut allumer pour elle, et reste là, n’entendant plus que\nles rares propos sur le temps qu’il fait échangés entre le concierge\net un chasseur qu’il envoie tout d’un coup en s’apercevant de l’heure,\nfaire rafraîchir dans la glace la boisson d’un client,--ayant décliné\nl’offre de Françoise de me faire de la tisane ou de rester auprès de\nmoi, je la laissai retourner à l’office, je me couchai et je fermai\nles yeux en tâchant de ne pas entendre la voix de mes parents qui\nprenaient le café au jardin. Mais au bout de quelques secondes, je\nsentis qu’en écrivant ce mot à maman, en m’approchant, au risque de la\nfâcher, si près d’elle que j’avais cru toucher le moment de la revoir,\nje m’étais barré la possibilité de m’endormir sans l’avoir revue, et\nles battements de mon cœur, de minute en minute devenaient plus\ndouloureux parce que j’augmentais mon agitation en me prêchant un\ncalme qui était l’acceptation de mon infortune. Tout à coup mon\nanxiété tomba, une félicité m’envahit comme quand un médicament\npuissant commence à agir et nous enlève une douleur: je venais de\nprendre la résolution de ne plus essayer de m’endormir sans avoir revu\nmaman, de l’embrasser coûte que coûte, bien que ce fût avec la\ncertitude d’être ensuite fâché pour longtemps avec elle, quand elle\nremonterait se coucher. Le calme qui résultait de mes angoisses finies\nme mettait dans un allégresse extraordinaire, non moins que l’attente,\nla soif et la peur du danger. J’ouvris la fenêtre sans bruit et\nm’assis au pied de mon lit; je ne faisais presque aucun mouvement afin\nqu’on ne m’entendît pas d’en bas. Dehors, les choses semblaient, elles\naussi, figées en une muette attention à ne pas troubler le clair de\nlune, qui doublant et reculant chaque chose par l’extension devant\nelle de son reflet, plus dense et concret qu’elle-même, avait à la\nfois aminci et agrandi le paysage comme un plan replié jusque-là,\nqu’on développe. Ce qui avait besoin de bouger, quelque feuillage de\nmarronnier, bougeait. Mais son frissonnement minutieux, total, exécuté\njusque dans ses moindres nuances et ses dernières délicatesses, ne\nbavait pas sur le reste, ne se fondait pas avec lui, restait\ncirconscrit. Exposés sur ce silence qui n’en absorbait rien, les\nbruits les plus éloignés, ceux qui devaient venir de jardins situés à\nl’autre bout de la ville, se percevaient détaillés avec un tel «fini»\nqu’ils semblaient ne devoir cet effet de lointain qu’à leur\npianissimo, comme ces motifs en sourdine si bien exécutés par\nl’orchestre du Conservatoire que quoiqu’on n’en perde pas une note on\ncroit les entendre cependant loin de la salle du concert et que tous\nles vieux abonnés,--les sœurs de ma grand’mère aussi quand Swann leur\navait donné ses places,--tendaient l’oreille comme s’ils avaient écouté\nles progrès lointains d’une armée en marche qui n’aurait pas encore\ntourné la rue de Trévise.",
+  "entities": [
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 202,
+      "end": 211
+    },
+    {
+      "text": "«Comment,",
+      "label": "ORG",
+      "start": 392,
+      "end": 401
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 442,
+      "end": 446
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 900,
+      "end": 909
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1121,
+      "end": 1125
+    },
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 1548,
+      "end": 1552
+    },
+    {
+      "text": "Dehors,",
+      "label": "ORG",
+      "start": 2207,
+      "end": 2214
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2603,
+      "end": 2607
+    },
+    {
+      "text": "Exposés",
+      "label": "ORG",
+      "start": 2793,
+      "end": 2800
+    },
+    {
+      "text": "Conservatoire",
+      "label": "ORG",
+      "start": 3122,
+      "end": 3135
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3305,
+      "end": 3310
+    },
+    {
+      "text": "Trévise.",
+      "label": "ORG",
+      "start": 3473,
+      "end": 3481
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ma mère ne vint pas, et sans ménagements pour mon amour-propre (engagé\nà ce que la fable de la recherche dont elle était censée m’avoir prié\nde lui dire le résultat ne fût pas démentie) me fit dire par Françoise\nces mots: «Il n’y a pas de réponse» que depuis j’ai si souvent entendu\ndes concierges de «palaces» ou des valets de pied de tripots,\nrapporter à quelque pauvre fille qui s’étonne: «Comment, il n’a rien\ndit, mais c’est impossible! Vous avez pourtant bien remis ma lettre",
+      "start": 0,
+      "end": 481
+    },
+    {
+      "text": "C’est bien, je vais attendre encore",
+      "start": 482,
+      "end": 518
+    },
+    {
+      "text": "» Et--de même qu’elle assure\ninvariablement n’avoir pas besoin du bec supplémentaire que le\nconcierge veut allumer pour elle, et reste là, n’entendant plus que\nles rares propos sur le temps qu’il fait échangés entre le concierge\net un chasseur qu’il envoie tout d’un coup en s’apercevant de l’heure,\nfaire rafraîchir dans la glace la boisson d’un client,--ayant décliné\nl’offre de Françoise de me faire de la tisane ou de rester auprès de\nmoi, je la laissai retourner à l’office, je me couchai et je fermai\nles yeux en tâchant de ne pas entendre la voix de mes parents qui\nprenaient le café au jardin",
+      "start": 519,
+      "end": 1119
+    },
+    {
+      "text": "Mais au bout de quelques secondes, je\nsentis qu’en écrivant ce mot à maman, en m’approchant, au risque de la\nfâcher, si près d’elle que j’avais cru toucher le moment de la revoir,\nje m’étais barré la possibilité de m’endormir sans l’avoir revue, et\nles battements de mon cœur, de minute en minute devenaient plus\ndouloureux parce que j’augmentais mon agitation en me prêchant un\ncalme qui était l’acceptation de mon infortune",
+      "start": 1120,
+      "end": 1546
+    },
+    {
+      "text": "Tout à coup mon\nanxiété tomba, une félicité m’envahit comme quand un médicament\npuissant commence à agir et nous enlève une douleur: je venais de\nprendre la résolution de ne plus essayer de m’endormir sans avoir revu\nmaman, de l’embrasser coûte que coûte, bien que ce fût avec la\ncertitude d’être ensuite fâché pour longtemps avec elle, quand elle\nremonterait se coucher",
+      "start": 1547,
+      "end": 1918
+    },
+    {
+      "text": "Le calme qui résultait de mes angoisses finies\nme mettait dans un allégresse extraordinaire, non moins que l’attente,\nla soif et la peur du danger",
+      "start": 1919,
+      "end": 2066
+    },
+    {
+      "text": "J’ouvris la fenêtre sans bruit et\nm’assis au pied de mon lit; je ne faisais presque aucun mouvement afin\nqu’on ne m’entendît pas d’en bas",
+      "start": 2067,
+      "end": 2205
+    },
+    {
+      "text": "Dehors, les choses semblaient, elles\naussi, figées en une muette attention à ne pas troubler le clair de\nlune, qui doublant et reculant chaque chose par l’extension devant\nelle de son reflet, plus dense et concret qu’elle-même, avait à la\nfois aminci et agrandi le paysage comme un plan replié jusque-là,\nqu’on développe",
+      "start": 2206,
+      "end": 2527
+    },
+    {
+      "text": "Ce qui avait besoin de bouger, quelque feuillage de\nmarronnier, bougeait",
+      "start": 2528,
+      "end": 2601
+    },
+    {
+      "text": "Mais son frissonnement minutieux, total, exécuté\njusque dans ses moindres nuances et ses dernières délicatesses, ne\nbavait pas sur le reste, ne se fondait pas avec lui, restait\ncirconscrit",
+      "start": 2602,
+      "end": 2791
+    },
+    {
+      "text": "Exposés sur ce silence qui n’en absorbait rien, les\nbruits les plus éloignés, ceux qui devaient venir de jardins situés à\nl’autre bout de la ville, se percevaient détaillés avec un tel «fini»\nqu’ils semblaient ne devoir cet effet de lointain qu’à leur\npianissimo, comme ces motifs en sourdine si bien exécutés par\nl’orchestre du Conservatoire que quoiqu’on n’en perde pas une note on\ncroit les entendre cependant loin de la salle du concert et que tous\nles vieux abonnés,--les sœurs de ma grand’mère aussi quand Swann leur\navait donné ses places,--tendaient l’oreille comme s’ils avaient écouté\nles progrès lointains d’une armée en marche qui n’aurait pas encore\ntourné la rue de Trévise",
+      "start": 2792,
+      "end": 3480
+    }
+  ],
+  "tokens": 587,
+  "processed_at": "2025-03-16T02:10:54.495340"
+}

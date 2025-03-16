@@ -1,0 +1,48 @@
+{
+  "text": "Mais au moment même, je ne pouvais apprécier la valeur de ces plaisirs\nnouveaux. Ils n’étaient pas donnés par la fillette que j’aimais, au\nmoi qui l’aimait, mais par l’autre, par celle avec qui je jouais, à\ncet autre moi qui ne possédait ni le souvenir de la vraie Gilberte, ni\nle cœur indisponible qui seul aurait pu savoir le prix d’un bonheur,\nparce que seul il l’avait désiré. Même après être rentré à la maison\nje ne les goûtais pas, car, chaque jour, la nécessité qui me faisait\nespérer que le lendemain j’aurais la contemplation exacte, calme,\nheureuse de Gilberte, qu’elle m’avouerait enfin son amour, en\nm’expliquant pour quelles raisons elle avait dû me le cacher\njusqu’ici, cette même nécessité me forçait à tenir le passé pour rien,\nà ne jamais regarder que devant moi, à considérer les petits avantages\nqu’elle m’avait donnés non pas en eux-mêmes et comme s’ils se\nsuffisaient, mais comme des échelons nouveaux où poser le pied, qui\nallaient me permettre de faire un pas de plus en avant et d’atteindre\nenfin le bonheur que je n’avais pas encore rencontré.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 265,
+      "end": 274
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 381,
+      "end": 385
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 563,
+      "end": 572
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais au moment même, je ne pouvais apprécier la valeur de ces plaisirs\nnouveaux",
+      "start": 0,
+      "end": 79
+    },
+    {
+      "text": "Ils n’étaient pas donnés par la fillette que j’aimais, au\nmoi qui l’aimait, mais par l’autre, par celle avec qui je jouais, à\ncet autre moi qui ne possédait ni le souvenir de la vraie Gilberte, ni\nle cœur indisponible qui seul aurait pu savoir le prix d’un bonheur,\nparce que seul il l’avait désiré",
+      "start": 80,
+      "end": 379
+    },
+    {
+      "text": "Même après être rentré à la maison\nje ne les goûtais pas, car, chaque jour, la nécessité qui me faisait\nespérer que le lendemain j’aurais la contemplation exacte, calme,\nheureuse de Gilberte, qu’elle m’avouerait enfin son amour, en\nm’expliquant pour quelles raisons elle avait dû me le cacher\njusqu’ici, cette même nécessité me forçait à tenir le passé pour rien,\nà ne jamais regarder que devant moi, à considérer les petits avantages\nqu’elle m’avait donnés non pas en eux-mêmes et comme s’ils se\nsuffisaient, mais comme des échelons nouveaux où poser le pied, qui\nallaient me permettre de faire un pas de plus en avant et d’atteindre\nenfin le bonheur que je n’avais pas encore rencontré",
+      "start": 380,
+      "end": 1068
+    }
+  ],
+  "tokens": 185,
+  "processed_at": "2025-03-16T02:10:57.550492"
+}

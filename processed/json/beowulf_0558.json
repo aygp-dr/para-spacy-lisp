@@ -1,0 +1,20 @@
+{
+  "text": "Mais lui, intimidé par sa réponse, peut-être aussi pour avoir l’air\nd’avoir été sincère quand il avait pris ce prétexte, ou même,\ncommençant déjà à croire qu’il l’avait été, s’écria:",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais lui, intimidé par sa réponse, peut-être aussi pour avoir l’air\nd’avoir été sincère quand il avait pris ce prétexte, ou même,\ncommençant déjà à croire qu’il l’avait été, s’écria:",
+      "start": 0,
+      "end": 182
+    }
+  ],
+  "tokens": 30,
+  "processed_at": "2025-03-16T02:10:56.219586"
+}

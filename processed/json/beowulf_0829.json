@@ -1,0 +1,31 @@
+{
+  "text": "Et elle rit encore. Cependant tout en redressant sa taille et\nrefroidissant sa mine, inquiète encore pourtant de l’état du prince,\nMme de Gallardon dit à sa cousine:",
+  "entities": [
+    {
+      "text": "Cependant",
+      "label": "ORG",
+      "start": 20,
+      "end": 29
+    },
+    {
+      "text": "Gallardon",
+      "label": "ORG",
+      "start": 138,
+      "end": 147
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et elle rit encore",
+      "start": 0,
+      "end": 18
+    },
+    {
+      "text": "Cependant tout en redressant sa taille et\nrefroidissant sa mine, inquiète encore pourtant de l’état du prince,\nMme de Gallardon dit à sa cousine:",
+      "start": 19,
+      "end": 165
+    }
+  ],
+  "tokens": 28,
+  "processed_at": "2025-03-16T02:10:57.043067"
+}

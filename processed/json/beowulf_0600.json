@@ -1,0 +1,20 @@
+{
+  "text": "Toute la table éclata de rire.",
+  "entities": [
+    {
+      "text": "Toute",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Toute la table éclata de rire",
+      "start": 0,
+      "end": 29
+    }
+  ],
+  "tokens": 6,
+  "processed_at": "2025-03-16T02:10:56.352034"
+}

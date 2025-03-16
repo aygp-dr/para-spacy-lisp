@@ -1,0 +1,44 @@
+{
+  "text": "Après dîner, si le rendez-vous au bois ou à Saint-Cloud était de bonne\nheure, il partait si vite en sortant de table,--surtout si la pluie\nmenaçait de tomber et de faire rentrer plus tôt les «fidèles»,--qu’une\nfois la princesse des Laumes (chez qui on avait dîné tard et que Swann\navait quittée avant qu’on servît le café pour rejoindre les Verdurin\ndans l’île du Bois) dit:",
+  "entities": [
+    {
+      "text": "Saint-Cloud",
+      "label": "ORG",
+      "start": 44,
+      "end": 55
+    },
+    {
+      "text": "Laumes",
+      "label": "ORG",
+      "start": 232,
+      "end": 238
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 275,
+      "end": 280
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 341,
+      "end": 349
+    },
+    {
+      "text": "Bois)",
+      "label": "ORG",
+      "start": 364,
+      "end": 369
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Après dîner, si le rendez-vous au bois ou à Saint-Cloud était de bonne\nheure, il partait si vite en sortant de table,--surtout si la pluie\nmenaçait de tomber et de faire rentrer plus tôt les «fidèles»,--qu’une\nfois la princesse des Laumes (chez qui on avait dîné tard et que Swann\navait quittée avant qu’on servît le café pour rejoindre les Verdurin\ndans l’île du Bois) dit:",
+      "start": 0,
+      "end": 374
+    }
+  ],
+  "tokens": 66,
+  "processed_at": "2025-03-16T02:10:56.625070"
+}

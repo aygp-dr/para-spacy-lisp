@@ -1,0 +1,25 @@
+{
+  "text": "--Elle sera enchantée d’être débarrassée de vous pour un jour. Et\ncomment s’inquiéterait-elle, elle vous sait avec nous? d’ailleurs je\nprends tout sous mon bonnet.",
+  "entities": [
+    {
+      "text": "--Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Elle sera enchantée d’être débarrassée de vous pour un jour",
+      "start": 0,
+      "end": 61
+    },
+    {
+      "text": "Et\ncomment s’inquiéterait-elle, elle vous sait avec nous? d’ailleurs je\nprends tout sous mon bonnet",
+      "start": 62,
+      "end": 162
+    }
+  ],
+  "tokens": 25,
+  "processed_at": "2025-03-16T02:10:56.819335"
+}

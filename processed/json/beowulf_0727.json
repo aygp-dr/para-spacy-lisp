@@ -1,0 +1,25 @@
+{
+  "text": "«A demain à Chatou, à après-demain chez moi.»",
+  "entities": [
+    {
+      "text": "Chatou,",
+      "label": "ORG",
+      "start": 12,
+      "end": 19
+    }
+  ],
+  "sentences": [
+    {
+      "text": "«A demain à Chatou, à après-demain chez moi",
+      "start": 0,
+      "end": 43
+    },
+    {
+      "text": "»",
+      "start": 44,
+      "end": 45
+    }
+  ],
+  "tokens": 8,
+  "processed_at": "2025-03-16T02:10:56.730446"
+}

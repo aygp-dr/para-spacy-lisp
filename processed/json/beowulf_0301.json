@@ -1,0 +1,49 @@
+{
+  "text": "--«Vous rappelez-vous que Swann a dit hier que, comme sa femme et sa\nfille partaient pour Reims, il en profiterait pour aller passer\nvingt-quatre heures à Paris? Nous pourrions longer le parc, puisque\nces dames ne sont pas là, cela nous abrégerait d’autant.»",
+  "entities": [
+    {
+      "text": "--«Vous",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 26,
+      "end": 31
+    },
+    {
+      "text": "Reims,",
+      "label": "ORG",
+      "start": 90,
+      "end": 96
+    },
+    {
+      "text": "Paris?",
+      "label": "ORG",
+      "start": 155,
+      "end": 161
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 162,
+      "end": 166
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Vous rappelez-vous que Swann a dit hier que, comme sa femme et sa\nfille partaient pour Reims, il en profiterait pour aller passer\nvingt-quatre heures à Paris? Nous pourrions longer le parc, puisque\nces dames ne sont pas là, cela nous abrégerait d’autant",
+      "start": 0,
+      "end": 256
+    },
+    {
+      "text": "»",
+      "start": 257,
+      "end": 258
+    }
+  ],
+  "tokens": 43,
+  "processed_at": "2025-03-16T02:10:55.460890"
+}

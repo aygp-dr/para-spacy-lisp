@@ -1,0 +1,91 @@
+{
+  "text": "Et certes cela ne veut pas dire que M. Legrandin ne fût pas sincère\nquand il tonnait contre les snobs. Il ne pouvait pas savoir, au moins\npar lui-même, qu’il le fût, puisque nous ne connaissons jamais que les\npassions des autres, et que ce que nous arrivons à savoir des nôtres,\nce n’est que d’eux que nous avons pu l’apprendre. Sur nous, elles\nn’agissent que d’une façon seconde, par l’imagination qui substitue\naux premiers mobiles des mobiles de relais qui sont plus décents.\nJamais le snobisme de Legrandin ne lui conseillait d’aller voir\nsouvent une duchesse. Il chargeait l’imagination de Legrandin de lui\nfaire apparaître cette duchesse comme parée de toutes les grâces.\nLegrandin se rapprochait de la duchesse, s’estimant de céder à cet\nattrait de l’esprit et de la vertu qu’ignorent les infâmes snobs.\nSeuls les autres savaient qu’il en était un; car, grâce à l’incapacité\noù ils étaient de comprendre le travail intermédiaire de son\nimagination, ils voyaient en face l’une de l’autre l’activité mondaine\nde Legrandin et sa cause première.",
+  "entities": [
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 39,
+      "end": 48
+    },
+    {
+      "text": "Jamais",
+      "label": "ORG",
+      "start": 479,
+      "end": 485
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 501,
+      "end": 510
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 595,
+      "end": 604
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 678,
+      "end": 687
+    },
+    {
+      "text": "Seuls",
+      "label": "ORG",
+      "start": 811,
+      "end": 816
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 1017,
+      "end": 1026
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et certes cela ne veut pas dire que M",
+      "start": 0,
+      "end": 37
+    },
+    {
+      "text": "Legrandin ne fût pas sincère\nquand il tonnait contre les snobs",
+      "start": 38,
+      "end": 101
+    },
+    {
+      "text": "Il ne pouvait pas savoir, au moins\npar lui-même, qu’il le fût, puisque nous ne connaissons jamais que les\npassions des autres, et que ce que nous arrivons à savoir des nôtres,\nce n’est que d’eux que nous avons pu l’apprendre",
+      "start": 102,
+      "end": 327
+    },
+    {
+      "text": "Sur nous, elles\nn’agissent que d’une façon seconde, par l’imagination qui substitue\naux premiers mobiles des mobiles de relais qui sont plus décents",
+      "start": 328,
+      "end": 477
+    },
+    {
+      "text": "Jamais le snobisme de Legrandin ne lui conseillait d’aller voir\nsouvent une duchesse",
+      "start": 478,
+      "end": 563
+    },
+    {
+      "text": "Il chargeait l’imagination de Legrandin de lui\nfaire apparaître cette duchesse comme parée de toutes les grâces",
+      "start": 564,
+      "end": 676
+    },
+    {
+      "text": "Legrandin se rapprochait de la duchesse, s’estimant de céder à cet\nattrait de l’esprit et de la vertu qu’ignorent les infâmes snobs",
+      "start": 677,
+      "end": 809
+    },
+    {
+      "text": "Seuls les autres savaient qu’il en était un; car, grâce à l’incapacité\noù ils étaient de comprendre le travail intermédiaire de son\nimagination, ils voyaient en face l’une de l’autre l’activité mondaine\nde Legrandin et sa cause première",
+      "start": 810,
+      "end": 1047
+    }
+  ],
+  "tokens": 174,
+  "processed_at": "2025-03-16T02:10:55.404409"
+}

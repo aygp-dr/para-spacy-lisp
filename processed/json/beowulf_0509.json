@@ -1,0 +1,26 @@
+{
+  "text": "--«Et Mme Verdurin?»",
+  "entities": [
+    {
+      "text": "--«Et",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin?»",
+      "label": "ORG",
+      "start": 10,
+      "end": 20
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Et Mme Verdurin?»",
+      "start": 0,
+      "end": 20
+    }
+  ],
+  "tokens": 3,
+  "processed_at": "2025-03-16T02:10:56.079413"
+}

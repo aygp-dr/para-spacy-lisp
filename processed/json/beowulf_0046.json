@@ -1,0 +1,170 @@
+{
+  "text": "Maman s’assit à côté de mon lit; elle avait pris François le Champi à\nqui sa couverture rougeâtre et son titre incompréhensible, donnaient\npour moi une personnalité distincte et un attrait mystérieux. Je\nn’avais jamais lu encore de vrais romans. J’avais entendu dire que\nGeorge Sand était le type du romancier. Cela me disposait déjà à\nimaginer dans François le Champi quelque chose d’indéfinissable et de\ndélicieux. Les procédés de narration destinés à exciter la curiosité\nou l’attendrissement, certaines façons de dire qui éveillent\nl’inquiétude et la mélancolie, et qu’un lecteur un peu instruit\nreconnaît pour communs à beaucoup de romans, me paraissaient simples--à\nmoi qui considérais un livre nouveau non comme une chose ayant\nbeaucoup de semblables, mais comme une personne unique, n’ayant de\nraison d’exister qu’en soi,--une émanation troublante de l’essence\nparticulière à François le Champi. Sous ces événements si journaliers,\nces choses si communes, ces mots si courants, je sentais comme une\nintonation, une accentuation étrange. L’action s’engagea; elle me\nparut d’autant plus obscure que dans ce temps-là, quand je lisais, je\nrêvassais souvent, pendant des pages entières, à tout autre chose. Et\naux lacunes que cette distraction laissait dans le récit, s’ajoutait,\nquand c’était maman qui me lisait à haute voix, qu’elle passait toutes\nles scènes d’amour. Aussi tous les changements bizarres qui se\nproduisent dans l’attitude respective de la meunière et de l’enfant et\nqui ne trouvent leur explication que dans les progrès d’un amour\nnaissant me paraissaient empreints d’un profond mystère dont je me\nfigurais volontiers que la source devait être dans ce nom inconnu et\nsi doux de «Champi» qui mettait sur l’enfant, qui le portait sans que\nje susse pourquoi, sa couleur vive, empourprée et charmante. Si ma\nmère était une lectrice infidèle c’était aussi, pour les ouvrages où\nelle trouvait l’accent d’un sentiment vrai, une lectrice admirable par\nle respect et la simplicité de l’interprétation, par la beauté et la\ndouceur du son. Même dans la vie, quand c’étaient des êtres et non des\nœuvres d’art qui excitaient ainsi son attendrissement ou son\nadmiration, c’était touchant de voir avec quelle déférence elle\nécartait de sa voix, de son geste, de ses propos, tel éclat de gaîté\nqui eût pu faire mal à cette mère qui avait autrefois perdu un enfant,\ntel rappel de fête, d’anniversaire, qui aurait pu faire penser ce\nvieillard à son grand âge, tel propos de ménage qui aurait paru\nfastidieux à ce jeune savant. De même, quand elle lisait la prose de\nGeorge Sand, qui respire toujours cette bonté, cette distinction\nmorale que maman avait appris de ma grand’mère à tenir pour\nsupérieures à tout dans la vie, et que je ne devais lui apprendre que\nbien plus tard à ne pas tenir également pour supérieures à tout dans\nles livres, attentive à bannir de sa voix toute petitesse, toute\naffectation qui eût pu empêcher le flot puissant d’y être reçu, elle\nfournissait toute la tendresse naturelle, toute l’ample douceur\nqu’elles réclamaient à ces phrases qui semblaient écrites pour sa voix\net qui pour ainsi dire tenaient tout entières dans le registre de sa\nsensibilité. Elle retrouvait pour les attaquer dans le ton qu’il faut,\nl’accent cordial qui leur préexiste et les dicta, mais que les mots\nn’indiquent pas; grâce à lui elle amortissait au passage toute crudité\ndans les temps des verbes, donnait à l’imparfait et au passé défini la\ndouceur qu’il y a dans la bonté, la mélancolie qu’il y a dans la\ntendresse, dirigeait la phrase qui finissait vers celle qui allait\ncommencer, tantôt pressant, tantôt ralentissant la marche des syllabes\npour les faire entrer, quoique leurs quantités fussent différentes,\ndans un rythme uniforme, elle insufflait à cette prose si commune une\nsorte de vie sentimentale et continue.",
+  "entities": [
+    {
+      "text": "Maman",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "François",
+      "label": "ORG",
+      "start": 49,
+      "end": 57
+    },
+    {
+      "text": "Champi",
+      "label": "ORG",
+      "start": 61,
+      "end": 67
+    },
+    {
+      "text": "George",
+      "label": "ORG",
+      "start": 271,
+      "end": 277
+    },
+    {
+      "text": "Sand",
+      "label": "ORG",
+      "start": 278,
+      "end": 282
+    },
+    {
+      "text": "Cela",
+      "label": "ORG",
+      "start": 311,
+      "end": 315
+    },
+    {
+      "text": "François",
+      "label": "ORG",
+      "start": 350,
+      "end": 358
+    },
+    {
+      "text": "Champi",
+      "label": "ORG",
+      "start": 362,
+      "end": 368
+    },
+    {
+      "text": "François",
+      "label": "ORG",
+      "start": 884,
+      "end": 892
+    },
+    {
+      "text": "Champi.",
+      "label": "ORG",
+      "start": 896,
+      "end": 903
+    },
+    {
+      "text": "Sous",
+      "label": "ORG",
+      "start": 904,
+      "end": 908
+    },
+    {
+      "text": "«Champi»",
+      "label": "ORG",
+      "start": 1700,
+      "end": 1708
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 2051,
+      "end": 2055
+    },
+    {
+      "text": "George",
+      "label": "ORG",
+      "start": 2570,
+      "end": 2576
+    },
+    {
+      "text": "Sand,",
+      "label": "ORG",
+      "start": 2577,
+      "end": 2582
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 3185,
+      "end": 3189
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Maman s’assit à côté de mon lit; elle avait pris François le Champi à\nqui sa couverture rougeâtre et son titre incompréhensible, donnaient\npour moi une personnalité distincte et un attrait mystérieux",
+      "start": 0,
+      "end": 199
+    },
+    {
+      "text": "Je\nn’avais jamais lu encore de vrais romans",
+      "start": 200,
+      "end": 244
+    },
+    {
+      "text": "J’avais entendu dire que\nGeorge Sand était le type du romancier",
+      "start": 245,
+      "end": 309
+    },
+    {
+      "text": "Cela me disposait déjà à\nimaginer dans François le Champi quelque chose d’indéfinissable et de\ndélicieux",
+      "start": 310,
+      "end": 415
+    },
+    {
+      "text": "Les procédés de narration destinés à exciter la curiosité\nou l’attendrissement, certaines façons de dire qui éveillent\nl’inquiétude et la mélancolie, et qu’un lecteur un peu instruit\nreconnaît pour communs à beaucoup de romans, me paraissaient simples--à\nmoi qui considérais un livre nouveau non comme une chose ayant\nbeaucoup de semblables, mais comme une personne unique, n’ayant de\nraison d’exister qu’en soi,--une émanation troublante de l’essence\nparticulière à François le Champi",
+      "start": 416,
+      "end": 902
+    },
+    {
+      "text": "Sous ces événements si journaliers,\nces choses si communes, ces mots si courants, je sentais comme une\nintonation, une accentuation étrange",
+      "start": 903,
+      "end": 1043
+    },
+    {
+      "text": "L’action s’engagea; elle me\nparut d’autant plus obscure que dans ce temps-là, quand je lisais, je\nrêvassais souvent, pendant des pages entières, à tout autre chose",
+      "start": 1044,
+      "end": 1208
+    },
+    {
+      "text": "Et\naux lacunes que cette distraction laissait dans le récit, s’ajoutait,\nquand c’était maman qui me lisait à haute voix, qu’elle passait toutes\nles scènes d’amour",
+      "start": 1209,
+      "end": 1372
+    },
+    {
+      "text": "Aussi tous les changements bizarres qui se\nproduisent dans l’attitude respective de la meunière et de l’enfant et\nqui ne trouvent leur explication que dans les progrès d’un amour\nnaissant me paraissaient empreints d’un profond mystère dont je me\nfigurais volontiers que la source devait être dans ce nom inconnu et\nsi doux de «Champi» qui mettait sur l’enfant, qui le portait sans que\nje susse pourquoi, sa couleur vive, empourprée et charmante",
+      "start": 1373,
+      "end": 1818
+    },
+    {
+      "text": "Si ma\nmère était une lectrice infidèle c’était aussi, pour les ouvrages où\nelle trouvait l’accent d’un sentiment vrai, une lectrice admirable par\nle respect et la simplicité de l’interprétation, par la beauté et la\ndouceur du son",
+      "start": 1819,
+      "end": 2049
+    },
+    {
+      "text": "Même dans la vie, quand c’étaient des êtres et non des\nœuvres d’art qui excitaient ainsi son attendrissement ou son\nadmiration, c’était touchant de voir avec quelle déférence elle\nécartait de sa voix, de son geste, de ses propos, tel éclat de gaîté\nqui eût pu faire mal à cette mère qui avait autrefois perdu un enfant,\ntel rappel de fête, d’anniversaire, qui aurait pu faire penser ce\nvieillard à son grand âge, tel propos de ménage qui aurait paru\nfastidieux à ce jeune savant",
+      "start": 2050,
+      "end": 2529
+    },
+    {
+      "text": "De même, quand elle lisait la prose de\nGeorge Sand, qui respire toujours cette bonté, cette distinction\nmorale que maman avait appris de ma grand’mère à tenir pour\nsupérieures à tout dans la vie, et que je ne devais lui apprendre que\nbien plus tard à ne pas tenir également pour supérieures à tout dans\nles livres, attentive à bannir de sa voix toute petitesse, toute\naffectation qui eût pu empêcher le flot puissant d’y être reçu, elle\nfournissait toute la tendresse naturelle, toute l’ample douceur\nqu’elles réclamaient à ces phrases qui semblaient écrites pour sa voix\net qui pour ainsi dire tenaient tout entières dans le registre de sa\nsensibilité",
+      "start": 2530,
+      "end": 3183
+    },
+    {
+      "text": "Elle retrouvait pour les attaquer dans le ton qu’il faut,\nl’accent cordial qui leur préexiste et les dicta, mais que les mots\nn’indiquent pas; grâce à lui elle amortissait au passage toute crudité\ndans les temps des verbes, donnait à l’imparfait et au passé défini la\ndouceur qu’il y a dans la bonté, la mélancolie qu’il y a dans la\ntendresse, dirigeait la phrase qui finissait vers celle qui allait\ncommencer, tantôt pressant, tantôt ralentissant la marche des syllabes\npour les faire entrer, quoique leurs quantités fussent différentes,\ndans un rythme uniforme, elle insufflait à cette prose si commune une\nsorte de vie sentimentale et continue",
+      "start": 3184,
+      "end": 3831
+    }
+  ],
+  "tokens": 624,
+  "processed_at": "2025-03-16T02:10:54.528459"
+}

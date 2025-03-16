@@ -1,0 +1,108 @@
+{
+  "text": "«On y sent encore sous ses pas, disait-il, bien plus qu’au Finistère\nlui-même (et quand bien même des hôtels s’y superposeraient maintenant\nsans pouvoir y modifier la plus antique ossature de la terre), on y\nsent la véritable fin de la terre française, européenne, de la Terre\nantique. Et c’est le dernier campement de pêcheurs, pareils à tous les\npêcheurs qui ont vécu depuis le commencement du monde, en face du\nroyaume éternel des brouillards de la mer et des ombres.» Un jour qu’à\nCombray j’avais parlé de cette plage de Balbec devant M. Swann afin\nd’apprendre de lui si c’était le point le mieux choisi pour voir les\nplus fortes tempêtes, il m’avait répondu: «Je crois bien que je\nconnais Balbec! L’église de Balbec, du XIIe et XIIIe siècle, encore à\nmoitié romane, est peut-être le plus curieux échantillon du gothique\nnormand, et si singulière, on dirait de l’art persan.» Et ces lieux\nqui jusque-là ne m’avaient semblé que de la nature immémoriale, restée\ncontemporaine des grands phénomènes géologiques,--et tout aussi en\ndehors de l’histoire humaine que l’Océan ou la grande Ourse, avec ces\nsauvages pêcheurs pour qui, pas plus que pour les baleines, il n’y eut\nde moyen âge--, ç’avait été un grand charme pour moi de les voir tout\nd’un coup entrés dans la série des siècles, ayant connu l’époque\nromane, et de savoir que le trèfle gothique était venu nervurer aussi\nces rochers sauvages à l’heure voulue, comme ces plantes frêles mais\nvivaces qui, quand c’est le printemps, étoilent çà et là la neige des\npôles. Et si le gothique apportait à ces lieux et à ces hommes une\ndétermination qui leur manquait, eux aussi lui en conféraient une en\nretour. J’essayais de me représenter comment ces pêcheurs avaient\nvécu, le timide et insoupçonné essai de rapports sociaux qu’ils\navaient tenté là, pendant le moyen âge, ramassés sur un point des\ncôtes d’Enfer, aux pieds des falaises de la mort; et le gothique me\nsemblait plus vivant maintenant que, séparé des villes où je l’avais\ntoujours imaginé jusque-là, je pouvais voir comment, dans un cas\nparticulier, sur des rochers sauvages, il avait germé et fleuri en un\nfin clocher. On me mena voir des reproductions des plus célèbres\nstatues de Balbec--les apôtres moutonnants et camus, la Vierge du\nporche, et de joie ma respiration s’arrêtait dans ma poitrine quand je\npensais que je pourrais les voir se modeler en relief sur le\nbrouillard éternel et salé. Alors, par les soirs orageux et doux de\nfévrier, le vent,--soufflant dans mon cœur, qu’il ne faisait pas\ntrembler moins fort que la cheminée de ma chambre, le projet d’un\nvoyage à Balbec--mêlait en moi le désir de l’architecture gothique avec\ncelui d’une tempête sur la mer.",
+  "entities": [
+    {
+      "text": "Finistère",
+      "label": "ORG",
+      "start": 59,
+      "end": 68
+    },
+    {
+      "text": "Terre",
+      "label": "ORG",
+      "start": 271,
+      "end": 276
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 485,
+      "end": 492
+    },
+    {
+      "text": "Balbec",
+      "label": "ORG",
+      "start": 525,
+      "end": 531
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 542,
+      "end": 547
+    },
+    {
+      "text": "Balbec!",
+      "label": "ORG",
+      "start": 694,
+      "end": 701
+    },
+    {
+      "text": "Balbec,",
+      "label": "ORG",
+      "start": 714,
+      "end": 721
+    },
+    {
+      "text": "Ourse,",
+      "label": "ORG",
+      "start": 1085,
+      "end": 1091
+    },
+    {
+      "text": "Vierge",
+      "label": "ORG",
+      "start": 2241,
+      "end": 2247
+    }
+  ],
+  "sentences": [
+    {
+      "text": "«On y sent encore sous ses pas, disait-il, bien plus qu’au Finistère\nlui-même (et quand bien même des hôtels s’y superposeraient maintenant\nsans pouvoir y modifier la plus antique ossature de la terre), on y\nsent la véritable fin de la terre française, européenne, de la Terre\nantique",
+      "start": 0,
+      "end": 284
+    },
+    {
+      "text": "Et c’est le dernier campement de pêcheurs, pareils à tous les\npêcheurs qui ont vécu depuis le commencement du monde, en face du\nroyaume éternel des brouillards de la mer et des ombres",
+      "start": 285,
+      "end": 469
+    },
+    {
+      "text": "» Un jour qu’à\nCombray j’avais parlé de cette plage de Balbec devant M",
+      "start": 470,
+      "end": 540
+    },
+    {
+      "text": "Swann afin\nd’apprendre de lui si c’était le point le mieux choisi pour voir les\nplus fortes tempêtes, il m’avait répondu: «Je crois bien que je\nconnais Balbec! L’église de Balbec, du XIIe et XIIIe siècle, encore à\nmoitié romane, est peut-être le plus curieux échantillon du gothique\nnormand, et si singulière, on dirait de l’art persan",
+      "start": 541,
+      "end": 877
+    },
+    {
+      "text": "» Et ces lieux\nqui jusque-là ne m’avaient semblé que de la nature immémoriale, restée\ncontemporaine des grands phénomènes géologiques,--et tout aussi en\ndehors de l’histoire humaine que l’Océan ou la grande Ourse, avec ces\nsauvages pêcheurs pour qui, pas plus que pour les baleines, il n’y eut\nde moyen âge--, ç’avait été un grand charme pour moi de les voir tout\nd’un coup entrés dans la série des siècles, ayant connu l’époque\nromane, et de savoir que le trèfle gothique était venu nervurer aussi\nces rochers sauvages à l’heure voulue, comme ces plantes frêles mais\nvivaces qui, quand c’est le printemps, étoilent çà et là la neige des\npôles",
+      "start": 878,
+      "end": 1521
+    },
+    {
+      "text": "Et si le gothique apportait à ces lieux et à ces hommes une\ndétermination qui leur manquait, eux aussi lui en conféraient une en\nretour",
+      "start": 1522,
+      "end": 1658
+    },
+    {
+      "text": "J’essayais de me représenter comment ces pêcheurs avaient\nvécu, le timide et insoupçonné essai de rapports sociaux qu’ils\navaient tenté là, pendant le moyen âge, ramassés sur un point des\ncôtes d’Enfer, aux pieds des falaises de la mort; et le gothique me\nsemblait plus vivant maintenant que, séparé des villes où je l’avais\ntoujours imaginé jusque-là, je pouvais voir comment, dans un cas\nparticulier, sur des rochers sauvages, il avait germé et fleuri en un\nfin clocher",
+      "start": 1659,
+      "end": 2131
+    },
+    {
+      "text": "On me mena voir des reproductions des plus célèbres\nstatues de Balbec--les apôtres moutonnants et camus, la Vierge du\nporche, et de joie ma respiration s’arrêtait dans ma poitrine quand je\npensais que je pourrais les voir se modeler en relief sur le\nbrouillard éternel et salé",
+      "start": 2132,
+      "end": 2409
+    },
+    {
+      "text": "Alors, par les soirs orageux et doux de\nfévrier, le vent,--soufflant dans mon cœur, qu’il ne faisait pas\ntrembler moins fort que la cheminée de ma chambre, le projet d’un\nvoyage à Balbec--mêlait en moi le désir de l’architecture gothique avec\ncelui d’une tempête sur la mer",
+      "start": 2410,
+      "end": 2684
+    }
+  ],
+  "tokens": 457,
+  "processed_at": "2025-03-16T02:10:57.485528"
+}

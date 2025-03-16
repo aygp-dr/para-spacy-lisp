@@ -1,0 +1,109 @@
+{
+  "text": "--Oh! mon petit Charles, prenez garde, voilà l’affreuse Rampillon qui\nm’a vue, cachez-moi, rappelez-moi donc ce qui lui est arrivé, je\nconfonds, elle a marié sa fille ou son amant, je ne sais plus;\npeut-être les deux... et ensemble!... Ah! non, je me rappelle, elle a\nété répudiée par son prince... ayez l’air de me parler pour que cette\nBérénice ne vienne pas m’inviter à dîner. Du reste, je me sauve.\nEcoutez, mon petit Charles, pour une fois que je vous vois, vous ne\nvoulez pas vous laisser enlever et que je vous emmène chez la\nprincesse de Parme qui serait tellement contente, et Basin aussi qui\ndoit m’y rejoindre. Si on n’avait pas de vos nouvelles par Mémé...\nPensez que je ne vous vois plus jamais!",
+  "entities": [
+    {
+      "text": "--Oh!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Charles,",
+      "label": "ORG",
+      "start": 16,
+      "end": 24
+    },
+    {
+      "text": "Rampillon",
+      "label": "ORG",
+      "start": 56,
+      "end": 65
+    },
+    {
+      "text": "Bérénice",
+      "label": "ORG",
+      "start": 338,
+      "end": 346
+    },
+    {
+      "text": "Ecoutez,",
+      "label": "ORG",
+      "start": 403,
+      "end": 411
+    },
+    {
+      "text": "Charles,",
+      "label": "ORG",
+      "start": 422,
+      "end": 430
+    },
+    {
+      "text": "Parme",
+      "label": "ORG",
+      "start": 546,
+      "end": 551
+    },
+    {
+      "text": "Basin",
+      "label": "ORG",
+      "start": 586,
+      "end": 591
+    },
+    {
+      "text": "Mémé...",
+      "label": "ORG",
+      "start": 661,
+      "end": 668
+    },
+    {
+      "text": "Pensez",
+      "label": "ORG",
+      "start": 669,
+      "end": 675
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Oh! mon petit Charles, prenez garde, voilà l’affreuse Rampillon qui\nm’a vue, cachez-moi, rappelez-moi donc ce qui lui est arrivé, je\nconfonds, elle a marié sa fille ou son amant, je ne sais plus;\npeut-être les deux",
+      "start": 0,
+      "end": 216
+    },
+    {
+      "text": "et ensemble!",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "text": "Ah! non, je me rappelle, elle a\nété répudiée par son prince",
+      "start": 235,
+      "end": 295
+    },
+    {
+      "text": "ayez l’air de me parler pour que cette\nBérénice ne vienne pas m’inviter à dîner",
+      "start": 298,
+      "end": 378
+    },
+    {
+      "text": "Du reste, je me sauve",
+      "start": 379,
+      "end": 401
+    },
+    {
+      "text": "Ecoutez, mon petit Charles, pour une fois que je vous vois, vous ne\nvoulez pas vous laisser enlever et que je vous emmène chez la\nprincesse de Parme qui serait tellement contente, et Basin aussi qui\ndoit m’y rejoindre",
+      "start": 402,
+      "end": 620
+    },
+    {
+      "text": "Si on n’avait pas de vos nouvelles par Mémé",
+      "start": 621,
+      "end": 665
+    },
+    {
+      "text": "Pensez que je ne vous vois plus jamais!",
+      "start": 668,
+      "end": 708
+    }
+  ],
+  "tokens": 127,
+  "processed_at": "2025-03-16T02:10:57.230495"
+}

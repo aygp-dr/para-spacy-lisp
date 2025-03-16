@@ -1,0 +1,98 @@
+{
+  "text": "Certes le «petit noyau» n’avait aucun rapport avec la société où\nfréquentait Swann, et de purs mondains auraient trouvé que ce n’était\npas la peine d’y occuper comme lui une situation exceptionnelle pour\nse faire présenter chez les Verdurin. Mais Swann aimait tellement les\nfemmes, qu’à partir du jour où il avait connu à peu près toutes celles\nde l’aristocratie et où elles n’avaient plus rien eu à lui apprendre,\nil n’avait plus tenu à ces lettres de naturalisation, presque des\ntitres de noblesse, que lui avait octroyées le faubourg Saint-Germain,\nque comme à une sorte de valeur d’échange, de lettre de crédit dénuée\nde prix en elle-même, mais lui permettant de s’improviser une\nsituation dans tel petit trou de province ou tel milieu obscur de\nParis, où la fille du hobereau ou du greffier lui avait semblé jolie.\nCar le désir ou l’amour lui rendait alors un sentiment de vanité dont\nil était maintenant exempt dans l’habitude de la vie (bien que ce fût\nlui sans doute qui autrefois l’avait dirigé vers cette carrière\nmondaine où il avait gaspillé dans les plaisirs frivoles les dons de\nson esprit et fait servir son érudition en matière d’art à conseiller\nles dames de la société dans leurs achats de tableaux et pour\nl’ameublement de leurs hôtels), et qui lui faisait désirer de briller,\naux yeux d’une inconnue dont il s’était épris, d’une élégance que le\nnom de Swann à lui tout seul n’impliquait pas. Il le désirait surtout\nsi l’inconnue était d’humble condition. De même que ce n’est pas à un\nautre homme intelligent qu’un homme intelligent aura peur de paraître\nbête, ce n’est pas par un grand seigneur, c’est par un rustre qu’un\nhomme élégant craindra de voir son élégance méconnue. Les trois quarts\ndes frais d’esprit et des mensonges de vanité qui ont été prodigués\ndepuis que le monde existe par des gens qu’ils ne faisaient que\ndiminuer, l’ont été pour des inférieurs. Et Swann qui était simple et\nnégligent avec une duchesse, tremblait d’être méprisé, posait, quand\nil était devant une femme de chambre.",
+  "entities": [
+    {
+      "text": "Certes",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 77,
+      "end": 83
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 232,
+      "end": 241
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 242,
+      "end": 246
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 247,
+      "end": 252
+    },
+    {
+      "text": "Saint-Germain,",
+      "label": "ORG",
+      "start": 537,
+      "end": 551
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 750,
+      "end": 756
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1372,
+      "end": 1377
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1890,
+      "end": 1895
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Certes le «petit noyau» n’avait aucun rapport avec la société où\nfréquentait Swann, et de purs mondains auraient trouvé que ce n’était\npas la peine d’y occuper comme lui une situation exceptionnelle pour\nse faire présenter chez les Verdurin",
+      "start": 0,
+      "end": 240
+    },
+    {
+      "text": "Mais Swann aimait tellement les\nfemmes, qu’à partir du jour où il avait connu à peu près toutes celles\nde l’aristocratie et où elles n’avaient plus rien eu à lui apprendre,\nil n’avait plus tenu à ces lettres de naturalisation, presque des\ntitres de noblesse, que lui avait octroyées le faubourg Saint-Germain,\nque comme à une sorte de valeur d’échange, de lettre de crédit dénuée\nde prix en elle-même, mais lui permettant de s’improviser une\nsituation dans tel petit trou de province ou tel milieu obscur de\nParis, où la fille du hobereau ou du greffier lui avait semblé jolie",
+      "start": 241,
+      "end": 818
+    },
+    {
+      "text": "Car le désir ou l’amour lui rendait alors un sentiment de vanité dont\nil était maintenant exempt dans l’habitude de la vie (bien que ce fût\nlui sans doute qui autrefois l’avait dirigé vers cette carrière\nmondaine où il avait gaspillé dans les plaisirs frivoles les dons de\nson esprit et fait servir son érudition en matière d’art à conseiller\nles dames de la société dans leurs achats de tableaux et pour\nl’ameublement de leurs hôtels), et qui lui faisait désirer de briller,\naux yeux d’une inconnue dont il s’était épris, d’une élégance que le\nnom de Swann à lui tout seul n’impliquait pas",
+      "start": 819,
+      "end": 1410
+    },
+    {
+      "text": "Il le désirait surtout\nsi l’inconnue était d’humble condition",
+      "start": 1411,
+      "end": 1473
+    },
+    {
+      "text": "De même que ce n’est pas à un\nautre homme intelligent qu’un homme intelligent aura peur de paraître\nbête, ce n’est pas par un grand seigneur, c’est par un rustre qu’un\nhomme élégant craindra de voir son élégance méconnue",
+      "start": 1474,
+      "end": 1695
+    },
+    {
+      "text": "Les trois quarts\ndes frais d’esprit et des mensonges de vanité qui ont été prodigués\ndepuis que le monde existe par des gens qu’ils ne faisaient que\ndiminuer, l’ont été pour des inférieurs",
+      "start": 1696,
+      "end": 1885
+    },
+    {
+      "text": "Et Swann qui était simple et\nnégligent avec une duchesse, tremblait d’être méprisé, posait, quand\nil était devant une femme de chambre",
+      "start": 1886,
+      "end": 2021
+    }
+  ],
+  "tokens": 346,
+  "processed_at": "2025-03-16T02:10:55.765707"
+}

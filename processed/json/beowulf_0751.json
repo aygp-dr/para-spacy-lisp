@@ -1,0 +1,37 @@
+{
+  "text": "Cottard à ces mots manifesta en même temps son étonnement et sa\nsoumission, comme devant une vérité contraire à tout ce qu’il avait\ncru jusque-là, mais d’une évidence irrésistible; et, baissant d’un air\nému et peureux son nez dans son assiette, il se contenta de répondre:\n«Ah!-ah!-ah!-ah!-ah!» en traversant à reculons, dans sa retraite\nrepliée en bon ordre jusqu’au fond de lui-même, le long d’une gamme\ndescendante, tout le registre de sa voix. Et il ne fut plus question\nde Swann chez les Verdurin.",
+  "entities": [
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 478,
+      "end": 483
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 493,
+      "end": 502
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cottard à ces mots manifesta en même temps son étonnement et sa\nsoumission, comme devant une vérité contraire à tout ce qu’il avait\ncru jusque-là, mais d’une évidence irrésistible; et, baissant d’un air\nému et peureux son nez dans son assiette, il se contenta de répondre:\n«Ah!-ah!-ah!-ah!-ah!» en traversant à reculons, dans sa retraite\nrepliée en bon ordre jusqu’au fond de lui-même, le long d’une gamme\ndescendante, tout le registre de sa voix",
+      "start": 0,
+      "end": 446
+    },
+    {
+      "text": "Et il ne fut plus question\nde Swann chez les Verdurin",
+      "start": 447,
+      "end": 501
+    }
+  ],
+  "tokens": 84,
+  "processed_at": "2025-03-16T02:10:56.798970"
+}

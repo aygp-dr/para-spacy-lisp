@@ -1,0 +1,57 @@
+{
+  "text": "Et pourtant il était content d’être venu: le tourment qui l’avait\nforcé de sortir de chez lui avait perdu de son acuité en perdant de\nson vague, maintenant que l’autre vie d’Odette, dont il avait eu, à ce\nmoment-là, le brusque et impuissant soupçon, il la tenait là, éclairée\nen plein par la lampe, prisonnière sans le savoir dans cette chambre\noù, quand il le voudrait, il entrerait la surprendre et la capturer;\nou plutôt il allait frapper aux volets comme il faisait souvent quand\nil venait très tard; ainsi du moins, Odette apprendrait qu’il avait\nsu, qu’il avait vu la lumière et entendu la causerie, et lui, qui,\ntout à l’heure, se la représentait comme se riant avec l’autre de ses\nillusions, maintenant, c’était eux qu’il voyait, confiants dans leur\nerreur, trompés en somme par lui qu’ils croyaient bien loin d’ici et\nqui, lui, savait déjà qu’il allait frapper aux volets. Et peut-être,\nce qu’il ressentait en ce moment de presque agréable, c’était autre\nchose aussi que l’apaisement d’un doute et d’une douleur: un plaisir\nde l’intelligence. Si, depuis qu’il était amoureux, les choses avaient\nrepris pour lui un peu de l’intérêt délicieux qu’il leur trouvait\nautrefois, mais seulement là où elles étaient éclairées par le\nsouvenir d’Odette, maintenant, c’était une autre faculté de sa\nstudieuse jeunesse que sa jalousie ranimait, la passion de la vérité,\nmais d’une vérité, elle aussi, interposée entre lui et sa maîtresse,\nne recevant sa lumière que d’elle, vérité tout individuelle qui avait\npour objet unique, d’un prix infini et presque d’une beauté\ndésintéressée, les actions d’Odette, ses relations, ses projets, son\npassé. A toute autre époque de sa vie, les petits faits et gestes\nquotidiens d’une personne avaient toujours paru sans valeur à Swann:\nsi on lui en faisait le commérage, il le trouvait insignifiant, et,\ntandis qu’il l’écoutait, ce n’était que sa plus vulgaire attention qui\ny était intéressée; c’était pour lui un des moments où il se sentait\nle plus médiocre. Mais dans cette étrange période de l’amour,\nl’individuel prend quelque chose de si profond, que cette curiosité\nqu’il sentait s’éveiller en lui à l’égard des moindres occupations\nd’une femme, c’était celle qu’il avait eue autrefois pour l’Histoire.\nEt tout ce dont il aurait eu honte jusqu’ici, espionner devant une\nfenêtre, qui sait, demain, peut-être faire parler habilement les\nindifférents, soudoyer les domestiques, écouter aux portes, ne lui\nsemblait plus, aussi bien que le déchiffrement des textes, la\ncomparaison des témoignages et l’interprétation des monuments, que des\nméthodes d’investigation scientifique d’une véritable valeur\nintellectuelle et appropriées à la recherche de la vérité.",
+  "entities": [
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 174,
+      "end": 180
+    },
+    {
+      "text": "Swann:",
+      "label": "ORG",
+      "start": 1762,
+      "end": 1768
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1995,
+      "end": 1999
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et pourtant il était content d’être venu: le tourment qui l’avait\nforcé de sortir de chez lui avait perdu de son acuité en perdant de\nson vague, maintenant que l’autre vie d’Odette, dont il avait eu, à ce\nmoment-là, le brusque et impuissant soupçon, il la tenait là, éclairée\nen plein par la lampe, prisonnière sans le savoir dans cette chambre\noù, quand il le voudrait, il entrerait la surprendre et la capturer;\nou plutôt il allait frapper aux volets comme il faisait souvent quand\nil venait très tard; ainsi du moins, Odette apprendrait qu’il avait\nsu, qu’il avait vu la lumière et entendu la causerie, et lui, qui,\ntout à l’heure, se la représentait comme se riant avec l’autre de ses\nillusions, maintenant, c’était eux qu’il voyait, confiants dans leur\nerreur, trompés en somme par lui qu’ils croyaient bien loin d’ici et\nqui, lui, savait déjà qu’il allait frapper aux volets",
+      "start": 0,
+      "end": 880
+    },
+    {
+      "text": "Et peut-être,\nce qu’il ressentait en ce moment de presque agréable, c’était autre\nchose aussi que l’apaisement d’un doute et d’une douleur: un plaisir\nde l’intelligence",
+      "start": 881,
+      "end": 1050
+    },
+    {
+      "text": "Si, depuis qu’il était amoureux, les choses avaient\nrepris pour lui un peu de l’intérêt délicieux qu’il leur trouvait\nautrefois, mais seulement là où elles étaient éclairées par le\nsouvenir d’Odette, maintenant, c’était une autre faculté de sa\nstudieuse jeunesse que sa jalousie ranimait, la passion de la vérité,\nmais d’une vérité, elle aussi, interposée entre lui et sa maîtresse,\nne recevant sa lumière que d’elle, vérité tout individuelle qui avait\npour objet unique, d’un prix infini et presque d’une beauté\ndésintéressée, les actions d’Odette, ses relations, ses projets, son\npassé",
+      "start": 1051,
+      "end": 1639
+    },
+    {
+      "text": "A toute autre époque de sa vie, les petits faits et gestes\nquotidiens d’une personne avaient toujours paru sans valeur à Swann:\nsi on lui en faisait le commérage, il le trouvait insignifiant, et,\ntandis qu’il l’écoutait, ce n’était que sa plus vulgaire attention qui\ny était intéressée; c’était pour lui un des moments où il se sentait\nle plus médiocre",
+      "start": 1640,
+      "end": 1993
+    },
+    {
+      "text": "Mais dans cette étrange période de l’amour,\nl’individuel prend quelque chose de si profond, que cette curiosité\nqu’il sentait s’éveiller en lui à l’égard des moindres occupations\nd’une femme, c’était celle qu’il avait eue autrefois pour l’Histoire",
+      "start": 1994,
+      "end": 2242
+    },
+    {
+      "text": "Et tout ce dont il aurait eu honte jusqu’ici, espionner devant une\nfenêtre, qui sait, demain, peut-être faire parler habilement les\nindifférents, soudoyer les domestiques, écouter aux portes, ne lui\nsemblait plus, aussi bien que le déchiffrement des textes, la\ncomparaison des témoignages et l’interprétation des monuments, que des\nméthodes d’investigation scientifique d’une véritable valeur\nintellectuelle et appropriées à la recherche de la vérité",
+      "start": 2243,
+      "end": 2694
+    }
+  ],
+  "tokens": 431,
+  "processed_at": "2025-03-16T02:10:56.661005"
+}

@@ -1,6 +1,6 @@
 # Makefile for para-spacy-lisp
 
-.PHONY: all setup run clean data paragraphs
+.PHONY: all setup run clean data paragraphs process
 
 all: setup
 
@@ -19,10 +19,16 @@ data: data/pg2650.txt
 
 # Parse book into paragraphs
 paragraphs: data/pg2650.txt
-	python scripts/paragraph_parser.py data/pg2650.txt -o data/paragraphs -p beowulf
+	python3 scripts/paragraph_parser.py data/pg2650.txt -o data/paragraphs -p beowulf
+
+# Process paragraphs to JSON and Lisp representations
+processed/json/beowulf_0001.json: data/paragraphs/beowulf_0001.txt scripts/process_paragraphs.py
+	python3 scripts/process_paragraphs.py data/paragraphs -o processed/json -l processed/lisp
+
+process: paragraphs processed/json/beowulf_0001.json
 
 # Clean up
 clean:
-	rm -rf venv data/paragraphs
+	rm -rf venv data/paragraphs processed
 	find . -type d -name __pycache__ -exec rm -rf {} +
 	find . -type f -name "*.pyc" -delete

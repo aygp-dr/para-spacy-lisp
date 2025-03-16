@@ -1,0 +1,31 @@
+{
+  "text": "--Mais ce pourrait être un parent, reprit Swann, cela serait assez\ntriste, mais enfin un homme de génie peut être le cousin d’une vieille\nbête. Si cela était, j’avoue qu’il n’y a pas de supplice que je ne\nm’imposerais pour que la vieille bête me présentât à l’auteur de la\nsonate: d’abord le supplice de fréquenter la vieille bête, et qui doit\nêtre affreux.",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 42,
+      "end": 48
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais ce pourrait être un parent, reprit Swann, cela serait assez\ntriste, mais enfin un homme de génie peut être le cousin d’une vieille\nbête",
+      "start": 0,
+      "end": 142
+    },
+    {
+      "text": "Si cela était, j’avoue qu’il n’y a pas de supplice que je ne\nm’imposerais pour que la vieille bête me présentât à l’auteur de la\nsonate: d’abord le supplice de fréquenter la vieille bête, et qui doit\nêtre affreux",
+      "start": 143,
+      "end": 356
+    }
+  ],
+  "tokens": 64,
+  "processed_at": "2025-03-16T02:10:55.986827"
+}

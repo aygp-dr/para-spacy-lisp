@@ -1,0 +1,20 @@
+{
+  "text": "--Mais non, il ne veut pas.",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais non, il ne veut pas",
+      "start": 0,
+      "end": 26
+    }
+  ],
+  "tokens": 6,
+  "processed_at": "2025-03-16T02:10:56.020068"
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Que le ciel reste toujours bleu pour vous, mon jeune ami; et même à\nl’heure, qui vient pour moi maintenant, où les bois sont déjà noirs,\noù la nuit tombe vite, vous vous consolerez comme je fais en regardant\ndu côté du ciel.» Il sortit de sa poche une cigarette, resta longtemps\nles yeux à l’horizon, «Adieu, les camarades», nous dit-il tout à coup,\net il nous quitta.",
+  "entities": [
+    {
+      "text": "«Adieu,",
+      "label": "ORG",
+      "start": 301,
+      "end": 308
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Que le ciel reste toujours bleu pour vous, mon jeune ami; et même à\nl’heure, qui vient pour moi maintenant, où les bois sont déjà noirs,\noù la nuit tombe vite, vous vous consolerez comme je fais en regardant\ndu côté du ciel",
+      "start": 0,
+      "end": 223
+    },
+    {
+      "text": "» Il sortit de sa poche une cigarette, resta longtemps\nles yeux à l’horizon, «Adieu, les camarades», nous dit-il tout à coup,\net il nous quitta",
+      "start": 224,
+      "end": 367
+    }
+  ],
+  "tokens": 68,
+  "processed_at": "2025-03-16T02:10:55.362720"
+}

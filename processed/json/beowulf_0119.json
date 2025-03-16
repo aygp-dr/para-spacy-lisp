@@ -1,0 +1,20 @@
+{
+  "text": "--Je ne demande pas à aller à cent ans, répondait ma tante qui\npréférait ne pas voir assigner à ses jours un terme précis.",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je ne demande pas à aller à cent ans, répondait ma tante qui\npréférait ne pas voir assigner à ses jours un terme précis",
+      "start": 0,
+      "end": 121
+    }
+  ],
+  "tokens": 24,
+  "processed_at": "2025-03-16T02:10:54.801316"
+}

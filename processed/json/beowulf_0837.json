@@ -1,0 +1,26 @@
+{
+  "text": "--Mais non, cet amour de Charles, je ne savais pas qu’il fût là, je\nvais tâcher qu’il me voie.",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Charles,",
+      "label": "ORG",
+      "start": 25,
+      "end": 33
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais non, cet amour de Charles, je ne savais pas qu’il fût là, je\nvais tâcher qu’il me voie",
+      "start": 0,
+      "end": 93
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:57.065240"
+}

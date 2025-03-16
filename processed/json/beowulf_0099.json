@@ -1,0 +1,32 @@
+{
+  "text": "--«Comment, Françoise, encore des asperges! mais c’est une vraie\nmaladie d’asperges que vous avez cette année, vous allez en fatiguer\nnos Parisiens!»",
+  "entities": [
+    {
+      "text": "--«Comment,",
+      "label": "ORG",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 12,
+      "end": 22
+    },
+    {
+      "text": "Parisiens!»",
+      "label": "ORG",
+      "start": 138,
+      "end": 149
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Comment, Françoise, encore des asperges! mais c’est une vraie\nmaladie d’asperges que vous avez cette année, vous allez en fatiguer\nnos Parisiens!»",
+      "start": 0,
+      "end": 149
+    }
+  ],
+  "tokens": 22,
+  "processed_at": "2025-03-16T02:10:54.725873"
+}

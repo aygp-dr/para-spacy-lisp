@@ -1,0 +1,26 @@
+{
+  "text": "--Naturellement, c’est comme avec moi, dit Odette d’un ton boudeur, je\nne suis pas fâchée de voir que je ne suis pas la seule qu’il ne trouve\npas à la hauteur.",
+  "entities": [
+    {
+      "text": "--Naturellement,",
+      "label": "ORG",
+      "start": 0,
+      "end": 16
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 43,
+      "end": 49
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Naturellement, c’est comme avec moi, dit Odette d’un ton boudeur, je\nne suis pas fâchée de voir que je ne suis pas la seule qu’il ne trouve\npas à la hauteur",
+      "start": 0,
+      "end": 158
+    }
+  ],
+  "tokens": 31,
+  "processed_at": "2025-03-16T02:10:56.478633"
+}

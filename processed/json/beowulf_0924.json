@@ -1,0 +1,25 @@
+{
+  "text": "--Oui, je sais, mais en es-tu sûre? Ne me dis pas: «Tu le sais bien»,\ndis-moi: «Je n’ai jamais fait ce genre de choses avec aucune femme.»",
+  "entities": [
+    {
+      "text": "--Oui,",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Oui, je sais, mais en es-tu sûre? Ne me dis pas: «Tu le sais bien»,\ndis-moi: «Je n’ai jamais fait ce genre de choses avec aucune femme",
+      "start": 0,
+      "end": 136
+    },
+    {
+      "text": "»",
+      "start": 67,
+      "end": 68
+    }
+  ],
+  "tokens": 27,
+  "processed_at": "2025-03-16T02:10:57.331502"
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Mme de Saint-Euverte voulut donner son fauteuil à la princesse qui\nrépondit:",
+  "entities": [
+    {
+      "text": "Saint-Euverte",
+      "label": "ORG",
+      "start": 7,
+      "end": 20
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mme de Saint-Euverte voulut donner son fauteuil à la princesse qui\nrépondit:",
+      "start": 0,
+      "end": 76
+    }
+  ],
+  "tokens": 12,
+  "processed_at": "2025-03-16T02:10:57.108364"
+}

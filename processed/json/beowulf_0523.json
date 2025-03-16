@@ -1,0 +1,26 @@
+{
+  "text": "Ainsi le simple fonctionnement de cet organisme social qu’était le\npetit «clan» prenait automatiquement pour Swann des rendez-vous\nquotidiens avec Odette et lui permettait de feindre une indifférence à\nla voir, ou même un désir de ne plus la voir, qui ne lui faisait pas\ncourir de grands risques, puisque, quoi qu’il lui eût écrit dans la\njournée, il la verrait forcément le soir et la ramènerait chez elle.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 109,
+      "end": 114
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 147,
+      "end": 153
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ainsi le simple fonctionnement de cet organisme social qu’était le\npetit «clan» prenait automatiquement pour Swann des rendez-vous\nquotidiens avec Odette et lui permettait de feindre une indifférence à\nla voir, ou même un désir de ne plus la voir, qui ne lui faisait pas\ncourir de grands risques, puisque, quoi qu’il lui eût écrit dans la\njournée, il la verrait forcément le soir et la ramènerait chez elle",
+      "start": 0,
+      "end": 406
+    }
+  ],
+  "tokens": 69,
+  "processed_at": "2025-03-16T02:10:56.124540"
+}

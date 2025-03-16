@@ -1,0 +1,20 @@
+{
+  "text": "--«Mais non, mon petit, pas de catleyas ce soir, tu vois bien que je\nsuis souffrante!»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais non, mon petit, pas de catleyas ce soir, tu vois bien que je\nsuis souffrante!»",
+      "start": 0,
+      "end": 86
+    }
+  ],
+  "tokens": 16,
+  "processed_at": "2025-03-16T02:10:56.652357"
+}

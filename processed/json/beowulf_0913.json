@@ -1,0 +1,267 @@
+{
+  "text": "Elle avait disparu. Swann savait qu’elle reparaîtrait à la fin du\ndernier mouvement, après tout un long morceau que le pianiste de Mme\nVerdurin sautait toujours. Il y avait là d’admirables idées que Swann\nn’avait pas distinguées à la première audition et qu’il percevait\nmaintenant, comme si elles se fussent, dans le vestiaire de sa\nmémoire, débarrassées du déguisement uniforme de la nouveauté. Swann\nécoutait tous les thèmes épars qui entreraient dans la composition de\nla phrase, comme les prémisses dans la conclusion nécessaire, il\nassistait à sa genèse. «O audace aussi géniale peut-être, se\ndisait-il, que celle d’un Lavoisier, d’un Ampère, l’audace d’un\nVinteuil expérimentant, découvrant les lois secrètes d’une force\ninconnue, menant à travers l’inexploré, vers le seul but possible,\nl’attelage invisible auquel il se fie et qu’il n’apercevra jamais.» Le\nbeau dialogue que Swann entendit entre le piano et le violon au\ncommencement du dernier morceau! La suppression des mots humains, loin\nd’y laisser régner la fantaisie, comme on aurait pu croire, l’en avait\néliminée; jamais le langage parlé ne fut si inflexiblement nécessité,\nne connut à ce point la pertinence des questions, l’évidence des\nréponses. D’abord le piano solitaire se plaignit, comme un oiseau\nabandonné de sa compagne; le violon l’entendit, lui répondit comme\nd’un arbre voisin. C’était comme au commencement du monde, comme s’il\nn’y avait encore eu qu’eux deux sur la terre, ou plutôt dans ce monde\nfermé à tout le reste, construit par la logique d’un créateur et où\nils ne seraient jamais que tous les deux: cette sonate. Est-ce un\noiseau, est-ce l’âme incomplète encore de la petite phrase, est-ce une\nfée, invisible et gémissant dont le piano ensuite redisait tendrement\nla plainte? Ses cris étaient si soudains que le violoniste devait se\nprécipiter sur son archet pour les recueillir. Merveilleux oiseau! le\nvioloniste semblait vouloir le charmer, l’apprivoiser, le capter. Déjà\nil avait passé dans son âme, déjà la petite phrase évoquée agitait\ncomme celui d’un médium le corps vraiment possédé du violoniste. Swann\nsavait qu’elle allait parler encore une fois. Et il s’était si bien\ndédoublé que l’attente de l’instant imminent où il allait se retrouver\nen face d’elle le secoua d’un de ces sanglots qu’un beau vers ou une\ntriste nouvelle provoquent en nous, non pas quand nous sommes seuls,\nmais si nous les apprenons à des amis en qui nous nous apercevons\ncomme un autre dont l’émotion probable les attendrit. Elle reparut,\nmais cette fois pour se suspendre dans l’air et se jouer un instant\nseulement, comme immobile, et pour expirer après. Aussi Swann ne\nperdait-il rien du temps si court où elle se prorogeait. Elle était\nencore là comme une bulle irisée qui se soutient. Tel un arc-en-ciel,\ndont l’éclat faiblit, s’abaisse, puis se relève et avant de\ns’éteindre, s’exalte un moment comme il n’avait pas encore fait: aux\ndeux couleurs qu’elle avait jusque-là laissé paraître, elle ajouta\nd’autres cordes diaprées, toutes celles du prisme, et les fit chanter.\nSwann n’osait pas bouger et aurait voulu faire tenir tranquilles aussi\nles autres personnes, comme si le moindre mouvement avait pu\ncompromettre le prestige surnaturel, délicieux et fragile qui était si\nprès de s’évanouir. Personne, à dire vrai, ne songeait à parler. La\nparole ineffable d’un seul absent, peut-être d’un mort (Swann ne\nsavait pas si Vinteuil vivait encore) s’exhalant au-dessus des rites\nde ces officiants, suffisait à tenir en échec l’attention de trois\ncents personnes, et faisait de cette estrade où une âme était ainsi\névoquée un des plus nobles autels où pût s’accomplir une cérémonie\nsurnaturelle. De sorte que quand la phrase se fut enfin défaite\nflottant en lambeaux dans les motifs suivants qui déjà avaient pris sa\nplace, si Swann au premier instant fut irrité de voir la comtesse de\nMonteriender, célèbre par ses naïvetés, se pencher vers lui pour lui\nconfier ses impressions avant même que la sonate fût finie, il ne put\ns’empêcher de sourire, et peut-être de trouver aussi un sens profond\nqu’elle n’y voyait pas, dans les mots dont elle se servit. Émerveillée\npar la virtuosité des exécutants, la comtesse s’écria en s’adressant à\nSwann: «C’est prodigieux, je n’ai jamais rien vu d’aussi fort...» Mais\nun scrupule d’exactitude lui faisant corriger cette première\nassertion, elle ajouta cette réserve: «rien d’aussi fort... depuis les\ntables tournantes!»",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 20,
+      "end": 25
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 135,
+      "end": 143
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 199,
+      "end": 204
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 397,
+      "end": 402
+    },
+    {
+      "text": "Lavoisier,",
+      "label": "ORG",
+      "start": 625,
+      "end": 635
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 663,
+      "end": 671
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 884,
+      "end": 889
+    },
+    {
+      "text": "Merveilleux",
+      "label": "ORG",
+      "start": 1871,
+      "end": 1882
+    },
+    {
+      "text": "Déjà",
+      "label": "ORG",
+      "start": 1960,
+      "end": 1964
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2097,
+      "end": 2102
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 2500,
+      "end": 2504
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2638,
+      "end": 2643
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 2704,
+      "end": 2708
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3052,
+      "end": 3057
+    },
+    {
+      "text": "Personne,",
+      "label": "ORG",
+      "start": 3275,
+      "end": 3284
+    },
+    {
+      "text": "(Swann",
+      "label": "ORG",
+      "start": 3378,
+      "end": 3384
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 3402,
+      "end": 3410
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3804,
+      "end": 3809
+    },
+    {
+      "text": "Monteriender,",
+      "label": "ORG",
+      "start": 3863,
+      "end": 3876
+    },
+    {
+      "text": "Émerveillée",
+      "label": "ORG",
+      "start": 4130,
+      "end": 4141
+    },
+    {
+      "text": "Swann:",
+      "label": "ORG",
+      "start": 4213,
+      "end": 4219
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 4279,
+      "end": 4283
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle avait disparu",
+      "start": 0,
+      "end": 18
+    },
+    {
+      "text": "Swann savait qu’elle reparaîtrait à la fin du\ndernier mouvement, après tout un long morceau que le pianiste de Mme\nVerdurin sautait toujours",
+      "start": 19,
+      "end": 160
+    },
+    {
+      "text": "Il y avait là d’admirables idées que Swann\nn’avait pas distinguées à la première audition et qu’il percevait\nmaintenant, comme si elles se fussent, dans le vestiaire de sa\nmémoire, débarrassées du déguisement uniforme de la nouveauté",
+      "start": 161,
+      "end": 395
+    },
+    {
+      "text": "Swann\nécoutait tous les thèmes épars qui entreraient dans la composition de\nla phrase, comme les prémisses dans la conclusion nécessaire, il\nassistait à sa genèse",
+      "start": 396,
+      "end": 559
+    },
+    {
+      "text": "«O audace aussi géniale peut-être, se\ndisait-il, que celle d’un Lavoisier, d’un Ampère, l’audace d’un\nVinteuil expérimentant, découvrant les lois secrètes d’une force\ninconnue, menant à travers l’inexploré, vers le seul but possible,\nl’attelage invisible auquel il se fie et qu’il n’apercevra jamais",
+      "start": 560,
+      "end": 860
+    },
+    {
+      "text": "» Le\nbeau dialogue que Swann entendit entre le piano et le violon au\ncommencement du dernier morceau! La suppression des mots humains, loin\nd’y laisser régner la fantaisie, comme on aurait pu croire, l’en avait\néliminée; jamais le langage parlé ne fut si inflexiblement nécessité,\nne connut à ce point la pertinence des questions, l’évidence des\nréponses",
+      "start": 861,
+      "end": 1215
+    },
+    {
+      "text": "D’abord le piano solitaire se plaignit, comme un oiseau\nabandonné de sa compagne; le violon l’entendit, lui répondit comme\nd’un arbre voisin",
+      "start": 1216,
+      "end": 1357
+    },
+    {
+      "text": "C’était comme au commencement du monde, comme s’il\nn’y avait encore eu qu’eux deux sur la terre, ou plutôt dans ce monde\nfermé à tout le reste, construit par la logique d’un créateur et où\nils ne seraient jamais que tous les deux: cette sonate",
+      "start": 1358,
+      "end": 1602
+    },
+    {
+      "text": "Est-ce un\noiseau, est-ce l’âme incomplète encore de la petite phrase, est-ce une\nfée, invisible et gémissant dont le piano ensuite redisait tendrement\nla plainte? Ses cris étaient si soudains que le violoniste devait se\nprécipiter sur son archet pour les recueillir",
+      "start": 1603,
+      "end": 1869
+    },
+    {
+      "text": "Merveilleux oiseau! le\nvioloniste semblait vouloir le charmer, l’apprivoiser, le capter",
+      "start": 1870,
+      "end": 1958
+    },
+    {
+      "text": "Déjà\nil avait passé dans son âme, déjà la petite phrase évoquée agitait\ncomme celui d’un médium le corps vraiment possédé du violoniste",
+      "start": 1959,
+      "end": 2095
+    },
+    {
+      "text": "Swann\nsavait qu’elle allait parler encore une fois",
+      "start": 2096,
+      "end": 2147
+    },
+    {
+      "text": "Et il s’était si bien\ndédoublé que l’attente de l’instant imminent où il allait se retrouver\nen face d’elle le secoua d’un de ces sanglots qu’un beau vers ou une\ntriste nouvelle provoquent en nous, non pas quand nous sommes seuls,\nmais si nous les apprenons à des amis en qui nous nous apercevons\ncomme un autre dont l’émotion probable les attendrit",
+      "start": 2148,
+      "end": 2498
+    },
+    {
+      "text": "Elle reparut,\nmais cette fois pour se suspendre dans l’air et se jouer un instant\nseulement, comme immobile, et pour expirer après",
+      "start": 2499,
+      "end": 2630
+    },
+    {
+      "text": "Aussi Swann ne\nperdait-il rien du temps si court où elle se prorogeait",
+      "start": 2631,
+      "end": 2702
+    },
+    {
+      "text": "Elle était\nencore là comme une bulle irisée qui se soutient",
+      "start": 2703,
+      "end": 2763
+    },
+    {
+      "text": "Tel un arc-en-ciel,\ndont l’éclat faiblit, s’abaisse, puis se relève et avant de\ns’éteindre, s’exalte un moment comme il n’avait pas encore fait: aux\ndeux couleurs qu’elle avait jusque-là laissé paraître, elle ajouta\nd’autres cordes diaprées, toutes celles du prisme, et les fit chanter",
+      "start": 2764,
+      "end": 3050
+    },
+    {
+      "text": "Swann n’osait pas bouger et aurait voulu faire tenir tranquilles aussi\nles autres personnes, comme si le moindre mouvement avait pu\ncompromettre le prestige surnaturel, délicieux et fragile qui était si\nprès de s’évanouir",
+      "start": 3051,
+      "end": 3273
+    },
+    {
+      "text": "Personne, à dire vrai, ne songeait à parler",
+      "start": 3274,
+      "end": 3318
+    },
+    {
+      "text": "La\nparole ineffable d’un seul absent, peut-être d’un mort (Swann ne\nsavait pas si Vinteuil vivait encore) s’exhalant au-dessus des rites\nde ces officiants, suffisait à tenir en échec l’attention de trois\ncents personnes, et faisait de cette estrade où une âme était ainsi\névoquée un des plus nobles autels où pût s’accomplir une cérémonie\nsurnaturelle",
+      "start": 3319,
+      "end": 3671
+    },
+    {
+      "text": "De sorte que quand la phrase se fut enfin défaite\nflottant en lambeaux dans les motifs suivants qui déjà avaient pris sa\nplace, si Swann au premier instant fut irrité de voir la comtesse de\nMonteriender, célèbre par ses naïvetés, se pencher vers lui pour lui\nconfier ses impressions avant même que la sonate fût finie, il ne put\ns’empêcher de sourire, et peut-être de trouver aussi un sens profond\nqu’elle n’y voyait pas, dans les mots dont elle se servit",
+      "start": 3672,
+      "end": 4128
+    },
+    {
+      "text": "Émerveillée\npar la virtuosité des exécutants, la comtesse s’écria en s’adressant à\nSwann: «C’est prodigieux, je n’ai jamais rien vu d’aussi fort",
+      "start": 4129,
+      "end": 4274
+    },
+    {
+      "text": "» Mais\nun scrupule d’exactitude lui faisant corriger cette première\nassertion, elle ajouta cette réserve: «rien d’aussi fort",
+      "start": 4277,
+      "end": 4401
+    },
+    {
+      "text": "depuis les\ntables tournantes!»",
+      "start": 4404,
+      "end": 4435
+    }
+  ],
+  "tokens": 714,
+  "processed_at": "2025-03-16T02:10:57.289079"
+}

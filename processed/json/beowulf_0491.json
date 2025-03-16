@@ -1,0 +1,32 @@
+{
+  "text": "--Je vous promets de m’en occuper, vous l’aurez à temps pour la reprise\ndes Danicheff, je déjeune justement demain avec le Préfet de police à\nl’Elysée.",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Danicheff,",
+      "label": "ORG",
+      "start": 76,
+      "end": 86
+    },
+    {
+      "text": "Préfet",
+      "label": "ORG",
+      "start": 123,
+      "end": 129
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je vous promets de m’en occuper, vous l’aurez à temps pour la reprise\ndes Danicheff, je déjeune justement demain avec le Préfet de police à\nl’Elysée",
+      "start": 0,
+      "end": 150
+    }
+  ],
+  "tokens": 26,
+  "processed_at": "2025-03-16T02:10:56.029847"
+}

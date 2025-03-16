@@ -1,0 +1,75 @@
+{
+  "text": "--Non, c’est une petite Mme de Cambremer, répondit étourdiment la\nprincesse et elle ajouta vivement: Je vous répète ce que j’ai entendu\ndire, je n’ai aucune espèce de notion de qui c’est, on a dit derrière\nmoi que c’étaient des voisins de campagne de Mme de Saint-Euverte,\nmais je ne crois pas que personne les connaisse. Ça doit être des\n«gens de la campagne»! Du reste, je ne sais pas si vous êtes très\nrépandu dans la brillante société qui se trouve ici, mais je n’ai pas\nidée du nom de toutes ces étonnantes personnes. A quoi pensez-vous\nqu’ils passent leur vie en dehors des soirées de Mme de Saint-Euverte?\nElle a dû les faire venir avec les musiciens, les chaises et les\nrafraîchissements. Avouez que ces «invités de chez Belloir» sont\nmagnifiques. Est-ce que vraiment elle a le courage de louer ces\nfigurants toutes les semaines. Ce n’est pas possible!",
+  "entities": [
+    {
+      "text": "--Non,",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Cambremer,",
+      "label": "ORG",
+      "start": 31,
+      "end": 41
+    },
+    {
+      "text": "Saint-Euverte,",
+      "label": "ORG",
+      "start": 258,
+      "end": 272
+    },
+    {
+      "text": "Saint-Euverte?",
+      "label": "ORG",
+      "start": 598,
+      "end": 612
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 613,
+      "end": 617
+    },
+    {
+      "text": "Belloir»",
+      "label": "ORG",
+      "start": 729,
+      "end": 737
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Non, c’est une petite Mme de Cambremer, répondit étourdiment la\nprincesse et elle ajouta vivement: Je vous répète ce que j’ai entendu\ndire, je n’ai aucune espèce de notion de qui c’est, on a dit derrière\nmoi que c’étaient des voisins de campagne de Mme de Saint-Euverte,\nmais je ne crois pas que personne les connaisse",
+      "start": 0,
+      "end": 320
+    },
+    {
+      "text": "Ça doit être des\n«gens de la campagne»! Du reste, je ne sais pas si vous êtes très\nrépandu dans la brillante société qui se trouve ici, mais je n’ai pas\nidée du nom de toutes ces étonnantes personnes",
+      "start": 321,
+      "end": 521
+    },
+    {
+      "text": "A quoi pensez-vous\nqu’ils passent leur vie en dehors des soirées de Mme de Saint-Euverte?\nElle a dû les faire venir avec les musiciens, les chaises et les\nrafraîchissements",
+      "start": 522,
+      "end": 695
+    },
+    {
+      "text": "Avouez que ces «invités de chez Belloir» sont\nmagnifiques",
+      "start": 696,
+      "end": 754
+    },
+    {
+      "text": "Est-ce que vraiment elle a le courage de louer ces\nfigurants toutes les semaines",
+      "start": 755,
+      "end": 836
+    },
+    {
+      "text": "Ce n’est pas possible!",
+      "start": 837,
+      "end": 860
+    }
+  ],
+  "tokens": 151,
+  "processed_at": "2025-03-16T02:10:57.129133"
+}

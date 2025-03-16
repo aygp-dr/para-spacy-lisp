@@ -1,0 +1,54 @@
+{
+  "text": "Cette petite scène qui se renouvelait chaque fois que le pianiste\nallait jouer enchantait les amis aussi bien que si elle avait été\nnouvelle, comme une preuve de la séduisante originalité de la\n«Patronne» et de sa sensibilité musicale. Ceux qui étaient près d’elle\nfaisaient signe à ceux qui plus loin fumaient ou jouaient aux cartes,\nde se rapprocher, qu’il se passait quelque chose, leur disant, comme\non fait au Reichstag dans les moments intéressants: «Écoutez,\nécoutez.» Et le lendemain on donnait des regrets à ceux qui n’avaient\npas pu venir en leur disant que la scène avait été encore plus\namusante que d’habitude.",
+  "entities": [
+    {
+      "text": "Cette",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "«Patronne»",
+      "label": "ORG",
+      "start": 194,
+      "end": 204
+    },
+    {
+      "text": "Ceux",
+      "label": "ORG",
+      "start": 236,
+      "end": 240
+    },
+    {
+      "text": "Reichstag",
+      "label": "ORG",
+      "start": 415,
+      "end": 424
+    },
+    {
+      "text": "«Écoutez,",
+      "label": "ORG",
+      "start": 456,
+      "end": 465
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cette petite scène qui se renouvelait chaque fois que le pianiste\nallait jouer enchantait les amis aussi bien que si elle avait été\nnouvelle, comme une preuve de la séduisante originalité de la\n«Patronne» et de sa sensibilité musicale",
+      "start": 0,
+      "end": 234
+    },
+    {
+      "text": "Ceux qui étaient près d’elle\nfaisaient signe à ceux qui plus loin fumaient ou jouaient aux cartes,\nde se rapprocher, qu’il se passait quelque chose, leur disant, comme\non fait au Reichstag dans les moments intéressants: «Écoutez,\nécoutez",
+      "start": 235,
+      "end": 473
+    },
+    {
+      "text": "» Et le lendemain on donnait des regrets à ceux qui n’avaient\npas pu venir en leur disant que la scène avait été encore plus\namusante que d’habitude",
+      "start": 474,
+      "end": 622
+    }
+  ],
+  "tokens": 104,
+  "processed_at": "2025-03-16T02:10:55.883028"
+}

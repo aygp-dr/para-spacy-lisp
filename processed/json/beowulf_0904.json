@@ -1,0 +1,54 @@
+{
+  "text": "Quand enfin Swann présenta M. de Froberville à la jeune Mme de\nCambremer, comme c’était la première fois qu’elle entendait le nom du\ngénéral, elle esquissa le sourire de joie et de surprise qu’elle\naurait eu si on n’en avait jamais prononcé devant elle d’autre que\ncelui-là, car ne connaissant pas les amis de sa nouvelle famille, à\nchaque personne qu’on lui amenait, elle croyait que c’était l’un\nd’eux, et pensant qu’elle faisait preuve de tact en ayant l’air d’en\navoir tant entendu parler depuis qu’elle était mariée, elle tendait la\nmain d’un air hésitant destiné à prouver la réserve apprise qu’elle\navait à vaincre et la sympathie spontanée qui réussissait à en\ntriompher. Aussi ses beaux-parents, qu’elle croyait encore les gens\nles plus brillants de France, déclaraient-ils qu’elle était un ange;\nd’autant plus qu’ils préféraient paraître, en la faisant épouser à\nleur fils, avoir cédé à l’attrait plutôt de ses qualités que de sa\ngrande fortune.",
+  "entities": [
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 12,
+      "end": 17
+    },
+    {
+      "text": "Froberville",
+      "label": "ORG",
+      "start": 33,
+      "end": 44
+    },
+    {
+      "text": "Cambremer,",
+      "label": "ORG",
+      "start": 63,
+      "end": 73
+    },
+    {
+      "text": "France,",
+      "label": "ORG",
+      "start": 759,
+      "end": 766
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quand enfin Swann présenta M",
+      "start": 0,
+      "end": 28
+    },
+    {
+      "text": "de Froberville à la jeune Mme de\nCambremer, comme c’était la première fois qu’elle entendait le nom du\ngénéral, elle esquissa le sourire de joie et de surprise qu’elle\naurait eu si on n’en avait jamais prononcé devant elle d’autre que\ncelui-là, car ne connaissant pas les amis de sa nouvelle famille, à\nchaque personne qu’on lui amenait, elle croyait que c’était l’un\nd’eux, et pensant qu’elle faisait preuve de tact en ayant l’air d’en\navoir tant entendu parler depuis qu’elle était mariée, elle tendait la\nmain d’un air hésitant destiné à prouver la réserve apprise qu’elle\navait à vaincre et la sympathie spontanée qui réussissait à en\ntriompher",
+      "start": 29,
+      "end": 678
+    },
+    {
+      "text": "Aussi ses beaux-parents, qu’elle croyait encore les gens\nles plus brillants de France, déclaraient-ils qu’elle était un ange;\nd’autant plus qu’ils préféraient paraître, en la faisant épouser à\nleur fils, avoir cédé à l’attrait plutôt de ses qualités que de sa\ngrande fortune",
+      "start": 679,
+      "end": 954
+    }
+  ],
+  "tokens": 157,
+  "processed_at": "2025-03-16T02:10:57.263401"
+}

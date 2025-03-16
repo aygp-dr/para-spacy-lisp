@@ -1,0 +1,101 @@
+{
+  "text": "Souvent sur la place, quand nous rentrions, ma grand’mère me faisait\narrêter pour le regarder. Des fenêtres de sa tour, placées deux par\ndeux les unes au-dessus des autres, avec cette juste et originale\nproportion dans les distances qui ne donne pas de la beauté et de la\ndignité qu’aux visages humains, il lâchait, laissait tomber à\nintervalles réguliers des volées de corbeaux qui, pendant un moment,\ntournoyaient en criant, comme si les vieilles pierres qui les\nlaissaient s’ébattre sans paraître les voir, devenues tout d’un coup\ninhabitables et dégageant un principe d’agitation infinie, les avait\nfrappés et repoussés. Puis, après avoir rayé en tous sens le velours\nviolet de l’air du soir, brusquement calmés ils revenaient s’absorber\ndans la tour, de néfaste redevenue propice, quelques-uns posés çà et\nlà, ne semblant pas bouger, mais happant peut-être quelque insecte,\nsur la pointe d’un clocheton, comme une mouette arrêtée avec\nl’immobilité d’un pêcheur à la crête d’une vague. Sans trop savoir\npourquoi, ma grand’mère trouvait au clocher de Saint-Hilaire cette\nabsence de vulgarité, de prétention, de mesquinerie, qui lui faisait\naimer et croire riches d’une influence bienfaisante, la nature, quand\nla main de l’homme ne l’avait pas, comme faisait le jardinier de ma\ngrand’tante, rapetissée, et les œuvres de génie. Et sans doute, toute\npartie de l’église qu’on apercevait la distinguait de tout autre\nédifice par une sorte de pensée qui lui était infuse, mais c’était\ndans son clocher qu’elle semblait prendre conscience d’elle-même,\naffirmer une existence individuelle et responsable. C’était lui qui\nparlait pour elle. Je crois surtout que, confusément, ma grand’mère\ntrouvait au clocher de Combray ce qui pour elle avait le plus de prix\nau monde, l’air naturel et l’air distingué. Ignorante en architecture,\nelle disait: «Mes enfants, moquez-vous de moi si vous voulez, il n’est\npeut-être pas beau dans les règles, mais sa vieille figure bizarre me\nplaît. Je suis sûre que s’il jouait du piano, il ne jouerait pas sec.»\nEt en le regardant, en suivant des yeux la douce tension,\nl’inclinaison fervente de ses pentes de pierre qui se rapprochaient en\ns’élevant comme des mains jointes qui prient, elle s’unissait si bien\nà l’effusion de la flèche, que son regard semblait s’élancer avec\nelle; et en même temps elle souriait amicalement aux vieilles pierres\nusées dont le couchant n’éclairait plus que le faîte et qui, à partir\ndu moment où elles entraient dans cette zone ensoleillée, adoucies par\nla lumière, paraissaient tout d’un coup montées bien plus haut,\nlointaines, comme un chant repris «en voix de tête» une octave\nau-dessus.",
+  "entities": [
+    {
+      "text": "Souvent",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Puis,",
+      "label": "ORG",
+      "start": 625,
+      "end": 630
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 990,
+      "end": 994
+    },
+    {
+      "text": "Saint-Hilaire",
+      "label": "ORG",
+      "start": 1054,
+      "end": 1067
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1708,
+      "end": 1715
+    },
+    {
+      "text": "Ignorante",
+      "label": "ORG",
+      "start": 1799,
+      "end": 1808
+    },
+    {
+      "text": "«Mes",
+      "label": "ORG",
+      "start": 1839,
+      "end": 1843
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Souvent sur la place, quand nous rentrions, ma grand’mère me faisait\narrêter pour le regarder",
+      "start": 0,
+      "end": 93
+    },
+    {
+      "text": "Des fenêtres de sa tour, placées deux par\ndeux les unes au-dessus des autres, avec cette juste et originale\nproportion dans les distances qui ne donne pas de la beauté et de la\ndignité qu’aux visages humains, il lâchait, laissait tomber à\nintervalles réguliers des volées de corbeaux qui, pendant un moment,\ntournoyaient en criant, comme si les vieilles pierres qui les\nlaissaient s’ébattre sans paraître les voir, devenues tout d’un coup\ninhabitables et dégageant un principe d’agitation infinie, les avait\nfrappés et repoussés",
+      "start": 94,
+      "end": 623
+    },
+    {
+      "text": "Puis, après avoir rayé en tous sens le velours\nviolet de l’air du soir, brusquement calmés ils revenaient s’absorber\ndans la tour, de néfaste redevenue propice, quelques-uns posés çà et\nlà, ne semblant pas bouger, mais happant peut-être quelque insecte,\nsur la pointe d’un clocheton, comme une mouette arrêtée avec\nl’immobilité d’un pêcheur à la crête d’une vague",
+      "start": 624,
+      "end": 988
+    },
+    {
+      "text": "Sans trop savoir\npourquoi, ma grand’mère trouvait au clocher de Saint-Hilaire cette\nabsence de vulgarité, de prétention, de mesquinerie, qui lui faisait\naimer et croire riches d’une influence bienfaisante, la nature, quand\nla main de l’homme ne l’avait pas, comme faisait le jardinier de ma\ngrand’tante, rapetissée, et les œuvres de génie",
+      "start": 989,
+      "end": 1328
+    },
+    {
+      "text": "Et sans doute, toute\npartie de l’église qu’on apercevait la distinguait de tout autre\nédifice par une sorte de pensée qui lui était infuse, mais c’était\ndans son clocher qu’elle semblait prendre conscience d’elle-même,\naffirmer une existence individuelle et responsable",
+      "start": 1329,
+      "end": 1599
+    },
+    {
+      "text": "C’était lui qui\nparlait pour elle",
+      "start": 1600,
+      "end": 1634
+    },
+    {
+      "text": "Je crois surtout que, confusément, ma grand’mère\ntrouvait au clocher de Combray ce qui pour elle avait le plus de prix\nau monde, l’air naturel et l’air distingué",
+      "start": 1635,
+      "end": 1797
+    },
+    {
+      "text": "Ignorante en architecture,\nelle disait: «Mes enfants, moquez-vous de moi si vous voulez, il n’est\npeut-être pas beau dans les règles, mais sa vieille figure bizarre me\nplaît",
+      "start": 1798,
+      "end": 1972
+    },
+    {
+      "text": "Je suis sûre que s’il jouait du piano, il ne jouerait pas sec",
+      "start": 1973,
+      "end": 2035
+    },
+    {
+      "text": "»\nEt en le regardant, en suivant des yeux la douce tension,\nl’inclinaison fervente de ses pentes de pierre qui se rapprochaient en\ns’élevant comme des mains jointes qui prient, elle s’unissait si bien\nà l’effusion de la flèche, que son regard semblait s’élancer avec\nelle; et en même temps elle souriait amicalement aux vieilles pierres\nusées dont le couchant n’éclairait plus que le faîte et qui, à partir\ndu moment où elles entraient dans cette zone ensoleillée, adoucies par\nla lumière, paraissaient tout d’un coup montées bien plus haut,\nlointaines, comme un chant repris «en voix de tête» une octave\nau-dessus",
+      "start": 2036,
+      "end": 2650
+    }
+  ],
+  "tokens": 425,
+  "processed_at": "2025-03-16T02:10:54.753666"
+}

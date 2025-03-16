@@ -1,0 +1,52 @@
+{
+  "text": "Il rentra chez lui en quittant la poste, mais il avait gardé sur lui\ncette dernière lettre. Il alluma une bougie et en approcha l’enveloppe\nqu’il n’avait pas osé ouvrir. D’abord il ne put rien lire, mais\nl’enveloppe était mince, et en la faisant adhérer à la carte dure qui\ny était incluse, il put à travers sa transparence, lire les derniers\nmots. C’était une formule finale très froide. Si, au lieu que ce fût\nlui qui regardât une lettre adressée à Forcheville, c’eût été\nForcheville qui eût lu une lettre adressée à Swann, il aurait pu voir\ndes mots autrement tendres! Il maintint immobile la carte qui dansait\ndans l’enveloppe plus grande qu’elle, puis, la faisant glisser avec le\npouce, en amena successivement les différentes lignes sous la partie\nde l’enveloppe qui n’était pas doublée, la seule à travers laquelle on\npouvait lire.",
+  "entities": [
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 451,
+      "end": 463
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 474,
+      "end": 485
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 519,
+      "end": 525
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il rentra chez lui en quittant la poste, mais il avait gardé sur lui\ncette dernière lettre",
+      "start": 0,
+      "end": 90
+    },
+    {
+      "text": "Il alluma une bougie et en approcha l’enveloppe\nqu’il n’avait pas osé ouvrir",
+      "start": 91,
+      "end": 168
+    },
+    {
+      "text": "D’abord il ne put rien lire, mais\nl’enveloppe était mince, et en la faisant adhérer à la carte dure qui\ny était incluse, il put à travers sa transparence, lire les derniers\nmots",
+      "start": 169,
+      "end": 347
+    },
+    {
+      "text": "C’était une formule finale très froide",
+      "start": 348,
+      "end": 387
+    },
+    {
+      "text": "Si, au lieu que ce fût\nlui qui regardât une lettre adressée à Forcheville, c’eût été\nForcheville qui eût lu une lettre adressée à Swann, il aurait pu voir\ndes mots autrement tendres! Il maintint immobile la carte qui dansait\ndans l’enveloppe plus grande qu’elle, puis, la faisant glisser avec le\npouce, en amena successivement les différentes lignes sous la partie\nde l’enveloppe qui n’était pas doublée, la seule à travers laquelle on\npouvait lire",
+      "start": 388,
+      "end": 837
+    }
+  ],
+  "tokens": 144,
+  "processed_at": "2025-03-16T02:10:56.705015"
+}

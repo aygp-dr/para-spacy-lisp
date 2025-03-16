@@ -1,0 +1,53 @@
+{
+  "text": "--«Mais non, c’est impossible, dit mon oncle, en haussant les épaules,\nil est très tenu, il travaille beaucoup. Il a tous les prix à son\ncours, ajouta-t-il, à voix basse pour que je n’entende pas ce mensonge\net que je n’y contredise pas. Qui sait, ce sera peut-être un petit\nVictor Hugo, une espèce de Vaulabelle, vous savez.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Victor",
+      "label": "ORG",
+      "start": 275,
+      "end": 281
+    },
+    {
+      "text": "Hugo,",
+      "label": "ORG",
+      "start": 282,
+      "end": 287
+    },
+    {
+      "text": "Vaulabelle,",
+      "label": "ORG",
+      "start": 302,
+      "end": 313
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais non, c’est impossible, dit mon oncle, en haussant les épaules,\nil est très tenu, il travaille beaucoup",
+      "start": 0,
+      "end": 110
+    },
+    {
+      "text": "Il a tous les prix à son\ncours, ajouta-t-il, à voix basse pour que je n’entende pas ce mensonge\net que je n’y contredise pas",
+      "start": 111,
+      "end": 236
+    },
+    {
+      "text": "Qui sait, ce sera peut-être un petit\nVictor Hugo, une espèce de Vaulabelle, vous savez",
+      "start": 237,
+      "end": 324
+    },
+    {
+      "text": "»",
+      "start": 325,
+      "end": 326
+    }
+  ],
+  "tokens": 58,
+  "processed_at": "2025-03-16T02:10:54.905071"
+}

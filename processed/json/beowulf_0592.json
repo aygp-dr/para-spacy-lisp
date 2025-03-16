@@ -1,0 +1,53 @@
+{
+  "text": "--Ah! c’est Bréchot, s’écria Forcheville qui n’avait pas bien entendu,\nvous m’en direz tant, ajouta-t-il tout en attachant sur l’homme\ncélèbre des yeux écarquillés. C’est toujours intéressant de dîner avec\nun homme en vue. Mais, dites-moi, vous nous invitez-là avec des\nconvives de choix. On ne s’ennuie pas chez vous.",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Bréchot,",
+      "label": "ORG",
+      "start": 12,
+      "end": 20
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 29,
+      "end": 40
+    },
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 223,
+      "end": 228
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! c’est Bréchot, s’écria Forcheville qui n’avait pas bien entendu,\nvous m’en direz tant, ajouta-t-il tout en attachant sur l’homme\ncélèbre des yeux écarquillés",
+      "start": 0,
+      "end": 163
+    },
+    {
+      "text": "C’est toujours intéressant de dîner avec\nun homme en vue",
+      "start": 164,
+      "end": 221
+    },
+    {
+      "text": "Mais, dites-moi, vous nous invitez-là avec des\nconvives de choix",
+      "start": 222,
+      "end": 287
+    },
+    {
+      "text": "On ne s’ennuie pas chez vous",
+      "start": 288,
+      "end": 317
+    }
+  ],
+  "tokens": 50,
+  "processed_at": "2025-03-16T02:10:56.329258"
+}

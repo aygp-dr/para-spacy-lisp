@@ -1,0 +1,79 @@
+{
+  "text": "Swann se fit conduire dans les derniers restaurants; c’est la seule\nhypothèse du bonheur qu’il avait envisagée avec calme; il ne cachait\nplus maintenant son agitation, le prix qu’il attachait à cette\nrencontre et il promit en cas de succès une récompense à son cocher,\ncomme si en lui inspirant le désir de réussir qui viendrait s’ajouter\nà celui qu’il en avait lui-même, il pouvait faire qu’Odette, au cas où\nelle fût déjà rentrée se coucher, se trouvât pourtant dans un\nrestaurant du boulevard. Il poussa jusqu’à la Maison Dorée, entra deux\nfois chez Tortoni et, sans l’avoir vue davantage, venait de ressortir\ndu Café Anglais, marchant à grands pas, l’air hagard, pour rejoindre\nsa voiture qui l’attendait au coin du boulevard des Italiens, quand il\nheurta une personne qui venait en sens contraire: c’était Odette; elle\nlui expliqua plus tard que n’ayant pas trouvé de place chez Prévost,\nelle était allée souper à la Maison Dorée dans un enfoncement où il ne\nl’avait pas découverte, et elle regagnait sa voiture.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Maison",
+      "label": "ORG",
+      "start": 518,
+      "end": 524
+    },
+    {
+      "text": "Dorée,",
+      "label": "ORG",
+      "start": 525,
+      "end": 531
+    },
+    {
+      "text": "Tortoni",
+      "label": "ORG",
+      "start": 553,
+      "end": 560
+    },
+    {
+      "text": "Café",
+      "label": "ORG",
+      "start": 616,
+      "end": 620
+    },
+    {
+      "text": "Italiens,",
+      "label": "ORG",
+      "start": 734,
+      "end": 743
+    },
+    {
+      "text": "Odette;",
+      "label": "ORG",
+      "start": 811,
+      "end": 818
+    },
+    {
+      "text": "Prévost,",
+      "label": "ORG",
+      "start": 884,
+      "end": 892
+    },
+    {
+      "text": "Maison",
+      "label": "ORG",
+      "start": 922,
+      "end": 928
+    },
+    {
+      "text": "Dorée",
+      "label": "ORG",
+      "start": 929,
+      "end": 934
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann se fit conduire dans les derniers restaurants; c’est la seule\nhypothèse du bonheur qu’il avait envisagée avec calme; il ne cachait\nplus maintenant son agitation, le prix qu’il attachait à cette\nrencontre et il promit en cas de succès une récompense à son cocher,\ncomme si en lui inspirant le désir de réussir qui viendrait s’ajouter\nà celui qu’il en avait lui-même, il pouvait faire qu’Odette, au cas où\nelle fût déjà rentrée se coucher, se trouvât pourtant dans un\nrestaurant du boulevard",
+      "start": 0,
+      "end": 495
+    },
+    {
+      "text": "Il poussa jusqu’à la Maison Dorée, entra deux\nfois chez Tortoni et, sans l’avoir vue davantage, venait de ressortir\ndu Café Anglais, marchant à grands pas, l’air hagard, pour rejoindre\nsa voiture qui l’attendait au coin du boulevard des Italiens, quand il\nheurta une personne qui venait en sens contraire: c’était Odette; elle\nlui expliqua plus tard que n’ayant pas trouvé de place chez Prévost,\nelle était allée souper à la Maison Dorée dans un enfoncement où il ne\nl’avait pas découverte, et elle regagnait sa voiture",
+      "start": 496,
+      "end": 1016
+    }
+  ],
+  "tokens": 171,
+  "processed_at": "2025-03-16T02:10:56.194961"
+}

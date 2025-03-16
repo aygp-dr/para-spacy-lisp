@@ -1,0 +1,31 @@
+{
+  "text": "Odette racontait cela presque en riant, soit que cela lui parût tout\nnaturel, ou parce qu’elle croyait en atténuer ainsi l’importance, ou\npour ne pas avoir l’air humilié. En voyant le visage de Swann, elle\nchangea de ton:",
+  "entities": [
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 194,
+      "end": 200
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Odette racontait cela presque en riant, soit que cela lui parût tout\nnaturel, ou parce qu’elle croyait en atténuer ainsi l’importance, ou\npour ne pas avoir l’air humilié",
+      "start": 0,
+      "end": 169
+    },
+    {
+      "text": "En voyant le visage de Swann, elle\nchangea de ton:",
+      "start": 170,
+      "end": 221
+    }
+  ],
+  "tokens": 38,
+  "processed_at": "2025-03-16T02:10:57.386482"
+}

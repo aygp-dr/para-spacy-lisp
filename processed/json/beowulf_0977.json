@@ -1,0 +1,73 @@
+{
+  "text": "Un jour, comme je m’ennuyais à notre place familière, à côté des\nchevaux de bois, Françoise m’avait emmené en excursion--au delà de la\nfrontière que gardent à intervalles égaux les petits bastions des\nmarchandes de sucre d’orge--, dans ces régions voisines mais étrangères\noù les visages sont inconnus, où passe la voiture aux chèvres; puis\nelle était revenue prendre ses affaires sur sa chaise adossée à un\nmassif de lauriers; en l’attendant je foulais la grande pelouse\nchétive et rase, jaunie par le soleil, au bout de laquelle le bassin\nest dominé par une statue quand, de l’allée, s’adressant à une\nfillette à cheveux roux qui jouait au volant devant la vasque, une\nautre, en train de mettre son manteau et de serrer sa raquette, lui\ncria, d’une voix brève: «Adieu, Gilberte, je rentre, n’oublie pas que\nnous venons ce soir chez toi après dîner.» Ce nom de Gilberte passa\nprès de moi, évoquant d’autant plus l’existence de celle qu’il\ndésignait qu’il ne la nommait pas seulement comme un absent dont on\nparle, mais l’interpellait; il passa ainsi près de moi, en action pour\nainsi dire, avec une puissance qu’accroissait la courbe de son jet et\nl’approche de son but;--transportant à son bord, je le sentais, la\nconnaissance, les notions qu’avait de celle à qui il était adressé,\nnon pas moi, mais l’amie qui l’appelait, tout ce que, tandis qu’elle\nle prononçait, elle revoyait ou du moins, possédait en sa mémoire, de\nleur intimité quotidienne, des visites qu’elles se faisaient l’une\nchez l’autre, de tout cet inconnu encore plus inaccessible et plus\ndouloureux pour moi d’être au contraire si familier et si maniable\npour cette fille heureuse qui m’en frôlait sans que j’y puisse\npénétrer et le jetait en plein air dans un cri;--laissant déjà flotter\ndans l’air l’émanation délicieuse qu’il avait fait se dégager, en les\ntouchant avec précision, de quelques points invisibles de la vie de\nMlle Swann, du soir qui allait venir, tel qu’il serait, après dîner,\nchez elle,--formant, passager céleste au milieu des enfants et des\nbonnes, un petit nuage d’une couleur précieuse, pareil à celui qui,\nbombé au-dessus d’un beau jardin du Poussin, reflète minutieusement\ncomme un nuage d’opéra, plein de chevaux et de chars, quelque\napparition de la vie des dieux;--jetant enfin, sur cette herbe pelée, à\nl’endroit où elle était un morceau à la fois de pelouse flétrie et un\nmoment de l’après-midi de la blonde joueuse de volant (qui ne s’arrêta\nde le lancer et de le rattraper que quand une institutrice à plumet\nbleu l’eut appelée), une petite bande merveilleuse et couleur\nd’héliotrope impalpable comme un reflet et superposée comme un tapis\nsur lequel je ne pus me lasser de promener mes pas attardés,\nnostalgiques et profanateurs, tandis que Françoise me criait: «Allons,\naboutonnez voir votre paletot et filons» et que je remarquais pour la\npremière fois avec irritation qu’elle avait un langage vulgaire, et\nhélas, pas de plumet bleu à son chapeau.",
+  "entities": [
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 82,
+      "end": 91
+    },
+    {
+      "text": "«Adieu,",
+      "label": "ORG",
+      "start": 763,
+      "end": 770
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 771,
+      "end": 780
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 862,
+      "end": 870
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 1896,
+      "end": 1900
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1901,
+      "end": 1907
+    },
+    {
+      "text": "Poussin,",
+      "label": "ORG",
+      "start": 2136,
+      "end": 2144
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 2744,
+      "end": 2753
+    },
+    {
+      "text": "«Allons,",
+      "label": "ORG",
+      "start": 2765,
+      "end": 2773
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Un jour, comme je m’ennuyais à notre place familière, à côté des\nchevaux de bois, Françoise m’avait emmené en excursion--au delà de la\nfrontière que gardent à intervalles égaux les petits bastions des\nmarchandes de sucre d’orge--, dans ces régions voisines mais étrangères\noù les visages sont inconnus, où passe la voiture aux chèvres; puis\nelle était revenue prendre ses affaires sur sa chaise adossée à un\nmassif de lauriers; en l’attendant je foulais la grande pelouse\nchétive et rase, jaunie par le soleil, au bout de laquelle le bassin\nest dominé par une statue quand, de l’allée, s’adressant à une\nfillette à cheveux roux qui jouait au volant devant la vasque, une\nautre, en train de mettre son manteau et de serrer sa raquette, lui\ncria, d’une voix brève: «Adieu, Gilberte, je rentre, n’oublie pas que\nnous venons ce soir chez toi après dîner",
+      "start": 0,
+      "end": 849
+    },
+    {
+      "text": "» Ce nom de Gilberte passa\nprès de moi, évoquant d’autant plus l’existence de celle qu’il\ndésignait qu’il ne la nommait pas seulement comme un absent dont on\nparle, mais l’interpellait; il passa ainsi près de moi, en action pour\nainsi dire, avec une puissance qu’accroissait la courbe de son jet et\nl’approche de son but;--transportant à son bord, je le sentais, la\nconnaissance, les notions qu’avait de celle à qui il était adressé,\nnon pas moi, mais l’amie qui l’appelait, tout ce que, tandis qu’elle\nle prononçait, elle revoyait ou du moins, possédait en sa mémoire, de\nleur intimité quotidienne, des visites qu’elles se faisaient l’une\nchez l’autre, de tout cet inconnu encore plus inaccessible et plus\ndouloureux pour moi d’être au contraire si familier et si maniable\npour cette fille heureuse qui m’en frôlait sans que j’y puisse\npénétrer et le jetait en plein air dans un cri;--laissant déjà flotter\ndans l’air l’émanation délicieuse qu’il avait fait se dégager, en les\ntouchant avec précision, de quelques points invisibles de la vie de\nMlle Swann, du soir qui allait venir, tel qu’il serait, après dîner,\nchez elle,--formant, passager céleste au milieu des enfants et des\nbonnes, un petit nuage d’une couleur précieuse, pareil à celui qui,\nbombé au-dessus d’un beau jardin du Poussin, reflète minutieusement\ncomme un nuage d’opéra, plein de chevaux et de chars, quelque\napparition de la vie des dieux;--jetant enfin, sur cette herbe pelée, à\nl’endroit où elle était un morceau à la fois de pelouse flétrie et un\nmoment de l’après-midi de la blonde joueuse de volant (qui ne s’arrêta\nde le lancer et de le rattraper que quand une institutrice à plumet\nbleu l’eut appelée), une petite bande merveilleuse et couleur\nd’héliotrope impalpable comme un reflet et superposée comme un tapis\nsur lequel je ne pus me lasser de promener mes pas attardés,\nnostalgiques et profanateurs, tandis que Françoise me criait: «Allons,\naboutonnez voir votre paletot et filons» et que je remarquais pour la\npremière fois avec irritation qu’elle avait un langage vulgaire, et\nhélas, pas de plumet bleu à son chapeau",
+      "start": 850,
+      "end": 2951
+    }
+  ],
+  "tokens": 492,
+  "processed_at": "2025-03-16T02:10:57.506405"
+}

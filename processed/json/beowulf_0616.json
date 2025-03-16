@@ -1,0 +1,160 @@
+{
+  "text": "--Je vais vous paraître bien provinciale, monsieur, dit Mme Cottard à\nSwann, mais je n’ai pas encore vu cette fameuse Francillon dont tout\nle monde parle. Le docteur y est allé (je me rappelle même qu’il m’a\ndit avoir eu le très grand plaisir de passer la soirée avec vous) et\nj’avoue que je n’ai pas trouvé raisonnable qu’il louât des places pour\ny retourner avec moi. Évidemment, au Théâtre-Français, on ne regrette\njamais sa soirée, c’est toujours si bien joué, mais comme nous avons\ndes amis très aimables (Mme Cottard prononçait rarement un nom propre\net se contentait de dire «des amis à nous», «une de mes amies», par\n«distinction», sur un ton factice, et avec l’air d’importance d’une\npersonne qui ne nomme que qui elle veut) qui ont souvent des loges et\nont la bonne idée de nous emmener à toutes les nouveautés qui en\nvalent la peine, je suis toujours sûre de voir Francillon un peu plus\ntôt ou un peu plus tard, et de pouvoir me former une opinion. Je dois\npourtant confesser que je me trouve assez sotte, car, dans tous les\nsalons où je vais en visite, on ne parle naturellement que de cette\nmalheureuse salade japonaise. On commence même à en être un peu\nfatigué, ajouta-t-elle en voyant que Swann n’avait pas l’air aussi\nintéressé qu’elle aurait cru par une si brûlante actualité. Il faut\navouer pourtant que cela donne quelquefois prétexte à des idées assez\namusantes. Ainsi j’ai une de mes amies qui est très originale, quoique\ntrès jolie femme, très entourée, très lancée, et qui prétend qu’elle a\nfait faire chez elle cette salade japonaise, mais en faisant mettre\ntout ce qu’Alexandre Dumas fils dit dans la pièce. Elle avait invité\nquelques amies à venir en manger. Malheureusement je n’étais pas des\nélues. Mais elle nous l’a raconté tantôt, à son jour; il paraît que\nc’était détestable, elle nous a fait rire aux larmes. Mais vous savez,\ntout est dans la manière de raconter, dit-elle en voyant que Swann\ngardait un air grave.",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 60,
+      "end": 67
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 70,
+      "end": 76
+    },
+    {
+      "text": "Francillon",
+      "label": "ORG",
+      "start": 118,
+      "end": 128
+    },
+    {
+      "text": "Évidemment,",
+      "label": "ORG",
+      "start": 370,
+      "end": 381
+    },
+    {
+      "text": "Théâtre-Français,",
+      "label": "ORG",
+      "start": 385,
+      "end": 402
+    },
+    {
+      "text": "(Mme",
+      "label": "ORG",
+      "start": 510,
+      "end": 514
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 515,
+      "end": 522
+    },
+    {
+      "text": "Francillon",
+      "label": "ORG",
+      "start": 875,
+      "end": 885
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1205,
+      "end": 1210
+    },
+    {
+      "text": "Dumas",
+      "label": "ORG",
+      "start": 1604,
+      "end": 1609
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1634,
+      "end": 1638
+    },
+    {
+      "text": "Malheureusement",
+      "label": "ORG",
+      "start": 1686,
+      "end": 1701
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1728,
+      "end": 1732
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1843,
+      "end": 1847
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1921,
+      "end": 1926
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je vais vous paraître bien provinciale, monsieur, dit Mme Cottard à\nSwann, mais je n’ai pas encore vu cette fameuse Francillon dont tout\nle monde parle",
+      "start": 0,
+      "end": 153
+    },
+    {
+      "text": "Le docteur y est allé (je me rappelle même qu’il m’a\ndit avoir eu le très grand plaisir de passer la soirée avec vous) et\nj’avoue que je n’ai pas trouvé raisonnable qu’il louât des places pour\ny retourner avec moi",
+      "start": 154,
+      "end": 368
+    },
+    {
+      "text": "Évidemment, au Théâtre-Français, on ne regrette\njamais sa soirée, c’est toujours si bien joué, mais comme nous avons\ndes amis très aimables (Mme Cottard prononçait rarement un nom propre\net se contentait de dire «des amis à nous», «une de mes amies», par\n«distinction», sur un ton factice, et avec l’air d’importance d’une\npersonne qui ne nomme que qui elle veut) qui ont souvent des loges et\nont la bonne idée de nous emmener à toutes les nouveautés qui en\nvalent la peine, je suis toujours sûre de voir Francillon un peu plus\ntôt ou un peu plus tard, et de pouvoir me former une opinion",
+      "start": 369,
+      "end": 958
+    },
+    {
+      "text": "Je dois\npourtant confesser que je me trouve assez sotte, car, dans tous les\nsalons où je vais en visite, on ne parle naturellement que de cette\nmalheureuse salade japonaise",
+      "start": 959,
+      "end": 1132
+    },
+    {
+      "text": "On commence même à en être un peu\nfatigué, ajouta-t-elle en voyant que Swann n’avait pas l’air aussi\nintéressé qu’elle aurait cru par une si brûlante actualité",
+      "start": 1133,
+      "end": 1293
+    },
+    {
+      "text": "Il faut\navouer pourtant que cela donne quelquefois prétexte à des idées assez\namusantes",
+      "start": 1294,
+      "end": 1382
+    },
+    {
+      "text": "Ainsi j’ai une de mes amies qui est très originale, quoique\ntrès jolie femme, très entourée, très lancée, et qui prétend qu’elle a\nfait faire chez elle cette salade japonaise, mais en faisant mettre\ntout ce qu’Alexandre Dumas fils dit dans la pièce",
+      "start": 1383,
+      "end": 1632
+    },
+    {
+      "text": "Elle avait invité\nquelques amies à venir en manger",
+      "start": 1633,
+      "end": 1684
+    },
+    {
+      "text": "Malheureusement je n’étais pas des\nélues",
+      "start": 1685,
+      "end": 1726
+    },
+    {
+      "text": "Mais elle nous l’a raconté tantôt, à son jour; il paraît que\nc’était détestable, elle nous a fait rire aux larmes",
+      "start": 1727,
+      "end": 1841
+    },
+    {
+      "text": "Mais vous savez,\ntout est dans la manière de raconter, dit-elle en voyant que Swann\ngardait un air grave",
+      "start": 1842,
+      "end": 1947
+    }
+  ],
+  "tokens": 342,
+  "processed_at": "2025-03-16T02:10:56.399006"
+}

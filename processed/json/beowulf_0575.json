@@ -1,0 +1,20 @@
+{
+  "text": "--Mais elle a l’air d’une ouvreuse, d’une vieille concierge, darling!\nÇa, une marquise! Je ne suis pas marquise, mais il faudrait me payer\nbien cher pour me faire sortir nippée comme ça!",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais elle a l’air d’une ouvreuse, d’une vieille concierge, darling!\nÇa, une marquise! Je ne suis pas marquise, mais il faudrait me payer\nbien cher pour me faire sortir nippée comme ça!",
+      "start": 0,
+      "end": 186
+    }
+  ],
+  "tokens": 32,
+  "processed_at": "2025-03-16T02:10:56.274974"
+}

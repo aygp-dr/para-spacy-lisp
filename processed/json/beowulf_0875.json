@@ -1,0 +1,49 @@
+{
+  "text": "Swann aimait beaucoup la princesse des Laumes, puis sa vue lui\nrappelait Guermantes, terre voisine de Combray, tout ce pays qu’il\naimait tant et où il ne retournait plus pour ne pas s’éloigner\nd’Odette. Usant des formes mi-artistes, mi-galantes, par lesquelles il\nsavait plaire à la princesse et qu’il retrouvait tout naturellement\nquand il se retrempait un instant dans son ancien milieu,--et voulant\nd’autre part pour lui-même exprimer la nostalgie qu’il avait de la\ncampagne:",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Laumes,",
+      "label": "ORG",
+      "start": 39,
+      "end": 46
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 73,
+      "end": 84
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 102,
+      "end": 110
+    },
+    {
+      "text": "Usant",
+      "label": "ORG",
+      "start": 203,
+      "end": 208
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann aimait beaucoup la princesse des Laumes, puis sa vue lui\nrappelait Guermantes, terre voisine de Combray, tout ce pays qu’il\naimait tant et où il ne retournait plus pour ne pas s’éloigner\nd’Odette",
+      "start": 0,
+      "end": 201
+    },
+    {
+      "text": "Usant des formes mi-artistes, mi-galantes, par lesquelles il\nsavait plaire à la princesse et qu’il retrouvait tout naturellement\nquand il se retrempait un instant dans son ancien milieu,--et voulant\nd’autre part pour lui-même exprimer la nostalgie qu’il avait de la\ncampagne:",
+      "start": 202,
+      "end": 478
+    }
+  ],
+  "tokens": 75,
+  "processed_at": "2025-03-16T02:10:57.176754"
+}

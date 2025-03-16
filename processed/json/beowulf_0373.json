@@ -1,0 +1,78 @@
+{
+  "text": "Les clochers paraissaient si éloignés et nous avions l’air de si peu\nnous rapprocher d’eux, que je fus étonné quand, quelques instants\naprès, nous nous arrêtâmes devant l’église de Martinville. Je ne\nsavais pas la raison du plaisir que j’avais eu à les apercevoir à\nl’horizon et l’obligation de chercher à découvrir cette raison me\nsemblait bien pénible; j’avais envie de garder en réserve dans ma tête\nces lignes remuantes au soleil et de n’y plus penser maintenant. Et il\nest probable que si je l’avais fait, les deux clochers seraient allés\nà jamais rejoindre tant d’arbres, de toits, de parfums, de sons, que\nj’avais distingués des autres à cause de ce plaisir obscur qu’ils\nm’avaient procuré et que je n’ai jamais approfondi. Je descendis\ncauser avec mes parents en attendant le docteur. Puis nous repartîmes,\nje repris ma place sur le siège, je tournai la tête pour voir encore\nles clochers qu’un peu plus tard, j’aperçus une dernière fois au\ntournant d’un chemin. Le cocher, qui ne semblait pas disposé à causer,\nayant à peine répondu à mes propos, force me fut, faute d’autre\ncompagnie, de me rabattre sur celle de moi-même et d’essayer de me\nrappeler mes clochers. Bientôt leurs lignes et leurs surfaces\nensoleillées, comme si elles avaient été une sorte d’écorce, se\ndéchirèrent, un peu de ce qui m’était caché en elles m’apparut, j’eus\nune pensée qui n’existait pas pour moi l’instant avant, qui se formula\nen mots dans ma tête, et le plaisir que m’avait fait tout à l’heure\néprouver leur vue s’en trouva tellement accru que, pris d’une sorte\nd’ivresse, je ne pus plus penser à autre chose. A ce moment et comme\nnous étions déjà loin de Martinville en tournant la tête je les\naperçus de nouveau, tout noirs cette fois, car le soleil était déjà\ncouché. Par moments les tournants du chemin me les dérobaient, puis\nils se montrèrent une dernière fois et enfin je ne les vis plus.",
+  "entities": [
+    {
+      "text": "Martinville.",
+      "label": "ORG",
+      "start": 181,
+      "end": 193
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 793,
+      "end": 797
+    },
+    {
+      "text": "Bientôt",
+      "label": "ORG",
+      "start": 1174,
+      "end": 1181
+    },
+    {
+      "text": "Martinville",
+      "label": "ORG",
+      "start": 1648,
+      "end": 1659
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Les clochers paraissaient si éloignés et nous avions l’air de si peu\nnous rapprocher d’eux, que je fus étonné quand, quelques instants\naprès, nous nous arrêtâmes devant l’église de Martinville",
+      "start": 0,
+      "end": 192
+    },
+    {
+      "text": "Je ne\nsavais pas la raison du plaisir que j’avais eu à les apercevoir à\nl’horizon et l’obligation de chercher à découvrir cette raison me\nsemblait bien pénible; j’avais envie de garder en réserve dans ma tête\nces lignes remuantes au soleil et de n’y plus penser maintenant",
+      "start": 193,
+      "end": 466
+    },
+    {
+      "text": "Et il\nest probable que si je l’avais fait, les deux clochers seraient allés\nà jamais rejoindre tant d’arbres, de toits, de parfums, de sons, que\nj’avais distingués des autres à cause de ce plaisir obscur qu’ils\nm’avaient procuré et que je n’ai jamais approfondi",
+      "start": 467,
+      "end": 729
+    },
+    {
+      "text": "Je descendis\ncauser avec mes parents en attendant le docteur",
+      "start": 730,
+      "end": 791
+    },
+    {
+      "text": "Puis nous repartîmes,\nje repris ma place sur le siège, je tournai la tête pour voir encore\nles clochers qu’un peu plus tard, j’aperçus une dernière fois au\ntournant d’un chemin",
+      "start": 792,
+      "end": 969
+    },
+    {
+      "text": "Le cocher, qui ne semblait pas disposé à causer,\nayant à peine répondu à mes propos, force me fut, faute d’autre\ncompagnie, de me rabattre sur celle de moi-même et d’essayer de me\nrappeler mes clochers",
+      "start": 970,
+      "end": 1172
+    },
+    {
+      "text": "Bientôt leurs lignes et leurs surfaces\nensoleillées, comme si elles avaient été une sorte d’écorce, se\ndéchirèrent, un peu de ce qui m’était caché en elles m’apparut, j’eus\nune pensée qui n’existait pas pour moi l’instant avant, qui se formula\nen mots dans ma tête, et le plaisir que m’avait fait tout à l’heure\néprouver leur vue s’en trouva tellement accru que, pris d’une sorte\nd’ivresse, je ne pus plus penser à autre chose",
+      "start": 1173,
+      "end": 1600
+    },
+    {
+      "text": "A ce moment et comme\nnous étions déjà loin de Martinville en tournant la tête je les\naperçus de nouveau, tout noirs cette fois, car le soleil était déjà\ncouché",
+      "start": 1601,
+      "end": 1761
+    },
+    {
+      "text": "Par moments les tournants du chemin me les dérobaient, puis\nils se montrèrent une dernière fois et enfin je ne les vis plus",
+      "start": 1762,
+      "end": 1886
+    }
+  ],
+  "tokens": 327,
+  "processed_at": "2025-03-16T02:10:55.692492"
+}

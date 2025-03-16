@@ -1,0 +1,80 @@
+{
+  "text": "Si en voyage il rencontrait une famille qu’il eût été plus élégant de\nne pas chercher à connaître, mais dans laquelle une femme se\nprésentait à ses yeux parée d’un charme qu’il n’avait pas encore\nconnu, rester dans son «quant à soi» et tromper le désir qu’elle avait\nfait naître, substituer un plaisir différent au plaisir qu’il eût pu\nconnaître avec elle, en écrivant à une ancienne maîtresse de venir le\nrejoindre, lui eût semblé une aussi lâche abdication devant la vie, un\naussi stupide renoncement à un bonheur nouveau, que si au lieu de\nvisiter le pays, il s’était confiné dans sa chambre en regardant des\nvues de Paris. Il ne s’enfermait pas dans l’édifice de ses relations,\nmais en avait fait, pour pouvoir le reconstruire à pied d’œuvre sur de\nnouveaux frais partout où une femme lui avait plu, une de ces tentes\ndémontables comme les explorateurs en emportent avec eux. Pour ce qui\nn’en était pas transportable ou échangeable contre un plaisir nouveau,\nil l’eût donné pour rien, si enviable que cela parût à d’autres. Que\nde fois son crédit auprès d’une duchesse, fait du désir accumulé\ndepuis des années que celle-ci avait eu de lui être agréable sans en\navoir trouvé l’occasion, il s’en était défait d’un seul coup en\nréclamant d’elle par une indiscrète dépêche une recommandation\ntélégraphique qui le mît en relation sur l’heure avec un de ses\nintendants dont il avait remarqué la fille à la campagne, comme ferait\nun affamé qui troquerait un diamant contre un morceau de pain. Même,\naprès coup, il s’en amusait, car il y avait en lui, rachetée par de\nrares délicatesses, une certaine muflerie. Puis, il appartenait à\ncette catégorie d’hommes intelligents qui ont vécu dans l’oisiveté et\nqui cherchent une consolation et peut-être une excuse dans l’idée que\ncette oisiveté offre à leur intelligence des objets aussi dignes\nd’intérêt que pourrait faire l’art ou l’étude, que la «Vie» contient\ndes situations plus intéressantes, plus romanesques que tous les\nromans. Il l’assurait du moins et le persuadait aisément aux plus\naffinés de ses amis du monde notamment au baron de Charlus, qu’il\ns’amusait à égayer par le récit des aventures piquantes qui lui\narrivaient, soit qu’ayant rencontré en chemin de fer une femme qu’il\navait ensuite ramenée chez lui il eût découvert qu’elle était la sœur\nd’un souverain entre les mains de qui se mêlaient en ce moment tous\nles fils de la politique européenne, au courant de laquelle il se\ntrouvait ainsi tenu d’une façon très agréable, soit que par le jeu\ncomplexe des circonstances, il dépendît du choix qu’allait faire le\nconclave, s’il pourrait ou non devenir l’amant d’une cuisinière.",
+  "entities": [
+    {
+      "text": "Paris.",
+      "label": "ORG",
+      "start": 620,
+      "end": 626
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 880,
+      "end": 884
+    },
+    {
+      "text": "Même,",
+      "label": "ORG",
+      "start": 1491,
+      "end": 1496
+    },
+    {
+      "text": "Puis,",
+      "label": "ORG",
+      "start": 1608,
+      "end": 1613
+    },
+    {
+      "text": "«Vie»",
+      "label": "ORG",
+      "start": 1890,
+      "end": 1895
+    },
+    {
+      "text": "Charlus,",
+      "label": "ORG",
+      "start": 2087,
+      "end": 2095
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Si en voyage il rencontrait une famille qu’il eût été plus élégant de\nne pas chercher à connaître, mais dans laquelle une femme se\nprésentait à ses yeux parée d’un charme qu’il n’avait pas encore\nconnu, rester dans son «quant à soi» et tromper le désir qu’elle avait\nfait naître, substituer un plaisir différent au plaisir qu’il eût pu\nconnaître avec elle, en écrivant à une ancienne maîtresse de venir le\nrejoindre, lui eût semblé une aussi lâche abdication devant la vie, un\naussi stupide renoncement à un bonheur nouveau, que si au lieu de\nvisiter le pays, il s’était confiné dans sa chambre en regardant des\nvues de Paris",
+      "start": 0,
+      "end": 625
+    },
+    {
+      "text": "Il ne s’enfermait pas dans l’édifice de ses relations,\nmais en avait fait, pour pouvoir le reconstruire à pied d’œuvre sur de\nnouveaux frais partout où une femme lui avait plu, une de ces tentes\ndémontables comme les explorateurs en emportent avec eux",
+      "start": 626,
+      "end": 878
+    },
+    {
+      "text": "Pour ce qui\nn’en était pas transportable ou échangeable contre un plaisir nouveau,\nil l’eût donné pour rien, si enviable que cela parût à d’autres",
+      "start": 879,
+      "end": 1026
+    },
+    {
+      "text": "Que\nde fois son crédit auprès d’une duchesse, fait du désir accumulé\ndepuis des années que celle-ci avait eu de lui être agréable sans en\navoir trouvé l’occasion, il s’en était défait d’un seul coup en\nréclamant d’elle par une indiscrète dépêche une recommandation\ntélégraphique qui le mît en relation sur l’heure avec un de ses\nintendants dont il avait remarqué la fille à la campagne, comme ferait\nun affamé qui troquerait un diamant contre un morceau de pain",
+      "start": 1027,
+      "end": 1489
+    },
+    {
+      "text": "Même,\naprès coup, il s’en amusait, car il y avait en lui, rachetée par de\nrares délicatesses, une certaine muflerie",
+      "start": 1490,
+      "end": 1606
+    },
+    {
+      "text": "Puis, il appartenait à\ncette catégorie d’hommes intelligents qui ont vécu dans l’oisiveté et\nqui cherchent une consolation et peut-être une excuse dans l’idée que\ncette oisiveté offre à leur intelligence des objets aussi dignes\nd’intérêt que pourrait faire l’art ou l’étude, que la «Vie» contient\ndes situations plus intéressantes, plus romanesques que tous les\nromans",
+      "start": 1607,
+      "end": 1976
+    },
+    {
+      "text": "Il l’assurait du moins et le persuadait aisément aux plus\naffinés de ses amis du monde notamment au baron de Charlus, qu’il\ns’amusait à égayer par le récit des aventures piquantes qui lui\narrivaient, soit qu’ayant rencontré en chemin de fer une femme qu’il\navait ensuite ramenée chez lui il eût découvert qu’elle était la sœur\nd’un souverain entre les mains de qui se mêlaient en ce moment tous\nles fils de la politique européenne, au courant de laquelle il se\ntrouvait ainsi tenu d’une façon très agréable, soit que par le jeu\ncomplexe des circonstances, il dépendît du choix qu’allait faire le\nconclave, s’il pourrait ou non devenir l’amant d’une cuisinière",
+      "start": 1977,
+      "end": 2637
+    }
+  ],
+  "tokens": 445,
+  "processed_at": "2025-03-16T02:10:55.774538"
+}

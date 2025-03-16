@@ -1,0 +1,58 @@
+{
+  "text": "Je dînai avec Legrandin sur sa terrasse; il faisait clair de lune: «Il\ny a une jolie qualité de silence, n’est-ce pas, me dit-il; aux cœurs\nblessés comme l’est le mien, un romancier que vous lirez plus tard,\nprétend que conviennent seulement l’ombre et le silence. Et\nvoyez-vous, mon enfant, il vient dans la vie une heure dont vous êtes\nbien loin encore où les yeux las ne tolèrent plus qu’une lumière,\ncelle qu’une belle nuit comme celle-ci prépare et distille avec\nl’obscurité, où les oreilles ne peuvent plus écouter de musique que\ncelle que joue le clair de lune sur la flûte du silence.» J’écoutais\nles paroles de M. Legrandin qui me paraissaient toujours si agréables;\nmais troublé par le souvenir d’une femme que j’avais aperçue\ndernièrement pour la première fois, et pensant, maintenant que je\nsavais que Legrandin était lié avec plusieurs personnalités\naristocratiques des environs, que peut-être il connaissait celle-ci,\nprenant mon courage, je lui dis: «Est-ce que vous connaissez,\nmonsieur, la... les châtelaines de Guermantes», heureux aussi en\nprononçant ce nom de prendre sur lui une sorte de pouvoir, par le seul\nfait de le tirer de mon rêve et de lui donner une existence objective\net sonore.",
+  "entities": [
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 14,
+      "end": 23
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 623,
+      "end": 632
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 814,
+      "end": 823
+    },
+    {
+      "text": "Guermantes»,",
+      "label": "ORG",
+      "start": 1029,
+      "end": 1041
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je dînai avec Legrandin sur sa terrasse; il faisait clair de lune: «Il\ny a une jolie qualité de silence, n’est-ce pas, me dit-il; aux cœurs\nblessés comme l’est le mien, un romancier que vous lirez plus tard,\nprétend que conviennent seulement l’ombre et le silence",
+      "start": 0,
+      "end": 263
+    },
+    {
+      "text": "Et\nvoyez-vous, mon enfant, il vient dans la vie une heure dont vous êtes\nbien loin encore où les yeux las ne tolèrent plus qu’une lumière,\ncelle qu’une belle nuit comme celle-ci prépare et distille avec\nl’obscurité, où les oreilles ne peuvent plus écouter de musique que\ncelle que joue le clair de lune sur la flûte du silence",
+      "start": 264,
+      "end": 591
+    },
+    {
+      "text": "» J’écoutais\nles paroles de M",
+      "start": 592,
+      "end": 621
+    },
+    {
+      "text": "Legrandin qui me paraissaient toujours si agréables;\nmais troublé par le souvenir d’une femme que j’avais aperçue\ndernièrement pour la première fois, et pensant, maintenant que je\nsavais que Legrandin était lié avec plusieurs personnalités\naristocratiques des environs, que peut-être il connaissait celle-ci,\nprenant mon courage, je lui dis: «Est-ce que vous connaissez,\nmonsieur, la",
+      "start": 622,
+      "end": 1006
+    },
+    {
+      "text": "les châtelaines de Guermantes», heureux aussi en\nprononçant ce nom de prendre sur lui une sorte de pouvoir, par le seul\nfait de le tirer de mon rêve et de lui donner une existence objective\net sonore",
+      "start": 1009,
+      "end": 1209
+    }
+  ],
+  "tokens": 202,
+  "processed_at": "2025-03-16T02:10:55.397550"
+}

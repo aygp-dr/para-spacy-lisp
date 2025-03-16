@@ -1,0 +1,82 @@
+{
+  "text": "Pendant que ma tante devisait ainsi avec Françoise, j’accompagnais mes\nparents à la messe. Que je l’aimais, que je la revois bien, notre\nÉglise! Son vieux porche par lequel nous entrions, noir, grêlé comme\nune écumoire, était dévié et profondément creusé aux angles (de même\nque le bénitier où il nous conduisait) comme si le doux effleurement\ndes mantes des paysannes entrant à l’église et de leurs doigts timides\nprenant de l’eau bénite, pouvait, répété pendant des siècles, acquérir\nune force destructive, infléchir la pierre et l’entailler de sillons\ncomme en trace la roue des carrioles dans la borne contre laquelle\nelle bute tous les jours. Ses pierres tombales, sous lesquelles la\nnoble poussière des abbés de Combray, enterrés là, faisait au chœur\ncomme un pavage spirituel, n’étaient plus elles-mêmes de la matière\ninerte et dure, car le temps les avait rendues douces et fait couler\ncomme du miel hors des limites de leur propre équarrissure qu’ici\nelles avaient dépassées d’un flot blond, entraînant à la dérive une\nmajuscule gothique en fleurs, noyant les violettes blanches du marbre;\net en deçà desquelles, ailleurs, elles s’étaient résorbées,\ncontractant encore l’elliptique inscription latine, introduisant un\ncaprice de plus dans la disposition de ces caractères abrégés,\nrapprochant deux lettres d’un mot dont les autres avaient été\ndémesurément distendues. Ses vitraux ne chatoyaient jamais tant que\nles jours où le soleil se montrait peu, de sorte que fît-il gris\ndehors, on était sûr qu’il ferait beau dans l’église; l’un était\nrempli dans toute sa grandeur par un seul personnage pareil à un Roi\nde jeu de cartes, qui vivait là-haut, sous un dais architectural,\nentre ciel et terre; (et dans le reflet oblique et bleu duquel,\nparfois les jours de semaine, à midi, quand il n’y a pas d’office,--à\nl’un de ces rares moments où l’église aérée, vacante, plus humaine,\nluxueuse, avec du soleil sur son riche mobilier, avait l’air presque\nhabitable comme le hall de pierre sculptée et de verre peint, d’un\nhôtel de style moyen âge,--on voyait s’agenouiller un instant Mme\nSazerat, posant sur le prie-Dieu voisin un paquet tout ficelé de\npetits fours qu’elle venait de prendre chez le pâtissier d’en face et\nqu’elle allait rapporter pour le déjeuner); dans un autre une montagne\nde neige rose, au pied de laquelle se livrait un combat, semblait\navoir givré à même la verrière qu’elle boursouflait de son trouble\ngrésil comme une vitre à laquelle il serait resté des flocons, mais\ndes flocons éclairés par quelque aurore (par la même sans doute qui\nempourprait le retable de l’autel de tons si frais qu’ils semblaient\nplutôt posés là momentanément par une lueur du dehors prête à\ns’évanouir que par des couleurs attachées à jamais à la pierre); et\ntous étaient si anciens qu’on voyait çà et là leur vieillesse argentée\nétinceler de la poussière des siècles et monter brillante et usée\njusqu’à la corde la trame de leur douce tapisserie de verre. Il y en\navait un qui était un haut compartiment divisé en une centaine de\npetits vitraux rectangulaires où dominait le bleu, comme un grand jeu\nde cartes pareil à ceux qui devaient distraire le roi Charles VI; mais\nsoit qu’un rayon eût brillé, soit que mon regard en bougeant eût\npromené à travers la verrière tour à tour éteinte et rallumée, un\nmouvant et précieux incendie, l’instant d’après elle avait pris\nl’éclat changeant d’une traîne de paon, puis elle tremblait et\nondulait en une pluie flamboyante et fantastique qui dégouttait du\nhaut de la voûte sombre et rocheuse, le long des parois humides, comme\nsi c’était dans la nef de quelque grotte irisée de sinueux stalactites\nque je suivais mes parents, qui portaient leur paroissien; un instant\naprès les petits vitraux en losange avaient pris la transparence\nprofonde, l’infrangible dureté de saphirs qui eussent été juxtaposés\nsur quelque immense pectoral, mais derrière lesquels on sentait, plus\naimé que toutes ces richesses, un sourire momentané de soleil; il\nétait aussi reconnaissable dans le flot bleu et doux dont il baignait\nles pierreries que sur le pavé de la place ou la paille du marché; et,\nmême à nos premiers dimanches quand nous étions arrivés avant Pâques,\nil me consolait que la terre fût encore nue et noire, en faisant\népanouir, comme en un printemps historique et qui datait des\nsuccesseurs de saint Louis, ce tapis éblouissant et doré de myosotis\nen verre.",
+  "entities": [
+    {
+      "text": "Pendant",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 41,
+      "end": 51
+    },
+    {
+      "text": "Église!",
+      "label": "ORG",
+      "start": 137,
+      "end": 144
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 718,
+      "end": 726
+    },
+    {
+      "text": "Sazerat,",
+      "label": "ORG",
+      "start": 2089,
+      "end": 2097
+    },
+    {
+      "text": "Charles",
+      "label": "ORG",
+      "start": 3159,
+      "end": 3166
+    },
+    {
+      "text": "Pâques,",
+      "label": "ORG",
+      "start": 4186,
+      "end": 4193
+    },
+    {
+      "text": "Louis,",
+      "label": "ORG",
+      "start": 4341,
+      "end": 4347
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pendant que ma tante devisait ainsi avec Françoise, j’accompagnais mes\nparents à la messe",
+      "start": 0,
+      "end": 89
+    },
+    {
+      "text": "Que je l’aimais, que je la revois bien, notre\nÉglise! Son vieux porche par lequel nous entrions, noir, grêlé comme\nune écumoire, était dévié et profondément creusé aux angles (de même\nque le bénitier où il nous conduisait) comme si le doux effleurement\ndes mantes des paysannes entrant à l’église et de leurs doigts timides\nprenant de l’eau bénite, pouvait, répété pendant des siècles, acquérir\nune force destructive, infléchir la pierre et l’entailler de sillons\ncomme en trace la roue des carrioles dans la borne contre laquelle\nelle bute tous les jours",
+      "start": 90,
+      "end": 646
+    },
+    {
+      "text": "Ses pierres tombales, sous lesquelles la\nnoble poussière des abbés de Combray, enterrés là, faisait au chœur\ncomme un pavage spirituel, n’étaient plus elles-mêmes de la matière\ninerte et dure, car le temps les avait rendues douces et fait couler\ncomme du miel hors des limites de leur propre équarrissure qu’ici\nelles avaient dépassées d’un flot blond, entraînant à la dérive une\nmajuscule gothique en fleurs, noyant les violettes blanches du marbre;\net en deçà desquelles, ailleurs, elles s’étaient résorbées,\ncontractant encore l’elliptique inscription latine, introduisant un\ncaprice de plus dans la disposition de ces caractères abrégés,\nrapprochant deux lettres d’un mot dont les autres avaient été\ndémesurément distendues",
+      "start": 647,
+      "end": 1375
+    },
+    {
+      "text": "Ses vitraux ne chatoyaient jamais tant que\nles jours où le soleil se montrait peu, de sorte que fît-il gris\ndehors, on était sûr qu’il ferait beau dans l’église; l’un était\nrempli dans toute sa grandeur par un seul personnage pareil à un Roi\nde jeu de cartes, qui vivait là-haut, sous un dais architectural,\nentre ciel et terre; (et dans le reflet oblique et bleu duquel,\nparfois les jours de semaine, à midi, quand il n’y a pas d’office,--à\nl’un de ces rares moments où l’église aérée, vacante, plus humaine,\nluxueuse, avec du soleil sur son riche mobilier, avait l’air presque\nhabitable comme le hall de pierre sculptée et de verre peint, d’un\nhôtel de style moyen âge,--on voyait s’agenouiller un instant Mme\nSazerat, posant sur le prie-Dieu voisin un paquet tout ficelé de\npetits fours qu’elle venait de prendre chez le pâtissier d’en face et\nqu’elle allait rapporter pour le déjeuner); dans un autre une montagne\nde neige rose, au pied de laquelle se livrait un combat, semblait\navoir givré à même la verrière qu’elle boursouflait de son trouble\ngrésil comme une vitre à laquelle il serait resté des flocons, mais\ndes flocons éclairés par quelque aurore (par la même sans doute qui\nempourprait le retable de l’autel de tons si frais qu’ils semblaient\nplutôt posés là momentanément par une lueur du dehors prête à\ns’évanouir que par des couleurs attachées à jamais à la pierre); et\ntous étaient si anciens qu’on voyait çà et là leur vieillesse argentée\nétinceler de la poussière des siècles et monter brillante et usée\njusqu’à la corde la trame de leur douce tapisserie de verre",
+      "start": 1376,
+      "end": 2959
+    },
+    {
+      "text": "Il y en\navait un qui était un haut compartiment divisé en une centaine de\npetits vitraux rectangulaires où dominait le bleu, comme un grand jeu\nde cartes pareil à ceux qui devaient distraire le roi Charles VI; mais\nsoit qu’un rayon eût brillé, soit que mon regard en bougeant eût\npromené à travers la verrière tour à tour éteinte et rallumée, un\nmouvant et précieux incendie, l’instant d’après elle avait pris\nl’éclat changeant d’une traîne de paon, puis elle tremblait et\nondulait en une pluie flamboyante et fantastique qui dégouttait du\nhaut de la voûte sombre et rocheuse, le long des parois humides, comme\nsi c’était dans la nef de quelque grotte irisée de sinueux stalactites\nque je suivais mes parents, qui portaient leur paroissien; un instant\naprès les petits vitraux en losange avaient pris la transparence\nprofonde, l’infrangible dureté de saphirs qui eussent été juxtaposés\nsur quelque immense pectoral, mais derrière lesquels on sentait, plus\naimé que toutes ces richesses, un sourire momentané de soleil; il\nétait aussi reconnaissable dans le flot bleu et doux dont il baignait\nles pierreries que sur le pavé de la place ou la paille du marché; et,\nmême à nos premiers dimanches quand nous étions arrivés avant Pâques,\nil me consolait que la terre fût encore nue et noire, en faisant\népanouir, comme en un printemps historique et qui datait des\nsuccesseurs de saint Louis, ce tapis éblouissant et doré de myosotis\nen verre",
+      "start": 2960,
+      "end": 4397
+    }
+  ],
+  "tokens": 730,
+  "processed_at": "2025-03-16T02:10:54.736271"
+}

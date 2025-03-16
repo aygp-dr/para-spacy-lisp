@@ -1,0 +1,32 @@
+{
+  "text": "Et sur la réponse négative de mon grand-père, c’est Odette qui avait\namené elle-même Swann chez les Verdurin.",
+  "entities": [
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 52,
+      "end": 58
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 85,
+      "end": 90
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 100,
+      "end": 109
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et sur la réponse négative de mon grand-père, c’est Odette qui avait\namené elle-même Swann chez les Verdurin",
+      "start": 0,
+      "end": 108
+    }
+  ],
+  "tokens": 18,
+  "processed_at": "2025-03-16T02:10:55.823614"
+}

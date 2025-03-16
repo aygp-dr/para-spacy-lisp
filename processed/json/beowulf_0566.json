@@ -1,0 +1,181 @@
+{
+  "text": "Sauf en lui demandant la petite phrase de Vinteuil au lieu de la Valse\ndes Roses, Swann ne cherchait pas à lui faire jouer plutôt des choses\nqu’il aimât, et pas plus en musique qu’en littérature, à corriger son\nmauvais goût. Il se rendait bien compte qu’elle n’était pas\nintelligente. En lui disant qu’elle aimerait tant qu’il lui parlât des\ngrands poètes, elle s’était imaginé qu’elle allait connaître tout de\nsuite des couplets héroïques et romanesques dans le genre de ceux du\nvicomte de Borelli, en plus émouvant encore. Pour Ver Meer de Delft,\nelle lui demanda s’il avait souffert par une femme, si c’était une\nfemme qui l’avait inspiré, et Swann lui ayant avoué qu’on n’en savait\nrien, elle s’était désintéressée de ce peintre. Elle disait souvent:\n«Je crois bien, la poésie, naturellement, il n’y aurait rien de plus\nbeau si c’était vrai, si les poètes pensaient tout ce qu’ils disent.\nMais bien souvent, il n’y a pas plus intéressé que ces gens-là. J’en\nsais quelque chose, j’avais une amie qui a aimé une espèce de poète.\nDans ses vers il ne parlait que de l’amour, du ciel, des étoiles. Ah!\nce qu’elle a été refaite! Il lui a croqué plus de trois cent mille\nfrancs.» Si alors Swann cherchait à lui apprendre en quoi consistait\nla beauté artistique, comment il fallait admirer les vers ou les\ntableaux, au bout d’un instant, elle cessait d’écouter, disant:\n«Oui... je ne me figurais pas que c’était comme cela.» Et il sentait\nqu’elle éprouvait une telle déception qu’il préférait mentir en lui\ndisant que tout cela n’était rien, que ce n’était encore que des\nbagatelles, qu’il n’avait pas le temps d’aborder le fond, qu’il y\navait autre chose. Mais elle lui disait vivement: «Autre chose?\nquoi?... Dis-le alors», mais il ne le disait pas, sachant combien cela\nlui paraîtrait mince et différent de ce qu’elle espérait, moins\nsensationnel et moins touchant, et craignant que, désillusionnée de\nl’art, elle ne le fût en même temps de l’amour.",
+  "entities": [
+    {
+      "text": "Sauf",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 42,
+      "end": 50
+    },
+    {
+      "text": "Valse",
+      "label": "ORG",
+      "start": 65,
+      "end": 70
+    },
+    {
+      "text": "Roses,",
+      "label": "ORG",
+      "start": 75,
+      "end": 81
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 82,
+      "end": 87
+    },
+    {
+      "text": "Borelli,",
+      "label": "ORG",
+      "start": 491,
+      "end": 499
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 525,
+      "end": 529
+    },
+    {
+      "text": "Meer",
+      "label": "ORG",
+      "start": 534,
+      "end": 538
+    },
+    {
+      "text": "Delft,",
+      "label": "ORG",
+      "start": 542,
+      "end": 548
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 646,
+      "end": 651
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 734,
+      "end": 738
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 893,
+      "end": 897
+    },
+    {
+      "text": "Dans",
+      "label": "ORG",
+      "start": 1031,
+      "end": 1035
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1186,
+      "end": 1191
+    },
+    {
+      "text": "«Oui...",
+      "label": "ORG",
+      "start": 1366,
+      "end": 1373
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1653,
+      "end": 1657
+    },
+    {
+      "text": "«Autre",
+      "label": "ORG",
+      "start": 1684,
+      "end": 1690
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sauf en lui demandant la petite phrase de Vinteuil au lieu de la Valse\ndes Roses, Swann ne cherchait pas à lui faire jouer plutôt des choses\nqu’il aimât, et pas plus en musique qu’en littérature, à corriger son\nmauvais goût",
+      "start": 0,
+      "end": 223
+    },
+    {
+      "text": "Il se rendait bien compte qu’elle n’était pas\nintelligente",
+      "start": 224,
+      "end": 283
+    },
+    {
+      "text": "En lui disant qu’elle aimerait tant qu’il lui parlât des\ngrands poètes, elle s’était imaginé qu’elle allait connaître tout de\nsuite des couplets héroïques et romanesques dans le genre de ceux du\nvicomte de Borelli, en plus émouvant encore",
+      "start": 284,
+      "end": 523
+    },
+    {
+      "text": "Pour Ver Meer de Delft,\nelle lui demanda s’il avait souffert par une femme, si c’était une\nfemme qui l’avait inspiré, et Swann lui ayant avoué qu’on n’en savait\nrien, elle s’était désintéressée de ce peintre",
+      "start": 524,
+      "end": 732
+    },
+    {
+      "text": "Elle disait souvent:\n«Je crois bien, la poésie, naturellement, il n’y aurait rien de plus\nbeau si c’était vrai, si les poètes pensaient tout ce qu’ils disent",
+      "start": 733,
+      "end": 891
+    },
+    {
+      "text": "Mais bien souvent, il n’y a pas plus intéressé que ces gens-là",
+      "start": 892,
+      "end": 955
+    },
+    {
+      "text": "J’en\nsais quelque chose, j’avais une amie qui a aimé une espèce de poète",
+      "start": 956,
+      "end": 1029
+    },
+    {
+      "text": "Dans ses vers il ne parlait que de l’amour, du ciel, des étoiles",
+      "start": 1030,
+      "end": 1095
+    },
+    {
+      "text": "Ah!\nce qu’elle a été refaite! Il lui a croqué plus de trois cent mille\nfrancs",
+      "start": 1096,
+      "end": 1174
+    },
+    {
+      "text": "» Si alors Swann cherchait à lui apprendre en quoi consistait\nla beauté artistique, comment il fallait admirer les vers ou les\ntableaux, au bout d’un instant, elle cessait d’écouter, disant:\n«Oui",
+      "start": 1175,
+      "end": 1370
+    },
+    {
+      "text": "je ne me figurais pas que c’était comme cela",
+      "start": 1373,
+      "end": 1418
+    },
+    {
+      "text": "» Et il sentait\nqu’elle éprouvait une telle déception qu’il préférait mentir en lui\ndisant que tout cela n’était rien, que ce n’était encore que des\nbagatelles, qu’il n’avait pas le temps d’aborder le fond, qu’il y\navait autre chose",
+      "start": 1419,
+      "end": 1651
+    },
+    {
+      "text": "Mais elle lui disait vivement: «Autre chose?\nquoi?",
+      "start": 1652,
+      "end": 1703
+    },
+    {
+      "text": "Dis-le alors», mais il ne le disait pas, sachant combien cela\nlui paraîtrait mince et différent de ce qu’elle espérait, moins\nsensationnel et moins touchant, et craignant que, désillusionnée de\nl’art, elle ne le fût en même temps de l’amour",
+      "start": 1706,
+      "end": 1947
+    }
+  ],
+  "tokens": 334,
+  "processed_at": "2025-03-16T02:10:56.249084"
+}

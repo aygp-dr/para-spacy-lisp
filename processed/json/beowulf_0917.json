@@ -1,0 +1,163 @@
+{
+  "text": "Ne pouvant se séparer d’elle sans retour, du moins, s’il l’avait vue\nsans séparations, sa douleur aurait fini par s’apaiser et peut-être\nson amour par s’éteindre. Et du moment qu’elle ne voulait pas quitter\nParis à jamais, il eût souhaité qu’elle ne le quittât jamais. Du moins\ncomme il savait que la seule grande absence qu’elle faisait était tous\nles ans celle d’août et septembre, il avait le loisir plusieurs mois\nd’avance d’en dissoudre l’idée amère dans tout le Temps à venir qu’il\nportait en lui par anticipation et qui, composé de jours homogènes aux\njours actuels, circulait transparent et froid en son esprit où il\nentretenait la tristesse, mais sans lui causer de trop vives\nsouffrances. Mais cet avenir intérieur, ce fleuve, incolore, et libre,\nvoici qu’une seule parole d’Odette venait l’atteindre jusqu’en Swann\net, comme un morceau de glace, l’immobilisait, durcissait sa fluidité,\nle faisait geler tout entier; et Swann s’était senti soudain rempli\nd’une masse énorme et infrangible qui pesait sur les parois\nintérieures de son être jusqu’à le faire éclater: c’est qu’Odette lui\navait dit, avec un regard souriant et sournois qui l’observait:\n«Forcheville va faire un beau voyage, à la Pentecôte. Il va en\nÉgypte», et Swann avait aussitôt compris que cela signifiait: «Je vais\naller en Égypte à la Pentecôte avec Forcheville.» Et en effet, si\nquelques jours après, Swann lui disait: «Voyons, à propos de ce voyage\nque tu m’as dit que tu ferais avec Forcheville», elle répondait\nétourdiment: «Oui, mon petit, nous partons le 19, on t’enverra une vue\ndes Pyramides.» Alors il voulait apprendre si elle était la maîtresse\nde Forcheville, le lui demander à elle-même. Il savait que,\nsuperstitieuse comme elle était, il y avait certains parjures qu’elle\nne ferait pas et puis la crainte, qui l’avait retenu jusqu’ici,\nd’irriter Odette en l’interrogeant, de se faire détester d’elle,\nn’existait plus maintenant qu’il avait perdu tout espoir d’en être\njamais aimé.",
+  "entities": [
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 207,
+      "end": 212
+    },
+    {
+      "text": "Temps",
+      "label": "ORG",
+      "start": 468,
+      "end": 473
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 699,
+      "end": 703
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 820,
+      "end": 825
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 930,
+      "end": 935
+    },
+    {
+      "text": "«Forcheville",
+      "label": "ORG",
+      "start": 1159,
+      "end": 1171
+    },
+    {
+      "text": "Pentecôte.",
+      "label": "ORG",
+      "start": 1202,
+      "end": 1212
+    },
+    {
+      "text": "Égypte»,",
+      "label": "ORG",
+      "start": 1222,
+      "end": 1230
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1234,
+      "end": 1239
+    },
+    {
+      "text": "Égypte",
+      "label": "ORG",
+      "start": 1302,
+      "end": 1308
+    },
+    {
+      "text": "Pentecôte",
+      "label": "ORG",
+      "start": 1314,
+      "end": 1323
+    },
+    {
+      "text": "Forcheville.»",
+      "label": "ORG",
+      "start": 1329,
+      "end": 1342
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1381,
+      "end": 1386
+    },
+    {
+      "text": "«Voyons,",
+      "label": "ORG",
+      "start": 1399,
+      "end": 1407
+    },
+    {
+      "text": "Forcheville»,",
+      "label": "ORG",
+      "start": 1465,
+      "end": 1478
+    },
+    {
+      "text": "«Oui,",
+      "label": "ORG",
+      "start": 1507,
+      "end": 1512
+    },
+    {
+      "text": "Pyramides.»",
+      "label": "ORG",
+      "start": 1569,
+      "end": 1580
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 1638,
+      "end": 1650
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1839,
+      "end": 1845
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ne pouvant se séparer d’elle sans retour, du moins, s’il l’avait vue\nsans séparations, sa douleur aurait fini par s’apaiser et peut-être\nson amour par s’éteindre",
+      "start": 0,
+      "end": 161
+    },
+    {
+      "text": "Et du moment qu’elle ne voulait pas quitter\nParis à jamais, il eût souhaité qu’elle ne le quittât jamais",
+      "start": 162,
+      "end": 267
+    },
+    {
+      "text": "Du moins\ncomme il savait que la seule grande absence qu’elle faisait était tous\nles ans celle d’août et septembre, il avait le loisir plusieurs mois\nd’avance d’en dissoudre l’idée amère dans tout le Temps à venir qu’il\nportait en lui par anticipation et qui, composé de jours homogènes aux\njours actuels, circulait transparent et froid en son esprit où il\nentretenait la tristesse, mais sans lui causer de trop vives\nsouffrances",
+      "start": 268,
+      "end": 697
+    },
+    {
+      "text": "Mais cet avenir intérieur, ce fleuve, incolore, et libre,\nvoici qu’une seule parole d’Odette venait l’atteindre jusqu’en Swann\net, comme un morceau de glace, l’immobilisait, durcissait sa fluidité,\nle faisait geler tout entier; et Swann s’était senti soudain rempli\nd’une masse énorme et infrangible qui pesait sur les parois\nintérieures de son être jusqu’à le faire éclater: c’est qu’Odette lui\navait dit, avec un regard souriant et sournois qui l’observait:\n«Forcheville va faire un beau voyage, à la Pentecôte",
+      "start": 698,
+      "end": 1211
+    },
+    {
+      "text": "Il va en\nÉgypte», et Swann avait aussitôt compris que cela signifiait: «Je vais\naller en Égypte à la Pentecôte avec Forcheville",
+      "start": 1212,
+      "end": 1340
+    },
+    {
+      "text": "» Et en effet, si\nquelques jours après, Swann lui disait: «Voyons, à propos de ce voyage\nque tu m’as dit que tu ferais avec Forcheville», elle répondait\nétourdiment: «Oui, mon petit, nous partons le 19, on t’enverra une vue\ndes Pyramides",
+      "start": 1341,
+      "end": 1578
+    },
+    {
+      "text": "» Alors il voulait apprendre si elle était la maîtresse\nde Forcheville, le lui demander à elle-même",
+      "start": 1579,
+      "end": 1678
+    },
+    {
+      "text": "Il savait que,\nsuperstitieuse comme elle était, il y avait certains parjures qu’elle\nne ferait pas et puis la crainte, qui l’avait retenu jusqu’ici,\nd’irriter Odette en l’interrogeant, de se faire détester d’elle,\nn’existait plus maintenant qu’il avait perdu tout espoir d’en être\njamais aimé",
+      "start": 1679,
+      "end": 1972
+    }
+  ],
+  "tokens": 320,
+  "processed_at": "2025-03-16T02:10:57.301975"
+}

@@ -1,0 +1,30 @@
+{
+  "text": "--«Mais à l’église, ils doivent y être déjà; vous ferez bien de ne pas\nperdre de temps. Allez surveiller votre déjeuner.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais à l’église, ils doivent y être déjà; vous ferez bien de ne pas\nperdre de temps",
+      "start": 0,
+      "end": 86
+    },
+    {
+      "text": "Allez surveiller votre déjeuner",
+      "start": 87,
+      "end": 119
+    },
+    {
+      "text": "»",
+      "start": 120,
+      "end": 121
+    }
+  ],
+  "tokens": 21,
+  "processed_at": "2025-03-16T02:10:54.732515"
+}

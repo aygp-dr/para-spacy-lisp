@@ -1,0 +1,244 @@
+{
+  "text": "Mais le jour où, pendant que mon père consultait le conseil de famille\nsur la rencontre de Legrandin, je descendis à la cuisine, était un de\nceux où la Charité de Giotto, très malade de son accouchement récent,\nne pouvait se lever; Françoise, n’étant plus aidée, était en retard.\nQuand je fus en bas, elle était en train, dans l’arrière-cuisine qui\ndonnait sur la basse-cour, de tuer un poulet qui, par sa résistance\ndésespérée et bien naturelle, mais accompagnée par Françoise hors\nd’elle, tandis qu’elle cherchait à lui fendre le cou sous l’oreille,\ndes cris de «sale bête! sale bête!», mettait la sainte douceur et\nl’onction de notre servante un peu moins en lumière qu’il n’eût fait,\nau dîner du lendemain, par sa peau brodée d’or comme une chasuble et\nson jus précieux égoutté d’un ciboire. Quand il fut mort, Françoise\nrecueillit le sang qui coulait sans noyer sa rancune, eut encore un\nsursaut de colère, et regardant le cadavre de son ennemi, dit une\ndernière fois: «Sale bête!» Je remontai tout tremblant; j’aurais voulu\nqu’on mît Françoise tout de suite à la porte. Mais qui m’eût fait des\nboules aussi chaudes, du café aussi parfumé, et même... ces\npoulets?... Et en réalité, ce lâche calcul, tout le monde avait eu à\nle faire comme moi. Car ma tante Léonie savait,--ce que j’ignorais\nencore,--que Françoise qui, pour sa fille, pour ses neveux, aurait\ndonné sa vie sans une plainte, était pour d’autres êtres d’une dureté\nsingulière. Malgré cela ma tante l’avait gardée, car si elle\nconnaissait sa cruauté, elle appréciait son service. Je m’aperçus peu\nà peu que la douceur, la componction, les vertus de Françoise\ncachaient des tragédies d’arrière-cuisine, comme l’histoire découvre\nque les règnes des Rois et des Reines, qui sont représentés les mains\njointes dans les vitraux des églises, furent marqués d’incidents\nsanglants. Je me rendis compte que, en dehors de ceux de sa parenté,\nles humains excitaient d’autant plus sa pitié par leurs malheurs,\nqu’ils vivaient plus éloignés d’elle. Les torrents de larmes qu’elle\nversait en lisant le journal sur les infortunes des inconnus se\ntarissaient vite si elle pouvait se représenter la personne qui en\nétait l’objet d’une façon un peu précise. Une de ces nuits qui\nsuivirent l’accouchement de la fille de cuisine, celle-ci fut prise\nd’atroces coliques; maman l’entendit se plaindre, se leva et réveilla\nFrançoise qui, insensible, déclara que tous ces cris étaient une\ncomédie, qu’elle voulait «faire la maîtresse». Le médecin, qui\ncraignait ces crises, avait mis un signet, dans un livre de médecine\nque nous avions, à la page où elles sont décrites et où il nous avait\ndit de nous reporter pour trouver l’indication des premiers soins à\ndonner. Ma mère envoya Françoise chercher le livre en lui recommandant\nde ne pas laisser tomber le signet. Au bout d’une heure, Françoise\nn’était pas revenue; ma mère indignée crut qu’elle s’était recouchée\net me dit d’aller voir moi-même dans la bibliothèque. J’y trouvai\nFrançoise qui, ayant voulu regarder ce que le signet marquait, lisait\nla description clinique de la crise et poussait des sanglots\nmaintenant qu’il s’agissait d’une malade-type qu’elle ne connaissait\npas. A chaque symptôme douloureux mentionné par l’auteur du traité,\nelle s’écriait: «Hé là! Sainte Vierge, est-il possible que le bon Dieu\nveuille faire souffrir ainsi une malheureuse créature humaine? Hé! la\npauvre!»",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Legrandin,",
+      "label": "ORG",
+      "start": 91,
+      "end": 101
+    },
+    {
+      "text": "Charité",
+      "label": "ORG",
+      "start": 152,
+      "end": 159
+    },
+    {
+      "text": "Giotto,",
+      "label": "ORG",
+      "start": 163,
+      "end": 170
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 232,
+      "end": 242
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 280,
+      "end": 285
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 468,
+      "end": 477
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 796,
+      "end": 801
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 815,
+      "end": 824
+    },
+    {
+      "text": "«Sale",
+      "label": "ORG",
+      "start": 974,
+      "end": 979
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1040,
+      "end": 1049
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1076,
+      "end": 1080
+    },
+    {
+      "text": "Léonie",
+      "label": "ORG",
+      "start": 1262,
+      "end": 1268
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1309,
+      "end": 1318
+    },
+    {
+      "text": "Malgré",
+      "label": "ORG",
+      "start": 1445,
+      "end": 1451
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1616,
+      "end": 1625
+    },
+    {
+      "text": "Rois",
+      "label": "ORG",
+      "start": 1714,
+      "end": 1718
+    },
+    {
+      "text": "Reines,",
+      "label": "ORG",
+      "start": 1726,
+      "end": 1733
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 2366,
+      "end": 2375
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 2724,
+      "end": 2733
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 2829,
+      "end": 2838
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 2974,
+      "end": 2983
+    },
+    {
+      "text": "Sainte",
+      "label": "ORG",
+      "start": 3266,
+      "end": 3272
+    },
+    {
+      "text": "Vierge,",
+      "label": "ORG",
+      "start": 3273,
+      "end": 3280
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 3308,
+      "end": 3312
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais le jour où, pendant que mon père consultait le conseil de famille\nsur la rencontre de Legrandin, je descendis à la cuisine, était un de\nceux où la Charité de Giotto, très malade de son accouchement récent,\nne pouvait se lever; Françoise, n’étant plus aidée, était en retard",
+      "start": 0,
+      "end": 278
+    },
+    {
+      "text": "Quand je fus en bas, elle était en train, dans l’arrière-cuisine qui\ndonnait sur la basse-cour, de tuer un poulet qui, par sa résistance\ndésespérée et bien naturelle, mais accompagnée par Françoise hors\nd’elle, tandis qu’elle cherchait à lui fendre le cou sous l’oreille,\ndes cris de «sale bête! sale bête!», mettait la sainte douceur et\nl’onction de notre servante un peu moins en lumière qu’il n’eût fait,\nau dîner du lendemain, par sa peau brodée d’or comme une chasuble et\nson jus précieux égoutté d’un ciboire",
+      "start": 279,
+      "end": 794
+    },
+    {
+      "text": "Quand il fut mort, Françoise\nrecueillit le sang qui coulait sans noyer sa rancune, eut encore un\nsursaut de colère, et regardant le cadavre de son ennemi, dit une\ndernière fois: «Sale bête!» Je remontai tout tremblant; j’aurais voulu\nqu’on mît Françoise tout de suite à la porte",
+      "start": 795,
+      "end": 1074
+    },
+    {
+      "text": "Mais qui m’eût fait des\nboules aussi chaudes, du café aussi parfumé, et même",
+      "start": 1075,
+      "end": 1152
+    },
+    {
+      "text": "ces\npoulets?",
+      "start": 1155,
+      "end": 1168
+    },
+    {
+      "text": "Et en réalité, ce lâche calcul, tout le monde avait eu à\nle faire comme moi",
+      "start": 1171,
+      "end": 1247
+    },
+    {
+      "text": "Car ma tante Léonie savait,--ce que j’ignorais\nencore,--que Françoise qui, pour sa fille, pour ses neveux, aurait\ndonné sa vie sans une plainte, était pour d’autres êtres d’une dureté\nsingulière",
+      "start": 1248,
+      "end": 1443
+    },
+    {
+      "text": "Malgré cela ma tante l’avait gardée, car si elle\nconnaissait sa cruauté, elle appréciait son service",
+      "start": 1444,
+      "end": 1545
+    },
+    {
+      "text": "Je m’aperçus peu\nà peu que la douceur, la componction, les vertus de Françoise\ncachaient des tragédies d’arrière-cuisine, comme l’histoire découvre\nque les règnes des Rois et des Reines, qui sont représentés les mains\njointes dans les vitraux des églises, furent marqués d’incidents\nsanglants",
+      "start": 1546,
+      "end": 1839
+    },
+    {
+      "text": "Je me rendis compte que, en dehors de ceux de sa parenté,\nles humains excitaient d’autant plus sa pitié par leurs malheurs,\nqu’ils vivaient plus éloignés d’elle",
+      "start": 1840,
+      "end": 2001
+    },
+    {
+      "text": "Les torrents de larmes qu’elle\nversait en lisant le journal sur les infortunes des inconnus se\ntarissaient vite si elle pouvait se représenter la personne qui en\nétait l’objet d’une façon un peu précise",
+      "start": 2002,
+      "end": 2205
+    },
+    {
+      "text": "Une de ces nuits qui\nsuivirent l’accouchement de la fille de cuisine, celle-ci fut prise\nd’atroces coliques; maman l’entendit se plaindre, se leva et réveilla\nFrançoise qui, insensible, déclara que tous ces cris étaient une\ncomédie, qu’elle voulait «faire la maîtresse»",
+      "start": 2206,
+      "end": 2476
+    },
+    {
+      "text": "Le médecin, qui\ncraignait ces crises, avait mis un signet, dans un livre de médecine\nque nous avions, à la page où elles sont décrites et où il nous avait\ndit de nous reporter pour trouver l’indication des premiers soins à\ndonner",
+      "start": 2477,
+      "end": 2707
+    },
+    {
+      "text": "Ma mère envoya Françoise chercher le livre en lui recommandant\nde ne pas laisser tomber le signet",
+      "start": 2708,
+      "end": 2806
+    },
+    {
+      "text": "Au bout d’une heure, Françoise\nn’était pas revenue; ma mère indignée crut qu’elle s’était recouchée\net me dit d’aller voir moi-même dans la bibliothèque",
+      "start": 2807,
+      "end": 2960
+    },
+    {
+      "text": "J’y trouvai\nFrançoise qui, ayant voulu regarder ce que le signet marquait, lisait\nla description clinique de la crise et poussait des sanglots\nmaintenant qu’il s’agissait d’une malade-type qu’elle ne connaissait\npas",
+      "start": 2961,
+      "end": 3177
+    },
+    {
+      "text": "A chaque symptôme douloureux mentionné par l’auteur du traité,\nelle s’écriait: «Hé là! Sainte Vierge, est-il possible que le bon Dieu\nveuille faire souffrir ainsi une malheureuse créature humaine? Hé! la\npauvre!»",
+      "start": 3178,
+      "end": 3391
+    }
+  ],
+  "tokens": 555,
+  "processed_at": "2025-03-16T02:10:55.371437"
+}

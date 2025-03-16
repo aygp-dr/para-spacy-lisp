@@ -1,0 +1,99 @@
+{
+  "text": "Or, la dame qu’accompagnait Legrandin était une personne vertueuse et\nconsidérée; il ne pouvait être question qu’il fût en bonne fortune et\ngêné d’être surpris, et mon père se demandait comment il avait pu\nmécontenter Legrandin. «Je regretterais d’autant plus de le savoir\nfâché, dit mon père, qu’au milieu de tous ces gens endimanchés il a,\navec son petit veston droit, sa cravate molle, quelque chose de si peu\napprêté, de si vraiment simple, et un air presque ingénu qui est tout\nà fait sympathique.» Mais le conseil de famille fut unanimement d’avis\nque mon père s’était fait une idée, ou que Legrandin, à ce moment-là,\nétait absorbé par quelque pensée. D’ailleurs la crainte de mon père\nfut dissipée dès le lendemain soir. Comme nous revenions d’une grande\npromenade, nous aperçûmes près du Pont-Vieux Legrandin, qui à cause\ndes fêtes, restait plusieurs jours à Combray. Il vint à nous la main\ntendue: «Connaissez-vous, monsieur le liseur, me demanda-t-il, ce vers\nde Paul Desjardins:",
+  "entities": [
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 28,
+      "end": 37
+    },
+    {
+      "text": "Legrandin.",
+      "label": "ORG",
+      "start": 218,
+      "end": 228
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 504,
+      "end": 508
+    },
+    {
+      "text": "Legrandin,",
+      "label": "ORG",
+      "start": 597,
+      "end": 607
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 728,
+      "end": 733
+    },
+    {
+      "text": "Pont-Vieux",
+      "label": "ORG",
+      "start": 796,
+      "end": 806
+    },
+    {
+      "text": "Legrandin,",
+      "label": "ORG",
+      "start": 807,
+      "end": 817
+    },
+    {
+      "text": "Combray.",
+      "label": "ORG",
+      "start": 867,
+      "end": 875
+    },
+    {
+      "text": "Paul",
+      "label": "ORG",
+      "start": 973,
+      "end": 977
+    },
+    {
+      "text": "Desjardins:",
+      "label": "ORG",
+      "start": 978,
+      "end": 989
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Or, la dame qu’accompagnait Legrandin était une personne vertueuse et\nconsidérée; il ne pouvait être question qu’il fût en bonne fortune et\ngêné d’être surpris, et mon père se demandait comment il avait pu\nmécontenter Legrandin",
+      "start": 0,
+      "end": 227
+    },
+    {
+      "text": "«Je regretterais d’autant plus de le savoir\nfâché, dit mon père, qu’au milieu de tous ces gens endimanchés il a,\navec son petit veston droit, sa cravate molle, quelque chose de si peu\napprêté, de si vraiment simple, et un air presque ingénu qui est tout\nà fait sympathique",
+      "start": 228,
+      "end": 501
+    },
+    {
+      "text": "» Mais le conseil de famille fut unanimement d’avis\nque mon père s’était fait une idée, ou que Legrandin, à ce moment-là,\nétait absorbé par quelque pensée",
+      "start": 502,
+      "end": 656
+    },
+    {
+      "text": "D’ailleurs la crainte de mon père\nfut dissipée dès le lendemain soir",
+      "start": 657,
+      "end": 726
+    },
+    {
+      "text": "Comme nous revenions d’une grande\npromenade, nous aperçûmes près du Pont-Vieux Legrandin, qui à cause\ndes fêtes, restait plusieurs jours à Combray",
+      "start": 727,
+      "end": 874
+    },
+    {
+      "text": "Il vint à nous la main\ntendue: «Connaissez-vous, monsieur le liseur, me demanda-t-il, ce vers\nde Paul Desjardins:",
+      "start": 875,
+      "end": 989
+    }
+  ],
+  "tokens": 163,
+  "processed_at": "2025-03-16T02:10:55.349696"
+}

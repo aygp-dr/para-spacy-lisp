@@ -1,0 +1,26 @@
+{
+  "text": "Puis Bloch avait déplu à ma grand’mère parce que, après le déjeuner\ncomme elle disait qu’elle était un peu souffrante, il avait étouffé un\nsanglot et essuyé des larmes.",
+  "entities": [
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Bloch",
+      "label": "ORG",
+      "start": 5,
+      "end": 10
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Puis Bloch avait déplu à ma grand’mère parce que, après le déjeuner\ncomme elle disait qu’elle était un peu souffrante, il avait étouffé un\nsanglot et essuyé des larmes",
+      "start": 0,
+      "end": 167
+    }
+  ],
+  "tokens": 29,
+  "processed_at": "2025-03-16T02:10:55.094122"
+}

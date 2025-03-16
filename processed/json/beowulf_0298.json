@@ -1,0 +1,42 @@
+{
+  "text": "--«Mais je croyais que vous le saviez, Léonie, disait maman. Je pensais\nque Françoise nous avait vus sortir par la petite porte du potager.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Léonie,",
+      "label": "ORG",
+      "start": 39,
+      "end": 46
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 76,
+      "end": 85
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais je croyais que vous le saviez, Léonie, disait maman",
+      "start": 0,
+      "end": 59
+    },
+    {
+      "text": "Je pensais\nque Françoise nous avait vus sortir par la petite porte du potager",
+      "start": 60,
+      "end": 138
+    },
+    {
+      "text": "»",
+      "start": 139,
+      "end": 140
+    }
+  ],
+  "tokens": 24,
+  "processed_at": "2025-03-16T02:10:55.451223"
+}

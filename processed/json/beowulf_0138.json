@@ -1,0 +1,13 @@
+{
+  "text": "On était passé dans le «cabinet de travail», et mon oncle, d’un air un\npeu gêné par ma présence, lui offrit des cigarettes.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "On était passé dans le «cabinet de travail», et mon oncle, d’un air un\npeu gêné par ma présence, lui offrit des cigarettes",
+      "start": 0,
+      "end": 122
+    }
+  ],
+  "tokens": 23,
+  "processed_at": "2025-03-16T02:10:54.883537"
+}

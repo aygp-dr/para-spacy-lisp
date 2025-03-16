@@ -1,0 +1,150 @@
+{
+  "text": "Même dans les courses qu’on avait à faire derrière l’église, là où on\nne la voyait pas, tout semblait ordonné par rapport au clocher surgi\nici ou là entre les maisons, peut-être plus émouvant encore quand il\napparaissait ainsi sans l’église. Et certes, il y en a bien d’autres\nqui sont plus beaux vus de cette façon, et j’ai dans mon souvenir des\nvignettes de clochers dépassant les toits, qui ont un autre caractère\nd’art que celles que composaient les tristes rues de Combray. Je\nn’oublierai jamais, dans une curieuse ville de Normandie voisine de\nBalbec, deux charmants hôtels du XVIIIe siècle, qui me sont à beaucoup\nd’égards chers et vénérables et entre lesquels, quand on la regarde du\nbeau jardin qui descend des perrons vers la rivière, la flèche\ngothique d’une église qu’ils cachent s’élance, ayant l’air de\nterminer, de surmonter leurs façades, mais d’une matière si\ndifférente, si précieuse, si annelée, si rose, si vernie, qu’on voit\nbien qu’elle n’en fait pas plus partie que de deux beaux galets unis,\nentre lesquels elle est prise sur la plage, la flèche purpurine et\ncrénelée de quelque coquillage fuselé en tourelle et glacé d’émail.\nMême à Paris, dans un des quartiers les plus laids de la ville, je\nsais une fenêtre où on voit après un premier, un second et même un\ntroisième plan fait des toits amoncelés de plusieurs rues, une cloche\nviolette, parfois rougeâtre, parfois aussi, dans les plus nobles\n«épreuves» qu’en tire l’atmosphère, d’un noir décanté de cendres,\nlaquelle n’est autre que le dôme Saint-Augustin et qui donne à cette\nvue de Paris le caractère de certaines vues de Rome par Piranesi. Mais\ncomme dans aucune de ces petites gravures, avec quelque goût que ma\nmémoire ait pu les exécuter elle ne put mettre ce que j’avais perdu\ndepuis longtemps, le sentiment qui nous fait non pas considérer une\nchose comme un spectacle, mais y croire comme en un être sans\néquivalent, aucune d’elles ne tient sous sa dépendance toute une\npartie profonde de ma vie, comme fait le souvenir de ces aspects du\nclocher de Combray dans les rues qui sont derrière l’église. Qu’on le\nvît à cinq heures, quand on allait chercher les lettres à la poste, à\nquelques maisons de soi, à gauche, surélevant brusquement d’une cime\nisolée la ligne de faîte des toits; que si, au contraire, on voulait\nentrer demander des nouvelles de Mme Sazerat, on suivît des yeux cette\nligne redevenue basse après la descente de son autre versant en\nsachant qu’il faudrait tourner à la deuxième rue après le clocher;\nsoit qu’encore, poussant plus loin, si on allait à la gare, on le vît\nobliquement, montrant de profil des arêtes et des surfaces nouvelles\ncomme un solide surpris à un moment inconnu de sa révolution; ou que,\ndes bords de la Vivonne, l’abside musculeusement ramassée et remontée\npar la perspective semblât jaillir de l’effort que le clocher faisait\npour lancer sa flèche au cœur du ciel: c’était toujours à lui qu’il\nfallait revenir, toujours lui qui dominait tout, sommant les maisons\nd’un pinacle inattendu, levé avant moi comme le doigt de Dieu dont le\ncorps eût été caché dans la foule des humains sans que je le\nconfondisse pour cela avec elle. Et aujourd’hui encore si, dans une\ngrande ville de province ou dans un quartier de Paris que je connais\nmal, un passant qui m’a «mis dans mon chemin» me montre au loin, comme\nun point de repère, tel beffroi d’hôpital, tel clocher de couvent\nlevant la pointe de son bonnet ecclésiastique au coin d’une rue que je\ndois prendre, pour peu que ma mémoire puisse obscurément lui trouver\nquelque trait de ressemblance avec la figure chère et disparue, le\npassant, s’il se retourne pour s’assurer que je ne m’égare pas, peut,\nà son étonnement, m’apercevoir qui, oublieux de la promenade\nentreprise ou de la course obligée, reste là, devant le clocher,\npendant des heures, immobile, essayant de me souvenir, sentant au fond\nde moi des terres reconquises sur l’oubli qui s’assèchent et se\nrebâtissent; et sans doute alors, et plus anxieusement que tout à\nl’heure quand je lui demandais de me renseigner, je cherche encore mon\nchemin, je tourne une rue...mais...c’est dans mon cœur...",
+  "entities": [
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Combray.",
+      "label": "ORG",
+      "start": 470,
+      "end": 478
+    },
+    {
+      "text": "Normandie",
+      "label": "ORG",
+      "start": 529,
+      "end": 538
+    },
+    {
+      "text": "Balbec,",
+      "label": "ORG",
+      "start": 550,
+      "end": 557
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 1151,
+      "end": 1155
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 1158,
+      "end": 1164
+    },
+    {
+      "text": "Saint-Augustin",
+      "label": "ORG",
+      "start": 1519,
+      "end": 1533
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 1562,
+      "end": 1567
+    },
+    {
+      "text": "Rome",
+      "label": "ORG",
+      "start": 1602,
+      "end": 1606
+    },
+    {
+      "text": "Piranesi.",
+      "label": "ORG",
+      "start": 1611,
+      "end": 1620
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1621,
+      "end": 1625
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 2036,
+      "end": 2043
+    },
+    {
+      "text": "Sazerat,",
+      "label": "ORG",
+      "start": 2340,
+      "end": 2348
+    },
+    {
+      "text": "Vivonne,",
+      "label": "ORG",
+      "start": 2730,
+      "end": 2738
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 3048,
+      "end": 3052
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 3238,
+      "end": 3243
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Même dans les courses qu’on avait à faire derrière l’église, là où on\nne la voyait pas, tout semblait ordonné par rapport au clocher surgi\nici ou là entre les maisons, peut-être plus émouvant encore quand il\napparaissait ainsi sans l’église",
+      "start": 0,
+      "end": 240
+    },
+    {
+      "text": "Et certes, il y en a bien d’autres\nqui sont plus beaux vus de cette façon, et j’ai dans mon souvenir des\nvignettes de clochers dépassant les toits, qui ont un autre caractère\nd’art que celles que composaient les tristes rues de Combray",
+      "start": 241,
+      "end": 477
+    },
+    {
+      "text": "Je\nn’oublierai jamais, dans une curieuse ville de Normandie voisine de\nBalbec, deux charmants hôtels du XVIIIe siècle, qui me sont à beaucoup\nd’égards chers et vénérables et entre lesquels, quand on la regarde du\nbeau jardin qui descend des perrons vers la rivière, la flèche\ngothique d’une église qu’ils cachent s’élance, ayant l’air de\nterminer, de surmonter leurs façades, mais d’une matière si\ndifférente, si précieuse, si annelée, si rose, si vernie, qu’on voit\nbien qu’elle n’en fait pas plus partie que de deux beaux galets unis,\nentre lesquels elle est prise sur la plage, la flèche purpurine et\ncrénelée de quelque coquillage fuselé en tourelle et glacé d’émail",
+      "start": 478,
+      "end": 1149
+    },
+    {
+      "text": "Même à Paris, dans un des quartiers les plus laids de la ville, je\nsais une fenêtre où on voit après un premier, un second et même un\ntroisième plan fait des toits amoncelés de plusieurs rues, une cloche\nviolette, parfois rougeâtre, parfois aussi, dans les plus nobles\n«épreuves» qu’en tire l’atmosphère, d’un noir décanté de cendres,\nlaquelle n’est autre que le dôme Saint-Augustin et qui donne à cette\nvue de Paris le caractère de certaines vues de Rome par Piranesi",
+      "start": 1150,
+      "end": 1619
+    },
+    {
+      "text": "Mais\ncomme dans aucune de ces petites gravures, avec quelque goût que ma\nmémoire ait pu les exécuter elle ne put mettre ce que j’avais perdu\ndepuis longtemps, le sentiment qui nous fait non pas considérer une\nchose comme un spectacle, mais y croire comme en un être sans\néquivalent, aucune d’elles ne tient sous sa dépendance toute une\npartie profonde de ma vie, comme fait le souvenir de ces aspects du\nclocher de Combray dans les rues qui sont derrière l’église",
+      "start": 1620,
+      "end": 2084
+    },
+    {
+      "text": "Qu’on le\nvît à cinq heures, quand on allait chercher les lettres à la poste, à\nquelques maisons de soi, à gauche, surélevant brusquement d’une cime\nisolée la ligne de faîte des toits; que si, au contraire, on voulait\nentrer demander des nouvelles de Mme Sazerat, on suivît des yeux cette\nligne redevenue basse après la descente de son autre versant en\nsachant qu’il faudrait tourner à la deuxième rue après le clocher;\nsoit qu’encore, poussant plus loin, si on allait à la gare, on le vît\nobliquement, montrant de profil des arêtes et des surfaces nouvelles\ncomme un solide surpris à un moment inconnu de sa révolution; ou que,\ndes bords de la Vivonne, l’abside musculeusement ramassée et remontée\npar la perspective semblât jaillir de l’effort que le clocher faisait\npour lancer sa flèche au cœur du ciel: c’était toujours à lui qu’il\nfallait revenir, toujours lui qui dominait tout, sommant les maisons\nd’un pinacle inattendu, levé avant moi comme le doigt de Dieu dont le\ncorps eût été caché dans la foule des humains sans que je le\nconfondisse pour cela avec elle",
+      "start": 2085,
+      "end": 3153
+    },
+    {
+      "text": "Et aujourd’hui encore si, dans une\ngrande ville de province ou dans un quartier de Paris que je connais\nmal, un passant qui m’a «mis dans mon chemin» me montre au loin, comme\nun point de repère, tel beffroi d’hôpital, tel clocher de couvent\nlevant la pointe de son bonnet ecclésiastique au coin d’une rue que je\ndois prendre, pour peu que ma mémoire puisse obscurément lui trouver\nquelque trait de ressemblance avec la figure chère et disparue, le\npassant, s’il se retourne pour s’assurer que je ne m’égare pas, peut,\nà son étonnement, m’apercevoir qui, oublieux de la promenade\nentreprise ou de la course obligée, reste là, devant le clocher,\npendant des heures, immobile, essayant de me souvenir, sentant au fond\nde moi des terres reconquises sur l’oubli qui s’assèchent et se\nrebâtissent; et sans doute alors, et plus anxieusement que tout à\nl’heure quand je lui demandais de me renseigner, je cherche encore mon\nchemin, je tourne une rue",
+      "start": 3154,
+      "end": 4096
+    },
+    {
+      "text": "mais",
+      "start": 159,
+      "end": 163
+    },
+    {
+      "text": "c’est dans mon cœur",
+      "start": 4106,
+      "end": 4125
+    }
+  ],
+  "tokens": 706,
+  "processed_at": "2025-03-16T02:10:54.766696"
+}

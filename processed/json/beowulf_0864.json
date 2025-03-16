@@ -1,0 +1,20 @@
+{
+  "text": "--Mais, princesse, naturellement, c’est parce que c’est le mobilier de\nleurs grands-parents.",
+  "entities": [
+    {
+      "text": "--Mais,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais, princesse, naturellement, c’est parce que c’est le mobilier de\nleurs grands-parents",
+      "start": 0,
+      "end": 91
+    }
+  ],
+  "tokens": 12,
+  "processed_at": "2025-03-16T02:10:57.146391"
+}

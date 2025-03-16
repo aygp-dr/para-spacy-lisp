@@ -1,0 +1,51 @@
+{
+  "text": "Quelquefois, comme Ève naquit d’une côte d’Adam, une femme naissait\npendant mon sommeil d’une fausse position de ma cuisse. Formée du\nplaisir que j’étais sur le point de goûter, je m’imaginais que c’était\nelle qui me l’offrait. Mon corps qui sentait dans le sien ma propre\nchaleur voulait s’y rejoindre, je m’éveillais. Le reste des humains\nm’apparaissait comme bien lointain auprès de cette femme que j’avais\nquittée il y avait quelques moments à peine; ma joue était chaude\nencore de son baiser, mon corps courbaturé par le poids de sa taille.\nSi, comme il arrivait quelquefois, elle avait les traits d’une femme\nque j’avais connue dans la vie, j’allais me donner tout entier à ce\nbut: la retrouver, comme ceux qui partent en voyage pour voir de leurs\nyeux une cité désirée et s’imaginent qu’on peut goûter dans une\nréalité le charme du songe. Peu à peu son souvenir s’évanouissait,\nj’avais oublié la fille de mon rêve.",
+  "entities": [
+    {
+      "text": "Quelquefois,",
+      "label": "ORG",
+      "start": 0,
+      "end": 12
+    },
+    {
+      "text": "Formée",
+      "label": "ORG",
+      "start": 124,
+      "end": 130
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quelquefois, comme Ève naquit d’une côte d’Adam, une femme naissait\npendant mon sommeil d’une fausse position de ma cuisse",
+      "start": 0,
+      "end": 122
+    },
+    {
+      "text": "Formée du\nplaisir que j’étais sur le point de goûter, je m’imaginais que c’était\nelle qui me l’offrait",
+      "start": 123,
+      "end": 226
+    },
+    {
+      "text": "Mon corps qui sentait dans le sien ma propre\nchaleur voulait s’y rejoindre, je m’éveillais",
+      "start": 227,
+      "end": 318
+    },
+    {
+      "text": "Le reste des humains\nm’apparaissait comme bien lointain auprès de cette femme que j’avais\nquittée il y avait quelques moments à peine; ma joue était chaude\nencore de son baiser, mon corps courbaturé par le poids de sa taille",
+      "start": 319,
+      "end": 544
+    },
+    {
+      "text": "Si, comme il arrivait quelquefois, elle avait les traits d’une femme\nque j’avais connue dans la vie, j’allais me donner tout entier à ce\nbut: la retrouver, comme ceux qui partent en voyage pour voir de leurs\nyeux une cité désirée et s’imaginent qu’on peut goûter dans une\nréalité le charme du songe",
+      "start": 545,
+      "end": 844
+    },
+    {
+      "text": "Peu à peu son souvenir s’évanouissait,\nj’avais oublié la fille de mon rêve",
+      "start": 845,
+      "end": 920
+    }
+  ],
+  "tokens": 157,
+  "processed_at": "2025-03-16T02:10:54.388330"
+}

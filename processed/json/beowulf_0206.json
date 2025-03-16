@@ -1,0 +1,42 @@
+{
+  "text": "--«Je le connais beaucoup, si cela pouvait vous faire plaisir qu’il\nécrive un mot en tête de votre volume, je pourrais le lui demander.»\nJe n’osai pas accepter mais posai à Swann des questions sur Bergotte.\n«Est-ce que vous pourriez me dire quel est l’acteur qu’il préfère?»",
+  "entities": [
+    {
+      "text": "--«Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 173,
+      "end": 178
+    },
+    {
+      "text": "Bergotte.",
+      "label": "ORG",
+      "start": 197,
+      "end": 206
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Je le connais beaucoup, si cela pouvait vous faire plaisir qu’il\nécrive un mot en tête de votre volume, je pourrais le lui demander",
+      "start": 0,
+      "end": 134
+    },
+    {
+      "text": "»\nJe n’osai pas accepter mais posai à Swann des questions sur Bergotte",
+      "start": 135,
+      "end": 205
+    },
+    {
+      "text": "«Est-ce que vous pourriez me dire quel est l’acteur qu’il préfère?»",
+      "start": 206,
+      "end": 274
+    }
+  ],
+  "tokens": 47,
+  "processed_at": "2025-03-16T02:10:55.138060"
+}

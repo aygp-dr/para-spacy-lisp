@@ -1,0 +1,44 @@
+{
+  "text": "Un soir où Swann avait accepté de dîner avec les Verdurin, comme\npendant le dîner il venait de dire que le lendemain il avait un\nbanquet d’anciens camarades, Odette lui avait répondu en pleine table,\ndevant Forcheville, qui était maintenant un des fidèles, devant le\npeintre, devant Cottard:",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 49,
+      "end": 58
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 158,
+      "end": 164
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 207,
+      "end": 219
+    },
+    {
+      "text": "Cottard:",
+      "label": "ORG",
+      "start": 283,
+      "end": 291
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Un soir où Swann avait accepté de dîner avec les Verdurin, comme\npendant le dîner il venait de dire que le lendemain il avait un\nbanquet d’anciens camarades, Odette lui avait répondu en pleine table,\ndevant Forcheville, qui était maintenant un des fidèles, devant le\npeintre, devant Cottard:",
+      "start": 0,
+      "end": 291
+    }
+  ],
+  "tokens": 48,
+  "processed_at": "2025-03-16T02:10:56.634470"
+}

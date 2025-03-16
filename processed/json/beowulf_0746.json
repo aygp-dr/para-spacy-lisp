@@ -1,0 +1,117 @@
+{
+  "text": "Il voyait le pianiste prêt à jouer la sonate Clair de lune et les\nmines de Mme Verdurin s’effrayant du mal que la musique de Beethoven\nallait faire à ses nerfs: «Idiote, menteuse! s’écria-t-il, et ça croit\naimer l’Art!». Elle dirait à Odette, après lui avoir insinué\nadroitement quelques mots louangeurs pour Forcheville, comme elle\navait fait si souvent pour lui: «Vous allez faire une petite place à\ncôté de vous à M. de Forcheville.» «Dans l’obscurité! maquerelle,\nentremetteuse!». «Entremetteuse», c’était le nom qu’il donnait aussi à\nla musique qui les convierait à se taire, à rêver ensemble, à se\nregarder, à se prendre la main. Il trouvait du bon à la sévérité\ncontre les arts, de Platon, de Bossuet, et de la vieille éducation\nfrançaise.",
+  "entities": [
+    {
+      "text": "Clair",
+      "label": "ORG",
+      "start": 45,
+      "end": 50
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 79,
+      "end": 87
+    },
+    {
+      "text": "Beethoven",
+      "label": "ORG",
+      "start": 125,
+      "end": 134
+    },
+    {
+      "text": "«Idiote,",
+      "label": "ORG",
+      "start": 161,
+      "end": 169
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 221,
+      "end": 225
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 235,
+      "end": 242
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 309,
+      "end": 321
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 365,
+      "end": 370
+    },
+    {
+      "text": "Forcheville.»",
+      "label": "ORG",
+      "start": 423,
+      "end": 436
+    },
+    {
+      "text": "«Dans",
+      "label": "ORG",
+      "start": 437,
+      "end": 442
+    },
+    {
+      "text": "«Entremetteuse»,",
+      "label": "ORG",
+      "start": 485,
+      "end": 501
+    },
+    {
+      "text": "Platon,",
+      "label": "ORG",
+      "start": 689,
+      "end": 696
+    },
+    {
+      "text": "Bossuet,",
+      "label": "ORG",
+      "start": 700,
+      "end": 708
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il voyait le pianiste prêt à jouer la sonate Clair de lune et les\nmines de Mme Verdurin s’effrayant du mal que la musique de Beethoven\nallait faire à ses nerfs: «Idiote, menteuse! s’écria-t-il, et ça croit\naimer l’Art!»",
+      "start": 0,
+      "end": 219
+    },
+    {
+      "text": "Elle dirait à Odette, après lui avoir insinué\nadroitement quelques mots louangeurs pour Forcheville, comme elle\navait fait si souvent pour lui: «Vous allez faire une petite place à\ncôté de vous à M",
+      "start": 220,
+      "end": 418
+    },
+    {
+      "text": "de Forcheville",
+      "start": 419,
+      "end": 434
+    },
+    {
+      "text": "» «Dans l’obscurité! maquerelle,\nentremetteuse!»",
+      "start": 435,
+      "end": 483
+    },
+    {
+      "text": "«Entremetteuse», c’était le nom qu’il donnait aussi à\nla musique qui les convierait à se taire, à rêver ensemble, à se\nregarder, à se prendre la main",
+      "start": 484,
+      "end": 634
+    },
+    {
+      "text": "Il trouvait du bon à la sévérité\ncontre les arts, de Platon, de Bossuet, et de la vieille éducation\nfrançaise",
+      "start": 635,
+      "end": 745
+    }
+  ],
+  "tokens": 126,
+  "processed_at": "2025-03-16T02:10:56.785910"
+}

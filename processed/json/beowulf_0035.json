@@ -1,0 +1,205 @@
+{
+  "text": "Elles furent plus intéressées quand la veille du jour où Swann devait\nvenir dîner, et leur avait personnellement envoyé une caisse de vin\nd’Asti, ma tante, tenant un numéro du Figaro où à côté du nom d’un\ntableau qui était à une Exposition de Corot, il y avait ces mots: «de\nla collection de M. Charles Swann», nous dit: «Vous avez vu que Swann\na «les honneurs» du Figaro?»--«Mais je vous ai toujours dit qu’il avait\nbeaucoup de goût», dit ma grand’mère. «Naturellement toi, du moment\nqu’il s’agit d’être d’un autre avis que nous», répondit ma grand’tante\nqui, sachant que ma grand’mère n’était jamais du même avis qu’elle, et\nn’étant bien sûre que ce fût à elle-même que nous donnions toujours\nraison, voulait nous arracher une condamnation en bloc des opinions de\nma grand’mère contre lesquelles elle tâchait de nous solidariser de\nforce avec les siennes. Mais nous restâmes silencieux. Les sœurs de ma\ngrand’mère ayant manifesté l’intention de parler à Swann de ce mot du\nFigaro, ma grand’tante le leur déconseilla. Chaque fois qu’elle voyait\naux autres un avantage si petit fût-il qu’elle n’avait pas, elle se\npersuadait que c’était non un avantage mais un mal et elle les\nplaignait pour ne pas avoir à les envier. «Je crois que vous ne lui\nferiez pas plaisir; moi je sais bien que cela me serait très\ndésagréable de voir mon nom imprimé tout vif comme cela dans le\njournal, et je ne serais pas flattée du tout qu’on m’en parlât.» Elle\nne s’entêta pas d’ailleurs à persuader les sœurs de ma grand’mère; car\ncelles-ci par horreur de la vulgarité poussaient si loin l’art de\ndissimuler sous des périphrases ingénieuses une allusion personnelle\nqu’elle passait souvent inaperçue de celui même à qui elle\ns’adressait. Quant à ma mère elle ne pensait qu’à tâcher d’obtenir de\nmon père qu’il consentît à parler à Swann non de sa femme mais de sa\nfille qu’il adorait et à cause de laquelle disait-on il avait fini par\nfaire ce mariage. «Tu pourrais ne lui dire qu’un mot, lui demander\ncomment elle va. Cela doit être si cruel pour lui.» Mais mon père se\nfâchait: «Mais non! tu as des idées absurdes. Ce serait ridicule.»",
+  "entities": [
+    {
+      "text": "Elles",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 57,
+      "end": 62
+    },
+    {
+      "text": "Figaro",
+      "label": "ORG",
+      "start": 176,
+      "end": 182
+    },
+    {
+      "text": "Exposition",
+      "label": "ORG",
+      "start": 229,
+      "end": 239
+    },
+    {
+      "text": "Corot,",
+      "label": "ORG",
+      "start": 243,
+      "end": 249
+    },
+    {
+      "text": "Charles",
+      "label": "ORG",
+      "start": 295,
+      "end": 302
+    },
+    {
+      "text": "Swann»,",
+      "label": "ORG",
+      "start": 303,
+      "end": 310
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 321,
+      "end": 326
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 339,
+      "end": 344
+    },
+    {
+      "text": "Figaro?»--«Mais",
+      "label": "ORG",
+      "start": 365,
+      "end": 380
+    },
+    {
+      "text": "«Naturellement",
+      "label": "ORG",
+      "start": 455,
+      "end": 469
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 858,
+      "end": 862
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 956,
+      "end": 961
+    },
+    {
+      "text": "Figaro,",
+      "label": "ORG",
+      "start": 975,
+      "end": 982
+    },
+    {
+      "text": "Chaque",
+      "label": "ORG",
+      "start": 1019,
+      "end": 1025
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1435,
+      "end": 1439
+    },
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 1718,
+      "end": 1723
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1811,
+      "end": 1816
+    },
+    {
+      "text": "Cela",
+      "label": "ORG",
+      "start": 1999,
+      "end": 2003
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2034,
+      "end": 2038
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 2060,
+      "end": 2065
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elles furent plus intéressées quand la veille du jour où Swann devait\nvenir dîner, et leur avait personnellement envoyé une caisse de vin\nd’Asti, ma tante, tenant un numéro du Figaro où à côté du nom d’un\ntableau qui était à une Exposition de Corot, il y avait ces mots: «de\nla collection de M",
+      "start": 0,
+      "end": 293
+    },
+    {
+      "text": "Charles Swann», nous dit: «Vous avez vu que Swann\na «les honneurs» du Figaro?»--«Mais je vous ai toujours dit qu’il avait\nbeaucoup de goût», dit ma grand’mère",
+      "start": 294,
+      "end": 453
+    },
+    {
+      "text": "«Naturellement toi, du moment\nqu’il s’agit d’être d’un autre avis que nous», répondit ma grand’tante\nqui, sachant que ma grand’mère n’était jamais du même avis qu’elle, et\nn’étant bien sûre que ce fût à elle-même que nous donnions toujours\nraison, voulait nous arracher une condamnation en bloc des opinions de\nma grand’mère contre lesquelles elle tâchait de nous solidariser de\nforce avec les siennes",
+      "start": 454,
+      "end": 856
+    },
+    {
+      "text": "Mais nous restâmes silencieux",
+      "start": 857,
+      "end": 887
+    },
+    {
+      "text": "Les sœurs de ma\ngrand’mère ayant manifesté l’intention de parler à Swann de ce mot du\nFigaro, ma grand’tante le leur déconseilla",
+      "start": 888,
+      "end": 1017
+    },
+    {
+      "text": "Chaque fois qu’elle voyait\naux autres un avantage si petit fût-il qu’elle n’avait pas, elle se\npersuadait que c’était non un avantage mais un mal et elle les\nplaignait pour ne pas avoir à les envier",
+      "start": 1018,
+      "end": 1217
+    },
+    {
+      "text": "«Je crois que vous ne lui\nferiez pas plaisir; moi je sais bien que cela me serait très\ndésagréable de voir mon nom imprimé tout vif comme cela dans le\njournal, et je ne serais pas flattée du tout qu’on m’en parlât",
+      "start": 1218,
+      "end": 1432
+    },
+    {
+      "text": "» Elle\nne s’entêta pas d’ailleurs à persuader les sœurs de ma grand’mère; car\ncelles-ci par horreur de la vulgarité poussaient si loin l’art de\ndissimuler sous des périphrases ingénieuses une allusion personnelle\nqu’elle passait souvent inaperçue de celui même à qui elle\ns’adressait",
+      "start": 1433,
+      "end": 1716
+    },
+    {
+      "text": "Quant à ma mère elle ne pensait qu’à tâcher d’obtenir de\nmon père qu’il consentît à parler à Swann non de sa femme mais de sa\nfille qu’il adorait et à cause de laquelle disait-on il avait fini par\nfaire ce mariage",
+      "start": 1717,
+      "end": 1931
+    },
+    {
+      "text": "«Tu pourrais ne lui dire qu’un mot, lui demander\ncomment elle va",
+      "start": 1932,
+      "end": 1997
+    },
+    {
+      "text": "Cela doit être si cruel pour lui",
+      "start": 1998,
+      "end": 2031
+    },
+    {
+      "text": "» Mais mon père se\nfâchait: «Mais non! tu as des idées absurdes",
+      "start": 2032,
+      "end": 2095
+    },
+    {
+      "text": "Ce serait ridicule",
+      "start": 2096,
+      "end": 2115
+    },
+    {
+      "text": "»",
+      "start": 308,
+      "end": 309
+    }
+  ],
+  "tokens": 369,
+  "processed_at": "2025-03-16T02:10:54.474098"
+}

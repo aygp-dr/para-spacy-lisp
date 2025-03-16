@@ -1,0 +1,18 @@
+{
+  "text": "Par une générosité instinctive et une politesse involontaire elle\ntaisait les mots prémédités qu’elle avait jugés indispensables à la\npleine réalisation de son désir. Et à tous moments au fond d’elle-même\nune vierge timide et suppliante implorait et faisait reculer un\nsoudard fruste et vainqueur.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "Par une générosité instinctive et une politesse involontaire elle\ntaisait les mots prémédités qu’elle avait jugés indispensables à la\npleine réalisation de son désir",
+      "start": 0,
+      "end": 165
+    },
+    {
+      "text": "Et à tous moments au fond d’elle-même\nune vierge timide et suppliante implorait et faisait reculer un\nsoudard fruste et vainqueur",
+      "start": 166,
+      "end": 296
+    }
+  ],
+  "tokens": 45,
+  "processed_at": "2025-03-16T02:10:55.589690"
+}

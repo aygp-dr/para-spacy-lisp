@@ -1,0 +1,20 @@
+{
+  "text": "--«Mais non, ce n’est pas serpent à sonates qu’on dit, c’est serpent à\nsonnettes», dit-il d’un ton zélé, impatient et triomphal.",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais non, ce n’est pas serpent à sonates qu’on dit, c’est serpent à\nsonnettes», dit-il d’un ton zélé, impatient et triomphal",
+      "start": 0,
+      "end": 127
+    }
+  ],
+  "tokens": 21,
+  "processed_at": "2025-03-16T02:10:56.540005"
+}

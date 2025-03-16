@@ -1,0 +1,142 @@
+{
+  "text": "S’il était assez simple d’aller du côté de Méséglise, c’était une\nautre affaire d’aller du côté de Guermantes, car la promenade était\nlongue et l’on voulait être sûr du temps qu’il ferait. Quand on\nsemblait entrer dans une série de beaux jours; quand Françoise\ndésespérée qu’il ne tombât pas une goutte d’eau pour les «pauvres\nrécoltes», et ne voyant que de rares nuages blancs nageant à la\nsurface calme et bleue du ciel s’écriait en gémissant: «Ne dirait-on\npas qu’on voit ni plus ni moins des chiens de mer qui jouent en\nmontrant là-haut leurs museaux? Ah! ils pensent bien à faire pleuvoir\npour les pauvres laboureurs! Et puis quand les blés seront poussés,\nalors la pluie se mettra à tomber tout à petit patapon, sans\ndiscontinuer, sans plus savoir sur quoi elle tombe que si c’était sur\nla mer»; quand mon père avait reçu invariablement les mêmes réponses\nfavorables du jardinier et du baromètre, alors on disait au dîner:\n«Demain s’il fait le même temps, nous irons du côté de Guermantes.» On\npartait tout de suite après déjeuner par la petite porte du jardin et\non tombait dans la rue des Perchamps, étroite et formant un angle\naigu, remplie de graminées au milieu desquelles deux ou trois guêpes\npassaient la journée à herboriser, aussi bizarre que son nom d’où me\nsemblaient dériver ses particularités curieuses et sa personnalité\nrevêche, et qu’on chercherait en vain dans le Combray d’aujourd’hui où\nsur son tracé ancien s’élève l’école. Mais ma rêverie (semblable à ces\narchitectes élèves de Viollet-le-Duc, qui, croyant retrouver sous un\njubé Renaissance et un autel du XVIIe siècle les traces d’un chœur\nroman, remettent tout l’édifice dans l’état où il devait être au XIIe\nsiècle) ne laisse pas une pierre du bâtiment nouveau, reperce et\n«restitue» la rue des Perchamps. Elle a d’ailleurs pour ces\nreconstitutions, des données plus précises que n’en ont généralement\nles restaurateurs: quelques images conservées par ma mémoire, les\ndernières peut-être qui existent encore actuellement, et destinées à\nêtre bientôt anéanties, de ce qu’était le Combray du temps de mon\nenfance; et parce que c’est lui-même qui les a tracées en moi avant de\ndisparaître, émouvantes,--si on peut comparer un obscur portrait à ces\neffigies glorieuses dont ma grand’mère aimait à me donner des\nreproductions--comme ces gravures anciennes de la Cène ou ce tableau de\nGentile Bellini dans lesquels l’on voit en un état qui n’existe plus\naujourd’hui le chef-d’œuvre de Vinci et le portail de Saint-Marc.",
+  "entities": [
+    {
+      "text": "Méséglise,",
+      "label": "ORG",
+      "start": 43,
+      "end": 53
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 99,
+      "end": 110
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 189,
+      "end": 194
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 251,
+      "end": 260
+    },
+    {
+      "text": "«Demain",
+      "label": "ORG",
+      "start": 929,
+      "end": 936
+    },
+    {
+      "text": "Guermantes.»",
+      "label": "ORG",
+      "start": 984,
+      "end": 996
+    },
+    {
+      "text": "Perchamps,",
+      "label": "ORG",
+      "start": 1097,
+      "end": 1107
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1387,
+      "end": 1394
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1450,
+      "end": 1454
+    },
+    {
+      "text": "Renaissance",
+      "label": "ORG",
+      "start": 1557,
+      "end": 1568
+    },
+    {
+      "text": "Perchamps.",
+      "label": "ORG",
+      "start": 1776,
+      "end": 1786
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1787,
+      "end": 1791
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 2060,
+      "end": 2067
+    },
+    {
+      "text": "Cène",
+      "label": "ORG",
+      "start": 2338,
+      "end": 2342
+    },
+    {
+      "text": "Gentile",
+      "label": "ORG",
+      "start": 2360,
+      "end": 2367
+    },
+    {
+      "text": "Bellini",
+      "label": "ORG",
+      "start": 2368,
+      "end": 2375
+    },
+    {
+      "text": "Vinci",
+      "label": "ORG",
+      "start": 2460,
+      "end": 2465
+    },
+    {
+      "text": "Saint-Marc.",
+      "label": "ORG",
+      "start": 2483,
+      "end": 2494
+    }
+  ],
+  "sentences": [
+    {
+      "text": "S’il était assez simple d’aller du côté de Méséglise, c’était une\nautre affaire d’aller du côté de Guermantes, car la promenade était\nlongue et l’on voulait être sûr du temps qu’il ferait",
+      "start": 0,
+      "end": 187
+    },
+    {
+      "text": "Quand on\nsemblait entrer dans une série de beaux jours; quand Françoise\ndésespérée qu’il ne tombât pas une goutte d’eau pour les «pauvres\nrécoltes», et ne voyant que de rares nuages blancs nageant à la\nsurface calme et bleue du ciel s’écriait en gémissant: «Ne dirait-on\npas qu’on voit ni plus ni moins des chiens de mer qui jouent en\nmontrant là-haut leurs museaux? Ah! ils pensent bien à faire pleuvoir\npour les pauvres laboureurs! Et puis quand les blés seront poussés,\nalors la pluie se mettra à tomber tout à petit patapon, sans\ndiscontinuer, sans plus savoir sur quoi elle tombe que si c’était sur\nla mer»; quand mon père avait reçu invariablement les mêmes réponses\nfavorables du jardinier et du baromètre, alors on disait au dîner:\n«Demain s’il fait le même temps, nous irons du côté de Guermantes",
+      "start": 188,
+      "end": 994
+    },
+    {
+      "text": "» On\npartait tout de suite après déjeuner par la petite porte du jardin et\non tombait dans la rue des Perchamps, étroite et formant un angle\naigu, remplie de graminées au milieu desquelles deux ou trois guêpes\npassaient la journée à herboriser, aussi bizarre que son nom d’où me\nsemblaient dériver ses particularités curieuses et sa personnalité\nrevêche, et qu’on chercherait en vain dans le Combray d’aujourd’hui où\nsur son tracé ancien s’élève l’école",
+      "start": 995,
+      "end": 1448
+    },
+    {
+      "text": "Mais ma rêverie (semblable à ces\narchitectes élèves de Viollet-le-Duc, qui, croyant retrouver sous un\njubé Renaissance et un autel du XVIIe siècle les traces d’un chœur\nroman, remettent tout l’édifice dans l’état où il devait être au XIIe\nsiècle) ne laisse pas une pierre du bâtiment nouveau, reperce et\n«restitue» la rue des Perchamps",
+      "start": 1449,
+      "end": 1785
+    },
+    {
+      "text": "Elle a d’ailleurs pour ces\nreconstitutions, des données plus précises que n’en ont généralement\nles restaurateurs: quelques images conservées par ma mémoire, les\ndernières peut-être qui existent encore actuellement, et destinées à\nêtre bientôt anéanties, de ce qu’était le Combray du temps de mon\nenfance; et parce que c’est lui-même qui les a tracées en moi avant de\ndisparaître, émouvantes,--si on peut comparer un obscur portrait à ces\neffigies glorieuses dont ma grand’mère aimait à me donner des\nreproductions--comme ces gravures anciennes de la Cène ou ce tableau de\nGentile Bellini dans lesquels l’on voit en un état qui n’existe plus\naujourd’hui le chef-d’œuvre de Vinci et le portail de Saint-Marc",
+      "start": 1786,
+      "end": 2493
+    }
+  ],
+  "tokens": 412,
+  "processed_at": "2025-03-16T02:10:55.628958"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "--«Allons, voyons, ne l’ennuie pas, il n’est pas ici pour être\ntourmenté, s’écria Mme Verdurin, je ne veux pas qu’on le tourmente\nmoi!»",
+  "entities": [
+    {
+      "text": "--«Allons,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 86,
+      "end": 95
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Allons, voyons, ne l’ennuie pas, il n’est pas ici pour être\ntourmenté, s’écria Mme Verdurin, je ne veux pas qu’on le tourmente\nmoi!»",
+      "start": 0,
+      "end": 135
+    }
+  ],
+  "tokens": 23,
+  "processed_at": "2025-03-16T02:10:55.874399"
+}

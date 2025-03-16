@@ -1,0 +1,25 @@
+{
+  "text": "Mme Verdurin était assise sur un haut siège suédois en sapin ciré,\nqu’un violoniste de ce pays lui avait donné et qu’elle conservait\nquoiqu’il rappelât la forme d’un escabeau et jurât avec les beaux\nmeubles anciens qu’elle avait, mais elle tenait à garder en évidence\nles cadeaux que les fidèles avaient l’habitude de lui faire de temps\nen temps, afin que les donateurs eussent le plaisir de les reconnaître\nquand ils venaient. Aussi tâchait-elle de persuader qu’on s’en tînt\naux fleurs et aux bonbons, qui du moins se détruisent; mais elle n’y\nréussissait pas et c’était chez elle une collection de chauffe-pieds,\nde coussins, de pendules, de paravents, de baromètres, de potiches,\ndans une accumulation de redites et un disparate d’étrennes.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 4,
+      "end": 12
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mme Verdurin était assise sur un haut siège suédois en sapin ciré,\nqu’un violoniste de ce pays lui avait donné et qu’elle conservait\nquoiqu’il rappelât la forme d’un escabeau et jurât avec les beaux\nmeubles anciens qu’elle avait, mais elle tenait à garder en évidence\nles cadeaux que les fidèles avaient l’habitude de lui faire de temps\nen temps, afin que les donateurs eussent le plaisir de les reconnaître\nquand ils venaient",
+      "start": 0,
+      "end": 426
+    },
+    {
+      "text": "Aussi tâchait-elle de persuader qu’on s’en tînt\naux fleurs et aux bonbons, qui du moins se détruisent; mais elle n’y\nréussissait pas et c’était chez elle une collection de chauffe-pieds,\nde coussins, de pendules, de paravents, de baromètres, de potiches,\ndans une accumulation de redites et un disparate d’étrennes",
+      "start": 427,
+      "end": 742
+    }
+  ],
+  "tokens": 121,
+  "processed_at": "2025-03-16T02:10:55.864562"
+}

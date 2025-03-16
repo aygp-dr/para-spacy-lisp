@@ -1,0 +1,87 @@
+{
+  "text": "«Mon Dieu, Madame, je ne voudrais pas alarmer les âmes respectueuses\ns’il y en a autour de cette table, sub rosa... Je reconnais d’ailleurs\nque notre ineffable république athénienne--ô combien!--pourrait honorer\nen cette capétienne obscurantiste le premier des préfets de police à\npoigne. Si fait, mon cher hôte, si fait, reprit-il de sa voix bien\ntimbrée qui détachait chaque syllabe, en réponse à une objection de M.\nVerdurin. La chronique de Saint-Denis dont nous ne pouvons contester\nla sûreté d’information ne laisse aucun doute à cet égard. Nulle ne\npourrait être mieux choisie comme patronne par un prolétariat\nlaïcisateur que cette mère d’un saint à qui elle en fit d’ailleurs\nvoir de saumâtres, comme dit Suger et autres saint Bernard; car avec\nelle chacun en prenait pour son grade.",
+  "entities": [
+    {
+      "text": "«Mon",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Dieu,",
+      "label": "ORG",
+      "start": 5,
+      "end": 10
+    },
+    {
+      "text": "Madame,",
+      "label": "ORG",
+      "start": 11,
+      "end": 18
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 419,
+      "end": 428
+    },
+    {
+      "text": "Saint-Denis",
+      "label": "ORG",
+      "start": 445,
+      "end": 456
+    },
+    {
+      "text": "Nulle",
+      "label": "ORG",
+      "start": 547,
+      "end": 552
+    },
+    {
+      "text": "Suger",
+      "label": "ORG",
+      "start": 714,
+      "end": 719
+    },
+    {
+      "text": "Bernard;",
+      "label": "ORG",
+      "start": 736,
+      "end": 744
+    }
+  ],
+  "sentences": [
+    {
+      "text": "«Mon Dieu, Madame, je ne voudrais pas alarmer les âmes respectueuses\ns’il y en a autour de cette table, sub rosa",
+      "start": 0,
+      "end": 112
+    },
+    {
+      "text": "Je reconnais d’ailleurs\nque notre ineffable république athénienne--ô combien!--pourrait honorer\nen cette capétienne obscurantiste le premier des préfets de police à\npoigne",
+      "start": 115,
+      "end": 287
+    },
+    {
+      "text": "Si fait, mon cher hôte, si fait, reprit-il de sa voix bien\ntimbrée qui détachait chaque syllabe, en réponse à une objection de M",
+      "start": 288,
+      "end": 417
+    },
+    {
+      "text": "Verdurin",
+      "start": 418,
+      "end": 427
+    },
+    {
+      "text": "La chronique de Saint-Denis dont nous ne pouvons contester\nla sûreté d’information ne laisse aucun doute à cet égard",
+      "start": 428,
+      "end": 545
+    },
+    {
+      "text": "Nulle ne\npourrait être mieux choisie comme patronne par un prolétariat\nlaïcisateur que cette mère d’un saint à qui elle en fit d’ailleurs\nvoir de saumâtres, comme dit Suger et autres saint Bernard; car avec\nelle chacun en prenait pour son grade",
+      "start": 546,
+      "end": 791
+    }
+  ],
+  "tokens": 129,
+  "processed_at": "2025-03-16T02:10:56.320993"
+}

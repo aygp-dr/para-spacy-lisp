@@ -1,0 +1,37 @@
+{
+  "text": "Et ravie et confuse de l’à-propos et de la hardiesse qu’il y avait à\nfaire ainsi une allusion discrète, mais claire, à la nouvelle et\nretentissante pièce de Dumas, elle éclata d’un rire charmant\nd’ingénue, peu bruyant, mais si irrésistible qu’elle resta quelques\ninstants sans pouvoir le maîtriser. «Qui est cette dame? elle a de\nl’esprit», dit Forcheville.",
+  "entities": [
+    {
+      "text": "Dumas,",
+      "label": "ORG",
+      "start": 157,
+      "end": 163
+    },
+    {
+      "text": "«Qui",
+      "label": "ORG",
+      "start": 299,
+      "end": 303
+    },
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 345,
+      "end": 357
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et ravie et confuse de l’à-propos et de la hardiesse qu’il y avait à\nfaire ainsi une allusion discrète, mais claire, à la nouvelle et\nretentissante pièce de Dumas, elle éclata d’un rire charmant\nd’ingénue, peu bruyant, mais si irrésistible qu’elle resta quelques\ninstants sans pouvoir le maîtriser",
+      "start": 0,
+      "end": 297
+    },
+    {
+      "text": "«Qui est cette dame? elle a de\nl’esprit», dit Forcheville",
+      "start": 298,
+      "end": 356
+    }
+  ],
+  "tokens": 58,
+  "processed_at": "2025-03-16T02:10:56.392535"
+}

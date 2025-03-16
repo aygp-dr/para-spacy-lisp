@@ -1,0 +1,31 @@
+{
+  "text": "--Les oreilles ont dû vous tinter, monsieur, lui dit-elle, pendant le\nvoyage que nous avons fait avec Mme Verdurin. On ne parlait que de\nvous.",
+  "entities": [
+    {
+      "text": "--Les",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 106,
+      "end": 115
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Les oreilles ont dû vous tinter, monsieur, lui dit-elle, pendant le\nvoyage que nous avons fait avec Mme Verdurin",
+      "start": 0,
+      "end": 114
+    },
+    {
+      "text": "On ne parlait que de\nvous",
+      "start": 115,
+      "end": 141
+    }
+  ],
+  "tokens": 25,
+  "processed_at": "2025-03-16T02:10:57.433897"
+}

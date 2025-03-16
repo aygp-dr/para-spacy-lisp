@@ -1,0 +1,83 @@
+{
+  "text": "Quelquefois j’étais tiré de ma lecture, dès le milieu de l’après-midi\npar la fille du jardinier, qui courait comme une folle, renversant sur\nson passage un oranger, se coupant un doigt, se cassant une dent et\ncriant: «Les voilà, les voilà!» pour que Françoise et moi nous\naccourions et ne manquions rien du spectacle. C’était les jours où,\npour des manœuvres de garnison, la troupe traversait Combray, prenant\ngénéralement la rue Sainte-Hildegarde. Tandis que nos domestiques,\nassis en rang sur des chaises en dehors de la grille, regardaient les\npromeneurs dominicaux de Combray et se faisaient voir d’eux, la fille\ndu jardinier par la fente que laissaient entre elles deux maisons\nlointaines de l’avenue de la Gare, avait aperçu l’éclat des casques.\nLes domestiques avaient rentré précipitamment leurs chaises, car quand\nles cuirassiers défilaient rue Sainte-Hildegarde, ils en remplissaient\ntoute la largeur, et le galop des chevaux rasait les maisons couvrant\nles trottoirs submergés comme des berges qui offrent un lit trop\nétroit à un torrent déchaîné.",
+  "entities": [
+    {
+      "text": "Quelquefois",
+      "label": "ORG",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "text": "«Les",
+      "label": "ORG",
+      "start": 217,
+      "end": 221
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 250,
+      "end": 259
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 393,
+      "end": 401
+    },
+    {
+      "text": "Sainte-Hildegarde.",
+      "label": "ORG",
+      "start": 430,
+      "end": 448
+    },
+    {
+      "text": "Tandis",
+      "label": "ORG",
+      "start": 449,
+      "end": 455
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 572,
+      "end": 579
+    },
+    {
+      "text": "Gare,",
+      "label": "ORG",
+      "start": 712,
+      "end": 717
+    },
+    {
+      "text": "Sainte-Hildegarde,",
+      "label": "ORG",
+      "start": 854,
+      "end": 872
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quelquefois j’étais tiré de ma lecture, dès le milieu de l’après-midi\npar la fille du jardinier, qui courait comme une folle, renversant sur\nson passage un oranger, se coupant un doigt, se cassant une dent et\ncriant: «Les voilà, les voilà!» pour que Françoise et moi nous\naccourions et ne manquions rien du spectacle",
+      "start": 0,
+      "end": 316
+    },
+    {
+      "text": "C’était les jours où,\npour des manœuvres de garnison, la troupe traversait Combray, prenant\ngénéralement la rue Sainte-Hildegarde",
+      "start": 317,
+      "end": 447
+    },
+    {
+      "text": "Tandis que nos domestiques,\nassis en rang sur des chaises en dehors de la grille, regardaient les\npromeneurs dominicaux de Combray et se faisaient voir d’eux, la fille\ndu jardinier par la fente que laissaient entre elles deux maisons\nlointaines de l’avenue de la Gare, avait aperçu l’éclat des casques",
+      "start": 448,
+      "end": 750
+    },
+    {
+      "text": "Les domestiques avaient rentré précipitamment leurs chaises, car quand\nles cuirassiers défilaient rue Sainte-Hildegarde, ils en remplissaient\ntoute la largeur, et le galop des chevaux rasait les maisons couvrant\nles trottoirs submergés comme des berges qui offrent un lit trop\nétroit à un torrent déchaîné",
+      "start": 751,
+      "end": 1057
+    }
+  ],
+  "tokens": 167,
+  "processed_at": "2025-03-16T02:10:54.976355"
+}

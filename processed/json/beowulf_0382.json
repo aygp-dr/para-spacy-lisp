@@ -1,0 +1,96 @@
+{
+  "text": "Pour faire partie du «petit noyau», du «petit groupe», du «petit clan»\ndes Verdurin, une condition était suffisante mais elle était\nnécessaire: il fallait adhérer tacitement à un Credo dont un des\narticles était que le jeune pianiste, protégé par Mme Verdurin cette\nannée-là et dont elle disait: «Ça ne devrait pas être permis de savoir\njouer Wagner comme ça!», «enfonçait» à la fois Planté et Rubinstein et\nque le docteur Cottard avait plus de diagnostic que Potain. Toute\n«nouvelle recrue» à qui les Verdurin ne pouvaient pas persuader que\nles soirées des gens qui n’allaient pas chez eux étaient ennuyeuses\ncomme la pluie, se voyait immédiatement exclue. Les femmes étant à cet\négard plus rebelles que les hommes à déposer toute curiosité mondaine\net l’envie de se renseigner par soi-même sur l’agrément des autres\nsalons, et les Verdurin sentant d’autre part que cet esprit d’examen\net ce démon de frivolité pouvaient par contagion devenir fatal à\nl’orthodoxie de la petite église, ils avaient été amenés à rejeter\nsuccessivement tous les «fidèles» du sexe féminin.",
+  "entities": [
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 75,
+      "end": 84
+    },
+    {
+      "text": "Credo",
+      "label": "ORG",
+      "start": 179,
+      "end": 184
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 251,
+      "end": 259
+    },
+    {
+      "text": "Wagner",
+      "label": "ORG",
+      "start": 343,
+      "end": 349
+    },
+    {
+      "text": "Planté",
+      "label": "ORG",
+      "start": 384,
+      "end": 390
+    },
+    {
+      "text": "Rubinstein",
+      "label": "ORG",
+      "start": 394,
+      "end": 404
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 423,
+      "end": 430
+    },
+    {
+      "text": "Potain.",
+      "label": "ORG",
+      "start": 460,
+      "end": 467
+    },
+    {
+      "text": "Toute",
+      "label": "ORG",
+      "start": 468,
+      "end": 473
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 502,
+      "end": 510
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 833,
+      "end": 841
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pour faire partie du «petit noyau», du «petit groupe», du «petit clan»\ndes Verdurin, une condition était suffisante mais elle était\nnécessaire: il fallait adhérer tacitement à un Credo dont un des\narticles était que le jeune pianiste, protégé par Mme Verdurin cette\nannée-là et dont elle disait: «Ça ne devrait pas être permis de savoir\njouer Wagner comme ça!», «enfonçait» à la fois Planté et Rubinstein et\nque le docteur Cottard avait plus de diagnostic que Potain",
+      "start": 0,
+      "end": 466
+    },
+    {
+      "text": "Toute\n«nouvelle recrue» à qui les Verdurin ne pouvaient pas persuader que\nles soirées des gens qui n’allaient pas chez eux étaient ennuyeuses\ncomme la pluie, se voyait immédiatement exclue",
+      "start": 467,
+      "end": 656
+    },
+    {
+      "text": "Les femmes étant à cet\négard plus rebelles que les hommes à déposer toute curiosité mondaine\net l’envie de se renseigner par soi-même sur l’agrément des autres\nsalons, et les Verdurin sentant d’autre part que cet esprit d’examen\net ce démon de frivolité pouvaient par contagion devenir fatal à\nl’orthodoxie de la petite église, ils avaient été amenés à rejeter\nsuccessivement tous les «fidèles» du sexe féminin",
+      "start": 657,
+      "end": 1068
+    }
+  ],
+  "tokens": 175,
+  "processed_at": "2025-03-16T02:10:55.717904"
+}

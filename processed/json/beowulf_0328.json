@@ -1,0 +1,38 @@
+{
+  "text": "Si alors Françoise remplie comme un poète d’un flot de pensées\nconfuses sur le chagrin, sur les souvenirs de famille, s’excusait de\nne pas savoir répondre à mes théories et disait: «Je ne sais pas\nm’esprimer», je triomphais de cet aveu avec un bon sens ironique et\nbrutal digne du docteur Percepied; et si elle ajoutait: «Elle était\ntout de même de la parentèse, il reste toujours le respect qu’on doit\nà la parentèse», je haussais les épaules et je me disais: «Je suis\nbien bon de discuter avec une illettrée qui fait des cuirs pareils»,\nadoptant ainsi pour juger Françoise le point de vue mesquin d’hommes\ndont ceux qui les méprisent le plus dans l’impartialité de la\nméditation, sont fort capables de tenir le rôle quand ils jouent une\ndes scènes vulgaires de la vie.",
+  "entities": [
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 9,
+      "end": 18
+    },
+    {
+      "text": "Percepied;",
+      "label": "ORG",
+      "start": 289,
+      "end": 299
+    },
+    {
+      "text": "«Elle",
+      "label": "ORG",
+      "start": 321,
+      "end": 326
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 565,
+      "end": 574
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Si alors Françoise remplie comme un poète d’un flot de pensées\nconfuses sur le chagrin, sur les souvenirs de famille, s’excusait de\nne pas savoir répondre à mes théories et disait: «Je ne sais pas\nm’esprimer», je triomphais de cet aveu avec un bon sens ironique et\nbrutal digne du docteur Percepied; et si elle ajoutait: «Elle était\ntout de même de la parentèse, il reste toujours le respect qu’on doit\nà la parentèse», je haussais les épaules et je me disais: «Je suis\nbien bon de discuter avec une illettrée qui fait des cuirs pareils»,\nadoptant ainsi pour juger Françoise le point de vue mesquin d’hommes\ndont ceux qui les méprisent le plus dans l’impartialité de la\nméditation, sont fort capables de tenir le rôle quand ils jouent une\ndes scènes vulgaires de la vie",
+      "start": 0,
+      "end": 769
+    }
+  ],
+  "tokens": 136,
+  "processed_at": "2025-03-16T02:10:55.547570"
+}

@@ -1,0 +1,42 @@
+{
+  "text": "--«Mais je ne veux pas dire la grande, madame Octave, je veux dire la\ngamine, celle qui est en pension à Jouy. Il me ressemble de l’avoir\ndéjà vue ce matin.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Octave,",
+      "label": "ORG",
+      "start": 46,
+      "end": 53
+    },
+    {
+      "text": "Jouy.",
+      "label": "ORG",
+      "start": 105,
+      "end": 110
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais je ne veux pas dire la grande, madame Octave, je veux dire la\ngamine, celle qui est en pension à Jouy",
+      "start": 0,
+      "end": 109
+    },
+    {
+      "text": "Il me ressemble de l’avoir\ndéjà vue ce matin",
+      "start": 110,
+      "end": 155
+    },
+    {
+      "text": "»",
+      "start": 156,
+      "end": 157
+    }
+  ],
+  "tokens": 31,
+  "processed_at": "2025-03-16T02:10:54.675518"
+}

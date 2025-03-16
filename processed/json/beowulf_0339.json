@@ -1,0 +1,25 @@
+{
+  "text": "--«Quand je dis nous voir, je veux dire nous voir lire, c’est\nassommant, quelque chose insignifiante qu’on fasse, de penser que des\nyeux vous voient.»",
+  "entities": [
+    {
+      "text": "--«Quand",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Quand je dis nous voir, je veux dire nous voir lire, c’est\nassommant, quelque chose insignifiante qu’on fasse, de penser que des\nyeux vous voient",
+      "start": 0,
+      "end": 148
+    },
+    {
+      "text": "»",
+      "start": 149,
+      "end": 150
+    }
+  ],
+  "tokens": 25,
+  "processed_at": "2025-03-16T02:10:55.583996"
+}

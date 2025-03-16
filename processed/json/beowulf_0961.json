@@ -1,0 +1,55 @@
+{
+  "text": "Et Mme Cottard sortit de son manchon pour la tendre à Swann sa main\ngantée de blanc d’où s’échappa, avec une correspondance, une vision de\nhaute vie qui remplit l’omnibus, mêlée à l’odeur du teinturier. Et\nSwann se sentit déborder de tendresse pour elle, autant que pour Mme\nVerdurin (et presque autant que pour Odette, car le sentiment qu’il\néprouvait pour cette dernière n’étant plus mêlé de douleur, n’était\nplus guère de l’amour), tandis que de la plate-forme il la suivait de\nses yeux attendris, qui enfilait courageusement la rue Bonaparte,\nl’aigrette haute, d’une main relevant sa jupe, de l’autre tenant son\nen-tout-cas et son porte-cartes dont elle laissait voir le chiffre,\nlaissant baller devant elle son manchon.",
+  "entities": [
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 7,
+      "end": 14
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 54,
+      "end": 59
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 206,
+      "end": 211
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 275,
+      "end": 283
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 312,
+      "end": 319
+    },
+    {
+      "text": "Bonaparte,",
+      "label": "ORG",
+      "start": 536,
+      "end": 546
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et Mme Cottard sortit de son manchon pour la tendre à Swann sa main\ngantée de blanc d’où s’échappa, avec une correspondance, une vision de\nhaute vie qui remplit l’omnibus, mêlée à l’odeur du teinturier",
+      "start": 0,
+      "end": 201
+    },
+    {
+      "text": "Et\nSwann se sentit déborder de tendresse pour elle, autant que pour Mme\nVerdurin (et presque autant que pour Odette, car le sentiment qu’il\néprouvait pour cette dernière n’étant plus mêlé de douleur, n’était\nplus guère de l’amour), tandis que de la plate-forme il la suivait de\nses yeux attendris, qui enfilait courageusement la rue Bonaparte,\nl’aigrette haute, d’une main relevant sa jupe, de l’autre tenant son\nen-tout-cas et son porte-cartes dont elle laissait voir le chiffre,\nlaissant baller devant elle son manchon",
+      "start": 202,
+      "end": 723
+    }
+  ],
+  "tokens": 118,
+  "processed_at": "2025-03-16T02:10:57.446944"
+}

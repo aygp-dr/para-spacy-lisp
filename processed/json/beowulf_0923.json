@@ -1,0 +1,20 @@
+{
+  "text": "--Je te l’ai dit, tu le sais bien, ajouta-t-elle d’un air irrité et\nmalheureux.",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je te l’ai dit, tu le sais bien, ajouta-t-elle d’un air irrité et\nmalheureux",
+      "start": 0,
+      "end": 78
+    }
+  ],
+  "tokens": 14,
+  "processed_at": "2025-03-16T02:10:57.329082"
+}

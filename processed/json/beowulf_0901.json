@@ -1,0 +1,48 @@
+{
+  "text": "--Je ne connais que Mme de Chanlivault, la sœur de ce brave\nChaussepierre. Elle nous a donné une jolie soirée de comédie l’autre\njour. C’est un salon qui sera un jour très élégant, vous verrez!",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Chanlivault,",
+      "label": "ORG",
+      "start": 27,
+      "end": 39
+    },
+    {
+      "text": "Chaussepierre.",
+      "label": "ORG",
+      "start": 60,
+      "end": 74
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 75,
+      "end": 79
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je ne connais que Mme de Chanlivault, la sœur de ce brave\nChaussepierre",
+      "start": 0,
+      "end": 73
+    },
+    {
+      "text": "Elle nous a donné une jolie soirée de comédie l’autre\njour",
+      "start": 74,
+      "end": 133
+    },
+    {
+      "text": "C’est un salon qui sera un jour très élégant, vous verrez!",
+      "start": 134,
+      "end": 193
+    }
+  ],
+  "tokens": 35,
+  "processed_at": "2025-03-16T02:10:57.251194"
+}

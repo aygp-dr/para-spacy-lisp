@@ -1,0 +1,20 @@
+{
+  "text": "Et quand il était tenté de regretter que depuis des mois il ne fît\nplus que voir Odette, il se disait qu’il était raisonnable de donner\nbeaucoup de son temps à un chef-d’œuvre inestimable, coulé pour une\nfois dans une matière différente et particulièrement savoureuse, en un\nexemplaire rarissime qu’il contemplait tantôt avec l’humilité, la\nspiritualité et le désintéressement d’un artiste, tantôt avec\nl’orgueil, l’égoïsme et la sensualité d’un collectionneur.",
+  "entities": [
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 81,
+      "end": 88
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et quand il était tenté de regretter que depuis des mois il ne fît\nplus que voir Odette, il se disait qu’il était raisonnable de donner\nbeaucoup de son temps à un chef-d’œuvre inestimable, coulé pour une\nfois dans une matière différente et particulièrement savoureuse, en un\nexemplaire rarissime qu’il contemplait tantôt avec l’humilité, la\nspiritualité et le désintéressement d’un artiste, tantôt avec\nl’orgueil, l’égoïsme et la sensualité d’un collectionneur",
+      "start": 0,
+      "end": 460
+    }
+  ],
+  "tokens": 70,
+  "processed_at": "2025-03-16T02:10:56.112336"
+}

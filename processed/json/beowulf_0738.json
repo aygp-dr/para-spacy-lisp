@@ -1,0 +1,63 @@
+{
+  "text": "--As-tu vu les façons que Swann se permet maintenant avec nous? dit Mme\nVerdurin à son mari quand ils furent rentrés. J’ai cru qu’il allait me\nmanger, parce que nous ramenions Odette. C’est d’une inconvenance,\nvraiment! Alors, qu’il dise tout de suite que nous tenons une maison\nde rendez-vous! Je ne comprends pas qu’Odette supporte des manières\npareilles. Il a absolument l’air de dire: vous m’appartenez. Je dirai\nma manière de penser à Odette, j’espère qu’elle comprendra.»",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 26,
+      "end": 31
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 72,
+      "end": 80
+    },
+    {
+      "text": "Odette.",
+      "label": "ORG",
+      "start": 176,
+      "end": 183
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 440,
+      "end": 447
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--As-tu vu les façons que Swann se permet maintenant avec nous? dit Mme\nVerdurin à son mari quand ils furent rentrés",
+      "start": 0,
+      "end": 116
+    },
+    {
+      "text": "J’ai cru qu’il allait me\nmanger, parce que nous ramenions Odette",
+      "start": 117,
+      "end": 182
+    },
+    {
+      "text": "C’est d’une inconvenance,\nvraiment! Alors, qu’il dise tout de suite que nous tenons une maison\nde rendez-vous! Je ne comprends pas qu’Odette supporte des manières\npareilles",
+      "start": 183,
+      "end": 356
+    },
+    {
+      "text": "Il a absolument l’air de dire: vous m’appartenez",
+      "start": 357,
+      "end": 406
+    },
+    {
+      "text": "Je dirai\nma manière de penser à Odette, j’espère qu’elle comprendra",
+      "start": 407,
+      "end": 475
+    },
+    {
+      "text": "»",
+      "start": 476,
+      "end": 477
+    }
+  ],
+  "tokens": 77,
+  "processed_at": "2025-03-16T02:10:56.760660"
+}

@@ -1,0 +1,58 @@
+{
+  "text": "--«Ah! ma pauvre fille, il faut que vous l’ayez solide votre tête, vous\npouvez remercier le Bon Dieu. C’était la Maguelone qui était venue\nchercher le docteur Piperaud. Il est ressorti tout de suite avec elle\net ils ont tourné par la rue de l’Oiseau. Il faut qu’il y ait quelque\nenfant de malade.»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Dieu.",
+      "label": "ORG",
+      "start": 96,
+      "end": 101
+    },
+    {
+      "text": "Maguelone",
+      "label": "ORG",
+      "start": 113,
+      "end": 122
+    },
+    {
+      "text": "Piperaud.",
+      "label": "ORG",
+      "start": 159,
+      "end": 168
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! ma pauvre fille, il faut que vous l’ayez solide votre tête, vous\npouvez remercier le Bon Dieu",
+      "start": 0,
+      "end": 100
+    },
+    {
+      "text": "C’était la Maguelone qui était venue\nchercher le docteur Piperaud",
+      "start": 101,
+      "end": 167
+    },
+    {
+      "text": "Il est ressorti tout de suite avec elle\net ils ont tourné par la rue de l’Oiseau",
+      "start": 168,
+      "end": 249
+    },
+    {
+      "text": "Il faut qu’il y ait quelque\nenfant de malade",
+      "start": 250,
+      "end": 295
+    },
+    {
+      "text": "»",
+      "start": 296,
+      "end": 297
+    }
+  ],
+  "tokens": 54,
+  "processed_at": "2025-03-16T02:10:54.638779"
+}

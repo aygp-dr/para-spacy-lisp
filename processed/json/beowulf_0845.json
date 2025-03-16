@@ -1,0 +1,43 @@
+{
+  "text": "Et quittant sa cousine mortifiée, elle éclata de nouveau d’un rire qui\nscandalisa les personnes qui écoutaient la musique, mais attira\nl’attention de Mme de Saint-Euverte, restée par politesse près du\npiano et qui aperçut seulement alors la princesse. Mme de\nSaint-Euverte était d’autant plus ravie de voir Mme des Laumes qu’elle\nla croyait encore à Guermantes en train de soigner son beau-père\nmalade.",
+  "entities": [
+    {
+      "text": "Saint-Euverte,",
+      "label": "ORG",
+      "start": 157,
+      "end": 171
+    },
+    {
+      "text": "Saint-Euverte",
+      "label": "ORG",
+      "start": 259,
+      "end": 272
+    },
+    {
+      "text": "Laumes",
+      "label": "ORG",
+      "start": 315,
+      "end": 321
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 350,
+      "end": 360
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et quittant sa cousine mortifiée, elle éclata de nouveau d’un rire qui\nscandalisa les personnes qui écoutaient la musique, mais attira\nl’attention de Mme de Saint-Euverte, restée par politesse près du\npiano et qui aperçut seulement alors la princesse",
+      "start": 0,
+      "end": 250
+    },
+    {
+      "text": "Mme de\nSaint-Euverte était d’autant plus ravie de voir Mme des Laumes qu’elle\nla croyait encore à Guermantes en train de soigner son beau-père\nmalade",
+      "start": 251,
+      "end": 401
+    }
+  ],
+  "tokens": 64,
+  "processed_at": "2025-03-16T02:10:57.095980"
+}

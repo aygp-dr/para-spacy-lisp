@@ -1,0 +1,36 @@
+{
+  "text": "--«Mais non, madame Octave, ils aiment bien ça. Ils rentreront de\nl’église avec de l’appétit et vous verrez qu’ils ne les mangeront pas\navec le dos de la cuiller.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Octave,",
+      "label": "ORG",
+      "start": 20,
+      "end": 27
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais non, madame Octave, ils aiment bien ça",
+      "start": 0,
+      "end": 46
+    },
+    {
+      "text": "Ils rentreront de\nl’église avec de l’appétit et vous verrez qu’ils ne les mangeront pas\navec le dos de la cuiller",
+      "start": 47,
+      "end": 161
+    },
+    {
+      "text": "»",
+      "start": 162,
+      "end": 163
+    }
+  ],
+  "tokens": 29,
+  "processed_at": "2025-03-16T02:10:54.729355"
+}

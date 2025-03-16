@@ -1,0 +1,37 @@
+{
+  "text": "--Salut, amis! nous disait-il en venant à notre rencontre. Vous êtes\nheureux d’habiter beaucoup ici; demain il faudra que je rentre à\nParis, dans ma niche.",
+  "entities": [
+    {
+      "text": "--Salut,",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 59,
+      "end": 63
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 134,
+      "end": 140
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Salut, amis! nous disait-il en venant à notre rencontre",
+      "start": 0,
+      "end": 57
+    },
+    {
+      "text": "Vous êtes\nheureux d’habiter beaucoup ici; demain il faudra que je rentre à\nParis, dans ma niche",
+      "start": 58,
+      "end": 154
+    }
+  ],
+  "tokens": 26,
+  "processed_at": "2025-03-16T02:10:54.778143"
+}

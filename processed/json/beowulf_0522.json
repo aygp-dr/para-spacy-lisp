@@ -1,0 +1,75 @@
+{
+  "text": "Rien qu’en approchant de chez les Verdurin quand il apercevait,\néclairées par des lampes, les grandes fenêtres dont on ne fermait\njamais les volets, il s’attendrissait en pensant à l’être charmant\nqu’il allait voir épanoui dans leur lumière d’or. Parfois les ombres\ndes invités se détachaient minces et noires, en écran, devant les\nlampes, comme ces petites gravures qu’on intercale de place en place\ndans un abat-jour translucide dont les autres feuillets ne sont que\nclarté. Il cherchait à distinguer la silhouette d’Odette. Puis, dès\nqu’il était arrivé, sans qu’il s’en rendit compte, ses yeux brillaient\nd’une telle joie que M. Verdurin disait au peintre: «Je crois que ça\nchauffe.» Et la présence d’Odette ajoutait en effet pour Swann à cette\nmaison ce dont n’était pourvue aucune de celles où il était reçu: une\nsorte d’appareil sensitif, de réseau nerveux qui se ramifiait dans\ntoutes les pièces et apportait des excitations constantes à son cœur.",
+  "entities": [
+    {
+      "text": "Rien",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 34,
+      "end": 42
+    },
+    {
+      "text": "Parfois",
+      "label": "ORG",
+      "start": 247,
+      "end": 254
+    },
+    {
+      "text": "Puis,",
+      "label": "ORG",
+      "start": 527,
+      "end": 532
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 632,
+      "end": 640
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 734,
+      "end": 739
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Rien qu’en approchant de chez les Verdurin quand il apercevait,\néclairées par des lampes, les grandes fenêtres dont on ne fermait\njamais les volets, il s’attendrissait en pensant à l’être charmant\nqu’il allait voir épanoui dans leur lumière d’or",
+      "start": 0,
+      "end": 245
+    },
+    {
+      "text": "Parfois les ombres\ndes invités se détachaient minces et noires, en écran, devant les\nlampes, comme ces petites gravures qu’on intercale de place en place\ndans un abat-jour translucide dont les autres feuillets ne sont que\nclarté",
+      "start": 246,
+      "end": 475
+    },
+    {
+      "text": "Il cherchait à distinguer la silhouette d’Odette",
+      "start": 476,
+      "end": 525
+    },
+    {
+      "text": "Puis, dès\nqu’il était arrivé, sans qu’il s’en rendit compte, ses yeux brillaient\nd’une telle joie que M",
+      "start": 526,
+      "end": 630
+    },
+    {
+      "text": "Verdurin disait au peintre: «Je crois que ça\nchauffe",
+      "start": 631,
+      "end": 684
+    },
+    {
+      "text": "» Et la présence d’Odette ajoutait en effet pour Swann à cette\nmaison ce dont n’était pourvue aucune de celles où il était reçu: une\nsorte d’appareil sensitif, de réseau nerveux qui se ramifiait dans\ntoutes les pièces et apportait des excitations constantes à son cœur",
+      "start": 685,
+      "end": 953
+    }
+  ],
+  "tokens": 155,
+  "processed_at": "2025-03-16T02:10:56.122533"
+}

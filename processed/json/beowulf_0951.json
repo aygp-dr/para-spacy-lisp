@@ -1,0 +1,231 @@
+{
+  "text": "Le peintre ayant été malade, le docteur Cottard lui conseilla un\nvoyage en mer; plusieurs fidèles parlèrent de partir avec lui; les\nVerdurin ne purent se résoudre à rester seuls, louèrent un yacht, puis\ns’en rendirent acquéreurs et ainsi Odette fit de fréquentes\ncroisières. Chaque fois qu’elle était partie depuis un peu de temps,\nSwann sentait qu’il commençait à se détacher d’elle, mais comme si\ncette distance morale était proportionnée à la distance matérielle,\ndès qu’il savait Odette de retour, il ne pouvait pas rester sans la\nvoir. Une fois, partis pour un mois seulement, croyaient-ils, soit\nqu’ils eussent été tentés en route, soit que M. Verdurin eût\nsournoisement arrangé les choses d’avance pour faire plaisir à sa\nfemme et n’eût averti les fidèles qu’au fur et à mesure, d’Alger ils\nallèrent à Tunis, puis en Italie, puis en Grèce, à Constantinople, en\nAsie Mineure. Le voyage durait depuis près d’un an. Swann se sentait\nabsolument tranquille, presque heureux. Bien que M. Verdurin eût\ncherché à persuader au pianiste et au docteur Cottard que la tante de\nl’un et les malades de l’autre n’avaient aucun besoin d’eux, et, qu’en\ntous cas, il était imprudent de laisser Mme Cottard rentrer à Paris\nque Mme Verdurin assurait être en révolution, il fut obligé de leur\nrendre leur liberté à Constantinople. Et le peintre partit avec eux.\nUn jour, peu après le retour de ces trois voyageurs, Swann voyant\npasser un omnibus pour le Luxembourg où il avait à faire, avait sauté\ndedans, et s’y était trouvé assis en face de Mme Cottard qui faisait\nsa tournée de visites «de jours» en grande tenue, plumet au chapeau,\nrobe de soie, manchon, en-tout-cas, porte-cartes et gants blancs\nnettoyés. Revêtue de ces insignes, quand il faisait sec, elle allait à\npied d’une maison à l’autre, dans un même quartier, mais pour passer\nensuite dans un quartier différent usait de l’omnibus avec\ncorrespondance. Pendant les premiers instants, avant que la\ngentillesse native de la femme eût pu percer l’empesé de la petite\nbourgeoise, et ne sachant trop d’ailleurs si elle devait parler des\nVerdurin à Swann, elle tint tout naturellement, de sa voix lente,\ngauche et douce que par moments l’omnibus couvrait complètement de son\ntonnerre, des propos choisis parmi ceux qu’elle entendait et répétait\ndans les vingt-cinq maisons dont elle montait les étages dans une\njournée:",
+  "entities": [
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 40,
+      "end": 47
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 132,
+      "end": 140
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 238,
+      "end": 244
+    },
+    {
+      "text": "Chaque",
+      "label": "ORG",
+      "start": 275,
+      "end": 281
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 332,
+      "end": 337
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 484,
+      "end": 490
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 650,
+      "end": 658
+    },
+    {
+      "text": "Tunis,",
+      "label": "ORG",
+      "start": 809,
+      "end": 815
+    },
+    {
+      "text": "Italie,",
+      "label": "ORG",
+      "start": 824,
+      "end": 831
+    },
+    {
+      "text": "Grèce,",
+      "label": "ORG",
+      "start": 840,
+      "end": 846
+    },
+    {
+      "text": "Constantinople,",
+      "label": "ORG",
+      "start": 849,
+      "end": 864
+    },
+    {
+      "text": "Mineure.",
+      "label": "ORG",
+      "start": 873,
+      "end": 881
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 920,
+      "end": 925
+    },
+    {
+      "text": "Bien",
+      "label": "ORG",
+      "start": 977,
+      "end": 981
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 989,
+      "end": 997
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 1048,
+      "end": 1055
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 1187,
+      "end": 1194
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 1205,
+      "end": 1210
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 1219,
+      "end": 1227
+    },
+    {
+      "text": "Constantinople.",
+      "label": "ORG",
+      "start": 1301,
+      "end": 1316
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1401,
+      "end": 1406
+    },
+    {
+      "text": "Luxembourg",
+      "label": "ORG",
+      "start": 1440,
+      "end": 1450
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 1533,
+      "end": 1540
+    },
+    {
+      "text": "Revêtue",
+      "label": "ORG",
+      "start": 1697,
+      "end": 1704
+    },
+    {
+      "text": "Pendant",
+      "label": "ORG",
+      "start": 1902,
+      "end": 1909
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 2081,
+      "end": 2089
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 2092,
+      "end": 2098
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le peintre ayant été malade, le docteur Cottard lui conseilla un\nvoyage en mer; plusieurs fidèles parlèrent de partir avec lui; les\nVerdurin ne purent se résoudre à rester seuls, louèrent un yacht, puis\ns’en rendirent acquéreurs et ainsi Odette fit de fréquentes\ncroisières",
+      "start": 0,
+      "end": 273
+    },
+    {
+      "text": "Chaque fois qu’elle était partie depuis un peu de temps,\nSwann sentait qu’il commençait à se détacher d’elle, mais comme si\ncette distance morale était proportionnée à la distance matérielle,\ndès qu’il savait Odette de retour, il ne pouvait pas rester sans la\nvoir",
+      "start": 274,
+      "end": 539
+    },
+    {
+      "text": "Une fois, partis pour un mois seulement, croyaient-ils, soit\nqu’ils eussent été tentés en route, soit que M",
+      "start": 540,
+      "end": 648
+    },
+    {
+      "text": "Verdurin eût\nsournoisement arrangé les choses d’avance pour faire plaisir à sa\nfemme et n’eût averti les fidèles qu’au fur et à mesure, d’Alger ils\nallèrent à Tunis, puis en Italie, puis en Grèce, à Constantinople, en\nAsie Mineure",
+      "start": 649,
+      "end": 880
+    },
+    {
+      "text": "Le voyage durait depuis près d’un an",
+      "start": 881,
+      "end": 918
+    },
+    {
+      "text": "Swann se sentait\nabsolument tranquille, presque heureux",
+      "start": 919,
+      "end": 975
+    },
+    {
+      "text": "Bien que M",
+      "start": 976,
+      "end": 987
+    },
+    {
+      "text": "Verdurin eût\ncherché à persuader au pianiste et au docteur Cottard que la tante de\nl’un et les malades de l’autre n’avaient aucun besoin d’eux, et, qu’en\ntous cas, il était imprudent de laisser Mme Cottard rentrer à Paris\nque Mme Verdurin assurait être en révolution, il fut obligé de leur\nrendre leur liberté à Constantinople",
+      "start": 988,
+      "end": 1315
+    },
+    {
+      "text": "Et le peintre partit avec eux",
+      "start": 1316,
+      "end": 1346
+    },
+    {
+      "text": "Un jour, peu après le retour de ces trois voyageurs, Swann voyant\npasser un omnibus pour le Luxembourg où il avait à faire, avait sauté\ndedans, et s’y était trouvé assis en face de Mme Cottard qui faisait\nsa tournée de visites «de jours» en grande tenue, plumet au chapeau,\nrobe de soie, manchon, en-tout-cas, porte-cartes et gants blancs\nnettoyés",
+      "start": 1347,
+      "end": 1695
+    },
+    {
+      "text": "Revêtue de ces insignes, quand il faisait sec, elle allait à\npied d’une maison à l’autre, dans un même quartier, mais pour passer\nensuite dans un quartier différent usait de l’omnibus avec\ncorrespondance",
+      "start": 1696,
+      "end": 1900
+    },
+    {
+      "text": "Pendant les premiers instants, avant que la\ngentillesse native de la femme eût pu percer l’empesé de la petite\nbourgeoise, et ne sachant trop d’ailleurs si elle devait parler des\nVerdurin à Swann, elle tint tout naturellement, de sa voix lente,\ngauche et douce que par moments l’omnibus couvrait complètement de son\ntonnerre, des propos choisis parmi ceux qu’elle entendait et répétait\ndans les vingt-cinq maisons dont elle montait les étages dans une\njournée:",
+      "start": 1901,
+      "end": 2362
+    }
+  ],
+  "tokens": 391,
+  "processed_at": "2025-03-16T02:10:57.417513"
+}

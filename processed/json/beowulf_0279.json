@@ -1,0 +1,80 @@
+{
+  "text": "On se demandait à la maison si on devait m’envoyer tout de même dîner\navec M. Legrandin. Mais ma grand’mère refusa de croire qu’il eût été\nimpoli. «Vous reconnaissez vous-même qu’il vient là avec sa tenue\ntoute simple qui n’est guère celle d’un mondain.» Elle déclarait qu’en\ntous cas, et à tout mettre au pis, s’il l’avait été, mieux valait ne\npas avoir l’air de s’en être aperçu. A vrai dire mon père lui-même,\nqui était pourtant le plus irrité contre l’attitude qu’avait eue\nLegrandin, gardait peut-être un dernier doute sur le sens qu’elle\ncomportait. Elle était comme toute attitude ou action où se révèle le\ncaractère profond et caché de quelqu’un: elle ne se relie pas à ses\nparoles antérieures, nous ne pouvons pas la faire confirmer par le\ntémoignage du coupable qui n’avouera pas; nous en sommes réduits à\ncelui de nos sens dont nous nous demandons, devant ce souvenir isolé\net incohérent, s’ils n’ont pas été le jouet d’une illusion; de sorte\nque de telles attitudes, les seules qui aient de l’importance, nous\nlaissent souvent quelques doutes.",
+  "entities": [
+    {
+      "text": "Legrandin.",
+      "label": "ORG",
+      "start": 78,
+      "end": 88
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 89,
+      "end": 93
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 147,
+      "end": 152
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 255,
+      "end": 259
+    },
+    {
+      "text": "Legrandin,",
+      "label": "ORG",
+      "start": 478,
+      "end": 488
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 556,
+      "end": 560
+    }
+  ],
+  "sentences": [
+    {
+      "text": "On se demandait à la maison si on devait m’envoyer tout de même dîner\navec M",
+      "start": 0,
+      "end": 76
+    },
+    {
+      "text": "Legrandin",
+      "start": 77,
+      "end": 87
+    },
+    {
+      "text": "Mais ma grand’mère refusa de croire qu’il eût été\nimpoli",
+      "start": 88,
+      "end": 145
+    },
+    {
+      "text": "«Vous reconnaissez vous-même qu’il vient là avec sa tenue\ntoute simple qui n’est guère celle d’un mondain",
+      "start": 146,
+      "end": 252
+    },
+    {
+      "text": "» Elle déclarait qu’en\ntous cas, et à tout mettre au pis, s’il l’avait été, mieux valait ne\npas avoir l’air de s’en être aperçu",
+      "start": 253,
+      "end": 380
+    },
+    {
+      "text": "A vrai dire mon père lui-même,\nqui était pourtant le plus irrité contre l’attitude qu’avait eue\nLegrandin, gardait peut-être un dernier doute sur le sens qu’elle\ncomportait",
+      "start": 381,
+      "end": 554
+    },
+    {
+      "text": "Elle était comme toute attitude ou action où se révèle le\ncaractère profond et caché de quelqu’un: elle ne se relie pas à ses\nparoles antérieures, nous ne pouvons pas la faire confirmer par le\ntémoignage du coupable qui n’avouera pas; nous en sommes réduits à\ncelui de nos sens dont nous nous demandons, devant ce souvenir isolé\net incohérent, s’ils n’ont pas été le jouet d’une illusion; de sorte\nque de telles attitudes, les seules qui aient de l’importance, nous\nlaissent souvent quelques doutes",
+      "start": 555,
+      "end": 1054
+    }
+  ],
+  "tokens": 180,
+  "processed_at": "2025-03-16T02:10:55.394997"
+}

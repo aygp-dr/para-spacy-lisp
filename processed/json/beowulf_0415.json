@@ -1,0 +1,183 @@
+{
+  "text": "Mais, quand Odette était partie, Swann souriait en pensant qu’elle lui\navait dit combien le temps lui durerait jusqu’à ce qu’il lui permît de\nrevenir; il se rappelait l’air inquiet, timide avec lequel elle\nl’avait une fois prié que ce ne fût pas dans trop longtemps, et les\nregards qu’elle avait eus à ce moment-là, fixés sur lui en une\nimploration craintive, et qui la faisaient touchante sous le bouquet\nde fleurs de pensées artificielles fixé devant son chapeau rond de\npaille blanche, à brides de velours noir. «Et vous, avait-elle dit,\nvous ne viendriez pas une fois chez moi prendre le thé?» Il avait\nallégué des travaux en train, une étude--en réalité abandonnée depuis\ndes années--sur Ver Meer de Delft. «Je comprends que je ne peux rien\nfaire, moi chétive, à côté de grands savants comme vous autres, lui\navait-elle répondu. Je serais comme la grenouille devant l’aréopage.\nEt pourtant j’aimerais tant m’instruire, savoir, être initiée. Comme\ncela doit être amusant de bouquiner, de fourrer son nez dans de vieux\npapiers, avait-elle ajouté avec l’air de contentement de soi-même que\nprend une femme élégante pour affirmer que sa joie est de se livrer\nsans crainte de se salir à une besogne malpropre, comme de faire la\ncuisine en «mettant elle-même les mains à la pâte». «Vous allez vous\nmoquer de moi, ce peintre qui vous empêche de me voir (elle voulait\nparler de Ver Meer), je n’avais jamais entendu parler de lui; vit-il\nencore? Est-ce qu’on peut voir de ses œuvres à Paris, pour que je\npuisse me représenter ce que vous aimez, deviner un peu ce qu’il y a\nsous ce grand front qui travaille tant, dans cette tête qu’on sent\ntoujours en train de réfléchir, me dire: voilà, c’est à cela qu’il est\nen train de penser. Quel rêve ce serait d’être mêlée à vos travaux!»\nIl s’était excusé sur sa peur des amitiés nouvelles, ce qu’il avait\nappelé, par galanterie, sa peur d’être malheureux. «Vous avez peur\nd’une affection? comme c’est drôle, moi qui ne cherche que cela, qui\ndonnerais ma vie pour en trouver une, avait-elle dit d’une voix si\nnaturelle, si convaincue, qu’il en avait été remué. Vous avez dû\nsouffrir par une femme. Et vous croyez que les autres sont comme elle.\nElle n’a pas su vous comprendre; vous êtes un être si à part. C’est\ncela que j’ai aimé d’abord en vous, j’ai bien senti que vous n’étiez\npas comme tout le monde.»--«Et puis d’ailleurs vous aussi, lui avait-il\ndit, je sais bien ce que c’est que les femmes, vous devez avoir des\ntas d’occupations, être peu libre.»--«Moi, je n’ai jamais rien à faire!\nJe suis toujours libre, je le serai toujours pour vous. A n’importe\nquelle heure du jour ou de la nuit où il pourrait vous être commode de\nme voir, faites-moi chercher, et je serai trop heureuse d’accourir. Le\nferez-vous? Savez-vous ce qui serait gentil, ce serait de vous faire\nprésenter à Mme Verdurin chez qui je vais tous les soirs. Croyez-vous!\nsi on s’y retrouvait et si je pensais que c’est un peu pour moi que\nvous y êtes!»",
+  "entities": [
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 12,
+      "end": 18
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 33,
+      "end": 38
+    },
+    {
+      "text": "Meer",
+      "label": "ORG",
+      "start": 697,
+      "end": 701
+    },
+    {
+      "text": "Delft.",
+      "label": "ORG",
+      "start": 705,
+      "end": 711
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 946,
+      "end": 951
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 1280,
+      "end": 1285
+    },
+    {
+      "text": "Meer),",
+      "label": "ORG",
+      "start": 1379,
+      "end": 1385
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 1481,
+      "end": 1487
+    },
+    {
+      "text": "Quel",
+      "label": "ORG",
+      "start": 1727,
+      "end": 1731
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 1895,
+      "end": 1900
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 2099,
+      "end": 2103
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 2183,
+      "end": 2187
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 2827,
+      "end": 2835
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais, quand Odette était partie, Swann souriait en pensant qu’elle lui\navait dit combien le temps lui durerait jusqu’à ce qu’il lui permît de\nrevenir; il se rappelait l’air inquiet, timide avec lequel elle\nl’avait une fois prié que ce ne fût pas dans trop longtemps, et les\nregards qu’elle avait eus à ce moment-là, fixés sur lui en une\nimploration craintive, et qui la faisaient touchante sous le bouquet\nde fleurs de pensées artificielles fixé devant son chapeau rond de\npaille blanche, à brides de velours noir",
+      "start": 0,
+      "end": 513
+    },
+    {
+      "text": "«Et vous, avait-elle dit,\nvous ne viendriez pas une fois chez moi prendre le thé?» Il avait\nallégué des travaux en train, une étude--en réalité abandonnée depuis\ndes années--sur Ver Meer de Delft",
+      "start": 514,
+      "end": 710
+    },
+    {
+      "text": "«Je comprends que je ne peux rien\nfaire, moi chétive, à côté de grands savants comme vous autres, lui\navait-elle répondu",
+      "start": 711,
+      "end": 832
+    },
+    {
+      "text": "Je serais comme la grenouille devant l’aréopage",
+      "start": 833,
+      "end": 881
+    },
+    {
+      "text": "Et pourtant j’aimerais tant m’instruire, savoir, être initiée",
+      "start": 882,
+      "end": 944
+    },
+    {
+      "text": "Comme\ncela doit être amusant de bouquiner, de fourrer son nez dans de vieux\npapiers, avait-elle ajouté avec l’air de contentement de soi-même que\nprend une femme élégante pour affirmer que sa joie est de se livrer\nsans crainte de se salir à une besogne malpropre, comme de faire la\ncuisine en «mettant elle-même les mains à la pâte»",
+      "start": 945,
+      "end": 1278
+    },
+    {
+      "text": "«Vous allez vous\nmoquer de moi, ce peintre qui vous empêche de me voir (elle voulait\nparler de Ver Meer), je n’avais jamais entendu parler de lui; vit-il\nencore? Est-ce qu’on peut voir de ses œuvres à Paris, pour que je\npuisse me représenter ce que vous aimez, deviner un peu ce qu’il y a\nsous ce grand front qui travaille tant, dans cette tête qu’on sent\ntoujours en train de réfléchir, me dire: voilà, c’est à cela qu’il est\nen train de penser",
+      "start": 1279,
+      "end": 1725
+    },
+    {
+      "text": "Quel rêve ce serait d’être mêlée à vos travaux!»\nIl s’était excusé sur sa peur des amitiés nouvelles, ce qu’il avait\nappelé, par galanterie, sa peur d’être malheureux",
+      "start": 1726,
+      "end": 1893
+    },
+    {
+      "text": "«Vous avez peur\nd’une affection? comme c’est drôle, moi qui ne cherche que cela, qui\ndonnerais ma vie pour en trouver une, avait-elle dit d’une voix si\nnaturelle, si convaincue, qu’il en avait été remué",
+      "start": 1894,
+      "end": 2097
+    },
+    {
+      "text": "Vous avez dû\nsouffrir par une femme",
+      "start": 2098,
+      "end": 2134
+    },
+    {
+      "text": "Et vous croyez que les autres sont comme elle",
+      "start": 2135,
+      "end": 2181
+    },
+    {
+      "text": "Elle n’a pas su vous comprendre; vous êtes un être si à part",
+      "start": 2182,
+      "end": 2243
+    },
+    {
+      "text": "C’est\ncela que j’ai aimé d’abord en vous, j’ai bien senti que vous n’étiez\npas comme tout le monde",
+      "start": 2244,
+      "end": 2343
+    },
+    {
+      "text": "»--«Et puis d’ailleurs vous aussi, lui avait-il\ndit, je sais bien ce que c’est que les femmes, vous devez avoir des\ntas d’occupations, être peu libre",
+      "start": 2344,
+      "end": 2493
+    },
+    {
+      "text": "»--«Moi, je n’ai jamais rien à faire!\nJe suis toujours libre, je le serai toujours pour vous",
+      "start": 2494,
+      "end": 2586
+    },
+    {
+      "text": "A n’importe\nquelle heure du jour ou de la nuit où il pourrait vous être commode de\nme voir, faites-moi chercher, et je serai trop heureuse d’accourir",
+      "start": 2587,
+      "end": 2737
+    },
+    {
+      "text": "Le\nferez-vous? Savez-vous ce qui serait gentil, ce serait de vous faire\nprésenter à Mme Verdurin chez qui je vais tous les soirs",
+      "start": 2738,
+      "end": 2867
+    },
+    {
+      "text": "Croyez-vous!\nsi on s’y retrouvait et si je pensais que c’est un peu pour moi que\nvous y êtes!»",
+      "start": 2868,
+      "end": 2963
+    }
+  ],
+  "tokens": 521,
+  "processed_at": "2025-03-16T02:10:55.813790"
+}

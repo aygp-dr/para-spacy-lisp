@@ -1,0 +1,48 @@
+{
+  "text": "Et Swann était peut-être encore plus touché de la voir ainsi lui\nadresser en présence de Forcheville, non seulement ces paroles de\ntendresse, de prédilection, mais encore certaines critiques comme: «Je\nsuis sûre que vous n’avez pas encore répondu à vos amis pour votre\ndîner de dimanche. N’y allez pas si vous ne voulez pas, mais soyez au\nmoins poli», ou: «Avez-vous laissé seulement ici votre essai sur Ver\nMeer pour pouvoir l’avancer un peu demain? Quel paresseux! Je vous\nferai travailler, moi!» qui prouvaient qu’Odette se tenait au courant\nde ses invitations dans le monde et de ses études d’art, qu’ils\navaient bien une vie à eux deux. Et en disant cela elle lui adressait\nun sourire au fond duquel il la sentait toute à lui.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3,
+      "end": 8
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 89,
+      "end": 101
+    },
+    {
+      "text": "Meer",
+      "label": "ORG",
+      "start": 408,
+      "end": 412
+    },
+    {
+      "text": "Quel",
+      "label": "ORG",
+      "start": 451,
+      "end": 455
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et Swann était peut-être encore plus touché de la voir ainsi lui\nadresser en présence de Forcheville, non seulement ces paroles de\ntendresse, de prédilection, mais encore certaines critiques comme: «Je\nsuis sûre que vous n’avez pas encore répondu à vos amis pour votre\ndîner de dimanche",
+      "start": 0,
+      "end": 286
+    },
+    {
+      "text": "N’y allez pas si vous ne voulez pas, mais soyez au\nmoins poli», ou: «Avez-vous laissé seulement ici votre essai sur Ver\nMeer pour pouvoir l’avancer un peu demain? Quel paresseux! Je vous\nferai travailler, moi!» qui prouvaient qu’Odette se tenait au courant\nde ses invitations dans le monde et de ses études d’art, qu’ils\navaient bien une vie à eux deux",
+      "start": 287,
+      "end": 640
+    },
+    {
+      "text": "Et en disant cela elle lui adressait\nun sourire au fond duquel il la sentait toute à lui",
+      "start": 641,
+      "end": 730
+    }
+  ],
+  "tokens": 127,
+  "processed_at": "2025-03-16T02:10:56.853641"
+}

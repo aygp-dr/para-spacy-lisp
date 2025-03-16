@@ -1,0 +1,43 @@
+{
+  "text": "Swann, habitué quand il était auprès d’une femme avec qui il avait\ngardé des habitudes galantes de langage, de dire des choses délicates\nque beaucoup de gens du monde ne comprenaient pas, ne daigna pas\nexpliquer à Mme de Saint-Euverte qu’il n’avait parlé que par\nmétaphore. Quant à la princesse, elle se mit à rire aux éclats, parce\nque l’esprit de Swann était extrêmement apprécié dans sa coterie et\naussi parce qu’elle ne pouvait entendre un compliment s’adressant à\nelle sans lui trouver les grâces les plus fines et une irrésistible\ndrôlerie.",
+  "entities": [
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Saint-Euverte",
+      "label": "ORG",
+      "start": 221,
+      "end": 234
+    },
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 274,
+      "end": 279
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 349,
+      "end": 354
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann, habitué quand il était auprès d’une femme avec qui il avait\ngardé des habitudes galantes de langage, de dire des choses délicates\nque beaucoup de gens du monde ne comprenaient pas, ne daigna pas\nexpliquer à Mme de Saint-Euverte qu’il n’avait parlé que par\nmétaphore",
+      "start": 0,
+      "end": 272
+    },
+    {
+      "text": "Quant à la princesse, elle se mit à rire aux éclats, parce\nque l’esprit de Swann était extrêmement apprécié dans sa coterie et\naussi parce qu’elle ne pouvait entendre un compliment s’adressant à\nelle sans lui trouver les grâces les plus fines et une irrésistible\ndrôlerie",
+      "start": 273,
+      "end": 545
+    }
+  ],
+  "tokens": 92,
+  "processed_at": "2025-03-16T02:10:57.185881"
+}

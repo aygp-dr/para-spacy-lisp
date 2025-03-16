@@ -1,0 +1,113 @@
+{
+  "text": "--«Vous ne doutez pas du plaisir que j’aurais à être avec vous. Mais le\nplus grand plaisir que vous puissiez me faire c’est d’aller plutôt\nvoir Odette. Vous savez l’excellente influence que vous avez sur elle.\nJe crois qu’elle ne sort pas ce soir avant d’aller chez son ancienne\ncouturière où du reste elle sera sûrement contente que vous\nl’accompagniez. En tous cas vous la trouveriez chez elle avant. Tâchez\nde la distraire et aussi de lui parler raison. Si vous pouviez\narranger quelque chose pour demain qui lui plaise et que nous\npourrions faire tous les trois ensemble. Tâchez aussi de poser des\njalons pour cet été, si elle avait envie de quelque chose, d’une\ncroisière que nous ferions tous les trois, que sais-je? Quant à ce\nsoir, je ne compte pas la voir; maintenant si elle le désirait ou si\nvous trouviez un joint, vous n’avez qu’à m’envoyer un mot chez Mme de\nSaint-Euverte jusqu’à minuit, et après chez moi. Merci de tout ce que\nvous faites pour moi, vous savez comme je vous aime.»",
+  "entities": [
+    {
+      "text": "--«Vous",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 64,
+      "end": 68
+    },
+    {
+      "text": "Odette.",
+      "label": "ORG",
+      "start": 144,
+      "end": 151
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 152,
+      "end": 156
+    },
+    {
+      "text": "Tâchez",
+      "label": "ORG",
+      "start": 403,
+      "end": 409
+    },
+    {
+      "text": "Tâchez",
+      "label": "ORG",
+      "start": 576,
+      "end": 582
+    },
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 723,
+      "end": 728
+    },
+    {
+      "text": "Saint-Euverte",
+      "label": "ORG",
+      "start": 873,
+      "end": 886
+    },
+    {
+      "text": "Merci",
+      "label": "ORG",
+      "start": 922,
+      "end": 927
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Vous ne doutez pas du plaisir que j’aurais à être avec vous",
+      "start": 0,
+      "end": 62
+    },
+    {
+      "text": "Mais le\nplus grand plaisir que vous puissiez me faire c’est d’aller plutôt\nvoir Odette",
+      "start": 63,
+      "end": 150
+    },
+    {
+      "text": "Vous savez l’excellente influence que vous avez sur elle",
+      "start": 151,
+      "end": 208
+    },
+    {
+      "text": "Je crois qu’elle ne sort pas ce soir avant d’aller chez son ancienne\ncouturière où du reste elle sera sûrement contente que vous\nl’accompagniez",
+      "start": 209,
+      "end": 353
+    },
+    {
+      "text": "En tous cas vous la trouveriez chez elle avant",
+      "start": 354,
+      "end": 401
+    },
+    {
+      "text": "Tâchez\nde la distraire et aussi de lui parler raison",
+      "start": 402,
+      "end": 455
+    },
+    {
+      "text": "Si vous pouviez\narranger quelque chose pour demain qui lui plaise et que nous\npourrions faire tous les trois ensemble",
+      "start": 456,
+      "end": 574
+    },
+    {
+      "text": "Tâchez aussi de poser des\njalons pour cet été, si elle avait envie de quelque chose, d’une\ncroisière que nous ferions tous les trois, que sais-je? Quant à ce\nsoir, je ne compte pas la voir; maintenant si elle le désirait ou si\nvous trouviez un joint, vous n’avez qu’à m’envoyer un mot chez Mme de\nSaint-Euverte jusqu’à minuit, et après chez moi",
+      "start": 575,
+      "end": 920
+    },
+    {
+      "text": "Merci de tout ce que\nvous faites pour moi, vous savez comme je vous aime",
+      "start": 921,
+      "end": 994
+    },
+    {
+      "text": "»",
+      "start": 995,
+      "end": 996
+    }
+  ],
+  "tokens": 177,
+  "processed_at": "2025-03-16T02:10:56.996103"
+}

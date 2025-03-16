@@ -1,0 +1,37 @@
+{
+  "text": "Je n’en entendis pas davantage, car Mlle Vinteuil, d’un air las,\ngauche, affairé, honnête et triste, vint fermer les volets et la\nfenêtre, mais je savais maintenant, pour toutes les souffrances que\npendant sa vie M. Vinteuil avait supportées à cause de sa fille, ce\nqu’après la mort il avait reçu d’elle en salaire.",
+  "entities": [
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 36,
+      "end": 40
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 41,
+      "end": 50
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 216,
+      "end": 224
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je n’en entendis pas davantage, car Mlle Vinteuil, d’un air las,\ngauche, affairé, honnête et triste, vint fermer les volets et la\nfenêtre, mais je savais maintenant, pour toutes les souffrances que\npendant sa vie M",
+      "start": 0,
+      "end": 214
+    },
+    {
+      "text": "Vinteuil avait supportées à cause de sa fille, ce\nqu’après la mort il avait reçu d’elle en salaire",
+      "start": 215,
+      "end": 314
+    }
+  ],
+  "tokens": 54,
+  "processed_at": "2025-03-16T02:10:55.623318"
+}

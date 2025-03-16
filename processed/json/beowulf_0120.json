@@ -1,0 +1,155 @@
+{
+  "text": "Et comme Eulalie savait avec cela comme personne distraire ma tante\nsans la fatiguer, ses visites qui avaient lieu régulièrement tous les\ndimanches sauf empêchement inopiné, étaient pour ma tante un plaisir\ndont la perspective l’entretenait ces jours-là dans un état agréable\nd’abord, mais bien vite douloureux comme une faim excessive, pour peu\nqu’Eulalie fût en retard. Trop prolongée, cette volupté d’attendre\nEulalie tournait en supplice, ma tante ne cessait de regarder l’heure,\nbâillait, se sentait des faiblesses. Le coup de sonnette d’Eulalie,\ns’il arrivait tout à la fin de la journée, quand elle ne l’espérait\nplus, la faisait presque se trouver mal. En réalité, le dimanche, elle\nne pensait qu’à cette visite et sitôt le déjeuner fini, Françoise\navait hâte que nous quittions la salle à manger pour qu’elle pût\nmonter «occuper» ma tante. Mais (surtout à partir du moment où les\nbeaux jours s’installaient à Combray) il y avait bien longtemps que\nl’heure altière de midi, descendue de la tour de Saint-Hilaire qu’elle\narmoriait des douze fleurons momentanés de sa couronne sonore avait\nretenti autour de notre table, auprès du pain bénit venu lui aussi\nfamilièrement en sortant de l’église, quand nous étions encore assis\ndevant les assiettes des Mille et une Nuits, appesantis par la chaleur\net surtout par le repas. Car, au fond permanent d’œufs, de côtelettes,\nde pommes de terre, de confitures, de biscuits, qu’elle ne nous\nannonçait même plus, Françoise ajoutait--selon les travaux des champs\net des vergers, le fruit de la marée, les hasards du commerce, les\npolitesses des voisins et son propre génie, et si bien que notre menu,\ncomme ces quatre-feuilles qu’on sculptait au XIIIe siècle au portail\ndes cathédrales, reflétait un peu le rythme des saisons et les\népisodes de la vie--: une barbue parce que la marchande lui en avait\ngaranti la fraîcheur, une dinde parce qu’elle en avait vu une belle au\nmarché de Roussainville-le-Pin, des cardons à la moelle parce qu’elle\nne nous en avait pas encore fait de cette manière-là, un gigot rôti\nparce que le grand air creuse et qu’il avait bien le temps de\ndescendre d’ici sept heures, des épinards pour changer, des abricots\nparce que c’était encore une rareté, des groseilles parce que dans\nquinze jours il n’y en aurait plus, des framboises que M. Swann avait\napportées exprès, des cerises, les premières qui vinssent du cerisier\ndu jardin après deux ans qu’il n’en donnait plus, du fromage à la\ncrème que j’aimais bien autrefois, un gâteau aux amandes parce\nqu’elle l’avait commandé la veille, une brioche parce que c’était\nnotre tour de l’offrir. Quand tout cela était fini, composée\nexpressément pour nous, mais dédiée plus spécialement à mon père qui\nétait amateur, une crème au chocolat, inspiration, attention\npersonnelle de Françoise, nous était offerte, fugitive et légère comme\nune œuvre de circonstance où elle avait mis tout son talent. Celui qui\neût refusé d’en goûter en disant: «J’ai fini, je n’ai plus faim», se\nserait immédiatement ravalé au rang de ces goujats qui, même dans le\nprésent qu’un artiste leur fait d’une de ses œuvres, regardent au\npoids et à la matière alors que n’y valent que l’intention et la\nsignature. Même en laisser une seule goutte dans le plat eût témoigné\nde la même impolitesse que se lever avant la fin du morceau au nez du\ncompositeur.",
+  "entities": [
+    {
+      "text": "Eulalie",
+      "label": "ORG",
+      "start": 9,
+      "end": 16
+    },
+    {
+      "text": "Trop",
+      "label": "ORG",
+      "start": 372,
+      "end": 376
+    },
+    {
+      "text": "Eulalie",
+      "label": "ORG",
+      "start": 413,
+      "end": 420
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 747,
+      "end": 756
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 849,
+      "end": 853
+    },
+    {
+      "text": "Combray)",
+      "label": "ORG",
+      "start": 918,
+      "end": 926
+    },
+    {
+      "text": "Saint-Hilaire",
+      "label": "ORG",
+      "start": 1006,
+      "end": 1019
+    },
+    {
+      "text": "Mille",
+      "label": "ORG",
+      "start": 1257,
+      "end": 1262
+    },
+    {
+      "text": "Nuits,",
+      "label": "ORG",
+      "start": 1270,
+      "end": 1276
+    },
+    {
+      "text": "Car,",
+      "label": "ORG",
+      "start": 1328,
+      "end": 1332
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1459,
+      "end": 1468
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2312,
+      "end": 2317
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 2613,
+      "end": 2618
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 2795,
+      "end": 2805
+    },
+    {
+      "text": "Celui",
+      "label": "ORG",
+      "start": 2912,
+      "end": 2917
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 3202,
+      "end": 3206
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et comme Eulalie savait avec cela comme personne distraire ma tante\nsans la fatiguer, ses visites qui avaient lieu régulièrement tous les\ndimanches sauf empêchement inopiné, étaient pour ma tante un plaisir\ndont la perspective l’entretenait ces jours-là dans un état agréable\nd’abord, mais bien vite douloureux comme une faim excessive, pour peu\nqu’Eulalie fût en retard",
+      "start": 0,
+      "end": 370
+    },
+    {
+      "text": "Trop prolongée, cette volupté d’attendre\nEulalie tournait en supplice, ma tante ne cessait de regarder l’heure,\nbâillait, se sentait des faiblesses",
+      "start": 371,
+      "end": 519
+    },
+    {
+      "text": "Le coup de sonnette d’Eulalie,\ns’il arrivait tout à la fin de la journée, quand elle ne l’espérait\nplus, la faisait presque se trouver mal",
+      "start": 520,
+      "end": 659
+    },
+    {
+      "text": "En réalité, le dimanche, elle\nne pensait qu’à cette visite et sitôt le déjeuner fini, Françoise\navait hâte que nous quittions la salle à manger pour qu’elle pût\nmonter «occuper» ma tante",
+      "start": 660,
+      "end": 847
+    },
+    {
+      "text": "Mais (surtout à partir du moment où les\nbeaux jours s’installaient à Combray) il y avait bien longtemps que\nl’heure altière de midi, descendue de la tour de Saint-Hilaire qu’elle\narmoriait des douze fleurons momentanés de sa couronne sonore avait\nretenti autour de notre table, auprès du pain bénit venu lui aussi\nfamilièrement en sortant de l’église, quand nous étions encore assis\ndevant les assiettes des Mille et une Nuits, appesantis par la chaleur\net surtout par le repas",
+      "start": 848,
+      "end": 1326
+    },
+    {
+      "text": "Car, au fond permanent d’œufs, de côtelettes,\nde pommes de terre, de confitures, de biscuits, qu’elle ne nous\nannonçait même plus, Françoise ajoutait--selon les travaux des champs\net des vergers, le fruit de la marée, les hasards du commerce, les\npolitesses des voisins et son propre génie, et si bien que notre menu,\ncomme ces quatre-feuilles qu’on sculptait au XIIIe siècle au portail\ndes cathédrales, reflétait un peu le rythme des saisons et les\népisodes de la vie--: une barbue parce que la marchande lui en avait\ngaranti la fraîcheur, une dinde parce qu’elle en avait vu une belle au\nmarché de Roussainville-le-Pin, des cardons à la moelle parce qu’elle\nne nous en avait pas encore fait de cette manière-là, un gigot rôti\nparce que le grand air creuse et qu’il avait bien le temps de\ndescendre d’ici sept heures, des épinards pour changer, des abricots\nparce que c’était encore une rareté, des groseilles parce que dans\nquinze jours il n’y en aurait plus, des framboises que M",
+      "start": 1327,
+      "end": 2310
+    },
+    {
+      "text": "Swann avait\napportées exprès, des cerises, les premières qui vinssent du cerisier\ndu jardin après deux ans qu’il n’en donnait plus, du fromage à la\ncrème que j’aimais bien autrefois, un gâteau aux amandes parce\nqu’elle l’avait commandé la veille, une brioche parce que c’était\nnotre tour de l’offrir",
+      "start": 2311,
+      "end": 2611
+    },
+    {
+      "text": "Quand tout cela était fini, composée\nexpressément pour nous, mais dédiée plus spécialement à mon père qui\nétait amateur, une crème au chocolat, inspiration, attention\npersonnelle de Françoise, nous était offerte, fugitive et légère comme\nune œuvre de circonstance où elle avait mis tout son talent",
+      "start": 2612,
+      "end": 2910
+    },
+    {
+      "text": "Celui qui\neût refusé d’en goûter en disant: «J’ai fini, je n’ai plus faim», se\nserait immédiatement ravalé au rang de ces goujats qui, même dans le\nprésent qu’un artiste leur fait d’une de ses œuvres, regardent au\npoids et à la matière alors que n’y valent que l’intention et la\nsignature",
+      "start": 2911,
+      "end": 3200
+    },
+    {
+      "text": "Même en laisser une seule goutte dans le plat eût témoigné\nde la même impolitesse que se lever avant la fin du morceau au nez du\ncompositeur",
+      "start": 3201,
+      "end": 3342
+    }
+  ],
+  "tokens": 556,
+  "processed_at": "2025-03-16T02:10:54.804135"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "--Ah! parfaitement, La Pérouse, dit le général. C’est un nom connu. Il\na sa rue.",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Pérouse,",
+      "label": "ORG",
+      "start": 23,
+      "end": 31
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! parfaitement, La Pérouse, dit le général",
+      "start": 0,
+      "end": 46
+    },
+    {
+      "text": "C’est un nom connu",
+      "start": 47,
+      "end": 66
+    },
+    {
+      "text": "Il\na sa rue",
+      "start": 67,
+      "end": 79
+    }
+  ],
+  "tokens": 15,
+  "processed_at": "2025-03-16T02:10:57.245412"
+}

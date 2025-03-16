@@ -1,0 +1,37 @@
+{
+  "text": "--Ah! princesse, vous n’êtes pas Guermantes pour des prunes. Le\npossédez-vous assez, l’esprit des Guermantes!",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 33,
+      "end": 43
+    },
+    {
+      "text": "Guermantes!",
+      "label": "ORG",
+      "start": 98,
+      "end": 109
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! princesse, vous n’êtes pas Guermantes pour des prunes",
+      "start": 0,
+      "end": 59
+    },
+    {
+      "text": "Le\npossédez-vous assez, l’esprit des Guermantes!",
+      "start": 60,
+      "end": 109
+    }
+  ],
+  "tokens": 15,
+  "processed_at": "2025-03-16T02:10:57.167447"
+}

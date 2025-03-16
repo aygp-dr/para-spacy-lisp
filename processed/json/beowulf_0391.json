@@ -1,0 +1,20 @@
+{
+  "text": "--«En Auvergne? pour vous faire manger par les puces et la vermine,\ngrand bien vous fasse!»",
+  "entities": [
+    {
+      "text": "--«En",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«En Auvergne? pour vous faire manger par les puces et la vermine,\ngrand bien vous fasse!»",
+      "start": 0,
+      "end": 91
+    }
+  ],
+  "tokens": 16,
+  "processed_at": "2025-03-16T02:10:55.743235"
+}

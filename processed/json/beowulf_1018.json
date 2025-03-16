@@ -1,0 +1,103 @@
+{
+  "text": "Ni elle d’ailleurs ni mon père ne semblaient non plus trouver à parler\ndes grands-parents de Swann, du titre d’agent de change honoraire, un\nplaisir qui passât tous les autres. Mon imagination avait isolé et\nconsacré dans le Paris social une certaine famille comme elle avait\nfait dans le Paris de pierre pour une certaine maison dont elle avait\nsculpté la porte cochère et rendu précieuses les fenêtres. Mais ces\nornements, j’étais seul à les voir. De même que mon père et ma mère\ntrouvaient la maison qu’habitait Swann pareille aux autres maisons\nconstruites en même temps dans le quartier du Bois, de même la famille\nde Swann leur semblait du même genre que beaucoup d’autres familles\nd’agents de change. Ils la jugeaient plus ou moins favorablement selon\nle degré où elle avait participé à des mérites communs au reste de\nl’univers et ne lui trouvaient rien d’unique. Ce qu’au contraire ils y\nappréciaient, ils le rencontraient à un degré égal, ou plus élevé,\nailleurs. Aussi après avoir trouvé la maison bien située, ils\nparlaient d’une autre qui l’était mieux, mais qui n’avait rien à voir\navec Gilberte, ou de financiers d’un cran supérieur à son grand-père;\net s’ils avaient eu l’air un moment d’être du même avis que moi,\nc’était par un malentendu qui ne tardait pas à se dissiper. C’est que,\npour percevoir dans tout ce qui entourait Gilberte, une qualité\ninconnue analogue dans le monde des émotions à ce que peut être dans\ncelui des couleurs l’infra-rouge, mes parents étaient dépourvus de ce\nsens supplémentaire et momentané dont m’avait doté l’amour.",
+  "entities": [
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 93,
+      "end": 99
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 225,
+      "end": 230
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 289,
+      "end": 294
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 405,
+      "end": 409
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 515,
+      "end": 520
+    },
+    {
+      "text": "Bois,",
+      "label": "ORG",
+      "start": 595,
+      "end": 600
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 623,
+      "end": 628
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 1101,
+      "end": 1110
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 1344,
+      "end": 1353
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ni elle d’ailleurs ni mon père ne semblaient non plus trouver à parler\ndes grands-parents de Swann, du titre d’agent de change honoraire, un\nplaisir qui passât tous les autres",
+      "start": 0,
+      "end": 175
+    },
+    {
+      "text": "Mon imagination avait isolé et\nconsacré dans le Paris social une certaine famille comme elle avait\nfait dans le Paris de pierre pour une certaine maison dont elle avait\nsculpté la porte cochère et rendu précieuses les fenêtres",
+      "start": 176,
+      "end": 403
+    },
+    {
+      "text": "Mais ces\nornements, j’étais seul à les voir",
+      "start": 404,
+      "end": 448
+    },
+    {
+      "text": "De même que mon père et ma mère\ntrouvaient la maison qu’habitait Swann pareille aux autres maisons\nconstruites en même temps dans le quartier du Bois, de même la famille\nde Swann leur semblait du même genre que beaucoup d’autres familles\nd’agents de change",
+      "start": 449,
+      "end": 706
+    },
+    {
+      "text": "Ils la jugeaient plus ou moins favorablement selon\nle degré où elle avait participé à des mérites communs au reste de\nl’univers et ne lui trouvaient rien d’unique",
+      "start": 707,
+      "end": 870
+    },
+    {
+      "text": "Ce qu’au contraire ils y\nappréciaient, ils le rencontraient à un degré égal, ou plus élevé,\nailleurs",
+      "start": 871,
+      "end": 972
+    },
+    {
+      "text": "Aussi après avoir trouvé la maison bien située, ils\nparlaient d’une autre qui l’était mieux, mais qui n’avait rien à voir\navec Gilberte, ou de financiers d’un cran supérieur à son grand-père;\net s’ils avaient eu l’air un moment d’être du même avis que moi,\nc’était par un malentendu qui ne tardait pas à se dissiper",
+      "start": 973,
+      "end": 1289
+    },
+    {
+      "text": "C’est que,\npour percevoir dans tout ce qui entourait Gilberte, une qualité\ninconnue analogue dans le monde des émotions à ce que peut être dans\ncelui des couleurs l’infra-rouge, mes parents étaient dépourvus de ce\nsens supplémentaire et momentané dont m’avait doté l’amour",
+      "start": 1290,
+      "end": 1563
+    }
+  ],
+  "tokens": 264,
+  "processed_at": "2025-03-16T02:10:57.604001"
+}

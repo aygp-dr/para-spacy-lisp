@@ -1,0 +1,26 @@
+{
+  "text": "Swann ignorait encore la disgrâce dont il était menacé chez les\nVerdurin et continuait à voir leurs ridicules en beau, au travers de\nson amour.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 64,
+      "end": 72
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann ignorait encore la disgrâce dont il était menacé chez les\nVerdurin et continuait à voir leurs ridicules en beau, au travers de\nson amour",
+      "start": 0,
+      "end": 142
+    }
+  ],
+  "tokens": 25,
+  "processed_at": "2025-03-16T02:10:56.606093"
+}

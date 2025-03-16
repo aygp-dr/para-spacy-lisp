@@ -1,0 +1,223 @@
+{
+  "text": "Sentant que souvent il ne pouvait pas réaliser ce qu’elle rêvait, il\ncherchait du moins à ce qu’elle se plût avec lui, à ne pas\ncontrecarrer ces idées vulgaires, ce mauvais goût qu’elle avait en\ntoutes choses, et qu’il aimait d’ailleurs comme tout ce qui venait\nd’elle, qui l’enchantaient même, car c’était autant de traits\nparticuliers grâce auxquels l’essence de cette femme lui apparaissait,\ndevenait visible. Aussi, quand elle avait l’air heureux parce qu’elle\ndevait aller à la Reine Topaze, ou que son regard devenait sérieux,\ninquiet et volontaire, si elle avait peur de manquer la rite des\nfleurs ou simplement l’heure du thé, avec muffins et toasts, au «Thé\nde la Rue Royale» où elle croyait que l’assiduité était indispensable\npour consacrer la réputation d’élégance d’une femme, Swann, transporté\ncomme nous le sommes par le naturel d’un enfant ou par la vérité d’un\nportrait qui semble sur le point de parler, sentait si bien l’âme de\nsa maîtresse affleurer à son visage qu’il ne pouvait résister à venir\nl’y toucher avec ses lèvres. «Ah! elle veut qu’on la mène à la fête\ndes fleurs, la petite Odette, elle veut se faire admirer, eh bien, on\nl’y mènera, nous n’avons qu’à nous incliner.» Comme la vue de Swann\nétait un peu basse, il dut se résigner à se servir de lunettes pour\ntravailler chez lui, et à adopter, pour aller dans le monde, le\nmonocle qui le défigurait moins. La première fois qu’elle lui en vit\nun dans l’œil, elle ne put contenir sa joie: «Je trouve que pour un\nhomme, il n’y a pas à dire, ça a beaucoup de chic! Comme tu es bien\nainsi! tu as l’air d’un vrai gentleman. Il ne te manque qu’un titre!»\najouta-t-elle, avec une nuance de regret. Il aimait qu’Odette fût\nainsi, de même que, s’il avait été épris d’une Bretonne, il aurait été\nheureux de la voir en coiffe et de lui entendre dire qu’elle croyait\naux revenants. Jusque-là, comme beaucoup d’hommes chez qui leur goût\npour les arts se développe indépendamment de la sensualité, une\ndisparate bizarre avait existé entre les satisfactions qu’il accordait\nà l’un et à l’autre, jouissant, dans la compagnie de femmes de plus en\nplus grossières, des séductions d’œuvres de plus en plus raffinées,\nemmenant une petite bonne dans une baignoire grillée à la\nreprésentation d’une pièce décadente qu’il avait envie d’entendre ou à\nune exposition de peinture impressionniste, et persuadé d’ailleurs\nqu’une femme du monde cultivée n’y eut pas compris davantage, mais\nn’aurait pas su se taire aussi gentiment. Mais, au contraire, depuis\nqu’il aimait Odette, sympathiser avec elle, tâcher de n’avoir qu’une\nâme à eux deux lui était si doux, qu’il cherchait à se plaire aux\nchoses qu’elle aimait, et il trouvait un plaisir d’autant plus profond\nnon seulement à imiter ses habitudes, mais à adopter ses opinions,\nque, comme elles n’avaient aucune racine dans sa propre intelligence,\nelles lui rappelaient seulement son amour, à cause duquel il les avait\npréférées. S’il retournait à Serge Panine, s’il recherchait les\noccasions d’aller voir conduire Olivier Métra, c’était pour la douceur\nd’être initié dans toutes les conceptions d’Odette, de se sentir de\nmoitié dans tous ses goûts. Ce charme de le rapprocher d’elle,\nqu’avaient les ouvrages ou les lieux qu’elle aimait, lui semblait plus\nmystérieux que celui qui est intrinsèque à de plus beaux, mais qui ne\nla lui rappelaient pas. D’ailleurs, ayant laissé s’affaiblir les\ncroyances intellectuelles de sa jeunesse, et son scepticisme d’homme\ndu monde ayant à son insu pénétré jusqu’à elles, il pensait (ou du\nmoins il avait si longtemps pensé cela qu’il le disait encore) que les\nobjets de nos goûts n’ont pas en eux une valeur absolue, mais que tout\nest affaire d’époque, de classe, consiste en modes, dont les plus\nvulgaires valent celles qui passent pour les plus distinguées. Et\ncomme il jugeait que l’importance attachée par Odette à avoir des\ncartes pour le vernissage n’était pas en soi quelque chose de plus\nridicule que le plaisir qu’il avait autrefois à déjeuner chez le\nprince de Galles, de même, il ne pensait pas que l’admiration qu’elle\nprofessait pour Monte-Carlo ou pour le Righi fût plus déraisonnable\nque le goût qu’il avait, lui, pour la Hollande qu’elle se figurait\nlaide et pour Versailles qu’elle trouvait triste. Aussi, se privait-il\nd’y aller, ayant plaisir à se dire que c’était pour elle, qu’il\nvoulait ne sentir, n’aimer qu’avec elle.",
+  "entities": [
+    {
+      "text": "Sentant",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Reine",
+      "label": "ORG",
+      "start": 483,
+      "end": 488
+    },
+    {
+      "text": "Topaze,",
+      "label": "ORG",
+      "start": 489,
+      "end": 496
+    },
+    {
+      "text": "«Thé",
+      "label": "ORG",
+      "start": 662,
+      "end": 666
+    },
+    {
+      "text": "Royale»",
+      "label": "ORG",
+      "start": 677,
+      "end": 684
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 790,
+      "end": 796
+    },
+    {
+      "text": "«Ah!",
+      "label": "ORG",
+      "start": 1046,
+      "end": 1050
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 1107,
+      "end": 1114
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1201,
+      "end": 1206
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1217,
+      "end": 1222
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1543,
+      "end": 1548
+    },
+    {
+      "text": "Bretonne,",
+      "label": "ORG",
+      "start": 1743,
+      "end": 1752
+    },
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 2484,
+      "end": 2489
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 2524,
+      "end": 2531
+    },
+    {
+      "text": "Serge",
+      "label": "ORG",
+      "start": 2954,
+      "end": 2959
+    },
+    {
+      "text": "Panine,",
+      "label": "ORG",
+      "start": 2960,
+      "end": 2967
+    },
+    {
+      "text": "Olivier",
+      "label": "ORG",
+      "start": 3021,
+      "end": 3028
+    },
+    {
+      "text": "Métra,",
+      "label": "ORG",
+      "start": 3029,
+      "end": 3035
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 3104,
+      "end": 3110
+    },
+    {
+      "text": "Galles,",
+      "label": "ORG",
+      "start": 4015,
+      "end": 4022
+    },
+    {
+      "text": "Monte-Carlo",
+      "label": "ORG",
+      "start": 4091,
+      "end": 4102
+    },
+    {
+      "text": "Righi",
+      "label": "ORG",
+      "start": 4114,
+      "end": 4119
+    },
+    {
+      "text": "Hollande",
+      "label": "ORG",
+      "start": 4181,
+      "end": 4189
+    },
+    {
+      "text": "Versailles",
+      "label": "ORG",
+      "start": 4224,
+      "end": 4234
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sentant que souvent il ne pouvait pas réaliser ce qu’elle rêvait, il\ncherchait du moins à ce qu’elle se plût avec lui, à ne pas\ncontrecarrer ces idées vulgaires, ce mauvais goût qu’elle avait en\ntoutes choses, et qu’il aimait d’ailleurs comme tout ce qui venait\nd’elle, qui l’enchantaient même, car c’était autant de traits\nparticuliers grâce auxquels l’essence de cette femme lui apparaissait,\ndevenait visible",
+      "start": 0,
+      "end": 411
+    },
+    {
+      "text": "Aussi, quand elle avait l’air heureux parce qu’elle\ndevait aller à la Reine Topaze, ou que son regard devenait sérieux,\ninquiet et volontaire, si elle avait peur de manquer la rite des\nfleurs ou simplement l’heure du thé, avec muffins et toasts, au «Thé\nde la Rue Royale» où elle croyait que l’assiduité était indispensable\npour consacrer la réputation d’élégance d’une femme, Swann, transporté\ncomme nous le sommes par le naturel d’un enfant ou par la vérité d’un\nportrait qui semble sur le point de parler, sentait si bien l’âme de\nsa maîtresse affleurer à son visage qu’il ne pouvait résister à venir\nl’y toucher avec ses lèvres",
+      "start": 412,
+      "end": 1044
+    },
+    {
+      "text": "«Ah! elle veut qu’on la mène à la fête\ndes fleurs, la petite Odette, elle veut se faire admirer, eh bien, on\nl’y mènera, nous n’avons qu’à nous incliner",
+      "start": 1045,
+      "end": 1198
+    },
+    {
+      "text": "» Comme la vue de Swann\nétait un peu basse, il dut se résigner à se servir de lunettes pour\ntravailler chez lui, et à adopter, pour aller dans le monde, le\nmonocle qui le défigurait moins",
+      "start": 1199,
+      "end": 1386
+    },
+    {
+      "text": "La première fois qu’elle lui en vit\nun dans l’œil, elle ne put contenir sa joie: «Je trouve que pour un\nhomme, il n’y a pas à dire, ça a beaucoup de chic! Comme tu es bien\nainsi! tu as l’air d’un vrai gentleman",
+      "start": 1387,
+      "end": 1598
+    },
+    {
+      "text": "Il ne te manque qu’un titre!»\najouta-t-elle, avec une nuance de regret",
+      "start": 1599,
+      "end": 1670
+    },
+    {
+      "text": "Il aimait qu’Odette fût\nainsi, de même que, s’il avait été épris d’une Bretonne, il aurait été\nheureux de la voir en coiffe et de lui entendre dire qu’elle croyait\naux revenants",
+      "start": 1671,
+      "end": 1849
+    },
+    {
+      "text": "Jusque-là, comme beaucoup d’hommes chez qui leur goût\npour les arts se développe indépendamment de la sensualité, une\ndisparate bizarre avait existé entre les satisfactions qu’il accordait\nà l’un et à l’autre, jouissant, dans la compagnie de femmes de plus en\nplus grossières, des séductions d’œuvres de plus en plus raffinées,\nemmenant une petite bonne dans une baignoire grillée à la\nreprésentation d’une pièce décadente qu’il avait envie d’entendre ou à\nune exposition de peinture impressionniste, et persuadé d’ailleurs\nqu’une femme du monde cultivée n’y eut pas compris davantage, mais\nn’aurait pas su se taire aussi gentiment",
+      "start": 1850,
+      "end": 2482
+    },
+    {
+      "text": "Mais, au contraire, depuis\nqu’il aimait Odette, sympathiser avec elle, tâcher de n’avoir qu’une\nâme à eux deux lui était si doux, qu’il cherchait à se plaire aux\nchoses qu’elle aimait, et il trouvait un plaisir d’autant plus profond\nnon seulement à imiter ses habitudes, mais à adopter ses opinions,\nque, comme elles n’avaient aucune racine dans sa propre intelligence,\nelles lui rappelaient seulement son amour, à cause duquel il les avait\npréférées",
+      "start": 2483,
+      "end": 2934
+    },
+    {
+      "text": "S’il retournait à Serge Panine, s’il recherchait les\noccasions d’aller voir conduire Olivier Métra, c’était pour la douceur\nd’être initié dans toutes les conceptions d’Odette, de se sentir de\nmoitié dans tous ses goûts",
+      "start": 2935,
+      "end": 3154
+    },
+    {
+      "text": "Ce charme de le rapprocher d’elle,\nqu’avaient les ouvrages ou les lieux qu’elle aimait, lui semblait plus\nmystérieux que celui qui est intrinsèque à de plus beaux, mais qui ne\nla lui rappelaient pas",
+      "start": 3155,
+      "end": 3354
+    },
+    {
+      "text": "D’ailleurs, ayant laissé s’affaiblir les\ncroyances intellectuelles de sa jeunesse, et son scepticisme d’homme\ndu monde ayant à son insu pénétré jusqu’à elles, il pensait (ou du\nmoins il avait si longtemps pensé cela qu’il le disait encore) que les\nobjets de nos goûts n’ont pas en eux une valeur absolue, mais que tout\nest affaire d’époque, de classe, consiste en modes, dont les plus\nvulgaires valent celles qui passent pour les plus distinguées",
+      "start": 3355,
+      "end": 3802
+    },
+    {
+      "text": "Et\ncomme il jugeait que l’importance attachée par Odette à avoir des\ncartes pour le vernissage n’était pas en soi quelque chose de plus\nridicule que le plaisir qu’il avait autrefois à déjeuner chez le\nprince de Galles, de même, il ne pensait pas que l’admiration qu’elle\nprofessait pour Monte-Carlo ou pour le Righi fût plus déraisonnable\nque le goût qu’il avait, lui, pour la Hollande qu’elle se figurait\nlaide et pour Versailles qu’elle trouvait triste",
+      "start": 3803,
+      "end": 4258
+    },
+    {
+      "text": "Aussi, se privait-il\nd’y aller, ayant plaisir à se dire que c’était pour elle, qu’il\nvoulait ne sentir, n’aimer qu’avec elle",
+      "start": 4259,
+      "end": 4384
+    }
+  ],
+  "tokens": 736,
+  "processed_at": "2025-03-16T02:10:56.290868"
+}

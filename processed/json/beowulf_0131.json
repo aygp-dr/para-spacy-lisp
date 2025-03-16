@@ -1,0 +1,36 @@
+{
+  "text": "Sur la table, il y avait la même assiette de massepains que\nd’habitude; mon oncle avait sa vareuse de tous les jours, mais en face\nde lui, en robe de soie rose avec un grand collier de perles au cou,\nétait assise une jeune femme qui achevait de manger une mandarine.\nL’incertitude où j’étais s’il fallait dire madame ou mademoiselle me\nfit rougir et n’osant pas trop tourner les yeux de son côté de peur\nd’avoir à lui parler, j’allai embrasser mon oncle. Elle me regardait\nen souriant, mon oncle lui dit: «Mon neveu», sans lui dire mon nom, ni\nme dire le sien, sans doute parce que, depuis les difficultés qu’il\navait eues avec mon grand-père, il tâchait autant que possible\nd’éviter tout trait d’union entre sa famille et ce genre de relations.",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 455,
+      "end": 459
+    },
+    {
+      "text": "«Mon",
+      "label": "ORG",
+      "start": 505,
+      "end": 509
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sur la table, il y avait la même assiette de massepains que\nd’habitude; mon oncle avait sa vareuse de tous les jours, mais en face\nde lui, en robe de soie rose avec un grand collier de perles au cou,\nétait assise une jeune femme qui achevait de manger une mandarine",
+      "start": 0,
+      "end": 265
+    },
+    {
+      "text": "L’incertitude où j’étais s’il fallait dire madame ou mademoiselle me\nfit rougir et n’osant pas trop tourner les yeux de son côté de peur\nd’avoir à lui parler, j’allai embrasser mon oncle",
+      "start": 266,
+      "end": 453
+    },
+    {
+      "text": "Elle me regardait\nen souriant, mon oncle lui dit: «Mon neveu», sans lui dire mon nom, ni\nme dire le sien, sans doute parce que, depuis les difficultés qu’il\navait eues avec mon grand-père, il tâchait autant que possible\nd’éviter tout trait d’union entre sa famille et ce genre de relations",
+      "start": 454,
+      "end": 744
+    }
+  ],
+  "tokens": 134,
+  "processed_at": "2025-03-16T02:10:54.839867"
+}

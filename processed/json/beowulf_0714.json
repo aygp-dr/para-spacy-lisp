@@ -1,0 +1,99 @@
+{
+  "text": "Mais il ne lui fit pas remarquer cette contradiction, car il pensait\nque, livrée à elle-même, Odette produirait peut-être quelque mensonge\nqui serait un faible indice de la vérité; elle parlait; il ne\nl’interrompait pas, il recueillait avec une piété avide et douloureuse\nces mots qu’elle lui disait et qu’il sentait (justement, parce qu’elle\nla cachait derrière eux tout en lui parlant) garder vaguement, comme\nle voile sacré, l’empreinte, dessiner l’incertain modelé, de cette\nréalité infiniment précieuse et hélas introuvable:--ce qu’elle faisait\ntantôt à trois heures, quand il était venu,--de laquelle il ne\nposséderait jamais que ces mensonges, illisibles et divins vestiges,\net qui n’existait plus que dans le souvenir receleur de cet être qui\nla contemplait sans savoir l’apprécier, mais ne la lui livrerait pas.\nCertes il se doutait bien par moments qu’en elles-mêmes les actions\nquotidiennes d’Odette n’étaient pas passionnément intéressantes, et\nque les relations qu’elle pouvait avoir avec d’autres hommes\nn’exhalaient pas naturellement d’une façon universelle et pour tout\nêtre pensant, une tristesse morbide, capable de donner la fièvre du\nsuicide. Il se rendait compte alors que cet intérêt, cette tristesse\nn’existaient qu’en lui comme une maladie, et que quand celle-ci serait\nguérie, les actes d’Odette, les baisers qu’elle aurait pu donner\nredeviendraient inoffensifs comme ceux de tant d’autres femmes. Mais\nque la curiosité douloureuse que Swann y portait maintenant n’eût sa\ncause qu’en lui, n’était pas pour lui faire trouver déraisonnable de\nconsidérer cette curiosité comme importante et de mettre tout en œuvre\npour lui donner satisfaction. C’est que Swann arrivait à un âge dont\nla philosophie--favorisée par celle de l’époque, par celle aussi du\nmilieu où Swann avait beaucoup vécu, de cette coterie de la princesse\ndes Laumes où il était convenu qu’on est intelligent dans la mesure où\non doute de tout et où on ne trouvait de réel et d’incontestable que\nles goûts de chacun--n’est déjà plus celle de la jeunesse, mais une\nphilosophie positive, presque médicale, d’hommes qui au lieu\nd’extérioriser les objets de leurs aspirations, essayent de dégager de\nleurs années déjà écoulées un résidu fixe d’habitudes, de passions\nqu’ils puissent considérer en eux comme caractéristiques et\npermanentes et auxquelles, délibérément, ils veilleront d’abord que le\ngenre d’existence qu’ils adoptent puisse donner satisfaction. Swann\ntrouvait sage de faire dans sa vie la part de la souffrance qu’il\néprouvait à ignorer ce qu’avait fait Odette, aussi bien que la part de\nla recrudescence qu’un climat humide causait à son eczéma; de prévoir\ndans son budget une disponibilité importante pour obtenir sur l’emploi\ndes journées d’Odette des renseignements sans lesquels il se sentirait\nmalheureux, aussi bien qu’il en réservait pour d’autres goûts dont il\nsavait qu’il pouvait attendre du plaisir, au moins avant qu’il fût\namoureux, comme celui des collections et de la bonne cuisine.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 94,
+      "end": 100
+    },
+    {
+      "text": "Certes",
+      "label": "ORG",
+      "start": 821,
+      "end": 827
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1423,
+      "end": 1427
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1461,
+      "end": 1466
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1677,
+      "end": 1682
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1784,
+      "end": 1789
+    },
+    {
+      "text": "Laumes",
+      "label": "ORG",
+      "start": 1848,
+      "end": 1854
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2444,
+      "end": 2449
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 2553,
+      "end": 2560
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais il ne lui fit pas remarquer cette contradiction, car il pensait\nque, livrée à elle-même, Odette produirait peut-être quelque mensonge\nqui serait un faible indice de la vérité; elle parlait; il ne\nl’interrompait pas, il recueillait avec une piété avide et douloureuse\nces mots qu’elle lui disait et qu’il sentait (justement, parce qu’elle\nla cachait derrière eux tout en lui parlant) garder vaguement, comme\nle voile sacré, l’empreinte, dessiner l’incertain modelé, de cette\nréalité infiniment précieuse et hélas introuvable:--ce qu’elle faisait\ntantôt à trois heures, quand il était venu,--de laquelle il ne\nposséderait jamais que ces mensonges, illisibles et divins vestiges,\net qui n’existait plus que dans le souvenir receleur de cet être qui\nla contemplait sans savoir l’apprécier, mais ne la lui livrerait pas",
+      "start": 0,
+      "end": 819
+    },
+    {
+      "text": "Certes il se doutait bien par moments qu’en elles-mêmes les actions\nquotidiennes d’Odette n’étaient pas passionnément intéressantes, et\nque les relations qu’elle pouvait avoir avec d’autres hommes\nn’exhalaient pas naturellement d’une façon universelle et pour tout\nêtre pensant, une tristesse morbide, capable de donner la fièvre du\nsuicide",
+      "start": 820,
+      "end": 1161
+    },
+    {
+      "text": "Il se rendait compte alors que cet intérêt, cette tristesse\nn’existaient qu’en lui comme une maladie, et que quand celle-ci serait\nguérie, les actes d’Odette, les baisers qu’elle aurait pu donner\nredeviendraient inoffensifs comme ceux de tant d’autres femmes",
+      "start": 1162,
+      "end": 1421
+    },
+    {
+      "text": "Mais\nque la curiosité douloureuse que Swann y portait maintenant n’eût sa\ncause qu’en lui, n’était pas pour lui faire trouver déraisonnable de\nconsidérer cette curiosité comme importante et de mettre tout en œuvre\npour lui donner satisfaction",
+      "start": 1422,
+      "end": 1665
+    },
+    {
+      "text": "C’est que Swann arrivait à un âge dont\nla philosophie--favorisée par celle de l’époque, par celle aussi du\nmilieu où Swann avait beaucoup vécu, de cette coterie de la princesse\ndes Laumes où il était convenu qu’on est intelligent dans la mesure où\non doute de tout et où on ne trouvait de réel et d’incontestable que\nles goûts de chacun--n’est déjà plus celle de la jeunesse, mais une\nphilosophie positive, presque médicale, d’hommes qui au lieu\nd’extérioriser les objets de leurs aspirations, essayent de dégager de\nleurs années déjà écoulées un résidu fixe d’habitudes, de passions\nqu’ils puissent considérer en eux comme caractéristiques et\npermanentes et auxquelles, délibérément, ils veilleront d’abord que le\ngenre d’existence qu’ils adoptent puisse donner satisfaction",
+      "start": 1666,
+      "end": 2442
+    },
+    {
+      "text": "Swann\ntrouvait sage de faire dans sa vie la part de la souffrance qu’il\néprouvait à ignorer ce qu’avait fait Odette, aussi bien que la part de\nla recrudescence qu’un climat humide causait à son eczéma; de prévoir\ndans son budget une disponibilité importante pour obtenir sur l’emploi\ndes journées d’Odette des renseignements sans lesquels il se sentirait\nmalheureux, aussi bien qu’il en réservait pour d’autres goûts dont il\nsavait qu’il pouvait attendre du plaisir, au moins avant qu’il fût\namoureux, comme celui des collections et de la bonne cuisine",
+      "start": 2443,
+      "end": 2996
+    }
+  ],
+  "tokens": 462,
+  "processed_at": "2025-03-16T02:10:56.693441"
+}

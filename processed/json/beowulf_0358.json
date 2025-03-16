@@ -1,0 +1,31 @@
+{
+  "text": "Je m’amusais à regarder les carafes que les gamins mettaient dans la\nVivonne pour prendre les petits poissons, et qui, remplies par la\nrivière, où elles sont à leur tour encloses, à la fois «contenant» aux\nflancs transparents comme une eau durcie, et «contenu» plongé dans un\nplus grand contenant de cristal liquide et courant, évoquaient l’image\nde la fraîcheur d’une façon plus délicieuse et plus irritante qu’elles\nn’eussent fait sur une table servie, en ne la montrant qu’en fuite\ndans cette allitération perpétuelle entre l’eau sans consistance où\nles mains ne pouvaient la capter et le verre sans fluidité où le\npalais ne pourrait en jouir. Je me promettais de venir là plus tard\navec des lignes; j’obtenais qu’on tirât un peu de pain des provisions\ndu goûter; j’en jetais dans la Vivonne des boulettes qui semblaient\nsuffire pour y provoquer un phénomène de sursaturation, car l’eau se\nsolidifiait aussitôt autour d’elles en grappes ovoïdes de têtards\ninanitiés qu’elle tenait sans doute jusque-là en dissolution,\ninvisibles, tout près d’être en voie de cristallisation.",
+  "entities": [
+    {
+      "text": "Vivonne",
+      "label": "ORG",
+      "start": 69,
+      "end": 76
+    },
+    {
+      "text": "Vivonne",
+      "label": "ORG",
+      "start": 787,
+      "end": 794
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je m’amusais à regarder les carafes que les gamins mettaient dans la\nVivonne pour prendre les petits poissons, et qui, remplies par la\nrivière, où elles sont à leur tour encloses, à la fois «contenant» aux\nflancs transparents comme une eau durcie, et «contenu» plongé dans un\nplus grand contenant de cristal liquide et courant, évoquaient l’image\nde la fraîcheur d’une façon plus délicieuse et plus irritante qu’elles\nn’eussent fait sur une table servie, en ne la montrant qu’en fuite\ndans cette allitération perpétuelle entre l’eau sans consistance où\nles mains ne pouvaient la capter et le verre sans fluidité où le\npalais ne pourrait en jouir",
+      "start": 0,
+      "end": 645
+    },
+    {
+      "text": "Je me promettais de venir là plus tard\navec des lignes; j’obtenais qu’on tirât un peu de pain des provisions\ndu goûter; j’en jetais dans la Vivonne des boulettes qui semblaient\nsuffire pour y provoquer un phénomène de sursaturation, car l’eau se\nsolidifiait aussitôt autour d’elles en grappes ovoïdes de têtards\ninanitiés qu’elle tenait sans doute jusque-là en dissolution,\ninvisibles, tout près d’être en voie de cristallisation",
+      "start": 646,
+      "end": 1076
+    }
+  ],
+  "tokens": 174,
+  "processed_at": "2025-03-16T02:10:55.638588"
+}

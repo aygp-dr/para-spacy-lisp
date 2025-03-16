@@ -1,0 +1,18 @@
+{
+  "text": "--«J’observe.»",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "--«J’observe",
+      "start": 0,
+      "end": 12
+    },
+    {
+      "text": "»",
+      "start": 13,
+      "end": 14
+    }
+  ],
+  "tokens": 1,
+  "processed_at": "2025-03-16T02:10:57.020931"
+}

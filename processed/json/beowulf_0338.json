@@ -1,0 +1,25 @@
+{
+  "text": "Mais elle devina sans doute que son amie penserait qu’elle n’avait dit\nces mots que pour la provoquer à lui répondre par certains autres\nqu’elle avait en effet le désir d’entendre, mais que par discrétion\nelle voulait lui laisser l’initiative de prononcer. Aussi son regard\nque je ne pouvais distinguer, dut-il prendre l’expression qui plaisait\ntant à ma grand’mère, quand elle ajouta vivement:",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais elle devina sans doute que son amie penserait qu’elle n’avait dit\nces mots que pour la provoquer à lui répondre par certains autres\nqu’elle avait en effet le désir d’entendre, mais que par discrétion\nelle voulait lui laisser l’initiative de prononcer",
+      "start": 0,
+      "end": 255
+    },
+    {
+      "text": "Aussi son regard\nque je ne pouvais distinguer, dut-il prendre l’expression qui plaisait\ntant à ma grand’mère, quand elle ajouta vivement:",
+      "start": 256,
+      "end": 394
+    }
+  ],
+  "tokens": 63,
+  "processed_at": "2025-03-16T02:10:55.580795"
+}

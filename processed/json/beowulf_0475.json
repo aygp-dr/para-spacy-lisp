@@ -1,0 +1,20 @@
+{
+  "text": "--Alors poser la question c’est la résoudre? dit le docteur.",
+  "entities": [
+    {
+      "text": "--Alors",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Alors poser la question c’est la résoudre? dit le docteur",
+      "start": 0,
+      "end": 59
+    }
+  ],
+  "tokens": 10,
+  "processed_at": "2025-03-16T02:10:55.983799"
+}

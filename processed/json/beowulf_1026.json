@@ -1,0 +1,54 @@
+{
+  "text": "--«Odette de Crécy? Mais je me disais aussi, ces yeux tristes... Mais\nsavez-vous qu’elle ne doit plus être de la première jeunesse! Je me\nrappelle que j’ai couché avec elle le jour de la démission de\nMac-Mahon.»",
+  "entities": [
+    {
+      "text": "--«Odette",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Crécy?",
+      "label": "ORG",
+      "start": 13,
+      "end": 19
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 20,
+      "end": 24
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 65,
+      "end": 69
+    },
+    {
+      "text": "Mac-Mahon.»",
+      "label": "ORG",
+      "start": 200,
+      "end": 211
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Odette de Crécy? Mais je me disais aussi, ces yeux tristes",
+      "start": 0,
+      "end": 61
+    },
+    {
+      "text": "Mais\nsavez-vous qu’elle ne doit plus être de la première jeunesse! Je me\nrappelle que j’ai couché avec elle le jour de la démission de\nMac-Mahon",
+      "start": 64,
+      "end": 209
+    },
+    {
+      "text": "»",
+      "start": 210,
+      "end": 211
+    }
+  ],
+  "tokens": 37,
+  "processed_at": "2025-03-16T02:10:57.615006"
+}

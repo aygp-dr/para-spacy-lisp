@@ -1,0 +1,26 @@
+{
+  "text": "--Non? il ne vous a pas intéressé? lui demanda sèchement Mme Verdurin.",
+  "entities": [
+    {
+      "text": "--Non?",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 61,
+      "end": 70
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Non? il ne vous a pas intéressé? lui demanda sèchement Mme Verdurin",
+      "start": 0,
+      "end": 69
+    }
+  ],
+  "tokens": 12,
+  "processed_at": "2025-03-16T02:10:56.554896"
+}

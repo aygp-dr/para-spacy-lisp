@@ -1,0 +1,18 @@
+{
+  "text": "--«C’est contrariant, disait ma tante en hochant la tête. La seule\nchose importante que j’avais à lui demander!»",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "--«C’est contrariant, disait ma tante en hochant la tête",
+      "start": 0,
+      "end": 56
+    },
+    {
+      "text": "La seule\nchose importante que j’avais à lui demander!»",
+      "start": 57,
+      "end": 112
+    }
+  ],
+  "tokens": 18,
+  "processed_at": "2025-03-16T02:10:55.289896"
+}

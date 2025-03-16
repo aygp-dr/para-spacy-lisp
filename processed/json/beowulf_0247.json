@@ -1,0 +1,31 @@
+{
+  "text": "--«Madame Octave, je vous laisse reposer, vous avez l’air beaucoup\nfatiguée.»",
+  "entities": [
+    {
+      "text": "--«Madame",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Octave,",
+      "label": "ORG",
+      "start": 10,
+      "end": 17
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Madame Octave, je vous laisse reposer, vous avez l’air beaucoup\nfatiguée",
+      "start": 0,
+      "end": 75
+    },
+    {
+      "text": "»",
+      "start": 76,
+      "end": 77
+    }
+  ],
+  "tokens": 11,
+  "processed_at": "2025-03-16T02:10:55.276947"
+}

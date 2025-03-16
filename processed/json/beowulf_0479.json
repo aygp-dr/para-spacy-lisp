@@ -1,0 +1,32 @@
+{
+  "text": "--Ah! madame Verdurin, dit Cottard, sur un ton de marivaudage, vous\noubliez que vous parlez d’un de mes confères, je devrais dire un de\nmes maîtres.",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 13,
+      "end": 22
+    },
+    {
+      "text": "Cottard,",
+      "label": "ORG",
+      "start": 27,
+      "end": 35
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! madame Verdurin, dit Cottard, sur un ton de marivaudage, vous\noubliez que vous parlez d’un de mes confères, je devrais dire un de\nmes maîtres",
+      "start": 0,
+      "end": 147
+    }
+  ],
+  "tokens": 26,
+  "processed_at": "2025-03-16T02:10:55.996683"
+}

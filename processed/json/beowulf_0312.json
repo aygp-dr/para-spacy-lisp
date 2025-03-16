@@ -1,0 +1,124 @@
+{
+  "text": "«Léonie, dit mon grand-père en rentrant, j’aurais voulu t’avoir avec\nnous tantôt. Tu ne reconnaîtrais pas Tansonville. Si j’avais osé, je\nt’aurais coupé une branche de ces épines roses que tu aimais tant.»\nMon grand-père racontait ainsi notre promenade à ma tante Léonie, soit\npour la distraire, soit qu’on n’eût pas perdu tout espoir d’arriver à\nla faire sortir. Or elle aimait beaucoup autrefois cette propriété, et\nd’ailleurs les visites de Swann avaient été les dernières qu’elle\navait reçues, alors qu’elle fermait déjà sa porte à tout le monde. Et\nde même que quand il venait maintenant prendre de ses nouvelles (elle\nétait la seule personne de chez nous qu’il demandât encore à voir),\nelle lui faisait répondre qu’elle était fatiguée, mais qu’elle le\nlaisserait entrer la prochaine fois, de même elle dit ce soir-là:\n«Oui, un jour qu’il fera beau, j’irai en voiture jusqu’à la porte du\nparc.» C’est sincèrement qu’elle le disait. Elle eût aimé revoir Swann\net Tansonville; mais le désir qu’elle en avait suffisait à ce qui lui\nrestait de forces; sa réalisation les eût excédées. Quelquefois le\nbeau temps lui rendait un peu de vigueur, elle se levait, s’habillait;\nla fatigue commençait avant qu’elle fût passée dans l’autre chambre et\nelle réclamait son lit. Ce qui avait commencé pour elle--plus tôt\nseulement que cela n’arrive d’habitude,--c’est ce grand renoncement de\nla vieillesse qui se prépare à la mort, s’enveloppe dans sa\nchrysalide, et qu’on peut observer, à la fin des vies qui se\nprolongent tard, même entre les anciens amants qui se sont le plus\naimés, entre les amis unis par les liens les plus spirituels et qui à\npartir d’une certaine année cessent de faire le voyage ou la sortie\nnécessaire pour se voir, cessent de s’écrire et savent qu’ils ne\ncommuniqueront plus en ce monde. Ma tante devait parfaitement savoir\nqu’elle ne reverrait pas Swann, qu’elle ne quitterait plus jamais la\nmaison, mais cette réclusion définitive devait lui être rendue assez\naisée pour la raison même qui selon nous aurait dû la lui rendre plus\ndouloureuse: c’est que cette réclusion lui était imposée par la\ndiminution qu’elle pouvait constater chaque jour dans ses forces, et\nqui, en faisant de chaque action, de chaque mouvement, une fatigue,\nsinon une souffrance, donnait pour elle à l’inaction, à l’isolement,\nau silence, la douceur réparatrice et bénie du repos.",
+  "entities": [
+    {
+      "text": "«Léonie,",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Tansonville.",
+      "label": "ORG",
+      "start": 106,
+      "end": 118
+    },
+    {
+      "text": "Léonie,",
+      "label": "ORG",
+      "start": 264,
+      "end": 271
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 444,
+      "end": 449
+    },
+    {
+      "text": "«Oui,",
+      "label": "ORG",
+      "start": 824,
+      "end": 829
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 937,
+      "end": 941
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 958,
+      "end": 963
+    },
+    {
+      "text": "Tansonville;",
+      "label": "ORG",
+      "start": 967,
+      "end": 979
+    },
+    {
+      "text": "Quelquefois",
+      "label": "ORG",
+      "start": 1086,
+      "end": 1097
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1865,
+      "end": 1871
+    }
+  ],
+  "sentences": [
+    {
+      "text": "«Léonie, dit mon grand-père en rentrant, j’aurais voulu t’avoir avec\nnous tantôt",
+      "start": 0,
+      "end": 80
+    },
+    {
+      "text": "Tu ne reconnaîtrais pas Tansonville",
+      "start": 81,
+      "end": 117
+    },
+    {
+      "text": "Si j’avais osé, je\nt’aurais coupé une branche de ces épines roses que tu aimais tant",
+      "start": 118,
+      "end": 203
+    },
+    {
+      "text": "»\nMon grand-père racontait ainsi notre promenade à ma tante Léonie, soit\npour la distraire, soit qu’on n’eût pas perdu tout espoir d’arriver à\nla faire sortir",
+      "start": 204,
+      "end": 362
+    },
+    {
+      "text": "Or elle aimait beaucoup autrefois cette propriété, et\nd’ailleurs les visites de Swann avaient été les dernières qu’elle\navait reçues, alors qu’elle fermait déjà sa porte à tout le monde",
+      "start": 363,
+      "end": 549
+    },
+    {
+      "text": "Et\nde même que quand il venait maintenant prendre de ses nouvelles (elle\nétait la seule personne de chez nous qu’il demandât encore à voir),\nelle lui faisait répondre qu’elle était fatiguée, mais qu’elle le\nlaisserait entrer la prochaine fois, de même elle dit ce soir-là:\n«Oui, un jour qu’il fera beau, j’irai en voiture jusqu’à la porte du\nparc",
+      "start": 550,
+      "end": 897
+    },
+    {
+      "text": "» C’est sincèrement qu’elle le disait",
+      "start": 898,
+      "end": 935
+    },
+    {
+      "text": "Elle eût aimé revoir Swann\net Tansonville; mais le désir qu’elle en avait suffisait à ce qui lui\nrestait de forces; sa réalisation les eût excédées",
+      "start": 936,
+      "end": 1084
+    },
+    {
+      "text": "Quelquefois le\nbeau temps lui rendait un peu de vigueur, elle se levait, s’habillait;\nla fatigue commençait avant qu’elle fût passée dans l’autre chambre et\nelle réclamait son lit",
+      "start": 1085,
+      "end": 1265
+    },
+    {
+      "text": "Ce qui avait commencé pour elle--plus tôt\nseulement que cela n’arrive d’habitude,--c’est ce grand renoncement de\nla vieillesse qui se prépare à la mort, s’enveloppe dans sa\nchrysalide, et qu’on peut observer, à la fin des vies qui se\nprolongent tard, même entre les anciens amants qui se sont le plus\naimés, entre les amis unis par les liens les plus spirituels et qui à\npartir d’une certaine année cessent de faire le voyage ou la sortie\nnécessaire pour se voir, cessent de s’écrire et savent qu’ils ne\ncommuniqueront plus en ce monde",
+      "start": 1266,
+      "end": 1802
+    },
+    {
+      "text": "Ma tante devait parfaitement savoir\nqu’elle ne reverrait pas Swann, qu’elle ne quitterait plus jamais la\nmaison, mais cette réclusion définitive devait lui être rendue assez\naisée pour la raison même qui selon nous aurait dû la lui rendre plus\ndouloureuse: c’est que cette réclusion lui était imposée par la\ndiminution qu’elle pouvait constater chaque jour dans ses forces, et\nqui, en faisant de chaque action, de chaque mouvement, une fatigue,\nsinon une souffrance, donnait pour elle à l’inaction, à l’isolement,\nau silence, la douceur réparatrice et bénie du repos",
+      "start": 1803,
+      "end": 2370
+    }
+  ],
+  "tokens": 392,
+  "processed_at": "2025-03-16T02:10:55.494382"
+}

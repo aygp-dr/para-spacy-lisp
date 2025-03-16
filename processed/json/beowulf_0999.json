@@ -1,0 +1,43 @@
+{
+  "text": "--Ça n’est pas étonnant, dit Françoise, ce n’est pas un temps de\nsaison, il fait trop chaud. Hélas! mon Dieu, de partout il doit y\navoir bien des pauvres malades, c’est à croire que là-haut aussi tout\nse détraque.",
+  "entities": [
+    {
+      "text": "--Ça",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 29,
+      "end": 39
+    },
+    {
+      "text": "Hélas!",
+      "label": "ORG",
+      "start": 93,
+      "end": 99
+    },
+    {
+      "text": "Dieu,",
+      "label": "ORG",
+      "start": 104,
+      "end": 109
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ça n’est pas étonnant, dit Françoise, ce n’est pas un temps de\nsaison, il fait trop chaud",
+      "start": 0,
+      "end": 91
+    },
+    {
+      "text": "Hélas! mon Dieu, de partout il doit y\navoir bien des pauvres malades, c’est à croire que là-haut aussi tout\nse détraque",
+      "start": 92,
+      "end": 212
+    }
+  ],
+  "tokens": 39,
+  "processed_at": "2025-03-16T02:10:57.580558"
+}

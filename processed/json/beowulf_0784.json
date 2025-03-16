@@ -1,0 +1,20 @@
+{
+  "text": "Aussi Odette, sûre de le voir venir après quelques jours, aussi tendre\net soumis qu’avant, lui demander une réconciliation, prenait-elle\nl’habitude de ne plus craindre de lui déplaire et même de l’irriter et\nlui refusait-elle, quand cela lui était commode, les faveurs\nauxquelles il tenait le plus.",
+  "entities": [
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 6,
+      "end": 13
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Aussi Odette, sûre de le voir venir après quelques jours, aussi tendre\net soumis qu’avant, lui demander une réconciliation, prenait-elle\nl’habitude de ne plus craindre de lui déplaire et même de l’irriter et\nlui refusait-elle, quand cela lui était commode, les faveurs\nauxquelles il tenait le plus",
+      "start": 0,
+      "end": 297
+    }
+  ],
+  "tokens": 47,
+  "processed_at": "2025-03-16T02:10:56.898222"
+}

@@ -1,0 +1,43 @@
+{
+  "text": "Quand, au moment de quitter l’église, je m’agenouillai devant l’autel,\nje sentis tout d’un coup, en me relevant, s’échapper des aubépines une\nodeur amère et douce d’amandes, et je remarquai alors sur les fleurs\nde petites places plus blondes, sous lesquelles je me figurai que\ndevait être cachée cette odeur comme sous les parties gratinées le\ngoût d’une frangipane ou sous leurs taches de rousseur celui des joues\nde Mlle Vinteuil. Malgré la silencieuse immobilité des aubépines,\ncette intermittente ardeur était comme le murmure de leur vie intense\ndont l’autel vibrait ainsi qu’une haie agreste visitée par de vivantes\nantennes, auxquelles on pensait en voyant certaines étamines presque\nrousses qui semblaient avoir gardé la virulence printanière, le\npouvoir irritant, d’insectes aujourd’hui métamorphosés en fleurs.",
+  "entities": [
+    {
+      "text": "Quand,",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 418,
+      "end": 422
+    },
+    {
+      "text": "Vinteuil.",
+      "label": "ORG",
+      "start": 423,
+      "end": 432
+    },
+    {
+      "text": "Malgré",
+      "label": "ORG",
+      "start": 433,
+      "end": 439
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quand, au moment de quitter l’église, je m’agenouillai devant l’autel,\nje sentis tout d’un coup, en me relevant, s’échapper des aubépines une\nodeur amère et douce d’amandes, et je remarquai alors sur les fleurs\nde petites places plus blondes, sous lesquelles je me figurai que\ndevait être cachée cette odeur comme sous les parties gratinées le\ngoût d’une frangipane ou sous leurs taches de rousseur celui des joues\nde Mlle Vinteuil",
+      "start": 0,
+      "end": 431
+    },
+    {
+      "text": "Malgré la silencieuse immobilité des aubépines,\ncette intermittente ardeur était comme le murmure de leur vie intense\ndont l’autel vibrait ainsi qu’une haie agreste visitée par de vivantes\nantennes, auxquelles on pensait en voyant certaines étamines presque\nrousses qui semblaient avoir gardé la virulence printanière, le\npouvoir irritant, d’insectes aujourd’hui métamorphosés en fleurs",
+      "start": 432,
+      "end": 819
+    }
+  ],
+  "tokens": 124,
+  "processed_at": "2025-03-16T02:10:55.312428"
+}

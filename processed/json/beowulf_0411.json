@@ -1,0 +1,75 @@
+{
+  "text": "Quelques mois après, si mon grand-père demandait au nouvel ami de\nSwann: «Et Swann, le voyez-vous toujours beaucoup?» la figure de\nl’interlocuteur s’allongeait: «Ne prononcez jamais son nom devant\nmoi!»--«Mais je croyais que vous étiez si liés...» Il avait été ainsi\npendant quelques mois le familier de cousins de ma grand’mère, dînant\npresque chaque jour chez eux. Brusquement il cessa de venir, sans\navoir prévenu. On le crut malade, et la cousine de ma grand’mère\nallait envoyer demander de ses nouvelles quand à l’office elle trouva\nune lettre de lui qui traînait par mégarde dans le livre de comptes de\nla cuisinière. Il y annonçait à cette femme qu’il allait quitter\nParis, qu’il ne pourrait plus venir. Elle était sa maîtresse, et au\nmoment de rompre, c’était elle seule qu’il avait jugé utile d’avertir.",
+  "entities": [
+    {
+      "text": "Quelques",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Swann:",
+      "label": "ORG",
+      "start": 66,
+      "end": 72
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 77,
+      "end": 83
+    },
+    {
+      "text": "Brusquement",
+      "label": "ORG",
+      "start": 367,
+      "end": 378
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 674,
+      "end": 680
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 711,
+      "end": 715
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quelques mois après, si mon grand-père demandait au nouvel ami de\nSwann: «Et Swann, le voyez-vous toujours beaucoup?» la figure de\nl’interlocuteur s’allongeait: «Ne prononcez jamais son nom devant\nmoi!»--«Mais je croyais que vous étiez si liés",
+      "start": 0,
+      "end": 243
+    },
+    {
+      "text": "» Il avait été ainsi\npendant quelques mois le familier de cousins de ma grand’mère, dînant\npresque chaque jour chez eux",
+      "start": 246,
+      "end": 365
+    },
+    {
+      "text": "Brusquement il cessa de venir, sans\navoir prévenu",
+      "start": 366,
+      "end": 416
+    },
+    {
+      "text": "On le crut malade, et la cousine de ma grand’mère\nallait envoyer demander de ses nouvelles quand à l’office elle trouva\nune lettre de lui qui traînait par mégarde dans le livre de comptes de\nla cuisinière",
+      "start": 417,
+      "end": 622
+    },
+    {
+      "text": "Il y annonçait à cette femme qu’il allait quitter\nParis, qu’il ne pourrait plus venir",
+      "start": 623,
+      "end": 709
+    },
+    {
+      "text": "Elle était sa maîtresse, et au\nmoment de rompre, c’était elle seule qu’il avait jugé utile d’avertir",
+      "start": 710,
+      "end": 811
+    }
+  ],
+  "tokens": 134,
+  "processed_at": "2025-03-16T02:10:55.803231"
+}

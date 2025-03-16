@@ -1,0 +1,20 @@
+{
+  "text": "--Dites donc franchement votre pensée, nous n’irons pas le leur\nrépéter.",
+  "entities": [
+    {
+      "text": "--Dites",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Dites donc franchement votre pensée, nous n’irons pas le leur\nrépéter",
+      "start": 0,
+      "end": 71
+    }
+  ],
+  "tokens": 11,
+  "processed_at": "2025-03-16T02:10:56.440239"
+}

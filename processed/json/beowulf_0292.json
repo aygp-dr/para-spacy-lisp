@@ -1,0 +1,37 @@
+{
+  "text": "Mon père lui en reparla dans nos rencontres ultérieures, le tortura de\nquestions, ce fut peine inutile: comme cet escroc érudit qui employait\nà fabriquer de faux palimpsestes un labeur et une science dont la\ncentième partie eût suffi à lui assurer une situation plus lucrative,\nmais honorable, M. Legrandin, si nous avions insisté encore, aurait\nfini par édifier toute une éthique de paysage et une géographie\ncéleste de la basse Normandie, plutôt que de nous avouer qu’à deux\nkilomètres de Balbec habitait sa propre sœur, et d’être obligé à nous\noffrir une lettre d’introduction qui n’eût pas été pour lui un tel\nsujet d’effroi s’il avait été absolument certain,--comme il aurait dû\nl’être en effet avec l’expérience qu’il avait du caractère de ma\ngrand’mère--que nous n’en aurions pas profité.",
+  "entities": [
+    {
+      "text": "Legrandin,",
+      "label": "ORG",
+      "start": 297,
+      "end": 307
+    },
+    {
+      "text": "Normandie,",
+      "label": "ORG",
+      "start": 430,
+      "end": 440
+    },
+    {
+      "text": "Balbec",
+      "label": "ORG",
+      "start": 491,
+      "end": 497
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mon père lui en reparla dans nos rencontres ultérieures, le tortura de\nquestions, ce fut peine inutile: comme cet escroc érudit qui employait\nà fabriquer de faux palimpsestes un labeur et une science dont la\ncentième partie eût suffi à lui assurer une situation plus lucrative,\nmais honorable, M",
+      "start": 0,
+      "end": 295
+    },
+    {
+      "text": "Legrandin, si nous avions insisté encore, aurait\nfini par édifier toute une éthique de paysage et une géographie\ncéleste de la basse Normandie, plutôt que de nous avouer qu’à deux\nkilomètres de Balbec habitait sa propre sœur, et d’être obligé à nous\noffrir une lettre d’introduction qui n’eût pas été pour lui un tel\nsujet d’effroi s’il avait été absolument certain,--comme il aurait dû\nl’être en effet avec l’expérience qu’il avait du caractère de ma\ngrand’mère--que nous n’en aurions pas profité",
+      "start": 296,
+      "end": 794
+    }
+  ],
+  "tokens": 130,
+  "processed_at": "2025-03-16T02:10:55.435093"
+}

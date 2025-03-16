@@ -1,0 +1,119 @@
+{
+  "text": "--Du reste, je crois que j’aurai une déception. Je ne crois pas que\ncela vaille Serge Panine, l’idole de Mme de Crécy. Voilà au moins des\nsujets qui ont du fond, qui font réfléchir; mais donner une recette de\nsalade sur la scène du Théâtre-Français! Tandis que Serge Panine! Du\nreste, comme tout ce qui vient de la plume de Georges Ohnet, c’est\ntoujours si bien écrit. Je ne sais pas si vous connaissez Le Maître de\nForges que je préférerais encore à Serge Panine.",
+  "entities": [
+    {
+      "text": "--Du",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Serge",
+      "label": "ORG",
+      "start": 80,
+      "end": 85
+    },
+    {
+      "text": "Panine,",
+      "label": "ORG",
+      "start": 86,
+      "end": 93
+    },
+    {
+      "text": "Crécy.",
+      "label": "ORG",
+      "start": 112,
+      "end": 118
+    },
+    {
+      "text": "Voilà",
+      "label": "ORG",
+      "start": 119,
+      "end": 124
+    },
+    {
+      "text": "Théâtre-Français!",
+      "label": "ORG",
+      "start": 232,
+      "end": 249
+    },
+    {
+      "text": "Tandis",
+      "label": "ORG",
+      "start": 250,
+      "end": 256
+    },
+    {
+      "text": "Serge",
+      "label": "ORG",
+      "start": 261,
+      "end": 266
+    },
+    {
+      "text": "Panine!",
+      "label": "ORG",
+      "start": 267,
+      "end": 274
+    },
+    {
+      "text": "Georges",
+      "label": "ORG",
+      "start": 324,
+      "end": 331
+    },
+    {
+      "text": "Ohnet,",
+      "label": "ORG",
+      "start": 332,
+      "end": 338
+    },
+    {
+      "text": "Maître",
+      "label": "ORG",
+      "start": 406,
+      "end": 412
+    },
+    {
+      "text": "Forges",
+      "label": "ORG",
+      "start": 416,
+      "end": 422
+    },
+    {
+      "text": "Serge",
+      "label": "ORG",
+      "start": 451,
+      "end": 456
+    },
+    {
+      "text": "Panine.",
+      "label": "ORG",
+      "start": 457,
+      "end": 464
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Du reste, je crois que j’aurai une déception",
+      "start": 0,
+      "end": 46
+    },
+    {
+      "text": "Je ne crois pas que\ncela vaille Serge Panine, l’idole de Mme de Crécy",
+      "start": 47,
+      "end": 117
+    },
+    {
+      "text": "Voilà au moins des\nsujets qui ont du fond, qui font réfléchir; mais donner une recette de\nsalade sur la scène du Théâtre-Français! Tandis que Serge Panine! Du\nreste, comme tout ce qui vient de la plume de Georges Ohnet, c’est\ntoujours si bien écrit",
+      "start": 118,
+      "end": 367
+    },
+    {
+      "text": "Je ne sais pas si vous connaissez Le Maître de\nForges que je préférerais encore à Serge Panine",
+      "start": 368,
+      "end": 463
+    }
+  ],
+  "tokens": 85,
+  "processed_at": "2025-03-16T02:10:56.407322"
+}

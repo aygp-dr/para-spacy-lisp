@@ -1,0 +1,36 @@
+{
+  "text": "A cette heure où je descendais apprendre le menu, le dîner était déjà\ncommencé, et Françoise, commandant aux forces de la nature devenues\nses aides, comme dans les féeries où les géants se font engager comme\ncuisiniers, frappait la houille, donnait à la vapeur des pommes de\nterre à étuver et faisait finir à point par le feu les chefs-d’œuvre\nculinaires d’abord préparés dans des récipients de céramiste qui\nallaient des grandes cuves, marmites, chaudrons et poissonnières, aux\nterrines pour le gibier, moules à pâtisserie, et petits pots de crème\nen passant par une collection complète de casserole de toutes\ndimensions. Je m’arrêtais à voir sur la table, où la fille de cuisine\nvenait de les écosser, les petits pois alignés et nombrés comme des\nbilles vertes dans un jeu; mais mon ravissement était devant les\nasperges, trempées d’outremer et de rose et dont l’épi, finement\npignoché de mauve et d’azur, se dégrade insensiblement jusqu’au\npied,--encore souillé pourtant du sol de leur plant,--par des irisations\nqui ne sont pas de la terre. Il me semblait que ces nuances célestes\ntrahissaient les délicieuses créatures qui s’étaient amusées à se\nmétamorphoser en légumes et qui, à travers le déguisement de leur\nchair comestible et ferme, laissaient apercevoir en ces couleurs\nnaissantes d’aurore, en ces ébauches d’arc-en-ciel, en cette\nextinction de soirs bleus, cette essence précieuse que je\nreconnaissais encore quand, toute la nuit qui suivait un dîner où j’en\navais mangé, elles jouaient, dans leurs farces poétiques et grossières\ncomme une féerie de Shakespeare, à changer mon pot de chambre en un\nvase de parfum.",
+  "entities": [
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 83,
+      "end": 93
+    },
+    {
+      "text": "Shakespeare,",
+      "label": "ORG",
+      "start": 1563,
+      "end": 1575
+    }
+  ],
+  "sentences": [
+    {
+      "text": "A cette heure où je descendais apprendre le menu, le dîner était déjà\ncommencé, et Françoise, commandant aux forces de la nature devenues\nses aides, comme dans les féeries où les géants se font engager comme\ncuisiniers, frappait la houille, donnait à la vapeur des pommes de\nterre à étuver et faisait finir à point par le feu les chefs-d’œuvre\nculinaires d’abord préparés dans des récipients de céramiste qui\nallaient des grandes cuves, marmites, chaudrons et poissonnières, aux\nterrines pour le gibier, moules à pâtisserie, et petits pots de crème\nen passant par une collection complète de casserole de toutes\ndimensions",
+      "start": 0,
+      "end": 621
+    },
+    {
+      "text": "Je m’arrêtais à voir sur la table, où la fille de cuisine\nvenait de les écosser, les petits pois alignés et nombrés comme des\nbilles vertes dans un jeu; mais mon ravissement était devant les\nasperges, trempées d’outremer et de rose et dont l’épi, finement\npignoché de mauve et d’azur, se dégrade insensiblement jusqu’au\npied,--encore souillé pourtant du sol de leur plant,--par des irisations\nqui ne sont pas de la terre",
+      "start": 622,
+      "end": 1043
+    },
+    {
+      "text": "Il me semblait que ces nuances célestes\ntrahissaient les délicieuses créatures qui s’étaient amusées à se\nmétamorphoser en légumes et qui, à travers le déguisement de leur\nchair comestible et ferme, laissaient apercevoir en ces couleurs\nnaissantes d’aurore, en ces ébauches d’arc-en-ciel, en cette\nextinction de soirs bleus, cette essence précieuse que je\nreconnaissais encore quand, toute la nuit qui suivait un dîner où j’en\navais mangé, elles jouaient, dans leurs farces poétiques et grossières\ncomme une féerie de Shakespeare, à changer mon pot de chambre en un\nvase de parfum",
+      "start": 1044,
+      "end": 1625
+    }
+  ],
+  "tokens": 263,
+  "processed_at": "2025-03-16T02:10:55.365147"
+}

@@ -1,0 +1,49 @@
+{
+  "text": "--Je crois avoir entendu que le docteur parlait de cette vieille chipie\nde Blanche de Castille, si j’ose m’exprimer ainsi. N’est-il pas vrai,\nmadame? demanda Brichot à Mme Verdurin qui, pâmant, les yeux fermés,\nprécipita sa figure dans ses mains d’où s’échappèrent des cris\nétouffés.",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Blanche",
+      "label": "ORG",
+      "start": 75,
+      "end": 82
+    },
+    {
+      "text": "Castille,",
+      "label": "ORG",
+      "start": 86,
+      "end": 95
+    },
+    {
+      "text": "Brichot",
+      "label": "ORG",
+      "start": 158,
+      "end": 165
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 172,
+      "end": 180
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je crois avoir entendu que le docteur parlait de cette vieille chipie\nde Blanche de Castille, si j’ose m’exprimer ainsi",
+      "start": 0,
+      "end": 121
+    },
+    {
+      "text": "N’est-il pas vrai,\nmadame? demanda Brichot à Mme Verdurin qui, pâmant, les yeux fermés,\nprécipita sa figure dans ses mains d’où s’échappèrent des cris\nétouffés",
+      "start": 122,
+      "end": 282
+    }
+  ],
+  "tokens": 45,
+  "processed_at": "2025-03-16T02:10:56.318480"
+}

@@ -1,0 +1,64 @@
+{
+  "text": "Tous les soirs je me plaisais à imaginer cette lettre, je croyais la\nlire, je m’en récitais chaque phrase. Tout d’un coup je m’arrêtais\neffrayé. Je comprenais que si je devais recevoir une lettre de\nGilberte, ce ne pourrait pas en tous cas être celle-là puisque c’était\nmoi qui venais de la composer. Et dès lors, je m’efforçais de\ndétourner ma pensée des mots que j’aurais aimé qu’elle m’écrivît, par\npeur en les énonçant, d’exclure justement ceux-là,--les plus chers, les\nplus désirés--, du champ des réalisations possibles. Même si par une\ninvraisemblable coïncidence, c’eût été justement la lettre que j’avais\ninventée que de son côté m’eût adressée Gilberte, y reconnaissant mon\nœuvre je n’eusse pas eu l’impression de recevoir quelque chose qui ne\nvînt pas de moi, quelque chose de réel, de nouveau, un bonheur\nextérieur à mon esprit, indépendant de ma volonté, vraiment donné par\nl’amour.",
+  "entities": [
+    {
+      "text": "Tous",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 107,
+      "end": 111
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 199,
+      "end": 208
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 527,
+      "end": 531
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 654,
+      "end": 663
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Tous les soirs je me plaisais à imaginer cette lettre, je croyais la\nlire, je m’en récitais chaque phrase",
+      "start": 0,
+      "end": 105
+    },
+    {
+      "text": "Tout d’un coup je m’arrêtais\neffrayé",
+      "start": 106,
+      "end": 143
+    },
+    {
+      "text": "Je comprenais que si je devais recevoir une lettre de\nGilberte, ce ne pourrait pas en tous cas être celle-là puisque c’était\nmoi qui venais de la composer",
+      "start": 144,
+      "end": 299
+    },
+    {
+      "text": "Et dès lors, je m’efforçais de\ndétourner ma pensée des mots que j’aurais aimé qu’elle m’écrivît, par\npeur en les énonçant, d’exclure justement ceux-là,--les plus chers, les\nplus désirés--, du champ des réalisations possibles",
+      "start": 300,
+      "end": 525
+    },
+    {
+      "text": "Même si par une\ninvraisemblable coïncidence, c’eût été justement la lettre que j’avais\ninventée que de son côté m’eût adressée Gilberte, y reconnaissant mon\nœuvre je n’eusse pas eu l’impression de recevoir quelque chose qui ne\nvînt pas de moi, quelque chose de réel, de nouveau, un bonheur\nextérieur à mon esprit, indépendant de ma volonté, vraiment donné par\nl’amour",
+      "start": 526,
+      "end": 894
+    }
+  ],
+  "tokens": 147,
+  "processed_at": "2025-03-16T02:10:57.582841"
+}

@@ -1,0 +1,37 @@
+{
+  "text": "Mais une fois qu’ayant songé avec maussaderie à cet inévitable retour\nensemble, il avait emmené jusqu’au bois sa jeune ouvrière pour\nretarder le moment d’aller chez les Verdurin, il arriva chez eux si\ntard qu’Odette, croyant qu’il ne viendrait plus, était partie. En\nvoyant qu’elle n’était plus dans le salon, Swann ressentit une\nsouffrance au cœur; il tremblait d’être privé d’un plaisir qu’il\nmesurait pour la première fois, ayant eu jusque-là cette certitude de\nle trouver quand il le voulait, qui pour tous les plaisirs nous\ndiminue ou même nous empêche d’apercevoir aucunement leur grandeur.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 169,
+      "end": 178
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 310,
+      "end": 315
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais une fois qu’ayant songé avec maussaderie à cet inévitable retour\nensemble, il avait emmené jusqu’au bois sa jeune ouvrière pour\nretarder le moment d’aller chez les Verdurin, il arriva chez eux si\ntard qu’Odette, croyant qu’il ne viendrait plus, était partie",
+      "start": 0,
+      "end": 262
+    },
+    {
+      "text": "En\nvoyant qu’elle n’était plus dans le salon, Swann ressentit une\nsouffrance au cœur; il tremblait d’être privé d’un plaisir qu’il\nmesurait pour la première fois, ayant eu jusque-là cette certitude de\nle trouver quand il le voulait, qui pour tous les plaisirs nous\ndiminue ou même nous empêche d’apercevoir aucunement leur grandeur",
+      "start": 263,
+      "end": 595
+    }
+  ],
+  "tokens": 95,
+  "processed_at": "2025-03-16T02:10:56.126965"
+}

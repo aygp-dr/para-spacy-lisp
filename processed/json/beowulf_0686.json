@@ -1,0 +1,59 @@
+{
+  "text": "Il n’avait de rendez-vous avec Odette, au moins le plus souvent, que\nle soir; mais le jour, ayant peur de la fatiguer de lui en allant chez\nelle, il aurait aimé du moins ne pas cesser d’occuper sa pensée, et à\ntous moments il cherchait à trouver une occasion d’y intervenir, mais\nd’une façon agréable pour elle. Si, à la devanture d’un fleuriste ou\nd’un joaillier, la vue d’un arbuste ou d’un bijou le charmait,\naussitôt il pensait à les envoyer à Odette, imaginant le plaisir\nqu’ils lui avaient procuré, ressenti par elle, venant accroître la\ntendresse qu’elle avait pour lui, et les faisait porter immédiatement\nrue La Pérouse, pour ne pas retarder l’instant où, comme elle\nrecevrait quelque chose de lui, il se sentirait en quelque sorte près\nd’elle. Il voulait surtout qu’elle les reçût avant de sortir pour que\nla reconnaissance qu’elle éprouverait lui valût un accueil plus tendre\nquand elle le verrait chez les Verdurin, ou même, qui sait, si le\nfournisseur faisait assez diligence, peut-être une lettre qu’elle lui\nenverrait avant le dîner, ou sa venue à elle en personne chez lui, en\nune visite supplémentaire, pour le remercier. Comme jadis quand il\nexpérimentait sur la nature d’Odette les réactions du dépit, il\ncherchait par celles de la gratitude à tirer d’elle des parcelles\nintimes de sentiment qu’elle ne lui avait pas révélées encore.",
+  "entities": [
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 31,
+      "end": 38
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 448,
+      "end": 455
+    },
+    {
+      "text": "Pérouse,",
+      "label": "ORG",
+      "start": 621,
+      "end": 629
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 918,
+      "end": 927
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1139,
+      "end": 1144
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il n’avait de rendez-vous avec Odette, au moins le plus souvent, que\nle soir; mais le jour, ayant peur de la fatiguer de lui en allant chez\nelle, il aurait aimé du moins ne pas cesser d’occuper sa pensée, et à\ntous moments il cherchait à trouver une occasion d’y intervenir, mais\nd’une façon agréable pour elle",
+      "start": 0,
+      "end": 310
+    },
+    {
+      "text": "Si, à la devanture d’un fleuriste ou\nd’un joaillier, la vue d’un arbuste ou d’un bijou le charmait,\naussitôt il pensait à les envoyer à Odette, imaginant le plaisir\nqu’ils lui avaient procuré, ressenti par elle, venant accroître la\ntendresse qu’elle avait pour lui, et les faisait porter immédiatement\nrue La Pérouse, pour ne pas retarder l’instant où, comme elle\nrecevrait quelque chose de lui, il se sentirait en quelque sorte près\nd’elle",
+      "start": 311,
+      "end": 752
+    },
+    {
+      "text": "Il voulait surtout qu’elle les reçût avant de sortir pour que\nla reconnaissance qu’elle éprouverait lui valût un accueil plus tendre\nquand elle le verrait chez les Verdurin, ou même, qui sait, si le\nfournisseur faisait assez diligence, peut-être une lettre qu’elle lui\nenverrait avant le dîner, ou sa venue à elle en personne chez lui, en\nune visite supplémentaire, pour le remercier",
+      "start": 753,
+      "end": 1137
+    },
+    {
+      "text": "Comme jadis quand il\nexpérimentait sur la nature d’Odette les réactions du dépit, il\ncherchait par celles de la gratitude à tirer d’elle des parcelles\nintimes de sentiment qu’elle ne lui avait pas révélées encore",
+      "start": 1138,
+      "end": 1351
+    }
+  ],
+  "tokens": 228,
+  "processed_at": "2025-03-16T02:10:56.609585"
+}

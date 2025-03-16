@@ -1,0 +1,69 @@
+{
+  "text": "Souvent elle avait des embarras d’argent et, pressée par une dette, le\npriait de lui venir en aide. Il en était heureux comme de tout ce qui\npouvait donner à Odette une grande idée de l’amour qu’il avait pour\nelle, ou simplement une grande idée de son influence, de l’utilité\ndont il pouvait lui être. Sans doute si on lui avait dit au début:\n«c’est ta situation qui lui plaît», et maintenant: «c’est pour ta\nfortune qu’elle t’aime», il ne l’aurait pas cru, et n’aurait pas été\nd’ailleurs très mécontent qu’on se la figurât tenant à lui,--qu’on les\nsentît unis l’un à l’autre--par quelque chose d’aussi fort que le\nsnobisme ou l’argent. Mais, même s’il avait pensé que c’était vrai,\npeut-être n’eût-il pas souffert de découvrir à l’amour d’Odette pour\nlui cet état plus durable que l’agrément ou les qualités qu’elle\npouvait lui trouver: l’intérêt, l’intérêt qui empêcherait de venir\njamais le jour où elle aurait pu être tentée de cesser de le voir.\nPour l’instant, en la comblant de présents, en lui rendant des\nservices, il pouvait se reposer sur des avantages extérieurs à sa\npersonne, à son intelligence, du soin épuisant de lui plaire par\nlui-même. Et cette volupté d’être amoureux, de ne vivre que d’amour,\nde la réalité de laquelle il doutait parfois, le prix dont en somme il\nla payait, en dilettante de sensations immatérielles, lui en\naugmentait la valeur,--comme on voit des gens incertains si le\nspectacle de la mer et le bruit de ses vagues sont délicieux, s’en\nconvaincre ainsi que de la rare qualité de leurs goûts désintéressés,\nen louant cent francs par jour la chambre d’hôtel qui leur permet de\nles goûter.",
+  "entities": [
+    {
+      "text": "Souvent",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 158,
+      "end": 164
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 302,
+      "end": 306
+    },
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 637,
+      "end": 642
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 951,
+      "end": 955
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Souvent elle avait des embarras d’argent et, pressée par une dette, le\npriait de lui venir en aide",
+      "start": 0,
+      "end": 98
+    },
+    {
+      "text": "Il en était heureux comme de tout ce qui\npouvait donner à Odette une grande idée de l’amour qu’il avait pour\nelle, ou simplement une grande idée de son influence, de l’utilité\ndont il pouvait lui être",
+      "start": 99,
+      "end": 300
+    },
+    {
+      "text": "Sans doute si on lui avait dit au début:\n«c’est ta situation qui lui plaît», et maintenant: «c’est pour ta\nfortune qu’elle t’aime», il ne l’aurait pas cru, et n’aurait pas été\nd’ailleurs très mécontent qu’on se la figurât tenant à lui,--qu’on les\nsentît unis l’un à l’autre--par quelque chose d’aussi fort que le\nsnobisme ou l’argent",
+      "start": 301,
+      "end": 635
+    },
+    {
+      "text": "Mais, même s’il avait pensé que c’était vrai,\npeut-être n’eût-il pas souffert de découvrir à l’amour d’Odette pour\nlui cet état plus durable que l’agrément ou les qualités qu’elle\npouvait lui trouver: l’intérêt, l’intérêt qui empêcherait de venir\njamais le jour où elle aurait pu être tentée de cesser de le voir",
+      "start": 636,
+      "end": 949
+    },
+    {
+      "text": "Pour l’instant, en la comblant de présents, en lui rendant des\nservices, il pouvait se reposer sur des avantages extérieurs à sa\npersonne, à son intelligence, du soin épuisant de lui plaire par\nlui-même",
+      "start": 950,
+      "end": 1153
+    },
+    {
+      "text": "Et cette volupté d’être amoureux, de ne vivre que d’amour,\nde la réalité de laquelle il doutait parfois, le prix dont en somme il\nla payait, en dilettante de sensations immatérielles, lui en\naugmentait la valeur,--comme on voit des gens incertains si le\nspectacle de la mer et le bruit de ses vagues sont délicieux, s’en\nconvaincre ainsi que de la rare qualité de leurs goûts désintéressés,\nen louant cent francs par jour la chambre d’hôtel qui leur permet de\nles goûter",
+      "start": 1154,
+      "end": 1625
+    }
+  ],
+  "tokens": 280,
+  "processed_at": "2025-03-16T02:10:56.613211"
+}

@@ -1,0 +1,49 @@
+{
+  "text": "--Ce ne sont pas les Cambremer, c’étaient ses parents à elle; elle est\nune demoiselle Legrandin qui venait à Combray. Je ne sais pas si vous\nsavez que vous êtes la comtesse de Combray et que le chapitre vous\ndoit une redevance.",
+  "entities": [
+    {
+      "text": "--Ce",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Cambremer,",
+      "label": "ORG",
+      "start": 21,
+      "end": 31
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 86,
+      "end": 95
+    },
+    {
+      "text": "Combray.",
+      "label": "ORG",
+      "start": 109,
+      "end": 117
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 176,
+      "end": 183
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ce ne sont pas les Cambremer, c’étaient ses parents à elle; elle est\nune demoiselle Legrandin qui venait à Combray",
+      "start": 0,
+      "end": 116
+    },
+    {
+      "text": "Je ne sais pas si vous\nsavez que vous êtes la comtesse de Combray et que le chapitre vous\ndoit une redevance",
+      "start": 117,
+      "end": 226
+    }
+  ],
+  "tokens": 42,
+  "processed_at": "2025-03-16T02:10:57.199825"
+}

@@ -1,0 +1,132 @@
+{
+  "text": "Ainsi passait la vie pour ma tante Léonie, toujours identique, dans la\ndouce uniformité de ce qu’elle appelait avec un dédain affecté et une\ntendresse profonde, son «petit traintrain». Préservé par tout le\nmonde, non seulement à la maison, où chacun ayant éprouvé l’inutilité\nde lui conseiller une meilleure hygiène, s’était peu à peu résigné à\nle respecter, mais même dans le village où, à trois rues de nous,\nl’emballeur, avant de clouer ses caisses, faisait demander à Françoise\nsi ma tante ne «reposait pas»,--ce traintrain fut pourtant troublé une\nfois cette année-là. Comme un fruit caché qui serait parvenu à\nmaturité sans qu’on s’en aperçût et se détacherait spontanément,\nsurvint une nuit la délivrance de la fille de cuisine. Mais ses\ndouleurs étaient intolérables, et comme il n’y avait pas de sage-femme\nà Combray, Françoise dut partir avant le jour en chercher une à\nThiberzy. Ma tante, à cause des cris de la fille de cuisine, ne put\nreposer, et Françoise, malgré la courte distance, n’étant revenue que\ntrès tard, lui manqua beaucoup. Aussi, ma mère me dit-elle dans la\nmatinée: «Monte donc voir si ta tante n’a besoin de rien.» J’entrai\ndans la première pièce et, par la porte ouverte, vis ma tante, couchée\nsur le côté, qui dormait; je l’entendis ronfler légèrement. J’allais\nm’en aller doucement mais sans doute le bruit que j’avais fait était\nintervenu dans son sommeil et en avait «changé la vitesse», comme on\ndit pour les automobiles, car la musique du ronflement s’interrompit\nune seconde et reprit un ton plus bas, puis elle s’éveilla et tourna à\ndemi son visage que je pus voir alors; il exprimait une sorte de\nterreur; elle venait évidemment d’avoir un rêve affreux; elle ne\npouvait me voir de la façon dont elle était placée, et je restais là\nne sachant si je devais m’avancer ou me retirer; mais déjà elle\nsemblait revenue au sentiment de la réalité et avait reconnu le\nmensonge des visions qui l’avaient effrayée; un sourire de joie, de\npieuse reconnaissance envers Dieu qui permet que la vie soit moins\ncruelle que les rêves, éclaira faiblement son visage, et avec cette\nhabitude qu’elle avait prise de se parler à mi-voix à elle-même quand\nelle se croyait seule, elle murmura: «Dieu soit loué! nous n’avons\ncomme tracas que la fille de cuisine qui accouche. Voilà-t-il pas que\nje rêvais que mon pauvre Octave était ressuscité et qu’il voulait me\nfaire faire une promenade tous les jours!» Sa main se tendit vers son\nchapelet qui était sur la petite table, mais le sommeil recommençant\nne lui laissa pas la force de l’atteindre: elle se rendormit,\ntranquillisée, et je sortis à pas de loup de la chambre sans qu’elle\nni personne eût jamais appris ce que j’avais entendu.",
+  "entities": [
+    {
+      "text": "Léonie,",
+      "label": "ORG",
+      "start": 35,
+      "end": 42
+    },
+    {
+      "text": "Préservé",
+      "label": "ORG",
+      "start": 185,
+      "end": 193
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 472,
+      "end": 481
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 574,
+      "end": 579
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 736,
+      "end": 740
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 818,
+      "end": 826
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 827,
+      "end": 836
+    },
+    {
+      "text": "Thiberzy.",
+      "label": "ORG",
+      "start": 880,
+      "end": 889
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 960,
+      "end": 970
+    },
+    {
+      "text": "«Monte",
+      "label": "ORG",
+      "start": 1094,
+      "end": 1100
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 1995,
+      "end": 1999
+    },
+    {
+      "text": "«Dieu",
+      "label": "ORG",
+      "start": 2208,
+      "end": 2213
+    },
+    {
+      "text": "Octave",
+      "label": "ORG",
+      "start": 2333,
+      "end": 2339
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ainsi passait la vie pour ma tante Léonie, toujours identique, dans la\ndouce uniformité de ce qu’elle appelait avec un dédain affecté et une\ntendresse profonde, son «petit traintrain»",
+      "start": 0,
+      "end": 183
+    },
+    {
+      "text": "Préservé par tout le\nmonde, non seulement à la maison, où chacun ayant éprouvé l’inutilité\nde lui conseiller une meilleure hygiène, s’était peu à peu résigné à\nle respecter, mais même dans le village où, à trois rues de nous,\nl’emballeur, avant de clouer ses caisses, faisait demander à Françoise\nsi ma tante ne «reposait pas»,--ce traintrain fut pourtant troublé une\nfois cette année-là",
+      "start": 184,
+      "end": 572
+    },
+    {
+      "text": "Comme un fruit caché qui serait parvenu à\nmaturité sans qu’on s’en aperçût et se détacherait spontanément,\nsurvint une nuit la délivrance de la fille de cuisine",
+      "start": 573,
+      "end": 734
+    },
+    {
+      "text": "Mais ses\ndouleurs étaient intolérables, et comme il n’y avait pas de sage-femme\nà Combray, Françoise dut partir avant le jour en chercher une à\nThiberzy",
+      "start": 735,
+      "end": 888
+    },
+    {
+      "text": "Ma tante, à cause des cris de la fille de cuisine, ne put\nreposer, et Françoise, malgré la courte distance, n’étant revenue que\ntrès tard, lui manqua beaucoup",
+      "start": 889,
+      "end": 1048
+    },
+    {
+      "text": "Aussi, ma mère me dit-elle dans la\nmatinée: «Monte donc voir si ta tante n’a besoin de rien",
+      "start": 1049,
+      "end": 1141
+    },
+    {
+      "text": "» J’entrai\ndans la première pièce et, par la porte ouverte, vis ma tante, couchée\nsur le côté, qui dormait; je l’entendis ronfler légèrement",
+      "start": 1142,
+      "end": 1282
+    },
+    {
+      "text": "J’allais\nm’en aller doucement mais sans doute le bruit que j’avais fait était\nintervenu dans son sommeil et en avait «changé la vitesse», comme on\ndit pour les automobiles, car la musique du ronflement s’interrompit\nune seconde et reprit un ton plus bas, puis elle s’éveilla et tourna à\ndemi son visage que je pus voir alors; il exprimait une sorte de\nterreur; elle venait évidemment d’avoir un rêve affreux; elle ne\npouvait me voir de la façon dont elle était placée, et je restais là\nne sachant si je devais m’avancer ou me retirer; mais déjà elle\nsemblait revenue au sentiment de la réalité et avait reconnu le\nmensonge des visions qui l’avaient effrayée; un sourire de joie, de\npieuse reconnaissance envers Dieu qui permet que la vie soit moins\ncruelle que les rêves, éclaira faiblement son visage, et avec cette\nhabitude qu’elle avait prise de se parler à mi-voix à elle-même quand\nelle se croyait seule, elle murmura: «Dieu soit loué! nous n’avons\ncomme tracas que la fille de cuisine qui accouche",
+      "start": 1283,
+      "end": 2287
+    },
+    {
+      "text": "Voilà-t-il pas que\nje rêvais que mon pauvre Octave était ressuscité et qu’il voulait me\nfaire faire une promenade tous les jours!» Sa main se tendit vers son\nchapelet qui était sur la petite table, mais le sommeil recommençant\nne lui laissa pas la force de l’atteindre: elle se rendormit,\ntranquillisée, et je sortis à pas de loup de la chambre sans qu’elle\nni personne eût jamais appris ce que j’avais entendu",
+      "start": 2288,
+      "end": 2699
+    }
+  ],
+  "tokens": 461,
+  "processed_at": "2025-03-16T02:10:55.294383"
+}

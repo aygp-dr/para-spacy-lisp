@@ -1,0 +1,20 @@
+{
+  "text": "Toujours prêt à croire ce qu’il souhaitait si seulement les manières\nd’être d’Odette avec lui laissaient place au doute, il se jetait\navidement sur cette parole:",
+  "entities": [
+    {
+      "text": "Toujours",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Toujours prêt à croire ce qu’il souhaitait si seulement les manières\nd’être d’Odette avec lui laissaient place au doute, il se jetait\navidement sur cette parole:",
+      "start": 0,
+      "end": 161
+    }
+  ],
+  "tokens": 26,
+  "processed_at": "2025-03-16T02:10:56.967564"
+}

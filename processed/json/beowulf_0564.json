@@ -1,0 +1,41 @@
+{
+  "text": "Il n’allait chez elle que le soir, et il ne savait rien de l’emploi de\nson temps pendant le jour, pas plus que de son passé, au point qu’il\nlui manquait même ce petit renseignement initial qui, en nous\npermettant de nous imaginer ce que nous ne savons pas, nous donne\nenvie de le connaître. Aussi ne se demandait-il pas ce qu’elle pouvait\nfaire, ni quelle avait été sa vie. Il souriait seulement quelquefois\nen pensant qu’il y a quelques années, quand il ne la connaissait pas,\non lui avait parlé d’une femme, qui, s’il se rappelait bien, devait\ncertainement être elle, comme d’une fille, d’une femme entretenue, une\nde ces femmes auxquelles il attribuait encore, comme il avait peu vécu\ndans leur société, le caractère entier, foncièrement pervers, dont les\ndota longtemps l’imagination de certains romanciers. Il se disait\nqu’il n’y a souvent qu’à prendre le contre-pied des réputations que\nfait le monde pour juger exactement une personne, quand, à un tel\ncaractère, il opposait celui d’Odette, bonne, naïve, éprise d’idéal,\npresque si incapable de ne pas dire la vérité, que, l’ayant un jour\npriée, pour pouvoir dîner seul avec elle, d’écrire aux Verdurin\nqu’elle était souffrante, le lendemain, il l’avait vue, devant Mme\nVerdurin qui lui demandait si elle allait mieux, rougir, balbutier et\nrefléter malgré elle, sur son visage, le chagrin, le supplice que cela\nlui était de mentir, et, tandis qu’elle multipliait dans sa réponse\nles détails inventés sur sa prétendue indisposition de la veille,\navoir l’air de faire demander pardon par ses regards suppliants et sa\nvoix désolée de la fausseté de ses paroles.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 1151,
+      "end": 1159
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 1227,
+      "end": 1235
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il n’allait chez elle que le soir, et il ne savait rien de l’emploi de\nson temps pendant le jour, pas plus que de son passé, au point qu’il\nlui manquait même ce petit renseignement initial qui, en nous\npermettant de nous imaginer ce que nous ne savons pas, nous donne\nenvie de le connaître",
+      "start": 0,
+      "end": 289
+    },
+    {
+      "text": "Aussi ne se demandait-il pas ce qu’elle pouvait\nfaire, ni quelle avait été sa vie",
+      "start": 290,
+      "end": 372
+    },
+    {
+      "text": "Il souriait seulement quelquefois\nen pensant qu’il y a quelques années, quand il ne la connaissait pas,\non lui avait parlé d’une femme, qui, s’il se rappelait bien, devait\ncertainement être elle, comme d’une fille, d’une femme entretenue, une\nde ces femmes auxquelles il attribuait encore, comme il avait peu vécu\ndans leur société, le caractère entier, foncièrement pervers, dont les\ndota longtemps l’imagination de certains romanciers",
+      "start": 373,
+      "end": 810
+    },
+    {
+      "text": "Il se disait\nqu’il n’y a souvent qu’à prendre le contre-pied des réputations que\nfait le monde pour juger exactement une personne, quand, à un tel\ncaractère, il opposait celui d’Odette, bonne, naïve, éprise d’idéal,\npresque si incapable de ne pas dire la vérité, que, l’ayant un jour\npriée, pour pouvoir dîner seul avec elle, d’écrire aux Verdurin\nqu’elle était souffrante, le lendemain, il l’avait vue, devant Mme\nVerdurin qui lui demandait si elle allait mieux, rougir, balbutier et\nrefléter malgré elle, sur son visage, le chagrin, le supplice que cela\nlui était de mentir, et, tandis qu’elle multipliait dans sa réponse\nles détails inventés sur sa prétendue indisposition de la veille,\navoir l’air de faire demander pardon par ses regards suppliants et sa\nvoix désolée de la fausseté de ses paroles",
+      "start": 811,
+      "end": 1614
+    }
+  ],
+  "tokens": 269,
+  "processed_at": "2025-03-16T02:10:56.242024"
+}

@@ -1,0 +1,25 @@
+{
+  "text": "--«Pardonnez-moi, lui dit Swann d’un air ironique, mais j’avoue que mon\nmanque d’admiration est à peu près égal pour ces deux chefs-d’œuvre.»",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 26,
+      "end": 31
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Pardonnez-moi, lui dit Swann d’un air ironique, mais j’avoue que mon\nmanque d’admiration est à peu près égal pour ces deux chefs-d’œuvre",
+      "start": 0,
+      "end": 139
+    },
+    {
+      "text": "»",
+      "start": 140,
+      "end": 141
+    }
+  ],
+  "tokens": 22,
+  "processed_at": "2025-03-16T02:10:56.410156"
+}

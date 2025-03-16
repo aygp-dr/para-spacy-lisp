@@ -1,0 +1,32 @@
+{
+  "text": "Les Verdurin avaient eu à dîner, le jour où Swann y fit ses débuts, le\ndocteur et Mme Cottard, le jeune pianiste et sa tante, et le peintre\nqui avait alors leur faveur, auxquels s’étaient joints dans la soirée\nquelques autres fidèles.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 4,
+      "end": 12
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 44,
+      "end": 49
+    },
+    {
+      "text": "Cottard,",
+      "label": "ORG",
+      "start": 86,
+      "end": 94
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Les Verdurin avaient eu à dîner, le jour où Swann y fit ses débuts, le\ndocteur et Mme Cottard, le jeune pianiste et sa tante, et le peintre\nqui avait alors leur faveur, auxquels s’étaient joints dans la soirée\nquelques autres fidèles",
+      "start": 0,
+      "end": 233
+    }
+  ],
+  "tokens": 42,
+  "processed_at": "2025-03-16T02:10:55.825476"
+}

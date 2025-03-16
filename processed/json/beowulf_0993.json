@@ -1,0 +1,90 @@
+{
+  "text": "Il répondait poliment aux saluts des camarades de Gilberte, même au\nmien quoiqu’il fût brouillé avec ma famille, mais sans avoir l’air de\nme connaître. (Cela me rappela qu’il m’avait pourtant vu bien souvent\nà la campagne; souvenir que j’avais gardé mais dans l’ombre, parce que\ndepuis que j’avais revu Gilberte, pour moi Swann était surtout son\npère, et non plus le Swann de Combray; comme les idées sur lesquelles\nj’embranchais maintenant son nom étaient différentes des idées dans le\nréseau desquelles il était autrefois compris et que je n’utilisais\nplus jamais quand j’avais à penser à lui, il était devenu un\npersonnage nouveau; je le rattachai pourtant par une ligne\nartificielle secondaire et transversale à notre invité d’autrefois; et\ncomme rien n’avait plus pour moi de prix que dans la mesure où mon\namour pouvait en profiter, ce fut avec un mouvement de honte et le\nregret de ne pouvoir les effacer que je retrouvai les années où, aux\nyeux de ce même Swann qui était en ce moment devant moi aux\nChamps-Élysées et à qui heureusement Gilberte n’avait peut-être pas\ndit mon nom, je m’étais si souvent le soir rendu ridicule en envoyant\ndemander à maman de monter dans ma chambre me dire bonsoir, pendant\nqu’elle prenait le café avec lui, mon père et mes grands-parents à la\ntable du jardin.) Il disait à Gilberte qu’il lui permettait de faire\nune partie, qu’il pouvait attendre un quart d’heure, et s’asseyant\ncomme tout le monde sur une chaise de fer payait son ticket de cette\nmain que Philippe VII avait si souvent retenue dans la sienne, tandis\nque nous commencions à jouer sur la pelouse, faisant envoler les\npigeons dont les beaux corps irisés qui ont la forme d’un cœur et sont\ncomme les lilas du règne des oiseaux, venaient se réfugier comme en\ndes lieux d’asile, tel sur le grand vase de pierre à qui son bec en y\ndisparaissant faisait faire le geste et assignait la destination\nd’offrir en abondance les fruits ou les graines qu’il avait l’air d’y\npicorer, tel autre sur le front de la statue, qu’il semblait surmonter\nd’un de ces objets en émail desquels la polychromie varie dans\ncertaines œuvres antiques la monotonie de la pierre et d’un attribut\nqui, quand la déesse le porte, lui vaut une épithète particulière et\nen fait, comme pour une mortelle un prénom différent, une divinité\nnouvelle.",
+  "entities": [
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 50,
+      "end": 59
+    },
+    {
+      "text": "(Cela",
+      "label": "ORG",
+      "start": 152,
+      "end": 157
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 303,
+      "end": 312
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 322,
+      "end": 327
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 367,
+      "end": 372
+    },
+    {
+      "text": "Combray;",
+      "label": "ORG",
+      "start": 376,
+      "end": 384
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 964,
+      "end": 969
+    },
+    {
+      "text": "Champs-Élysées",
+      "label": "ORG",
+      "start": 1008,
+      "end": 1022
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1045,
+      "end": 1053
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1314,
+      "end": 1322
+    },
+    {
+      "text": "Philippe",
+      "label": "ORG",
+      "start": 1498,
+      "end": 1506
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il répondait poliment aux saluts des camarades de Gilberte, même au\nmien quoiqu’il fût brouillé avec ma famille, mais sans avoir l’air de\nme connaître",
+      "start": 0,
+      "end": 150
+    },
+    {
+      "text": "(Cela me rappela qu’il m’avait pourtant vu bien souvent\nà la campagne; souvenir que j’avais gardé mais dans l’ombre, parce que\ndepuis que j’avais revu Gilberte, pour moi Swann était surtout son\npère, et non plus le Swann de Combray; comme les idées sur lesquelles\nj’embranchais maintenant son nom étaient différentes des idées dans le\nréseau desquelles il était autrefois compris et que je n’utilisais\nplus jamais quand j’avais à penser à lui, il était devenu un\npersonnage nouveau; je le rattachai pourtant par une ligne\nartificielle secondaire et transversale à notre invité d’autrefois; et\ncomme rien n’avait plus pour moi de prix que dans la mesure où mon\namour pouvait en profiter, ce fut avec un mouvement de honte et le\nregret de ne pouvoir les effacer que je retrouvai les années où, aux\nyeux de ce même Swann qui était en ce moment devant moi aux\nChamps-Élysées et à qui heureusement Gilberte n’avait peut-être pas\ndit mon nom, je m’étais si souvent le soir rendu ridicule en envoyant\ndemander à maman de monter dans ma chambre me dire bonsoir, pendant\nqu’elle prenait le café avec lui, mon père et mes grands-parents à la\ntable du jardin",
+      "start": 151,
+      "end": 1299
+    },
+    {
+      "text": ") Il disait à Gilberte qu’il lui permettait de faire\nune partie, qu’il pouvait attendre un quart d’heure, et s’asseyant\ncomme tout le monde sur une chaise de fer payait son ticket de cette\nmain que Philippe VII avait si souvent retenue dans la sienne, tandis\nque nous commencions à jouer sur la pelouse, faisant envoler les\npigeons dont les beaux corps irisés qui ont la forme d’un cœur et sont\ncomme les lilas du règne des oiseaux, venaient se réfugier comme en\ndes lieux d’asile, tel sur le grand vase de pierre à qui son bec en y\ndisparaissant faisait faire le geste et assignait la destination\nd’offrir en abondance les fruits ou les graines qu’il avait l’air d’y\npicorer, tel autre sur le front de la statue, qu’il semblait surmonter\nd’un de ces objets en émail desquels la polychromie varie dans\ncertaines œuvres antiques la monotonie de la pierre et d’un attribut\nqui, quand la déesse le porte, lui vaut une épithète particulière et\nen fait, comme pour une mortelle un prénom différent, une divinité\nnouvelle",
+      "start": 1300,
+      "end": 2315
+    }
+  ],
+  "tokens": 400,
+  "processed_at": "2025-03-16T02:10:57.565204"
+}

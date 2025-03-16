@@ -1,0 +1,43 @@
+{
+  "text": "Mais Swann ne cherchait nullement à lui faire modifier cette\nconception du chic; pensant que la sienne n’était pas plus vraie,\nétait aussi sotte, dénuée d’importance, il ne trouvait aucun intérêt à\nen instruire sa maîtresse, si bien qu’après des mois elle ne\ns’intéressait aux personnes chez qui il allait que pour les cartes de\npesage, de concours hippique, les billets de première qu’il pouvait\navoir par elles. Elle souhaitait qu’il cultivât des relations si\nutiles mais elle était par ailleurs, portée à les croire peu chic,\ndepuis qu’elle avait vu passer dans la rue la marquise de Villeparisis\nen robe de laine noire, avec un bonnet à brides.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 5,
+      "end": 10
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 414,
+      "end": 418
+    },
+    {
+      "text": "Villeparisis",
+      "label": "ORG",
+      "start": 587,
+      "end": 599
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais Swann ne cherchait nullement à lui faire modifier cette\nconception du chic; pensant que la sienne n’était pas plus vraie,\nétait aussi sotte, dénuée d’importance, il ne trouvait aucun intérêt à\nen instruire sa maîtresse, si bien qu’après des mois elle ne\ns’intéressait aux personnes chez qui il allait que pour les cartes de\npesage, de concours hippique, les billets de première qu’il pouvait\navoir par elles",
+      "start": 0,
+      "end": 412
+    },
+    {
+      "text": "Elle souhaitait qu’il cultivât des relations si\nutiles mais elle était par ailleurs, portée à les croire peu chic,\ndepuis qu’elle avait vu passer dans la rue la marquise de Villeparisis\nen robe de laine noire, avec un bonnet à brides",
+      "start": 413,
+      "end": 647
+    }
+  ],
+  "tokens": 109,
+  "processed_at": "2025-03-16T02:10:56.272475"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "--Voyons, enlève donc ta pipe de ta bouche, tu vois bien que tu vas\nt’étouffer à te retenir de rire comme ça, lui dit Mme Verdurin qui\nvenait offrir des liqueurs.",
+  "entities": [
+    {
+      "text": "--Voyons,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 122,
+      "end": 130
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Voyons, enlève donc ta pipe de ta bouche, tu vois bien que tu vas\nt’étouffer à te retenir de rire comme ça, lui dit Mme Verdurin qui\nvenait offrir des liqueurs",
+      "start": 0,
+      "end": 161
+    }
+  ],
+  "tokens": 31,
+  "processed_at": "2025-03-16T02:10:56.506129"
+}

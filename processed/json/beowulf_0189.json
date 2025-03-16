@@ -1,0 +1,31 @@
+{
+  "text": "--«Mais, monsieur Bloch, quel temps fait-il donc, est-ce qu’il a plu?\nJe n’y comprends rien, le baromètre était excellent.»",
+  "entities": [
+    {
+      "text": "--«Mais,",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Bloch,",
+      "label": "ORG",
+      "start": 18,
+      "end": 24
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais, monsieur Bloch, quel temps fait-il donc, est-ce qu’il a plu?\nJe n’y comprends rien, le baromètre était excellent",
+      "start": 0,
+      "end": 121
+    },
+    {
+      "text": "»",
+      "start": 122,
+      "end": 123
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:55.082118"
+}

@@ -1,0 +1,89 @@
+{
+  "text": "On ne pouvait pas remercier mon père; on l’eût agacé par ce qu’il\nappelait des sensibleries. Je restai sans oser faire un mouvement; il\nétait encore devant nous, grand, dans sa robe de nuit blanche sous le\ncachemire de l’Inde violet et rose qu’il nouait autour de sa tête\ndepuis qu’il avait des névralgies, avec le geste d’Abraham dans la\ngravure d’après Benozzo Gozzoli que m’avait donnée M. Swann, disant à\nSarah qu’elle a à se départir du côté d’Isaac. Il y a bien des années\nde cela. La muraille de l’escalier, où je vis monter le reflet de sa\nbougie n’existe plus depuis longtemps. En moi aussi bien des choses\nont été détruites que je croyais devoir durer toujours et de nouvelles\nse sont édifiées donnant naissance à des peines et à des joies\nnouvelles que je n’aurais pu prévoir alors, de même que les anciennes\nme sont devenues difficiles à comprendre. Il y a bien longtemps aussi\nque mon père a cessé de pouvoir dire à maman: «Va avec le petit.» La\npossibilité de telles heures ne renaîtra jamais pour moi. Mais depuis\npeu de temps, je recommence à très bien percevoir si je prête\nl’oreille, les sanglots que j’eus la force de contenir devant mon père\net qui n’éclatèrent que quand je me retrouvai seul avec maman. En\nréalité ils n’ont jamais cessé; et c’est seulement parce que la vie se\ntait maintenant davantage autour de moi que je les entends de nouveau,\ncomme ces cloches de couvents que couvrent si bien les bruits de la\nville pendant le jour qu’on les croirait arrêtées mais qui se\nremettent à sonner dans le silence du soir.",
+  "entities": [
+    {
+      "text": "Benozzo",
+      "label": "ORG",
+      "start": 355,
+      "end": 362
+    },
+    {
+      "text": "Gozzoli",
+      "label": "ORG",
+      "start": 363,
+      "end": 370
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 393,
+      "end": 399
+    },
+    {
+      "text": "Sarah",
+      "label": "ORG",
+      "start": 409,
+      "end": 414
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1017,
+      "end": 1021
+    }
+  ],
+  "sentences": [
+    {
+      "text": "On ne pouvait pas remercier mon père; on l’eût agacé par ce qu’il\nappelait des sensibleries",
+      "start": 0,
+      "end": 91
+    },
+    {
+      "text": "Je restai sans oser faire un mouvement; il\nétait encore devant nous, grand, dans sa robe de nuit blanche sous le\ncachemire de l’Inde violet et rose qu’il nouait autour de sa tête\ndepuis qu’il avait des névralgies, avec le geste d’Abraham dans la\ngravure d’après Benozzo Gozzoli que m’avait donnée M",
+      "start": 92,
+      "end": 391
+    },
+    {
+      "text": "Swann, disant à\nSarah qu’elle a à se départir du côté d’Isaac",
+      "start": 392,
+      "end": 454
+    },
+    {
+      "text": "Il y a bien des années\nde cela",
+      "start": 455,
+      "end": 486
+    },
+    {
+      "text": "La muraille de l’escalier, où je vis monter le reflet de sa\nbougie n’existe plus depuis longtemps",
+      "start": 487,
+      "end": 585
+    },
+    {
+      "text": "En moi aussi bien des choses\nont été détruites que je croyais devoir durer toujours et de nouvelles\nse sont édifiées donnant naissance à des peines et à des joies\nnouvelles que je n’aurais pu prévoir alors, de même que les anciennes\nme sont devenues difficiles à comprendre",
+      "start": 586,
+      "end": 860
+    },
+    {
+      "text": "Il y a bien longtemps aussi\nque mon père a cessé de pouvoir dire à maman: «Va avec le petit",
+      "start": 861,
+      "end": 953
+    },
+    {
+      "text": "» La\npossibilité de telles heures ne renaîtra jamais pour moi",
+      "start": 954,
+      "end": 1015
+    },
+    {
+      "text": "Mais depuis\npeu de temps, je recommence à très bien percevoir si je prête\nl’oreille, les sanglots que j’eus la force de contenir devant mon père\net qui n’éclatèrent que quand je me retrouvai seul avec maman",
+      "start": 1016,
+      "end": 1223
+    },
+    {
+      "text": "En\nréalité ils n’ont jamais cessé; et c’est seulement parce que la vie se\ntait maintenant davantage autour de moi que je les entends de nouveau,\ncomme ces cloches de couvents que couvrent si bien les bruits de la\nville pendant le jour qu’on les croirait arrêtées mais qui se\nremettent à sonner dans le silence du soir",
+      "start": 1224,
+      "end": 1542
+    }
+  ],
+  "tokens": 278,
+  "processed_at": "2025-03-16T02:10:54.513473"
+}

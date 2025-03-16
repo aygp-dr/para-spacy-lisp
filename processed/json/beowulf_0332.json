@@ -1,0 +1,79 @@
+{
+  "text": "Hélas, c’était en vain que j’implorais le donjon de Roussainville, que\nje lui demandais de faire venir auprès de moi quelque enfant de son\nvillage, comme au seul confident que j’avais eu de mes premiers\ndésirs, quand au haut de notre maison de Combray, dans le petit\ncabinet sentant l’iris, je ne voyais que sa tour au milieu du carreau\nde la fenêtre entr’ouverte, pendant qu’avec les hésitations héroïques\ndu voyageur qui entreprend une exploration ou du désespéré qui se\nsuicide, défaillant, je me frayais en moi-même une route inconnue et\nque je croyais mortelle, jusqu’au moment où une trace naturelle comme\ncelle d’un colimaçon s’ajoutait aux feuilles du cassis sauvage qui se\npenchaient jusqu’à moi. En vain je le suppliais maintenant. En vain,\ntenant l’étendue dans le champ de ma vision, je la drainais de mes\nregards qui eussent voulu en ramener une femme. Je pouvais aller\njusqu’au porche de Saint-André-des-Champs; jamais ne s’y trouvait la\npaysanne que je n’eusse pas manqué d’y rencontrer si j’avais été avec\nmon grand-père et dans l’impossibilité de lier conversation avec elle.\nJe fixais indéfiniment le tronc d’un arbre lointain, de derrière\nlequel elle allait surgir et venir à moi; l’horizon scruté restait\ndésert, la nuit tombait, c’était sans espoir que mon attention\ns’attachait, comme pour aspirer les créatures qu’ils pouvaient\nrecéler, à ce sol stérile, à cette terre épuisée; et ce n’était plus\nd’allégresse, c’était de rage que je frappais les arbres du bois de\nRoussainville d’entre lesquels ne sortait pas plus d’êtres vivants que\ns’ils eussent été des arbres peints sur la toile d’un panorama, quand,\nne pouvant me résigner à rentrer à la maison avant d’avoir serré dans\nmes bras la femme que j’avais tant désirée, j’étais pourtant obligé de\nreprendre le chemin de Combray en m’avouant à moi-même qu’était de\nmoins en moins probable le hasard qui l’eût mise sur mon chemin. Et\ns’y fût-elle trouvée, d’ailleurs, eussé-je osé lui parler? Il me\nsemblait qu’elle m’eût considéré comme un fou; je cessais de croire\npartagés par d’autres êtres, de croire vrais en dehors de moi les\ndésirs que je formais pendant ces promenades et qui ne se réalisaient\npas. Ils ne m’apparaissaient plus que comme les créations purement\nsubjectives, impuissantes, illusoires, de mon tempérament. Ils\nn’avaient plus de lien avec la nature, avec la réalité qui dès lors\nperdait tout charme et toute signification et n’était plus à ma vie\nqu’un cadre conventionnel comme l’est à la fiction d’un roman le wagon\nsur la banquette duquel le voyageur le lit pour tuer le temps.",
+  "entities": [
+    {
+      "text": "Hélas,",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Roussainville,",
+      "label": "ORG",
+      "start": 52,
+      "end": 66
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 244,
+      "end": 252
+    },
+    {
+      "text": "Roussainville",
+      "label": "ORG",
+      "start": 1488,
+      "end": 1501
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1794,
+      "end": 1801
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hélas, c’était en vain que j’implorais le donjon de Roussainville, que\nje lui demandais de faire venir auprès de moi quelque enfant de son\nvillage, comme au seul confident que j’avais eu de mes premiers\ndésirs, quand au haut de notre maison de Combray, dans le petit\ncabinet sentant l’iris, je ne voyais que sa tour au milieu du carreau\nde la fenêtre entr’ouverte, pendant qu’avec les hésitations héroïques\ndu voyageur qui entreprend une exploration ou du désespéré qui se\nsuicide, défaillant, je me frayais en moi-même une route inconnue et\nque je croyais mortelle, jusqu’au moment où une trace naturelle comme\ncelle d’un colimaçon s’ajoutait aux feuilles du cassis sauvage qui se\npenchaient jusqu’à moi",
+      "start": 0,
+      "end": 704
+    },
+    {
+      "text": "En vain je le suppliais maintenant",
+      "start": 705,
+      "end": 740
+    },
+    {
+      "text": "En vain,\ntenant l’étendue dans le champ de ma vision, je la drainais de mes\nregards qui eussent voulu en ramener une femme",
+      "start": 741,
+      "end": 864
+    },
+    {
+      "text": "Je pouvais aller\njusqu’au porche de Saint-André-des-Champs; jamais ne s’y trouvait la\npaysanne que je n’eusse pas manqué d’y rencontrer si j’avais été avec\nmon grand-père et dans l’impossibilité de lier conversation avec elle",
+      "start": 865,
+      "end": 1091
+    },
+    {
+      "text": "Je fixais indéfiniment le tronc d’un arbre lointain, de derrière\nlequel elle allait surgir et venir à moi; l’horizon scruté restait\ndésert, la nuit tombait, c’était sans espoir que mon attention\ns’attachait, comme pour aspirer les créatures qu’ils pouvaient\nrecéler, à ce sol stérile, à cette terre épuisée; et ce n’était plus\nd’allégresse, c’était de rage que je frappais les arbres du bois de\nRoussainville d’entre lesquels ne sortait pas plus d’êtres vivants que\ns’ils eussent été des arbres peints sur la toile d’un panorama, quand,\nne pouvant me résigner à rentrer à la maison avant d’avoir serré dans\nmes bras la femme que j’avais tant désirée, j’étais pourtant obligé de\nreprendre le chemin de Combray en m’avouant à moi-même qu’était de\nmoins en moins probable le hasard qui l’eût mise sur mon chemin",
+      "start": 1092,
+      "end": 1901
+    },
+    {
+      "text": "Et\ns’y fût-elle trouvée, d’ailleurs, eussé-je osé lui parler? Il me\nsemblait qu’elle m’eût considéré comme un fou; je cessais de croire\npartagés par d’autres êtres, de croire vrais en dehors de moi les\ndésirs que je formais pendant ces promenades et qui ne se réalisaient\npas",
+      "start": 1902,
+      "end": 2178
+    },
+    {
+      "text": "Ils ne m’apparaissaient plus que comme les créations purement\nsubjectives, impuissantes, illusoires, de mon tempérament",
+      "start": 2179,
+      "end": 2299
+    },
+    {
+      "text": "Ils\nn’avaient plus de lien avec la nature, avec la réalité qui dès lors\nperdait tout charme et toute signification et n’était plus à ma vie\nqu’un cadre conventionnel comme l’est à la fiction d’un roman le wagon\nsur la banquette duquel le voyageur le lit pour tuer le temps",
+      "start": 2300,
+      "end": 2573
+    }
+  ],
+  "tokens": 425,
+  "processed_at": "2025-03-16T02:10:55.563462"
+}

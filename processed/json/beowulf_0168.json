@@ -1,0 +1,26 @@
+{
+  "text": "--«Pardi, pour pas qu’on se sauve», disait Françoise.",
+  "entities": [
+    {
+      "text": "--«Pardi,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Françoise.",
+      "label": "ORG",
+      "start": 43,
+      "end": 53
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Pardi, pour pas qu’on se sauve», disait Françoise",
+      "start": 0,
+      "end": 52
+    }
+  ],
+  "tokens": 8,
+  "processed_at": "2025-03-16T02:10:55.008338"
+}

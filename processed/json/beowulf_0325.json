@@ -1,0 +1,209 @@
+{
+  "text": "Souvent aussi nous allions nous abriter, pêle-mêle avec les Saints et\nles Patriarches de pierre sous le porche de Saint-André-des-Champs.\nQue cette église était française! Au-dessus de la porte, les Saints,\nles rois-chevaliers une fleur de lys à la main, des scènes de noces et\nde funérailles, étaient représentés comme ils pouvaient l’être dans\nl’âme de Françoise. Le sculpteur avait aussi narré certaines anecdotes\nrelatives à Aristote et à Virgile de la même façon que Françoise à la\ncuisine parlait volontiers de saint Louis comme si elle l’avait\npersonnellement connu, et généralement pour faire honte par la\ncomparaison à mes grands-parents moins «justes». On sentait que les\nnotions que l’artiste médiéval et la paysanne médiévale (survivant au\nXIXe siècle) avaient de l’histoire ancienne ou chrétienne, et qui se\ndistinguaient par autant d’inexactitude que de bonhomie, ils les\ntenaient non des livres, mais d’une tradition à la fois antique et\ndirecte, ininterrompue, orale, déformée, méconnaissable et vivante.\nUne autre personnalité de Combray que je reconnaissais aussi,\nvirtuelle et prophétisée, dans la sculpture gothique de\nSaint-André-des-Champs c’était le jeune Théodore, le garçon de chez\nCamus. Françoise sentait d’ailleurs si bien en lui un pays et un\ncontemporain que, quand ma tante Léonie était trop malade pour que\nFrançoise pût suffire à la retourner dans son lit, à la porter dans\nson fauteuil, plutôt que de laisser la fille de cuisine monter se\nfaire «bien voir» de ma tante, elle appelait Théodore. Or, ce garçon\nqui passait et avec raison pour si mauvais sujet, était tellement\nrempli de l’âme qui avait décoré Saint-André-des-Champs et notamment\ndes sentiments de respect que Françoise trouvait dus aux «pauvres\nmalades», à «sa pauvre maîtresse», qu’il avait pour soulever la tête\nde ma tante sur son oreiller la mine naïve et zélée des petits anges\ndes bas-reliefs, s’empressant, un cierge à la main, autour de la\nVierge défaillante, comme si les visages de pierre sculptée, grisâtres\net nus, ainsi que sont les bois en hiver, n’étaient qu’un\nensommeillement, qu’une réserve, prête à refleurir dans la vie en\ninnombrables visages populaires, révérends et futés comme celui de\nThéodore, enluminés de la rougeur d’une pomme mûre. Non plus appliquée\nà la pierre comme ces petits anges, mais détachée du porche, d’une\nstature plus qu’humaine, debout sur un socle comme sur un tabouret qui\nlui évitât de poser ses pieds sur le sol humide, une sainte avait les\njoues pleines, le sein ferme et qui gonflait la draperie comme une\ngrappe mûre dans un sac de crin, le front étroit, le nez court et\nmutin, les prunelles enfoncées, l’air valide, insensible et courageux\ndes paysannes de la contrée. Cette ressemblance qui insinuait dans la\nstatue une douceur que je n’y avais pas cherchée, était souvent\ncertifiée par quelque fille des champs, venue comme nous se mettre à\ncouvert et dont la présence, pareille à celle de ces feuillages\npariétaires qui ont poussé à côté des feuillages sculptés, semblait\ndestinée à permettre, par une confrontation avec la nature, de juger\nde la vérité de l’œuvre d’art. Devant nous, dans le lointain, terre\npromise ou maudite, Roussainville, dans les murs duquel je n’ai jamais\npénétré, Roussainville, tantôt, quand la pluie avait déjà cessé pour\nnous, continuait à être châtié comme un village de la Bible par toutes\nles lances de l’orage qui flagellaient obliquement les demeures de ses\nhabitants, ou bien était déjà pardonné par Dieu le Père qui faisait\ndescendre vers lui, inégalement longues, comme les rayons d’un\nostensoir d’autel, les tiges d’or effrangées de son soleil reparu.",
+  "entities": [
+    {
+      "text": "Souvent",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Saints",
+      "label": "ORG",
+      "start": 60,
+      "end": 66
+    },
+    {
+      "text": "Patriarches",
+      "label": "ORG",
+      "start": 74,
+      "end": 85
+    },
+    {
+      "text": "Saints,",
+      "label": "ORG",
+      "start": 199,
+      "end": 206
+    },
+    {
+      "text": "Françoise.",
+      "label": "ORG",
+      "start": 355,
+      "end": 365
+    },
+    {
+      "text": "Virgile",
+      "label": "ORG",
+      "start": 443,
+      "end": 450
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 472,
+      "end": 481
+    },
+    {
+      "text": "Louis",
+      "label": "ORG",
+      "start": 523,
+      "end": 528
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1047,
+      "end": 1054
+    },
+    {
+      "text": "Théodore,",
+      "label": "ORG",
+      "start": 1179,
+      "end": 1188
+    },
+    {
+      "text": "Camus.",
+      "label": "ORG",
+      "start": 1207,
+      "end": 1213
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1214,
+      "end": 1223
+    },
+    {
+      "text": "Léonie",
+      "label": "ORG",
+      "start": 1305,
+      "end": 1311
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1339,
+      "end": 1348
+    },
+    {
+      "text": "Théodore.",
+      "label": "ORG",
+      "start": 1518,
+      "end": 1527
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1707,
+      "end": 1716
+    },
+    {
+      "text": "Vierge",
+      "label": "ORG",
+      "start": 1946,
+      "end": 1952
+    },
+    {
+      "text": "Théodore,",
+      "label": "ORG",
+      "start": 2208,
+      "end": 2217
+    },
+    {
+      "text": "Cette",
+      "label": "ORG",
+      "start": 2719,
+      "end": 2724
+    },
+    {
+      "text": "Devant",
+      "label": "ORG",
+      "start": 3125,
+      "end": 3131
+    },
+    {
+      "text": "Roussainville,",
+      "label": "ORG",
+      "start": 3182,
+      "end": 3196
+    },
+    {
+      "text": "Roussainville,",
+      "label": "ORG",
+      "start": 3242,
+      "end": 3256
+    },
+    {
+      "text": "Bible",
+      "label": "ORG",
+      "start": 3356,
+      "end": 3361
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 3487,
+      "end": 3491
+    },
+    {
+      "text": "Père",
+      "label": "ORG",
+      "start": 3495,
+      "end": 3499
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Souvent aussi nous allions nous abriter, pêle-mêle avec les Saints et\nles Patriarches de pierre sous le porche de Saint-André-des-Champs",
+      "start": 0,
+      "end": 136
+    },
+    {
+      "text": "Que cette église était française! Au-dessus de la porte, les Saints,\nles rois-chevaliers une fleur de lys à la main, des scènes de noces et\nde funérailles, étaient représentés comme ils pouvaient l’être dans\nl’âme de Françoise",
+      "start": 137,
+      "end": 364
+    },
+    {
+      "text": "Le sculpteur avait aussi narré certaines anecdotes\nrelatives à Aristote et à Virgile de la même façon que Françoise à la\ncuisine parlait volontiers de saint Louis comme si elle l’avait\npersonnellement connu, et généralement pour faire honte par la\ncomparaison à mes grands-parents moins «justes»",
+      "start": 365,
+      "end": 661
+    },
+    {
+      "text": "On sentait que les\nnotions que l’artiste médiéval et la paysanne médiévale (survivant au\nXIXe siècle) avaient de l’histoire ancienne ou chrétienne, et qui se\ndistinguaient par autant d’inexactitude que de bonhomie, ils les\ntenaient non des livres, mais d’une tradition à la fois antique et\ndirecte, ininterrompue, orale, déformée, méconnaissable et vivante",
+      "start": 662,
+      "end": 1019
+    },
+    {
+      "text": "Une autre personnalité de Combray que je reconnaissais aussi,\nvirtuelle et prophétisée, dans la sculpture gothique de\nSaint-André-des-Champs c’était le jeune Théodore, le garçon de chez\nCamus",
+      "start": 1020,
+      "end": 1212
+    },
+    {
+      "text": "Françoise sentait d’ailleurs si bien en lui un pays et un\ncontemporain que, quand ma tante Léonie était trop malade pour que\nFrançoise pût suffire à la retourner dans son lit, à la porter dans\nson fauteuil, plutôt que de laisser la fille de cuisine monter se\nfaire «bien voir» de ma tante, elle appelait Théodore",
+      "start": 1213,
+      "end": 1526
+    },
+    {
+      "text": "Or, ce garçon\nqui passait et avec raison pour si mauvais sujet, était tellement\nrempli de l’âme qui avait décoré Saint-André-des-Champs et notamment\ndes sentiments de respect que Françoise trouvait dus aux «pauvres\nmalades», à «sa pauvre maîtresse», qu’il avait pour soulever la tête\nde ma tante sur son oreiller la mine naïve et zélée des petits anges\ndes bas-reliefs, s’empressant, un cierge à la main, autour de la\nVierge défaillante, comme si les visages de pierre sculptée, grisâtres\net nus, ainsi que sont les bois en hiver, n’étaient qu’un\nensommeillement, qu’une réserve, prête à refleurir dans la vie en\ninnombrables visages populaires, révérends et futés comme celui de\nThéodore, enluminés de la rougeur d’une pomme mûre",
+      "start": 1527,
+      "end": 2258
+    },
+    {
+      "text": "Non plus appliquée\nà la pierre comme ces petits anges, mais détachée du porche, d’une\nstature plus qu’humaine, debout sur un socle comme sur un tabouret qui\nlui évitât de poser ses pieds sur le sol humide, une sainte avait les\njoues pleines, le sein ferme et qui gonflait la draperie comme une\ngrappe mûre dans un sac de crin, le front étroit, le nez court et\nmutin, les prunelles enfoncées, l’air valide, insensible et courageux\ndes paysannes de la contrée",
+      "start": 2259,
+      "end": 2717
+    },
+    {
+      "text": "Cette ressemblance qui insinuait dans la\nstatue une douceur que je n’y avais pas cherchée, était souvent\ncertifiée par quelque fille des champs, venue comme nous se mettre à\ncouvert et dont la présence, pareille à celle de ces feuillages\npariétaires qui ont poussé à côté des feuillages sculptés, semblait\ndestinée à permettre, par une confrontation avec la nature, de juger\nde la vérité de l’œuvre d’art",
+      "start": 2718,
+      "end": 3123
+    },
+    {
+      "text": "Devant nous, dans le lointain, terre\npromise ou maudite, Roussainville, dans les murs duquel je n’ai jamais\npénétré, Roussainville, tantôt, quand la pluie avait déjà cessé pour\nnous, continuait à être châtié comme un village de la Bible par toutes\nles lances de l’orage qui flagellaient obliquement les demeures de ses\nhabitants, ou bien était déjà pardonné par Dieu le Père qui faisait\ndescendre vers lui, inégalement longues, comme les rayons d’un\nostensoir d’autel, les tiges d’or effrangées de son soleil reparu",
+      "start": 3124,
+      "end": 3640
+    }
+  ],
+  "tokens": 586,
+  "processed_at": "2025-03-16T02:10:55.536298"
+}

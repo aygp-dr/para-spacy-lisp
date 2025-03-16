@@ -1,0 +1,55 @@
+{
+  "text": "--Ces de La Trémouaille que Mme Verdurin nous a montrés comme si peu\nrecommandables, demanda Brichot, en articulant avec force,\ndescendent-ils de ceux que cette bonne snob de Mme de Sévigné avouait\nêtre heureuse de connaître parce que cela faisait bien pour ses\npaysans? Il est vrai que la marquise avait une autre raison, et qui\npour elle devait primer celle-là, car gendelettre dans l’âme, elle\nfaisait passer la copie avant tout. Or dans le journal qu’elle\nenvoyait régulièrement à sa fille, c’est Mme de la Trémouaille, bien\ndocumentée par ses grandes alliances, qui faisait la politique\nétrangère.",
+  "entities": [
+    {
+      "text": "--Ces",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Trémouaille",
+      "label": "ORG",
+      "start": 12,
+      "end": 23
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 32,
+      "end": 40
+    },
+    {
+      "text": "Brichot,",
+      "label": "ORG",
+      "start": 93,
+      "end": 101
+    },
+    {
+      "text": "Sévigné",
+      "label": "ORG",
+      "start": 182,
+      "end": 189
+    },
+    {
+      "text": "Trémouaille,",
+      "label": "ORG",
+      "start": 511,
+      "end": 523
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ces de La Trémouaille que Mme Verdurin nous a montrés comme si peu\nrecommandables, demanda Brichot, en articulant avec force,\ndescendent-ils de ceux que cette bonne snob de Mme de Sévigné avouait\nêtre heureuse de connaître parce que cela faisait bien pour ses\npaysans? Il est vrai que la marquise avait une autre raison, et qui\npour elle devait primer celle-là, car gendelettre dans l’âme, elle\nfaisait passer la copie avant tout",
+      "start": 0,
+      "end": 431
+    },
+    {
+      "text": "Or dans le journal qu’elle\nenvoyait régulièrement à sa fille, c’est Mme de la Trémouaille, bien\ndocumentée par ses grandes alliances, qui faisait la politique\nétrangère",
+      "start": 432,
+      "end": 601
+    }
+  ],
+  "tokens": 98,
+  "processed_at": "2025-03-16T02:10:56.481157"
+}

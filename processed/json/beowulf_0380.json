@@ -1,0 +1,36 @@
+{
+  "text": "Certes quand approchait le matin, il y avait bien longtemps qu’était\ndissipée la brève incertitude de mon réveil. Je savais dans quelle\nchambre je me trouvais effectivement, je l’avais reconstruite autour\nde moi dans l’obscurité, et,--soit en m’orientant par la seule mémoire,\nsoit en m’aidant, comme indication, d’une faible lueur aperçue, au\npied de laquelle je plaçais les rideaux de la croisée--, je l’avais\nreconstruite tout entière et meublée comme un architecte et un\ntapissier qui gardent leur ouverture primitive aux fenêtres et aux\nportes, j’avais reposé les glaces et remis la commode à sa place\nhabituelle. Mais à peine le jour--et non plus le reflet d’une dernière\nbraise sur une tringle de cuivre que j’avais pris pour lui--traçait-il\ndans l’obscurité, et comme à la craie, sa première raie blanche et\nrectificative, que la fenêtre avec ses rideaux, quittait le cadre de\nla porte où je l’avais située par erreur, tandis que pour lui faire\nplace, le bureau que ma mémoire avait maladroitement installé là se\nsauvait à toute vitesse, poussant devant lui la cheminée et écartant\nle mur mitoyen du couloir; une courette régnait à l’endroit où il y a\nun instant encore s’étendait le cabinet de toilette, et la demeure que\nj’avais rebâtie dans les ténèbres était allée rejoindre les demeures\nentrevues dans le tourbillon du réveil, mise en fuite par ce pâle\nsigne qu’avait tracé au-dessus des rideaux le doigt levé du jour.",
+  "entities": [
+    {
+      "text": "Certes",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 619,
+      "end": 623
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Certes quand approchait le matin, il y avait bien longtemps qu’était\ndissipée la brève incertitude de mon réveil",
+      "start": 0,
+      "end": 112
+    },
+    {
+      "text": "Je savais dans quelle\nchambre je me trouvais effectivement, je l’avais reconstruite autour\nde moi dans l’obscurité, et,--soit en m’orientant par la seule mémoire,\nsoit en m’aidant, comme indication, d’une faible lueur aperçue, au\npied de laquelle je plaçais les rideaux de la croisée--, je l’avais\nreconstruite tout entière et meublée comme un architecte et un\ntapissier qui gardent leur ouverture primitive aux fenêtres et aux\nportes, j’avais reposé les glaces et remis la commode à sa place\nhabituelle",
+      "start": 113,
+      "end": 617
+    },
+    {
+      "text": "Mais à peine le jour--et non plus le reflet d’une dernière\nbraise sur une tringle de cuivre que j’avais pris pour lui--traçait-il\ndans l’obscurité, et comme à la craie, sa première raie blanche et\nrectificative, que la fenêtre avec ses rideaux, quittait le cadre de\nla porte où je l’avais située par erreur, tandis que pour lui faire\nplace, le bureau que ma mémoire avait maladroitement installé là se\nsauvait à toute vitesse, poussant devant lui la cheminée et écartant\nle mur mitoyen du couloir; une courette régnait à l’endroit où il y a\nun instant encore s’étendait le cabinet de toilette, et la demeure que\nj’avais rebâtie dans les ténèbres était allée rejoindre les demeures\nentrevues dans le tourbillon du réveil, mise en fuite par ce pâle\nsigne qu’avait tracé au-dessus des rideaux le doigt levé du jour",
+      "start": 618,
+      "end": 1430
+    }
+  ],
+  "tokens": 236,
+  "processed_at": "2025-03-16T02:10:55.713010"
+}

@@ -1,0 +1,44 @@
+{
+  "text": "Comme la promenade du côté de Méséglise était la moins longue des deux\nque nous faisions autour de Combray et qu’à cause de cela on la\nréservait pour les temps incertains, le climat du côté de Méséglise\nétait assez pluvieux et nous ne perdions jamais de vue la lisière des\nbois de Roussainville dans l’épaisseur desquels nous pourrions nous\nmettre à couvert.",
+  "entities": [
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Méséglise",
+      "label": "ORG",
+      "start": 30,
+      "end": 39
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 99,
+      "end": 106
+    },
+    {
+      "text": "Méséglise",
+      "label": "ORG",
+      "start": 193,
+      "end": 202
+    },
+    {
+      "text": "Roussainville",
+      "label": "ORG",
+      "start": 281,
+      "end": 294
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Comme la promenade du côté de Méséglise était la moins longue des deux\nque nous faisions autour de Combray et qu’à cause de cela on la\nréservait pour les temps incertains, le climat du côté de Méséglise\nétait assez pluvieux et nous ne perdions jamais de vue la lisière des\nbois de Roussainville dans l’épaisseur desquels nous pourrions nous\nmettre à couvert",
+      "start": 0,
+      "end": 357
+    }
+  ],
+  "tokens": 62,
+  "processed_at": "2025-03-16T02:10:55.526468"
+}

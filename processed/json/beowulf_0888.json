@@ -1,0 +1,70 @@
+{
+  "text": "--Mais puisqu’il ne devait pas pouvoir s’empêcher de commencer le\nsecond, il aurait mieux fait d’achever le premier pour en finir une\nbonne fois. Nous sommes en train de faire des plaisanteries d’un goût\ncharmant, mon petit Charles, mais comme c’est ennuyeux de ne plus vous\nvoir, ajouta-t-elle d’un ton câlin, j’aime tant causer avec vous.\nPensez que je n’aurais même pas pu faire comprendre à cet idiot de\nFroberville que le nom de Cambremer était étonnant. Avouez que la vie\nest une chose affreuse. Il n’y a que quand je vous vois que je cesse\nde m’ennuyer.",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 146,
+      "end": 150
+    },
+    {
+      "text": "Charles,",
+      "label": "ORG",
+      "start": 224,
+      "end": 232
+    },
+    {
+      "text": "Pensez",
+      "label": "ORG",
+      "start": 341,
+      "end": 347
+    },
+    {
+      "text": "Froberville",
+      "label": "ORG",
+      "start": 408,
+      "end": 419
+    },
+    {
+      "text": "Cambremer",
+      "label": "ORG",
+      "start": 434,
+      "end": 443
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais puisqu’il ne devait pas pouvoir s’empêcher de commencer le\nsecond, il aurait mieux fait d’achever le premier pour en finir une\nbonne fois",
+      "start": 0,
+      "end": 144
+    },
+    {
+      "text": "Nous sommes en train de faire des plaisanteries d’un goût\ncharmant, mon petit Charles, mais comme c’est ennuyeux de ne plus vous\nvoir, ajouta-t-elle d’un ton câlin, j’aime tant causer avec vous",
+      "start": 145,
+      "end": 339
+    },
+    {
+      "text": "Pensez que je n’aurais même pas pu faire comprendre à cet idiot de\nFroberville que le nom de Cambremer était étonnant",
+      "start": 340,
+      "end": 458
+    },
+    {
+      "text": "Avouez que la vie\nest une chose affreuse",
+      "start": 459,
+      "end": 500
+    },
+    {
+      "text": "Il n’y a que quand je vous vois que je cesse\nde m’ennuyer",
+      "start": 501,
+      "end": 559
+    }
+  ],
+  "tokens": 98,
+  "processed_at": "2025-03-16T02:10:57.212340"
+}

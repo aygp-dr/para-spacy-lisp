@@ -1,0 +1,42 @@
+{
+  "text": "--Tenez, ce pouf, c’est tout ce qu’il me faut. Cela me fera tenir\ndroite. Oh! mon Dieu, je fais encore du bruit, je vais me faire\nconspuer.",
+  "entities": [
+    {
+      "text": "--Tenez,",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Cela",
+      "label": "ORG",
+      "start": 47,
+      "end": 51
+    },
+    {
+      "text": "Dieu,",
+      "label": "ORG",
+      "start": 82,
+      "end": 87
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Tenez, ce pouf, c’est tout ce qu’il me faut",
+      "start": 0,
+      "end": 45
+    },
+    {
+      "text": "Cela me fera tenir\ndroite",
+      "start": 46,
+      "end": 72
+    },
+    {
+      "text": "Oh! mon Dieu, je fais encore du bruit, je vais me faire\nconspuer",
+      "start": 73,
+      "end": 138
+    }
+  ],
+  "tokens": 27,
+  "processed_at": "2025-03-16T02:10:57.116745"
+}

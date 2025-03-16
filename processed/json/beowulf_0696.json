@@ -1,0 +1,59 @@
+{
+  "text": "Bien que Swann n’eût encore jamais pris bien sérieusement ombrage de\nl’amitié d’Odette pour tel ou tel fidèle, il éprouvait une douceur\nprofonde à l’entendre avouer ainsi devant tous, avec cette tranquille\nimpudeur, leurs rendez-vous quotidiens du soir, la situation\nprivilégiée qu’il avait chez elle et la préférence pour lui qui y\nétait impliquée. Certes Swann avait souvent pensé qu’Odette n’était à\naucun degré une femme remarquable; et la suprématie qu’il exerçait sur\nun être qui lui était si inférieur n’avait rien qui dût lui paraître\nsi flatteur à voir proclamer à la face des «fidèles», mais depuis\nqu’il s’était aperçu qu’à beaucoup d’hommes Odette semblait une femme\nravissante et désirable, le charme qu’avait pour eux son corps avait\néveillé en lui un besoin douloureux de la maîtriser entièrement dans\nles moindres parties de son cœur. Et il avait commencé d’attacher un\nprix inestimable à ces moments passés chez elle le soir, où il\nl’asseyait sur ses genoux, lui faisait dire ce qu’elle pensait d’une\nchose, d’une autre, où il recensait les seuls biens à la possession\ndesquels il tînt maintenant sur terre. Aussi, après ce dîner, la\nprenant à part, il ne manqua pas de la remercier avec effusion,\ncherchant à lui enseigner selon les degrés de la reconnaissance qu’il\nlui témoignait, l’échelle des plaisirs qu’elle pouvait lui causer, et\ndont le suprême était de le garantir, pendant le temps que son amour\ndurerait et l’y rendrait vulnérable, des atteintes de la jalousie.",
+  "entities": [
+    {
+      "text": "Bien",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 9,
+      "end": 14
+    },
+    {
+      "text": "Certes",
+      "label": "ORG",
+      "start": 350,
+      "end": 356
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 357,
+      "end": 362
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 386,
+      "end": 392
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Bien que Swann n’eût encore jamais pris bien sérieusement ombrage de\nl’amitié d’Odette pour tel ou tel fidèle, il éprouvait une douceur\nprofonde à l’entendre avouer ainsi devant tous, avec cette tranquille\nimpudeur, leurs rendez-vous quotidiens du soir, la situation\nprivilégiée qu’il avait chez elle et la préférence pour lui qui y\nétait impliquée",
+      "start": 0,
+      "end": 348
+    },
+    {
+      "text": "Certes Swann avait souvent pensé qu’Odette n’était à\naucun degré une femme remarquable; et la suprématie qu’il exerçait sur\nun être qui lui était si inférieur n’avait rien qui dût lui paraître\nsi flatteur à voir proclamer à la face des «fidèles», mais depuis\nqu’il s’était aperçu qu’à beaucoup d’hommes Odette semblait une femme\nravissante et désirable, le charme qu’avait pour eux son corps avait\néveillé en lui un besoin douloureux de la maîtriser entièrement dans\nles moindres parties de son cœur",
+      "start": 349,
+      "end": 849
+    },
+    {
+      "text": "Et il avait commencé d’attacher un\nprix inestimable à ces moments passés chez elle le soir, où il\nl’asseyait sur ses genoux, lui faisait dire ce qu’elle pensait d’une\nchose, d’une autre, où il recensait les seuls biens à la possession\ndesquels il tînt maintenant sur terre",
+      "start": 850,
+      "end": 1123
+    },
+    {
+      "text": "Aussi, après ce dîner, la\nprenant à part, il ne manqua pas de la remercier avec effusion,\ncherchant à lui enseigner selon les degrés de la reconnaissance qu’il\nlui témoignait, l’échelle des plaisirs qu’elle pouvait lui causer, et\ndont le suprême était de le garantir, pendant le temps que son amour\ndurerait et l’y rendrait vulnérable, des atteintes de la jalousie",
+      "start": 1124,
+      "end": 1489
+    }
+  ],
+  "tokens": 244,
+  "processed_at": "2025-03-16T02:10:56.641991"
+}

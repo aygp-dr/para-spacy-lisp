@@ -1,0 +1,59 @@
+{
+  "text": "Elle y revenait sans plus trouver de résistance, et d’ailleurs si\nirrésistible que Swann avait eu bien moins de peine à sentir\ns’approcher un à un les quinze jours qu’il devait rester séparé\nd’Odette, qu’il n’en avait à attendre les dix minutes que son cocher\nmettait pour atteler la voiture qui allait l’emmener chez elle et\nqu’il passait dans des transports d’impatience et de joie où il\nressaisissait mille fois pour lui prodiguer sa tendresse cette idée de\nla retrouver qui, par un retour si brusque, au moment où il la croyait\nsi loin, était de nouveau près de lui dans sa plus proche conscience.\nC’est qu’elle ne trouvait plus pour lui faire obstacle le désir de\nchercher sans plus tarder à lui résister qui n’existait plus chez\nSwann depuis que s’étant prouvé à lui-même,--il le croyait du\nmoins,--qu’il en était si aisément capable, il ne voyait plus aucun\ninconvénient à ajourner un essai de séparation qu’il était certain\nmaintenant de mettre à exécution dès qu’il le voudrait. C’est aussi\nque cette idée de la revoir revenait parée pour lui d’une nouveauté,\nd’une séduction, douée d’une virulence que l’habitude avait émoussées,\nmais qui s’étaient retrempées dans cette privation non de trois jours\nmais de quinze (car la durée d’un renoncement doit se calculer, par\nanticipation, sur le terme assigné), et de ce qui jusque-là eût été un\nplaisir attendu qu’on sacrifie aisément, avait fait un bonheur\ninespéré contre lequel on est sans force. C’est enfin qu’elle y\nrevenait embellie par l’ignorance où était Swann de ce qu’Odette avait\npu penser, faire peut-être en voyant qu’il ne lui avait pas donné\nsigne de vie, si bien que ce qu’il allait trouver c’était la\nrévélation passionnante d’une Odette presque inconnue.",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 83,
+      "end": 88
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 735,
+      "end": 740
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1519,
+      "end": 1524
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1534,
+      "end": 1540
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle y revenait sans plus trouver de résistance, et d’ailleurs si\nirrésistible que Swann avait eu bien moins de peine à sentir\ns’approcher un à un les quinze jours qu’il devait rester séparé\nd’Odette, qu’il n’en avait à attendre les dix minutes que son cocher\nmettait pour atteler la voiture qui allait l’emmener chez elle et\nqu’il passait dans des transports d’impatience et de joie où il\nressaisissait mille fois pour lui prodiguer sa tendresse cette idée de\nla retrouver qui, par un retour si brusque, au moment où il la croyait\nsi loin, était de nouveau près de lui dans sa plus proche conscience",
+      "start": 0,
+      "end": 600
+    },
+    {
+      "text": "C’est qu’elle ne trouvait plus pour lui faire obstacle le désir de\nchercher sans plus tarder à lui résister qui n’existait plus chez\nSwann depuis que s’étant prouvé à lui-même,--il le croyait du\nmoins,--qu’il en était si aisément capable, il ne voyait plus aucun\ninconvénient à ajourner un essai de séparation qu’il était certain\nmaintenant de mettre à exécution dès qu’il le voudrait",
+      "start": 601,
+      "end": 986
+    },
+    {
+      "text": "C’est aussi\nque cette idée de la revoir revenait parée pour lui d’une nouveauté,\nd’une séduction, douée d’une virulence que l’habitude avait émoussées,\nmais qui s’étaient retrempées dans cette privation non de trois jours\nmais de quinze (car la durée d’un renoncement doit se calculer, par\nanticipation, sur le terme assigné), et de ce qui jusque-là eût été un\nplaisir attendu qu’on sacrifie aisément, avait fait un bonheur\ninespéré contre lequel on est sans force",
+      "start": 987,
+      "end": 1452
+    },
+    {
+      "text": "C’est enfin qu’elle y\nrevenait embellie par l’ignorance où était Swann de ce qu’Odette avait\npu penser, faire peut-être en voyant qu’il ne lui avait pas donné\nsigne de vie, si bien que ce qu’il allait trouver c’était la\nrévélation passionnante d’une Odette presque inconnue",
+      "start": 1453,
+      "end": 1727
+    }
+  ],
+  "tokens": 288,
+  "processed_at": "2025-03-16T02:10:56.909341"
+}

@@ -1,0 +1,47 @@
+{
+  "text": "A Combray, tous les jours dès la fin de l’après-midi, longtemps avant\nle moment où il faudrait me mettre au lit et rester, sans dormir, loin\nde ma mère et de ma grand’mère, ma chambre à coucher redevenait le\npoint fixe et douloureux de mes préoccupations. On avait bien inventé,\npour me distraire les soirs où on me trouvait l’air trop malheureux,\nde me donner une lanterne magique, dont, en attendant l’heure du\ndîner, on coiffait ma lampe; et, à l’instar des premiers architectes\net maîtres verriers de l’âge gothique, elle substituait à l’opacité\ndes murs d’impalpables irisations, de surnaturelles apparitions\nmulticolores, où des légendes étaient dépeintes comme dans un vitrail\nvacillant et momentané. Mais ma tristesse n’en était qu’accrue, parce\nque rien que le changement d’éclairage détruisait l’habitude que\nj’avais de ma chambre et grâce à quoi, sauf le supplice du coucher,\nelle m’était devenue supportable. Maintenant je ne la reconnaissais\nplus et j’y étais inquiet, comme dans une chambre d’hôtel ou de\n«chalet», où je fusse arrivé pour la première fois en descendant de\nchemin de fer.",
+  "entities": [
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 2,
+      "end": 10
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 708,
+      "end": 712
+    },
+    {
+      "text": "Maintenant",
+      "label": "ORG",
+      "start": 921,
+      "end": 931
+    }
+  ],
+  "sentences": [
+    {
+      "text": "A Combray, tous les jours dès la fin de l’après-midi, longtemps avant\nle moment où il faudrait me mettre au lit et rester, sans dormir, loin\nde ma mère et de ma grand’mère, ma chambre à coucher redevenait le\npoint fixe et douloureux de mes préoccupations",
+      "start": 0,
+      "end": 254
+    },
+    {
+      "text": "On avait bien inventé,\npour me distraire les soirs où on me trouvait l’air trop malheureux,\nde me donner une lanterne magique, dont, en attendant l’heure du\ndîner, on coiffait ma lampe; et, à l’instar des premiers architectes\net maîtres verriers de l’âge gothique, elle substituait à l’opacité\ndes murs d’impalpables irisations, de surnaturelles apparitions\nmulticolores, où des légendes étaient dépeintes comme dans un vitrail\nvacillant et momentané",
+      "start": 255,
+      "end": 706
+    },
+    {
+      "text": "Mais ma tristesse n’en était qu’accrue, parce\nque rien que le changement d’éclairage détruisait l’habitude que\nj’avais de ma chambre et grâce à quoi, sauf le supplice du coucher,\nelle m’était devenue supportable",
+      "start": 707,
+      "end": 919
+    },
+    {
+      "text": "Maintenant je ne la reconnaissais\nplus et j’y étais inquiet, comme dans une chambre d’hôtel ou de\n«chalet», où je fusse arrivé pour la première fois en descendant de\nchemin de fer",
+      "start": 920,
+      "end": 1100
+    }
+  ],
+  "tokens": 179,
+  "processed_at": "2025-03-16T02:10:54.404360"
+}

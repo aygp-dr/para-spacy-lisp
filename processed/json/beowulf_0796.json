@@ -1,0 +1,75 @@
+{
+  "text": "Même quand il ne pouvait savoir où elle était allée, il lui aurait\nsuffi pour calmer l’angoisse qu’il éprouvait alors, et contre laquelle\nla présence d’Odette, la douceur d’être auprès d’elle était le seul\nspécifique (un spécifique qui à la longue aggravait le mal avec bien\ndes remèdes, mais du moins calmait momentanément la souffrance), il\nlui aurait suffi, si Odette l’avait seulement permis, de rester chez\nelle tant qu’elle ne serait pas là, de l’attendre jusqu’à cette heure\ndu retour dans l’apaisement de laquelle seraient venues se confondre\nles heures qu’un prestige, un maléfice lui avaient fait croire\ndifférentes des autres. Mais elle ne le voulait pas; il revenait chez\nlui; il se forçait en chemin à former divers projets, il cessait de\nsonger à Odette; même il arrivait, tout en se déshabillant, à rouler\nen lui des pensées assez joyeuses; c’est le cœur plein de l’espoir\nd’aller le lendemain voir quelque chef-d’œuvre qu’il se mettait au lit\net éteignait sa lumière; mais, dès que, pour se préparer à dormir, il\ncessait d’exercer sur lui-même une contrainte dont il n’avait même pas\nconscience tant elle était devenue habituelle, au même instant un\nfrisson glacé refluait en lui et il se mettait à sangloter. Il ne\nvoulait même pas savoir pourquoi, s’essuyait les yeux, se disait en\nriant: «C’est charmant, je deviens névropathe.» Puis il ne pouvait\npenser sans une grande lassitude que le lendemain il faudrait\nrecommencer de chercher à savoir ce qu’Odette avait fait, à mettre en\njeu des influences pour tâcher de la voir. Cette nécessité d’une\nactivité sans trêve, sans variété, sans résultats, lui était si\ncruelle qu’un jour apercevant une grosseur sur son ventre, il\nressentit une véritable joie à la pensée qu’il avait peut-être une\ntumeur mortelle, qu’il n’allait plus avoir à s’occuper de rien, que\nc’était la maladie qui allait le gouverner, faire de lui son jouet,\njusqu’à la fin prochaine. Et en effet si, à cette époque, il lui\narriva souvent sans se l’avouer de désirer la mort, c’était pour\néchapper moins à l’acuité de ses souffrances qu’à la monotonie de son\neffort.",
+  "entities": [
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 152,
+      "end": 158
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 638,
+      "end": 642
+    },
+    {
+      "text": "Odette;",
+      "label": "ORG",
+      "start": 761,
+      "end": 768
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 1348,
+      "end": 1352
+    },
+    {
+      "text": "Cette",
+      "label": "ORG",
+      "start": 1542,
+      "end": 1547
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Même quand il ne pouvait savoir où elle était allée, il lui aurait\nsuffi pour calmer l’angoisse qu’il éprouvait alors, et contre laquelle\nla présence d’Odette, la douceur d’être auprès d’elle était le seul\nspécifique (un spécifique qui à la longue aggravait le mal avec bien\ndes remèdes, mais du moins calmait momentanément la souffrance), il\nlui aurait suffi, si Odette l’avait seulement permis, de rester chez\nelle tant qu’elle ne serait pas là, de l’attendre jusqu’à cette heure\ndu retour dans l’apaisement de laquelle seraient venues se confondre\nles heures qu’un prestige, un maléfice lui avaient fait croire\ndifférentes des autres",
+      "start": 0,
+      "end": 636
+    },
+    {
+      "text": "Mais elle ne le voulait pas; il revenait chez\nlui; il se forçait en chemin à former divers projets, il cessait de\nsonger à Odette; même il arrivait, tout en se déshabillant, à rouler\nen lui des pensées assez joyeuses; c’est le cœur plein de l’espoir\nd’aller le lendemain voir quelque chef-d’œuvre qu’il se mettait au lit\net éteignait sa lumière; mais, dès que, pour se préparer à dormir, il\ncessait d’exercer sur lui-même une contrainte dont il n’avait même pas\nconscience tant elle était devenue habituelle, au même instant un\nfrisson glacé refluait en lui et il se mettait à sangloter",
+      "start": 637,
+      "end": 1224
+    },
+    {
+      "text": "Il ne\nvoulait même pas savoir pourquoi, s’essuyait les yeux, se disait en\nriant: «C’est charmant, je deviens névropathe",
+      "start": 1225,
+      "end": 1345
+    },
+    {
+      "text": "» Puis il ne pouvait\npenser sans une grande lassitude que le lendemain il faudrait\nrecommencer de chercher à savoir ce qu’Odette avait fait, à mettre en\njeu des influences pour tâcher de la voir",
+      "start": 1346,
+      "end": 1540
+    },
+    {
+      "text": "Cette nécessité d’une\nactivité sans trêve, sans variété, sans résultats, lui était si\ncruelle qu’un jour apercevant une grosseur sur son ventre, il\nressentit une véritable joie à la pensée qu’il avait peut-être une\ntumeur mortelle, qu’il n’allait plus avoir à s’occuper de rien, que\nc’était la maladie qui allait le gouverner, faire de lui son jouet,\njusqu’à la fin prochaine",
+      "start": 1541,
+      "end": 1917
+    },
+    {
+      "text": "Et en effet si, à cette époque, il lui\narriva souvent sans se l’avouer de désirer la mort, c’était pour\néchapper moins à l’acuité de ses souffrances qu’à la monotonie de son\neffort",
+      "start": 1918,
+      "end": 2099
+    }
+  ],
+  "tokens": 351,
+  "processed_at": "2025-03-16T02:10:56.940808"
+}

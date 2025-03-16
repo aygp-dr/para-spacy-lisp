@@ -1,0 +1,33 @@
+{
+  "text": "De tous les modes de production de l’amour, de tous les agents de\ndissémination du mal sacré, il est bien l’un des plus efficaces, ce\ngrand souffle d’agitation qui parfois passe sur nous. Alors l’être\navec qui nous nous plaisons à ce moment-là, le sort en est jeté, c’est\nlui que nous aimerons. Il n’est même pas besoin qu’il nous plût\njusque-là plus ou même autant que d’autres. Ce qu’il fallait, c’est\nque notre goût pour lui devint exclusif. Et cette condition-là est\nréalisée quand--à ce moment où il nous fait défaut--à la recherche des\nplaisirs que son agrément nous donnait, s’est brusquement substitué en\nnous un besoin anxieux, qui a pour objet cet être même, un besoin\nabsurde, que les lois de ce monde rendent impossible à satisfaire et\ndifficile à guérir--le besoin insensé et douloureux de le posséder.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "De tous les modes de production de l’amour, de tous les agents de\ndissémination du mal sacré, il est bien l’un des plus efficaces, ce\ngrand souffle d’agitation qui parfois passe sur nous",
+      "start": 0,
+      "end": 186
+    },
+    {
+      "text": "Alors l’être\navec qui nous nous plaisons à ce moment-là, le sort en est jeté, c’est\nlui que nous aimerons",
+      "start": 187,
+      "end": 293
+    },
+    {
+      "text": "Il n’est même pas besoin qu’il nous plût\njusque-là plus ou même autant que d’autres",
+      "start": 294,
+      "end": 378
+    },
+    {
+      "text": "Ce qu’il fallait, c’est\nque notre goût pour lui devint exclusif",
+      "start": 379,
+      "end": 443
+    },
+    {
+      "text": "Et cette condition-là est\nréalisée quand--à ce moment où il nous fait défaut--à la recherche des\nplaisirs que son agrément nous donnait, s’est brusquement substitué en\nnous un besoin anxieux, qui a pour objet cet être même, un besoin\nabsurde, que les lois de ce monde rendent impossible à satisfaire et\ndifficile à guérir--le besoin insensé et douloureux de le posséder",
+      "start": 444,
+      "end": 814
+    }
+  ],
+  "tokens": 140,
+  "processed_at": "2025-03-16T02:10:56.192311"
+}

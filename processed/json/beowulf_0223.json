@@ -1,0 +1,23 @@
+{
+  "text": "--«C’est Mme Amédée (ma grand’mère) qui a dit qu’elle allait faire un\ntour. Ça pleut pourtant fort.»",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "--«C’est Mme Amédée (ma grand’mère) qui a dit qu’elle allait faire un\ntour",
+      "start": 0,
+      "end": 74
+    },
+    {
+      "text": "Ça pleut pourtant fort",
+      "start": 75,
+      "end": 98
+    },
+    {
+      "text": "»",
+      "start": 99,
+      "end": 100
+    }
+  ],
+  "tokens": 17,
+  "processed_at": "2025-03-16T02:10:55.199400"
+}

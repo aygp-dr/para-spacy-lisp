@@ -1,0 +1,26 @@
+{
+  "text": "--Dites donc, Swann, j’aimerais mieux être le mari de cette femme-là\nque d’être massacré par les sauvages, qu’en dites-vous?",
+  "entities": [
+    {
+      "text": "--Dites",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 14,
+      "end": 20
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Dites donc, Swann, j’aimerais mieux être le mari de cette femme-là\nque d’être massacré par les sauvages, qu’en dites-vous?",
+      "start": 0,
+      "end": 124
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:57.237643"
+}

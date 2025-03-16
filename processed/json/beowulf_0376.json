@@ -1,0 +1,103 @@
+{
+  "text": "Pendant toute la journée, dans ces promenades, j’avais pu rêver au\nplaisir que ce serait d’être l’ami de la duchesse de Guermantes, de\npêcher la truite, de me promener en barque sur la Vivonne, et, avide\nde bonheur, ne demander en ces moments-là rien d’autre à la vie que de\nse composer toujours d’une suite d’heureux après-midi. Mais quand sur\nle chemin du retour j’avais aperçu sur la gauche une ferme, assez\ndistante de deux autres qui étaient au contraire très rapprochées, et\nà partir de laquelle pour entrer dans Combray il n’y avait plus qu’à\nprendre une allée de chênes bordée d’un côté de prés appartenant\nchacun à un petit clos et plantés à intervalles égaux de pommiers qui\ny portaient, quand ils étaient éclairés par le soleil couchant, le\ndessin japonais de leurs ombres, brusquement mon cœur se mettait à\nbattre, je savais qu’avant une demi-heure nous serions rentrés, et\nque, comme c’était de règle les jours où nous étions allés du côté de\nGuermantes et où le dîner était servi plus tard, on m’enverrait me\ncoucher sitôt ma soupe prise, de sorte que ma mère, retenue à table\ncomme s’il y avait du monde à dîner, ne monterait pas me dire bonsoir\ndans mon lit. La zone de tristesse où je venais d’entrer était aussi\ndistincte de la zone, où je m’élançais avec joie il y avait un moment\nencore que dans certains ciels une bande rose est séparée comme par\nune ligne d’une bande verte ou d’une bande noire. On voit un oiseau\nvoler dans le rose, il va en atteindre la fin, il touche presque au\nnoir, puis il y est entré. Les désirs qui tout à l’heure\nm’entouraient, d’aller à Guermantes, de voyager, d’être heureux,\nj’étais maintenant tellement en dehors d’eux que leur accomplissement\nne m’eût fait aucun plaisir. Comme j’aurais donné tout cela pour\npouvoir pleurer toute la nuit dans les bras de maman! Je frissonnais,\nje ne détachais pas mes yeux angoissés du visage de ma mère, qui\nn’apparaîtrait pas ce soir dans la chambre où je me voyais déjà par la\npensée, j’aurais voulu mourir. Et cet état durerait jusqu’au\nlendemain, quand les rayons du matin, appuyant, comme le jardinier,\nleurs barreaux au mur revêtu de capucines qui grimpaient jusqu’à ma\nfenêtre, je sauterais à bas du lit pour descendre vite au jardin, sans\nplus me rappeler que le soir ramènerait jamais l’heure de quitter ma\nmère. Et de la sorte c’est du côté de Guermantes que j’ai appris à\ndistinguer ces états qui se succèdent en moi, pendant certaines\npériodes, et vont jusqu’à se partager chaque journée, l’un revenant\nchasser l’autre, avec la ponctualité de la fièvre; contigus, mais si\nextérieurs l’un à l’autre, si dépourvus de moyens de communication\nentre eux, que je ne puis plus comprendre, plus même me représenter\ndans l’un, ce que j’ai désiré, ou redouté, ou accompli dans l’autre.",
+  "entities": [
+    {
+      "text": "Pendant",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 120,
+      "end": 131
+    },
+    {
+      "text": "Vivonne,",
+      "label": "ORG",
+      "start": 185,
+      "end": 193
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 330,
+      "end": 334
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 519,
+      "end": 526
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 956,
+      "end": 966
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 1586,
+      "end": 1597
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1725,
+      "end": 1730
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 2342,
+      "end": 2352
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pendant toute la journée, dans ces promenades, j’avais pu rêver au\nplaisir que ce serait d’être l’ami de la duchesse de Guermantes, de\npêcher la truite, de me promener en barque sur la Vivonne, et, avide\nde bonheur, ne demander en ces moments-là rien d’autre à la vie que de\nse composer toujours d’une suite d’heureux après-midi",
+      "start": 0,
+      "end": 328
+    },
+    {
+      "text": "Mais quand sur\nle chemin du retour j’avais aperçu sur la gauche une ferme, assez\ndistante de deux autres qui étaient au contraire très rapprochées, et\nà partir de laquelle pour entrer dans Combray il n’y avait plus qu’à\nprendre une allée de chênes bordée d’un côté de prés appartenant\nchacun à un petit clos et plantés à intervalles égaux de pommiers qui\ny portaient, quand ils étaient éclairés par le soleil couchant, le\ndessin japonais de leurs ombres, brusquement mon cœur se mettait à\nbattre, je savais qu’avant une demi-heure nous serions rentrés, et\nque, comme c’était de règle les jours où nous étions allés du côté de\nGuermantes et où le dîner était servi plus tard, on m’enverrait me\ncoucher sitôt ma soupe prise, de sorte que ma mère, retenue à table\ncomme s’il y avait du monde à dîner, ne monterait pas me dire bonsoir\ndans mon lit",
+      "start": 329,
+      "end": 1173
+    },
+    {
+      "text": "La zone de tristesse où je venais d’entrer était aussi\ndistincte de la zone, où je m’élançais avec joie il y avait un moment\nencore que dans certains ciels une bande rose est séparée comme par\nune ligne d’une bande verte ou d’une bande noire",
+      "start": 1174,
+      "end": 1416
+    },
+    {
+      "text": "On voit un oiseau\nvoler dans le rose, il va en atteindre la fin, il touche presque au\nnoir, puis il y est entré",
+      "start": 1417,
+      "end": 1529
+    },
+    {
+      "text": "Les désirs qui tout à l’heure\nm’entouraient, d’aller à Guermantes, de voyager, d’être heureux,\nj’étais maintenant tellement en dehors d’eux que leur accomplissement\nne m’eût fait aucun plaisir",
+      "start": 1530,
+      "end": 1723
+    },
+    {
+      "text": "Comme j’aurais donné tout cela pour\npouvoir pleurer toute la nuit dans les bras de maman! Je frissonnais,\nje ne détachais pas mes yeux angoissés du visage de ma mère, qui\nn’apparaîtrait pas ce soir dans la chambre où je me voyais déjà par la\npensée, j’aurais voulu mourir",
+      "start": 1724,
+      "end": 1996
+    },
+    {
+      "text": "Et cet état durerait jusqu’au\nlendemain, quand les rayons du matin, appuyant, comme le jardinier,\nleurs barreaux au mur revêtu de capucines qui grimpaient jusqu’à ma\nfenêtre, je sauterais à bas du lit pour descendre vite au jardin, sans\nplus me rappeler que le soir ramènerait jamais l’heure de quitter ma\nmère",
+      "start": 1997,
+      "end": 2308
+    },
+    {
+      "text": "Et de la sorte c’est du côté de Guermantes que j’ai appris à\ndistinguer ces états qui se succèdent en moi, pendant certaines\npériodes, et vont jusqu’à se partager chaque journée, l’un revenant\nchasser l’autre, avec la ponctualité de la fièvre; contigus, mais si\nextérieurs l’un à l’autre, si dépourvus de moyens de communication\nentre eux, que je ne puis plus comprendre, plus même me représenter\ndans l’un, ce que j’ai désiré, ou redouté, ou accompli dans l’autre",
+      "start": 2309,
+      "end": 2774
+    }
+  ],
+  "tokens": 484,
+  "processed_at": "2025-03-16T02:10:55.700073"
+}

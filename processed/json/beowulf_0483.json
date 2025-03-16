@@ -1,0 +1,41 @@
+{
+  "text": "--Ah! c’est plus chic? dit Mme Verdurin. Alors il y a du chic dans les\nmaladies, maintenant? je ne savais pas ça... Ce que vous m’amusez,\ns’écria-t-elle tout à coup en plongeant sa figure dans ses mains. Et\nmoi, bonne bête qui discutais sérieusement sans m’apercevoir que vous\nme faisiez monter à l’arbre.",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 31,
+      "end": 40
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! c’est plus chic? dit Mme Verdurin",
+      "start": 0,
+      "end": 39
+    },
+    {
+      "text": "Alors il y a du chic dans les\nmaladies, maintenant? je ne savais pas ça",
+      "start": 40,
+      "end": 112
+    },
+    {
+      "text": "Ce que vous m’amusez,\ns’écria-t-elle tout à coup en plongeant sa figure dans ses mains",
+      "start": 115,
+      "end": 202
+    },
+    {
+      "text": "Et\nmoi, bonne bête qui discutais sérieusement sans m’apercevoir que vous\nme faisiez monter à l’arbre",
+      "start": 203,
+      "end": 304
+    }
+  ],
+  "tokens": 53,
+  "processed_at": "2025-03-16T02:10:56.008242"
+}

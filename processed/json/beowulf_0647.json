@@ -1,0 +1,94 @@
+{
+  "text": "Saniette qui, depuis qu’il avait rendu précipitamment au maître\nd’hôtel son assiette encore pleine, s’était replongé dans un silence\nméditatif, en sortit enfin pour raconter en riant l’histoire d’un\ndîner qu’il avait fait avec le duc de La Trémoïlle et d’où il\nrésultait que celui-ci ne savait pas que George Sand était le\npseudonyme d’une femme. Swann qui avait de la sympathie pour Saniette\ncrut devoir lui donner sur la culture du duc des détails montrant\nqu’une telle ignorance de la part de celui-ci était matériellement\nimpossible; mais tout d’un coup il s’arrêta, il venait de comprendre\nque Saniette n’avait pas besoin de ces preuves et savait que\nl’histoire était fausse pour la raison qu’il venait de l’inventer il y\navait un moment. Cet excellent homme souffrait d’être trouvé si\nennuyeux par les Verdurin; et ayant conscience d’avoir été plus terne\nencore à ce dîner que d’habitude, il n’avait voulu le laisser finir\nsans avoir réussi à amuser. Il capitula si vite, eut l’air si\nmalheureux de voir manqué l’effet sur lequel il avait compté et\nrépondit d’un ton si lâche à Swann pour que celui-ci ne s’acharnât pas\nà une réfutation désormais inutile: «C’est bon, c’est bon; en tous\ncas, même si je me trompe, ce n’est pas un crime, je pense» que Swann\naurait voulu pouvoir dire que l’histoire était vraie et délicieuse. Le\ndocteur qui les avait écoutés eut l’idée que c’était le cas de dire:\n«Se non e vero», mais il n’était pas assez sûr des mots et craignit de\ns’embrouiller.",
+  "entities": [
+    {
+      "text": "Saniette",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Trémoïlle",
+      "label": "ORG",
+      "start": 240,
+      "end": 249
+    },
+    {
+      "text": "George",
+      "label": "ORG",
+      "start": 302,
+      "end": 308
+    },
+    {
+      "text": "Sand",
+      "label": "ORG",
+      "start": 309,
+      "end": 313
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 347,
+      "end": 352
+    },
+    {
+      "text": "Saniette",
+      "label": "ORG",
+      "start": 384,
+      "end": 392
+    },
+    {
+      "text": "Saniette",
+      "label": "ORG",
+      "start": 599,
+      "end": 607
+    },
+    {
+      "text": "Verdurin;",
+      "label": "ORG",
+      "start": 808,
+      "end": 817
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1084,
+      "end": 1089
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1257,
+      "end": 1262
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Saniette qui, depuis qu’il avait rendu précipitamment au maître\nd’hôtel son assiette encore pleine, s’était replongé dans un silence\nméditatif, en sortit enfin pour raconter en riant l’histoire d’un\ndîner qu’il avait fait avec le duc de La Trémoïlle et d’où il\nrésultait que celui-ci ne savait pas que George Sand était le\npseudonyme d’une femme",
+      "start": 0,
+      "end": 345
+    },
+    {
+      "text": "Swann qui avait de la sympathie pour Saniette\ncrut devoir lui donner sur la culture du duc des détails montrant\nqu’une telle ignorance de la part de celui-ci était matériellement\nimpossible; mais tout d’un coup il s’arrêta, il venait de comprendre\nque Saniette n’avait pas besoin de ces preuves et savait que\nl’histoire était fausse pour la raison qu’il venait de l’inventer il y\navait un moment",
+      "start": 346,
+      "end": 742
+    },
+    {
+      "text": "Cet excellent homme souffrait d’être trouvé si\nennuyeux par les Verdurin; et ayant conscience d’avoir été plus terne\nencore à ce dîner que d’habitude, il n’avait voulu le laisser finir\nsans avoir réussi à amuser",
+      "start": 743,
+      "end": 955
+    },
+    {
+      "text": "Il capitula si vite, eut l’air si\nmalheureux de voir manqué l’effet sur lequel il avait compté et\nrépondit d’un ton si lâche à Swann pour que celui-ci ne s’acharnât pas\nà une réfutation désormais inutile: «C’est bon, c’est bon; en tous\ncas, même si je me trompe, ce n’est pas un crime, je pense» que Swann\naurait voulu pouvoir dire que l’histoire était vraie et délicieuse",
+      "start": 956,
+      "end": 1329
+    },
+    {
+      "text": "Le\ndocteur qui les avait écoutés eut l’idée que c’était le cas de dire:\n«Se non e vero», mais il n’était pas assez sûr des mots et craignit de\ns’embrouiller",
+      "start": 1330,
+      "end": 1487
+    }
+  ],
+  "tokens": 255,
+  "processed_at": "2025-03-16T02:10:56.486746"
+}

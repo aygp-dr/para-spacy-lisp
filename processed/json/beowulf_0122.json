@@ -1,0 +1,31 @@
+{
+  "text": "Autrefois, je ne m’attardais pas dans le bois consacré qui\nl’entourait, car, avant de monter lire, j’entrais dans le petit\ncabinet de repos que mon oncle Adolphe, un frère de mon grand-père,\nancien militaire qui avait pris sa retraite comme commandant, occupait\nau rez-de-chaussée, et qui, même quand les fenêtres ouvertes\nlaissaient entrer la chaleur, sinon les rayons du soleil qui\natteignaient rarement jusque-là, dégageait inépuisablement cette odeur\nobscure et fraîche, à la fois forestière et ancien régime, qui fait\nrêver longuement les narines, quand on pénètre dans certains pavillons\nde chasse abandonnés. Mais depuis nombre d’années je n’entrais plus\ndans le cabinet de mon oncle Adolphe, ce dernier ne venant plus à\nCombray à cause d’une brouille qui était survenue entre lui et ma\nfamille, par ma faute, dans les circonstances suivantes:",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 616,
+      "end": 620
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 728,
+      "end": 735
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Autrefois, je ne m’attardais pas dans le bois consacré qui\nl’entourait, car, avant de monter lire, j’entrais dans le petit\ncabinet de repos que mon oncle Adolphe, un frère de mon grand-père,\nancien militaire qui avait pris sa retraite comme commandant, occupait\nau rez-de-chaussée, et qui, même quand les fenêtres ouvertes\nlaissaient entrer la chaleur, sinon les rayons du soleil qui\natteignaient rarement jusque-là, dégageait inépuisablement cette odeur\nobscure et fraîche, à la fois forestière et ancien régime, qui fait\nrêver longuement les narines, quand on pénètre dans certains pavillons\nde chasse abandonnés",
+      "start": 0,
+      "end": 614
+    },
+    {
+      "text": "Mais depuis nombre d’années je n’entrais plus\ndans le cabinet de mon oncle Adolphe, ce dernier ne venant plus à\nCombray à cause d’une brouille qui était survenue entre lui et ma\nfamille, par ma faute, dans les circonstances suivantes:",
+      "start": 615,
+      "end": 850
+    }
+  ],
+  "tokens": 133,
+  "processed_at": "2025-03-16T02:10:54.810922"
+}

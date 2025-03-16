@@ -1,0 +1,20 @@
+{
+  "text": "--«Et comment s’appelle-t-il ton ami qui vient ce soir?»",
+  "entities": [
+    {
+      "text": "--«Et",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Et comment s’appelle-t-il ton ami qui vient ce soir?»",
+      "start": 0,
+      "end": 56
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:55.035033"
+}

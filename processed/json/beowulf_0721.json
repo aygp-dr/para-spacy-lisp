@@ -1,0 +1,82 @@
+{
+  "text": "Mais là tout lui en apportait. Il voulut éloigner Odette de\nForcheville, l’emmener quelques jours dans le Midi. Mais il croyait\nqu’elle était désirée par tous les hommes qui se trouvaient dans\nl’hôtel et qu’elle-même les désirait. Aussi lui qui jadis en voyage\nrecherchait les gens nouveaux, les assemblées nombreuses, on le voyait\nsauvage, fuyant la société des hommes comme si elle l’eût cruellement\nblessé. Et comment n’aurait-il pas été misanthrope quand dans tout\nhomme il voyait un amant possible pour Odette? Et ainsi sa jalousie\nplus encore que n’avait fait le goût voluptueux et riant qu’il avait\nd’abord pour Odette, altérait le caractère de Swann et changeait du\ntout au tout, aux yeux des autres, l’aspect même des signes extérieurs\npar lesquels ce caractère se manifestait.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 50,
+      "end": 56
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 60,
+      "end": 72
+    },
+    {
+      "text": "Midi.",
+      "label": "ORG",
+      "start": 106,
+      "end": 111
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 112,
+      "end": 116
+    },
+    {
+      "text": "Odette?",
+      "label": "ORG",
+      "start": 508,
+      "end": 515
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 619,
+      "end": 626
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 652,
+      "end": 657
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais là tout lui en apportait",
+      "start": 0,
+      "end": 29
+    },
+    {
+      "text": "Il voulut éloigner Odette de\nForcheville, l’emmener quelques jours dans le Midi",
+      "start": 30,
+      "end": 110
+    },
+    {
+      "text": "Mais il croyait\nqu’elle était désirée par tous les hommes qui se trouvaient dans\nl’hôtel et qu’elle-même les désirait",
+      "start": 111,
+      "end": 229
+    },
+    {
+      "text": "Aussi lui qui jadis en voyage\nrecherchait les gens nouveaux, les assemblées nombreuses, on le voyait\nsauvage, fuyant la société des hommes comme si elle l’eût cruellement\nblessé",
+      "start": 230,
+      "end": 408
+    },
+    {
+      "text": "Et comment n’aurait-il pas été misanthrope quand dans tout\nhomme il voyait un amant possible pour Odette? Et ainsi sa jalousie\nplus encore que n’avait fait le goût voluptueux et riant qu’il avait\nd’abord pour Odette, altérait le caractère de Swann et changeait du\ntout au tout, aux yeux des autres, l’aspect même des signes extérieurs\npar lesquels ce caractère se manifestait",
+      "start": 409,
+      "end": 785
+    }
+  ],
+  "tokens": 127,
+  "processed_at": "2025-03-16T02:10:56.717415"
+}

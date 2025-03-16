@@ -1,0 +1,38 @@
+{
+  "text": "Ayant tenu ces propos que lui inspiraient la hauteur de son aigrette,\nle chiffre de son porte-cartes, le petit numéro tracé à l’encre dans\nses gants par le teinturier, et l’embarras de parler à Swann des\nVerdurin, Mme Cottard, voyant qu’on était encore loin du coin de la\nrue Bonaparte où le conducteur devait l’arrêter, écouta son cœur qui\nlui conseillait d’autres paroles.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 194,
+      "end": 199
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 204,
+      "end": 213
+    },
+    {
+      "text": "Cottard,",
+      "label": "ORG",
+      "start": 218,
+      "end": 226
+    },
+    {
+      "text": "Bonaparte",
+      "label": "ORG",
+      "start": 276,
+      "end": 285
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ayant tenu ces propos que lui inspiraient la hauteur de son aigrette,\nle chiffre de son porte-cartes, le petit numéro tracé à l’encre dans\nses gants par le teinturier, et l’embarras de parler à Swann des\nVerdurin, Mme Cottard, voyant qu’on était encore loin du coin de la\nrue Bonaparte où le conducteur devait l’arrêter, écouta son cœur qui\nlui conseillait d’autres paroles",
+      "start": 0,
+      "end": 373
+    }
+  ],
+  "tokens": 63,
+  "processed_at": "2025-03-16T02:10:57.432049"
+}

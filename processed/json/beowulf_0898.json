@@ -1,0 +1,63 @@
+{
+  "text": "--«Ah! lui dit-il, il y a eu de bien belles vies qui ont fini de cette\nfaçon... Ainsi vous savez... ce navigateur dont Dumont d’Urville\nramena les cendres, La Pérouse...(et Swann était déjà heureux comme\ns’il avait parlé d’Odette.) «C’est un beau caractère et qui\nm’intéresse beaucoup que celui de La Pérouse, ajouta-t-il d’un air\nmélancolique.»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Dumont",
+      "label": "ORG",
+      "start": 119,
+      "end": 125
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 173,
+      "end": 178
+    },
+    {
+      "text": "Pérouse,",
+      "label": "ORG",
+      "start": 301,
+      "end": 309
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! lui dit-il, il y a eu de bien belles vies qui ont fini de cette\nfaçon",
+      "start": 0,
+      "end": 76
+    },
+    {
+      "text": "Ainsi vous savez",
+      "start": 79,
+      "end": 96
+    },
+    {
+      "text": "ce navigateur dont Dumont d’Urville\nramena les cendres, La Pérouse",
+      "start": 99,
+      "end": 166
+    },
+    {
+      "text": "(et Swann était déjà heureux comme\ns’il avait parlé d’Odette",
+      "start": 169,
+      "end": 229
+    },
+    {
+      "text": ") «C’est un beau caractère et qui\nm’intéresse beaucoup que celui de La Pérouse, ajouta-t-il d’un air\nmélancolique",
+      "start": 230,
+      "end": 343
+    },
+    {
+      "text": "»",
+      "start": 344,
+      "end": 345
+    }
+  ],
+  "tokens": 56,
+  "processed_at": "2025-03-16T02:10:57.242988"
+}

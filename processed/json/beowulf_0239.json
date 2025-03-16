@@ -1,0 +1,174 @@
+{
+  "text": "«Mais ce qui est incontestablement le plus curieux dans notre église,\nc’est le point de vue qu’on a du clocher et qui est grandiose.\nCertainement, pour vous qui n’êtes pas très forte, je ne vous\nconseillerais pas de monter nos quatre-vingt-dix-sept marches, juste\nla moitié du célèbre dôme de Milan. Il y a de quoi fatiguer une\npersonne bien portante, d’autant plus qu’on monte plié en deux si on\nne veut pas se casser la tête, et on ramasse avec ses effets toutes\nles toiles d’araignées de l’escalier. En tous cas il faudrait bien\nvous couvrir, ajoutait-il (sans apercevoir l’indignation que causait à\nma tante l’idée qu’elle fût capable de monter dans le clocher), car il\nfait un de ces courants d’air une fois arrivé là-haut! Certaines\npersonnes affirment y avoir ressenti le froid de la mort. N’importe,\nle dimanche il y a toujours des sociétés qui viennent même de très\nloin pour admirer la beauté du panorama et qui s’en retournent\nenchantées. Tenez, dimanche prochain, si le temps se maintient, vous\ntrouveriez certainement du monde, comme ce sont les Rogations. Il faut\navouer du reste qu’on jouit de là d’un coup d’œil féerique, avec des\nsortes d’échappées sur la plaine qui ont un cachet tout particulier.\nQuand le temps est clair on peut distinguer jusqu’à Verneuil. Surtout\non embrasse à la fois des choses qu’on ne peut voir habituellement que\nl’une sans l’autre, comme le cours de la Vivonne et les fossés de\nSaint-Assise-lès-Combray, dont elle est séparée par un rideau de\ngrands arbres, ou encore comme les différents canaux de\nJouy-le-Vicomte (Gaudiacus vice comitis comme vous savez). Chaque fois\nque je suis allé à Jouy-le-Vicomte, j’ai bien vu un bout du canal,\npuis quand j’avais tourné une rue j’en voyais un autre, mais alors je\nne voyais plus le précédent. J’avais beau les mettre ensemble par la\npensée, cela ne me faisait pas grand effet. Du clocher de\nSaint-Hilaire c’est autre chose, c’est tout un réseau où la localité\nest prise. Seulement on ne distingue pas d’eau, on dirait de grandes\nfentes qui coupent si bien la ville en quartiers, qu’elle est comme\nune brioche dont les morceaux tiennent ensemble mais sont déjà\ndécoupés. Il faudrait pour bien faire être à la fois dans le clocher\nde Saint-Hilaire et à Jouy-le-Vicomte.»",
+  "entities": [
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Certainement,",
+      "label": "ORG",
+      "start": 133,
+      "end": 146
+    },
+    {
+      "text": "Milan.",
+      "label": "ORG",
+      "start": 293,
+      "end": 299
+    },
+    {
+      "text": "Certaines",
+      "label": "ORG",
+      "start": 729,
+      "end": 738
+    },
+    {
+      "text": "Tenez,",
+      "label": "ORG",
+      "start": 950,
+      "end": 956
+    },
+    {
+      "text": "Rogations.",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1069
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 1216,
+      "end": 1221
+    },
+    {
+      "text": "Verneuil.",
+      "label": "ORG",
+      "start": 1268,
+      "end": 1277
+    },
+    {
+      "text": "Surtout",
+      "label": "ORG",
+      "start": 1278,
+      "end": 1285
+    },
+    {
+      "text": "Vivonne",
+      "label": "ORG",
+      "start": 1398,
+      "end": 1405
+    },
+    {
+      "text": "(Gaudiacus",
+      "label": "ORG",
+      "start": 1560,
+      "end": 1570
+    },
+    {
+      "text": "Chaque",
+      "label": "ORG",
+      "start": 1603,
+      "end": 1609
+    },
+    {
+      "text": "Saint-Hilaire",
+      "label": "ORG",
+      "start": 1879,
+      "end": 1892
+    },
+    {
+      "text": "Seulement",
+      "label": "ORG",
+      "start": 1959,
+      "end": 1968
+    },
+    {
+      "text": "Saint-Hilaire",
+      "label": "ORG",
+      "start": 2220,
+      "end": 2233
+    }
+  ],
+  "sentences": [
+    {
+      "text": "«Mais ce qui est incontestablement le plus curieux dans notre église,\nc’est le point de vue qu’on a du clocher et qui est grandiose",
+      "start": 0,
+      "end": 131
+    },
+    {
+      "text": "Certainement, pour vous qui n’êtes pas très forte, je ne vous\nconseillerais pas de monter nos quatre-vingt-dix-sept marches, juste\nla moitié du célèbre dôme de Milan",
+      "start": 132,
+      "end": 298
+    },
+    {
+      "text": "Il y a de quoi fatiguer une\npersonne bien portante, d’autant plus qu’on monte plié en deux si on\nne veut pas se casser la tête, et on ramasse avec ses effets toutes\nles toiles d’araignées de l’escalier",
+      "start": 299,
+      "end": 501
+    },
+    {
+      "text": "En tous cas il faudrait bien\nvous couvrir, ajoutait-il (sans apercevoir l’indignation que causait à\nma tante l’idée qu’elle fût capable de monter dans le clocher), car il\nfait un de ces courants d’air une fois arrivé là-haut! Certaines\npersonnes affirment y avoir ressenti le froid de la mort",
+      "start": 502,
+      "end": 795
+    },
+    {
+      "text": "N’importe,\nle dimanche il y a toujours des sociétés qui viennent même de très\nloin pour admirer la beauté du panorama et qui s’en retournent\nenchantées",
+      "start": 796,
+      "end": 948
+    },
+    {
+      "text": "Tenez, dimanche prochain, si le temps se maintient, vous\ntrouveriez certainement du monde, comme ce sont les Rogations",
+      "start": 949,
+      "end": 1068
+    },
+    {
+      "text": "Il faut\navouer du reste qu’on jouit de là d’un coup d’œil féerique, avec des\nsortes d’échappées sur la plaine qui ont un cachet tout particulier",
+      "start": 1069,
+      "end": 1214
+    },
+    {
+      "text": "Quand le temps est clair on peut distinguer jusqu’à Verneuil",
+      "start": 1215,
+      "end": 1276
+    },
+    {
+      "text": "Surtout\non embrasse à la fois des choses qu’on ne peut voir habituellement que\nl’une sans l’autre, comme le cours de la Vivonne et les fossés de\nSaint-Assise-lès-Combray, dont elle est séparée par un rideau de\ngrands arbres, ou encore comme les différents canaux de\nJouy-le-Vicomte (Gaudiacus vice comitis comme vous savez)",
+      "start": 1277,
+      "end": 1601
+    },
+    {
+      "text": "Chaque fois\nque je suis allé à Jouy-le-Vicomte, j’ai bien vu un bout du canal,\npuis quand j’avais tourné une rue j’en voyais un autre, mais alors je\nne voyais plus le précédent",
+      "start": 1602,
+      "end": 1779
+    },
+    {
+      "text": "J’avais beau les mettre ensemble par la\npensée, cela ne me faisait pas grand effet",
+      "start": 1780,
+      "end": 1863
+    },
+    {
+      "text": "Du clocher de\nSaint-Hilaire c’est autre chose, c’est tout un réseau où la localité\nest prise",
+      "start": 1864,
+      "end": 1957
+    },
+    {
+      "text": "Seulement on ne distingue pas d’eau, on dirait de grandes\nfentes qui coupent si bien la ville en quartiers, qu’elle est comme\nune brioche dont les morceaux tiennent ensemble mais sont déjà\ndécoupés",
+      "start": 1958,
+      "end": 2156
+    },
+    {
+      "text": "Il faudrait pour bien faire être à la fois dans le clocher\nde Saint-Hilaire et à Jouy-le-Vicomte",
+      "start": 2157,
+      "end": 2254
+    },
+    {
+      "text": "»",
+      "start": 2255,
+      "end": 2256
+    }
+  ],
+  "tokens": 383,
+  "processed_at": "2025-03-16T02:10:55.248120"
+}

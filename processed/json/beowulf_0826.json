@@ -1,0 +1,145 @@
+{
+  "text": "Or, la princesse des Laumes qu’on ne se serait pas attendu à voir chez\nMme de Saint-Euverte, venait précisément d’arriver. Pour montrer\nqu’elle ne cherchait pas à faire sentir dans un salon où elle ne\nvenait que par condescendance, la supériorité de son rang, elle était\nentrée en effaçant les épaules là même où il n’y avait aucune foule à\nfendre et personne à laisser passer, restant exprès dans le fond, de\nl’air d’y être à sa place, comme un roi qui fait la queue à la porte\nd’un théâtre tant que les autorités n’ont pas été prévenues qu’il est\nlà; et, bornant simplement son regard--pour ne pas avoir l’air de\nsignaler sa présence et de réclamer des égards--à la considération d’un\ndessin du tapis ou de sa propre jupe, elle se tenait debout à\nl’endroit qui lui avait paru le plus modeste (et d’où elle savait bien\nqu’une exclamation ravie de Mme de Saint-Euverte allait la tirer dès\nque celle-ci l’aurait aperçue), à côté de Mme de Cambremer qui lui\nétait inconnue. Elle observait la mimique de sa voisine mélomane, mais\nne l’imitait pas. Ce n’est pas que, pour une fois qu’elle venait\npasser cinq minutes chez Mme de Saint-Euverte, la princesse des Laumes\nn’eût souhaité, pour que la politesse qu’elle lui faisait comptât\ndouble, se montrer le plus aimable possible. Mais par nature, elle\navait horreur de ce qu’elle appelait «les exagérations» et tenait à\nmontrer qu’elle «n’avait pas à» se livrer à des manifestations qui\nn’allaient pas avec le «genre» de la coterie où elle vivait, mais qui\npourtant d’autre part ne laissaient pas de l’impressionner, à la\nfaveur de cet esprit d’imitation voisin de la timidité que développe\nchez les gens les plus sûrs d’eux-mêmes l’ambiance d’un milieu\nnouveau, fût-il inférieur. Elle commençait à se demander si cette\ngesticulation n’était pas rendue nécessaire par le morceau qu’on\njouait et qui ne rentrait peut-être pas dans le cadre de la musique\nqu’elle avait entendue jusqu’à ce jour, si s’abstenir n’était pas\nfaire preuve d’incompréhension à l’égard de l’œuvre et d’inconvenance\nvis-à-vis de la maîtresse de la maison: de sorte que pour exprimer par\nune «cote mal taillée» ses sentiments contradictoires, tantôt elle se\ncontentait de remonter la bride de ses épaulettes ou d’assurer dans\nses cheveux blonds les petites boules de corail ou d’émail rose,\ngivrées de diamant, qui lui faisaient une coiffure simple et\ncharmante, en examinant avec une froide curiosité sa fougueuse\nvoisine, tantôt de son éventail elle battait pendant un instant la\nmesure, mais, pour ne pas abdiquer son indépendance, à contretemps. Le\npianiste ayant terminé le morceau de Liszt et ayant commencé un\nprélude de Chopin, Mme de Cambremer lança à Mme de Franquetot un\nsourire attendri de satisfaction compétente et d’allusion au passé.\nElle avait appris dans sa jeunesse à caresser les phrases, au long col\nsinueux et démesuré, de Chopin, si libres, si flexibles, si tactiles,\nqui commencent par chercher et essayer leur place en dehors et bien\nloin de la direction de leur départ, bien loin du point où on avait pu\nespérer qu’atteindrait leur attouchement, et qui ne se jouent dans cet\nécart de fantaisie que pour revenir plus délibérément,--d’un retour\nplus prémédité, avec plus de précision, comme sur un cristal qui\nrésonnerait jusqu’à faire crier,--vous frapper au cœur.",
+  "entities": [
+    {
+      "text": "Laumes",
+      "label": "ORG",
+      "start": 21,
+      "end": 27
+    },
+    {
+      "text": "Saint-Euverte,",
+      "label": "ORG",
+      "start": 78,
+      "end": 92
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 123,
+      "end": 127
+    },
+    {
+      "text": "Saint-Euverte",
+      "label": "ORG",
+      "start": 855,
+      "end": 868
+    },
+    {
+      "text": "Cambremer",
+      "label": "ORG",
+      "start": 938,
+      "end": 947
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 972,
+      "end": 976
+    },
+    {
+      "text": "Saint-Euverte,",
+      "label": "ORG",
+      "start": 1124,
+      "end": 1138
+    },
+    {
+      "text": "Laumes",
+      "label": "ORG",
+      "start": 1156,
+      "end": 1162
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1278
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1725,
+      "end": 1729
+    },
+    {
+      "text": "Liszt",
+      "label": "ORG",
+      "start": 2606,
+      "end": 2611
+    },
+    {
+      "text": "Chopin,",
+      "label": "ORG",
+      "start": 2644,
+      "end": 2651
+    },
+    {
+      "text": "Cambremer",
+      "label": "ORG",
+      "start": 2659,
+      "end": 2668
+    },
+    {
+      "text": "Franquetot",
+      "label": "ORG",
+      "start": 2684,
+      "end": 2694
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 2766,
+      "end": 2770
+    },
+    {
+      "text": "Chopin,",
+      "label": "ORG",
+      "start": 2861,
+      "end": 2868
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Or, la princesse des Laumes qu’on ne se serait pas attendu à voir chez\nMme de Saint-Euverte, venait précisément d’arriver",
+      "start": 0,
+      "end": 121
+    },
+    {
+      "text": "Pour montrer\nqu’elle ne cherchait pas à faire sentir dans un salon où elle ne\nvenait que par condescendance, la supériorité de son rang, elle était\nentrée en effaçant les épaules là même où il n’y avait aucune foule à\nfendre et personne à laisser passer, restant exprès dans le fond, de\nl’air d’y être à sa place, comme un roi qui fait la queue à la porte\nd’un théâtre tant que les autorités n’ont pas été prévenues qu’il est\nlà; et, bornant simplement son regard--pour ne pas avoir l’air de\nsignaler sa présence et de réclamer des égards--à la considération d’un\ndessin du tapis ou de sa propre jupe, elle se tenait debout à\nl’endroit qui lui avait paru le plus modeste (et d’où elle savait bien\nqu’une exclamation ravie de Mme de Saint-Euverte allait la tirer dès\nque celle-ci l’aurait aperçue), à côté de Mme de Cambremer qui lui\nétait inconnue",
+      "start": 122,
+      "end": 970
+    },
+    {
+      "text": "Elle observait la mimique de sa voisine mélomane, mais\nne l’imitait pas",
+      "start": 971,
+      "end": 1043
+    },
+    {
+      "text": "Ce n’est pas que, pour une fois qu’elle venait\npasser cinq minutes chez Mme de Saint-Euverte, la princesse des Laumes\nn’eût souhaité, pour que la politesse qu’elle lui faisait comptât\ndouble, se montrer le plus aimable possible",
+      "start": 1044,
+      "end": 1272
+    },
+    {
+      "text": "Mais par nature, elle\navait horreur de ce qu’elle appelait «les exagérations» et tenait à\nmontrer qu’elle «n’avait pas à» se livrer à des manifestations qui\nn’allaient pas avec le «genre» de la coterie où elle vivait, mais qui\npourtant d’autre part ne laissaient pas de l’impressionner, à la\nfaveur de cet esprit d’imitation voisin de la timidité que développe\nchez les gens les plus sûrs d’eux-mêmes l’ambiance d’un milieu\nnouveau, fût-il inférieur",
+      "start": 1273,
+      "end": 1723
+    },
+    {
+      "text": "Elle commençait à se demander si cette\ngesticulation n’était pas rendue nécessaire par le morceau qu’on\njouait et qui ne rentrait peut-être pas dans le cadre de la musique\nqu’elle avait entendue jusqu’à ce jour, si s’abstenir n’était pas\nfaire preuve d’incompréhension à l’égard de l’œuvre et d’inconvenance\nvis-à-vis de la maîtresse de la maison: de sorte que pour exprimer par\nune «cote mal taillée» ses sentiments contradictoires, tantôt elle se\ncontentait de remonter la bride de ses épaulettes ou d’assurer dans\nses cheveux blonds les petites boules de corail ou d’émail rose,\ngivrées de diamant, qui lui faisaient une coiffure simple et\ncharmante, en examinant avec une froide curiosité sa fougueuse\nvoisine, tantôt de son éventail elle battait pendant un instant la\nmesure, mais, pour ne pas abdiquer son indépendance, à contretemps",
+      "start": 1724,
+      "end": 2564
+    },
+    {
+      "text": "Le\npianiste ayant terminé le morceau de Liszt et ayant commencé un\nprélude de Chopin, Mme de Cambremer lança à Mme de Franquetot un\nsourire attendri de satisfaction compétente et d’allusion au passé",
+      "start": 2565,
+      "end": 2764
+    },
+    {
+      "text": "Elle avait appris dans sa jeunesse à caresser les phrases, au long col\nsinueux et démesuré, de Chopin, si libres, si flexibles, si tactiles,\nqui commencent par chercher et essayer leur place en dehors et bien\nloin de la direction de leur départ, bien loin du point où on avait pu\nespérer qu’atteindrait leur attouchement, et qui ne se jouent dans cet\nécart de fantaisie que pour revenir plus délibérément,--d’un retour\nplus prémédité, avec plus de précision, comme sur un cristal qui\nrésonnerait jusqu’à faire crier,--vous frapper au cœur",
+      "start": 2765,
+      "end": 3304
+    }
+  ],
+  "tokens": 550,
+  "processed_at": "2025-03-16T02:10:57.034793"
+}

@@ -1,0 +1,46 @@
+{
+  "text": "Parfois, au bord de l’eau entourée de bois, nous rencontrions une\nmaison dite de plaisance, isolée, perdue, qui ne voyait rien, du\nmonde, que la rivière qui baignait ses pieds. Une jeune femme dont le\nvisage pensif et les voiles élégants n’étaient pas de ce pays et qui\nsans doute était venue, selon l’expression populaire «s’enterrer» là,\ngoûter le plaisir amer de sentir que son nom, le nom surtout de celui\ndont elle n’avait pu garder le cœur, y était inconnu, s’encadrait dans\nla fenêtre qui ne lui laissait pas regarder plus loin que la barque\namarrée près de la porte. Elle levait distraitement les yeux en\nentendant derrière les arbres de la rive la voix des passants dont\navant qu’elle eût aperçu leur visage, elle pouvait être certaine que\njamais ils n’avaient connu, ni ne connaîtraient l’infidèle, que rien\ndans leur passé ne gardait sa marque, que rien dans leur avenir\nn’aurait l’occasion de la recevoir. On sentait que, dans son\nrenoncement, elle avait volontairement quitté des lieux où elle aurait\npu du moins apercevoir celui qu’elle aimait, pour ceux-ci qui ne\nl’avaient jamais vu. Et je la regardais, revenant de quelque promenade\nsur un chemin où elle savait qu’il ne passerait pas, ôter de ses mains\nrésignées de longs gants d’une grâce inutile.",
+  "entities": [
+    {
+      "text": "Parfois,",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 575,
+      "end": 579
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Parfois, au bord de l’eau entourée de bois, nous rencontrions une\nmaison dite de plaisance, isolée, perdue, qui ne voyait rien, du\nmonde, que la rivière qui baignait ses pieds",
+      "start": 0,
+      "end": 175
+    },
+    {
+      "text": "Une jeune femme dont le\nvisage pensif et les voiles élégants n’étaient pas de ce pays et qui\nsans doute était venue, selon l’expression populaire «s’enterrer» là,\ngoûter le plaisir amer de sentir que son nom, le nom surtout de celui\ndont elle n’avait pu garder le cœur, y était inconnu, s’encadrait dans\nla fenêtre qui ne lui laissait pas regarder plus loin que la barque\namarrée près de la porte",
+      "start": 176,
+      "end": 573
+    },
+    {
+      "text": "Elle levait distraitement les yeux en\nentendant derrière les arbres de la rive la voix des passants dont\navant qu’elle eût aperçu leur visage, elle pouvait être certaine que\njamais ils n’avaient connu, ni ne connaîtraient l’infidèle, que rien\ndans leur passé ne gardait sa marque, que rien dans leur avenir\nn’aurait l’occasion de la recevoir",
+      "start": 574,
+      "end": 916
+    },
+    {
+      "text": "On sentait que, dans son\nrenoncement, elle avait volontairement quitté des lieux où elle aurait\npu du moins apercevoir celui qu’elle aimait, pour ceux-ci qui ne\nl’avaient jamais vu",
+      "start": 917,
+      "end": 1098
+    },
+    {
+      "text": "Et je la regardais, revenant de quelque promenade\nsur un chemin où elle savait qu’il ne passerait pas, ôter de ses mains\nrésignées de longs gants d’une grâce inutile",
+      "start": 1099,
+      "end": 1265
+    }
+  ],
+  "tokens": 215,
+  "processed_at": "2025-03-16T02:10:55.656667"
+}

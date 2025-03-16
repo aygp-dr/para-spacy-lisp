@@ -1,0 +1,61 @@
+{
+  "text": "Pourquoi croire qu’elle goûterait là-bas avec Forcheville ou avec\nd’autres des plaisirs enivrants qu’elle n’avait pas connus auprès de\nlui et que seule sa jalousie forgeait de toutes pièces? A Bayreuth\ncomme à Paris, s’il arrivait que Forcheville pensât à lui ce n’eût pu\nêtre que comme à quelqu’un qui comptait beaucoup dans la vie d’Odette,\nà qui il était obligé de céder la place, quand ils se rencontraient\nchez elle. Si Forcheville et elle triomphaient d’être là-bas malgré\nlui, c’est lui qui l’aurait voulu en cherchant inutilement à\nl’empêcher d’y aller, tandis que s’il avait approuvé son projet,\nd’ailleurs défendable, elle aurait eu l’air d’être là-bas d’après son\navis, elle s’y serait sentie envoyée, logée par lui, et le plaisir\nqu’elle aurait éprouvé à recevoir ces gens qui l’avaient tant reçue,\nc’est à Swann qu’elle en aurait su gré.",
+  "entities": [
+    {
+      "text": "Pourquoi",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 46,
+      "end": 57
+    },
+    {
+      "text": "Bayreuth",
+      "label": "ORG",
+      "start": 193,
+      "end": 201
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 210,
+      "end": 216
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 235,
+      "end": 246
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 425,
+      "end": 436
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 819,
+      "end": 824
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pourquoi croire qu’elle goûterait là-bas avec Forcheville ou avec\nd’autres des plaisirs enivrants qu’elle n’avait pas connus auprès de\nlui et que seule sa jalousie forgeait de toutes pièces? A Bayreuth\ncomme à Paris, s’il arrivait que Forcheville pensât à lui ce n’eût pu\nêtre que comme à quelqu’un qui comptait beaucoup dans la vie d’Odette,\nà qui il était obligé de céder la place, quand ils se rencontraient\nchez elle",
+      "start": 0,
+      "end": 420
+    },
+    {
+      "text": "Si Forcheville et elle triomphaient d’être là-bas malgré\nlui, c’est lui qui l’aurait voulu en cherchant inutilement à\nl’empêcher d’y aller, tandis que s’il avait approuvé son projet,\nd’ailleurs défendable, elle aurait eu l’air d’être là-bas d’après son\navis, elle s’y serait sentie envoyée, logée par lui, et le plaisir\nqu’elle aurait éprouvé à recevoir ces gens qui l’avaient tant reçue,\nc’est à Swann qu’elle en aurait su gré",
+      "start": 421,
+      "end": 849
+    }
+  ],
+  "tokens": 140,
+  "processed_at": "2025-03-16T02:10:56.891982"
+}

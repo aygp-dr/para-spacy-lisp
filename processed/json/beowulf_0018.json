@@ -1,0 +1,61 @@
+{
+  "text": "Certes, j’étais bien éveillé maintenant, mon corps avait viré une\ndernière fois et le bon ange de la certitude avait tout arrêté autour\nde moi, m’avait couché sous mes couvertures, dans ma chambre, et avait\nmis approximativement à leur place dans l’obscurité ma commode, mon\nbureau, ma cheminée, la fenêtre sur la rue et les deux portes. Mais\nj’avais beau savoir que je n’étais pas dans les demeures dont\nl’ignorance du réveil m’avait en un instant sinon présenté l’image\ndistincte, du moins fait croire la présence possible, le branle était\ndonné à ma mémoire; généralement je ne cherchais pas à me rendormir\ntout de suite; je passais la plus grande partie de la nuit à me\nrappeler notre vie d’autrefois, à Combray chez ma grand’tante, à\nBalbec, à Paris, à Doncières, à Venise, ailleurs encore, à me rappeler\nles lieux, les personnes que j’y avais connues, ce que j’avais vu\nd’elles, ce qu’on m’en avait raconté.",
+  "entities": [
+    {
+      "text": "Certes,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 338,
+      "end": 342
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 708,
+      "end": 715
+    },
+    {
+      "text": "Balbec,",
+      "label": "ORG",
+      "start": 739,
+      "end": 746
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 749,
+      "end": 755
+    },
+    {
+      "text": "Doncières,",
+      "label": "ORG",
+      "start": 758,
+      "end": 768
+    },
+    {
+      "text": "Venise,",
+      "label": "ORG",
+      "start": 771,
+      "end": 778
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Certes, j’étais bien éveillé maintenant, mon corps avait viré une\ndernière fois et le bon ange de la certitude avait tout arrêté autour\nde moi, m’avait couché sous mes couvertures, dans ma chambre, et avait\nmis approximativement à leur place dans l’obscurité ma commode, mon\nbureau, ma cheminée, la fenêtre sur la rue et les deux portes",
+      "start": 0,
+      "end": 336
+    },
+    {
+      "text": "Mais\nj’avais beau savoir que je n’étais pas dans les demeures dont\nl’ignorance du réveil m’avait en un instant sinon présenté l’image\ndistincte, du moins fait croire la présence possible, le branle était\ndonné à ma mémoire; généralement je ne cherchais pas à me rendormir\ntout de suite; je passais la plus grande partie de la nuit à me\nrappeler notre vie d’autrefois, à Combray chez ma grand’tante, à\nBalbec, à Paris, à Doncières, à Venise, ailleurs encore, à me rappeler\nles lieux, les personnes que j’y avais connues, ce que j’avais vu\nd’elles, ce qu’on m’en avait raconté",
+      "start": 337,
+      "end": 912
+    }
+  ],
+  "tokens": 156,
+  "processed_at": "2025-03-16T02:10:54.401075"
+}

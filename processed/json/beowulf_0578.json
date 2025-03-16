@@ -1,0 +1,65 @@
+{
+  "text": "De ceux qui aimaient à bibeloter, qui aimaient les vers, méprisaient\nles bas calculs, rêvaient d’honneur et d’amour, elle faisait une élite\nsupérieure au reste de l’humanité. Il n’y avait pas besoin qu’on eût\nréellement ces goûts pourvu qu’on les proclamât; d’un homme qui lui\navait avoué à dîner qu’il aimait à flâner, à se salir les doigts dans\nles vieilles boutiques, qu’il ne serait jamais apprécié par ce siècle\ncommercial, car il ne se souciait pas de ses intérêts et qu’il était\npour cela d’un autre temps, elle revenait en disant: «Mais c’est une\nâme adorable, un sensible, je ne m’en étais jamais doutée!» et elle se\nsentait pour lui une immense et soudaine amitié. Mais, en revanche\nceux, qui comme Swann, avaient ces goûts, mais n’en parlaient pas, la\nlaissaient froide. Sans doute elle était obligée d’avouer que Swann ne\ntenait pas à l’argent, mais elle ajoutait d’un air boudeur: «Mais lui,\nça n’est pas la même chose»; et en effet, ce qui parlait à son\nimagination, ce n’était pas la pratique du désintéressement, c’en\nétait le vocabulaire.",
+  "entities": [
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 539,
+      "end": 544
+    },
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 675,
+      "end": 680
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 709,
+      "end": 715
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 782,
+      "end": 786
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 825,
+      "end": 830
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 894,
+      "end": 899
+    }
+  ],
+  "sentences": [
+    {
+      "text": "De ceux qui aimaient à bibeloter, qui aimaient les vers, méprisaient\nles bas calculs, rêvaient d’honneur et d’amour, elle faisait une élite\nsupérieure au reste de l’humanité",
+      "start": 0,
+      "end": 173
+    },
+    {
+      "text": "Il n’y avait pas besoin qu’on eût\nréellement ces goûts pourvu qu’on les proclamât; d’un homme qui lui\navait avoué à dîner qu’il aimait à flâner, à se salir les doigts dans\nles vieilles boutiques, qu’il ne serait jamais apprécié par ce siècle\ncommercial, car il ne se souciait pas de ses intérêts et qu’il était\npour cela d’un autre temps, elle revenait en disant: «Mais c’est une\nâme adorable, un sensible, je ne m’en étais jamais doutée!» et elle se\nsentait pour lui une immense et soudaine amitié",
+      "start": 174,
+      "end": 673
+    },
+    {
+      "text": "Mais, en revanche\nceux, qui comme Swann, avaient ces goûts, mais n’en parlaient pas, la\nlaissaient froide",
+      "start": 674,
+      "end": 780
+    },
+    {
+      "text": "Sans doute elle était obligée d’avouer que Swann ne\ntenait pas à l’argent, mais elle ajoutait d’un air boudeur: «Mais lui,\nça n’est pas la même chose»; et en effet, ce qui parlait à son\nimagination, ce n’était pas la pratique du désintéressement, c’en\nétait le vocabulaire",
+      "start": 781,
+      "end": 1054
+    }
+  ],
+  "tokens": 180,
+  "processed_at": "2025-03-16T02:10:56.284970"
+}

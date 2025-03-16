@@ -1,0 +1,30 @@
+{
+  "text": "Et c’est à ce moment-là encore,--grâce à un paysan qui passait, l’air\ndéjà d’être d’assez mauvaise humeur, qui le fut davantage quand il\nfaillit recevoir mon parapluie dans la figure, et qui répondit sans\nchaleur à mes «beau temps, n’est-ce pas, il fait bon marcher»,--que\nj’appris que les mêmes émotions ne se produisent pas simultanément,\ndans un ordre préétabli, chez tous les hommes. Plus tard chaque fois\nqu’une lecture un peu longue m’avait mis en humeur de causer, le\ncamarade à qui je brûlais d’adresser la parole venait justement de se\nlivrer au plaisir de la conversation et désirait maintenant qu’on le\nlaissât lire tranquille. Si je venais de penser à mes parents avec\ntendresse et de prendre les décisions les plus sages et les plus\npropres à leur faire plaisir, ils avaient employé le même temps à\napprendre une peccadille que j’avais oubliée et qu’ils me reprochaient\nsévèrement au moment où je m’élançais vers eux pour les embrasser.",
+  "entities": [
+    {
+      "text": "Plus",
+      "label": "ORG",
+      "start": 388,
+      "end": 392
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et c’est à ce moment-là encore,--grâce à un paysan qui passait, l’air\ndéjà d’être d’assez mauvaise humeur, qui le fut davantage quand il\nfaillit recevoir mon parapluie dans la figure, et qui répondit sans\nchaleur à mes «beau temps, n’est-ce pas, il fait bon marcher»,--que\nj’appris que les mêmes émotions ne se produisent pas simultanément,\ndans un ordre préétabli, chez tous les hommes",
+      "start": 0,
+      "end": 386
+    },
+    {
+      "text": "Plus tard chaque fois\nqu’une lecture un peu longue m’avait mis en humeur de causer, le\ncamarade à qui je brûlais d’adresser la parole venait justement de se\nlivrer au plaisir de la conversation et désirait maintenant qu’on le\nlaissât lire tranquille",
+      "start": 387,
+      "end": 637
+    },
+    {
+      "text": "Si je venais de penser à mes parents avec\ntendresse et de prendre les décisions les plus sages et les plus\npropres à leur faire plaisir, ils avaient employé le même temps à\napprendre une peccadille que j’avais oubliée et qu’ils me reprochaient\nsévèrement au moment où je m’élançais vers eux pour les embrasser",
+      "start": 638,
+      "end": 948
+    }
+  ],
+  "tokens": 159,
+  "processed_at": "2025-03-16T02:10:55.552902"
+}

@@ -1,0 +1,37 @@
+{
+  "text": "Certes, il avait trop longtemps oublié qu’il était le «fils Swann»\npour ne pas ressentir quand il le redevenait un moment, un plaisir\nplus vif que ceux qu’il eût pu éprouver le reste du temps et sur\nlesquels il était blasé; et si l’amabilité des bourgeois, pour\nlesquels il restait surtout cela, était moins vive que celle de\nl’aristocratie (mais plus flatteuse d’ailleurs, car chez eux du moins\nelle ne se sépare jamais de la considération), une lettre d’altesse,\nquelques divertissements princiers qu’elle lui proposât, ne pouvait\nlui être aussi agréable que celle qui lui demandait d’être témoin, ou\nseulement d’assister à un mariage dans la famille de vieux amis de ses\nparents dont les uns avaient continué à le voir--comme mon grand-père\nqui, l’année précédente, l’avait invité au mariage de ma mère--et dont\ncertains autres le connaissaient personnellement à peine mais se\ncroyaient des devoirs de politesse envers le fils, envers le digne\nsuccesseur de feu M. Swann.",
+  "entities": [
+    {
+      "text": "Certes,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Swann»",
+      "label": "ORG",
+      "start": 60,
+      "end": 66
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 968,
+      "end": 974
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Certes, il avait trop longtemps oublié qu’il était le «fils Swann»\npour ne pas ressentir quand il le redevenait un moment, un plaisir\nplus vif que ceux qu’il eût pu éprouver le reste du temps et sur\nlesquels il était blasé; et si l’amabilité des bourgeois, pour\nlesquels il restait surtout cela, était moins vive que celle de\nl’aristocratie (mais plus flatteuse d’ailleurs, car chez eux du moins\nelle ne se sépare jamais de la considération), une lettre d’altesse,\nquelques divertissements princiers qu’elle lui proposât, ne pouvait\nlui être aussi agréable que celle qui lui demandait d’être témoin, ou\nseulement d’assister à un mariage dans la famille de vieux amis de ses\nparents dont les uns avaient continué à le voir--comme mon grand-père\nqui, l’année précédente, l’avait invité au mariage de ma mère--et dont\ncertains autres le connaissaient personnellement à peine mais se\ncroyaient des devoirs de politesse envers le fils, envers le digne\nsuccesseur de feu M",
+      "start": 0,
+      "end": 966
+    },
+    {
+      "text": "Swann",
+      "start": 59,
+      "end": 65
+    }
+  ],
+  "tokens": 159,
+  "processed_at": "2025-03-16T02:10:56.923252"
+}

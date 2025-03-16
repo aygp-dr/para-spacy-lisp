@@ -1,0 +1,25 @@
+{
+  "text": "--Mais je connais ce quintette, je peux te dire tout de suite... que je\nl’aime!",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais je connais ce quintette, je peux te dire tout de suite",
+      "start": 0,
+      "end": 61
+    },
+    {
+      "text": "que je\nl’aime!",
+      "start": 64,
+      "end": 79
+    }
+  ],
+  "tokens": 15,
+  "processed_at": "2025-03-16T02:10:57.052842"
+}

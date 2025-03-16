@@ -1,0 +1,26 @@
+{
+  "text": "--«Ah! non, non, pas ma sonate! cria Mme Verdurin, je n’ai pas envie à\nforce de pleurer de me fiche un rhume de cerveau avec névralgies\nfaciales, comme la dernière fois; merci du cadeau, je ne tiens pas à\nrecommencer; vous êtes bons vous autres, on voit bien que ce n’est pas\nvous qui garderez le lit huit jours!»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 41,
+      "end": 50
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! non, non, pas ma sonate! cria Mme Verdurin, je n’ai pas envie à\nforce de pleurer de me fiche un rhume de cerveau avec névralgies\nfaciales, comme la dernière fois; merci du cadeau, je ne tiens pas à\nrecommencer; vous êtes bons vous autres, on voit bien que ce n’est pas\nvous qui garderez le lit huit jours!»",
+      "start": 0,
+      "end": 313
+    }
+  ],
+  "tokens": 59,
+  "processed_at": "2025-03-16T02:10:55.880899"
+}

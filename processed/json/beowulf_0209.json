@@ -1,0 +1,259 @@
+{
+  "text": "--«C’est malheureux. Vous devriez leur demander. La Berma dans Phèdre,\ndans le Cid, ce n’est qu’une actrice si vous voulez, mais vous savez\nje ne crois pas beaucoup à la «hiérarchie!» des arts; (et je\nremarquai, comme cela m’avait souvent frappé dans ses conversations\navec les sœurs de ma grand’mère que quand il parlait de choses\nsérieuses, quand il employait une expression qui semblait impliquer\nune opinion sur un sujet important, il avait soin de l’isoler dans une\nintonation spéciale, machinale et ironique, comme s’il l’avait mise\nentre guillemets, semblant ne pas vouloir la prendre à son compte, et\ndire: «la hiérarchie, vous savez, comme disent les gens ridicules»?\nMais alors, si c’était ridicule, pourquoi disait-il la hiérarchie?).\nUn instant après il ajouta: «Cela vous donnera une vision aussi noble\nque n’importe quel chef-d’œuvre, je ne sais pas moi... que»--et il se\nmit à rire--«les Reines de Chartres!» Jusque-là cette horreur\nd’exprimer sérieusement son opinion m’avait paru quelque chose qui\ndevait être élégant et parisien et qui s’opposait au dogmatisme\nprovincial des sœurs de ma grand’mère; et je soupçonnais aussi que\nc’était une des formes de l’esprit dans la coterie où vivait Swann et\noù par réaction sur le lyrisme des générations antérieures on\nréhabilitait à l’excès les petits faits précis, réputés vulgaires\nautrefois, et on proscrivait les «phrases». Mais maintenant je\ntrouvais quelque chose de choquant dans cette attitude de Swann en\nface des choses. Il avait l’air de ne pas oser avoir une opinion et de\nn’être tranquille que quand il pouvait donner méticuleusement des\nrenseignements précis. Mais il ne se rendait donc pas compte que\nc’était professer l’opinion, postuler, que l’exactitude de ces détails\navait de l’importance. Je repensai alors à ce dîner où j’étais si\ntriste parce que maman ne devait pas monter dans ma chambre et où il\navait dit que les bals chez la princesse de Léon n’avaient aucune\nimportance. Mais c’était pourtant à ce genre de plaisirs qu’il\nemployait sa vie. Je trouvais tout cela contradictoire. Pour quelle\nautre vie réservait-il de dire enfin sérieusement ce qu’il pensait des\nchoses, de formuler des jugements qu’il pût ne pas mettre entre\nguillemets, et de ne plus se livrer avec une politesse pointilleuse à\ndes occupations dont il professait en même temps qu’elles sont\nridicules? Je remarquai aussi dans la façon dont Swann me parla de\nBergotte quelque chose qui en revanche ne lui était pas particulier\nmais au contraire était dans ce temps-là commun à tous les admirateurs\nde l’écrivain, à l’amie de ma mère, au docteur du Boulbon. Comme\nSwann, ils disaient de Bergotte: «C’est un charmant esprit, si\nparticulier, il a une façon à lui de dire les choses un peu cherchée,\nmais si agréable. On n’a pas besoin de voir la signature, on reconnaît\ntout de suite que c’est de lui.» Mais aucun n’aurait été jusqu’à dire:\n«C’est un grand écrivain, il a un grand talent.» Ils ne disaient même\npas qu’il avait du talent. Ils ne le disaient pas parce qu’ils ne le\nsavaient pas. Nous sommes très longs à reconnaître dans la physionomie\nparticulière d’un nouvel écrivain le modèle qui porte le nom de «grand\ntalent» dans notre musée des idées générales. Justement parce que\ncette physionomie est nouvelle nous ne la trouvons pas tout à fait\nressemblante à ce que nous appelons talent. Nous disons plutôt\noriginalité, charme, délicatesse, force; et puis un jour nous nous\nrendons compte que c’est justement tout cela le talent.",
+  "entities": [
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 21,
+      "end": 25
+    },
+    {
+      "text": "Berma",
+      "label": "ORG",
+      "start": 52,
+      "end": 57
+    },
+    {
+      "text": "Phèdre,",
+      "label": "ORG",
+      "start": 63,
+      "end": 70
+    },
+    {
+      "text": "Cid,",
+      "label": "ORG",
+      "start": 79,
+      "end": 83
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 677,
+      "end": 681
+    },
+    {
+      "text": "«Cela",
+      "label": "ORG",
+      "start": 774,
+      "end": 779
+    },
+    {
+      "text": "Reines",
+      "label": "ORG",
+      "start": 903,
+      "end": 909
+    },
+    {
+      "text": "Chartres!»",
+      "label": "ORG",
+      "start": 913,
+      "end": 923
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1207,
+      "end": 1212
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1388,
+      "end": 1392
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1465,
+      "end": 1470
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1634,
+      "end": 1638
+    },
+    {
+      "text": "Léon",
+      "label": "ORG",
+      "start": 1926,
+      "end": 1930
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1960,
+      "end": 1964
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 2067,
+      "end": 2071
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2396,
+      "end": 2401
+    },
+    {
+      "text": "Bergotte",
+      "label": "ORG",
+      "start": 2414,
+      "end": 2422
+    },
+    {
+      "text": "Boulbon.",
+      "label": "ORG",
+      "start": 2603,
+      "end": 2611
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 2612,
+      "end": 2617
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 2618,
+      "end": 2624
+    },
+    {
+      "text": "Bergotte:",
+      "label": "ORG",
+      "start": 2641,
+      "end": 2650
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2855,
+      "end": 2859
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 3046,
+      "end": 3050
+    },
+    {
+      "text": "Justement",
+      "label": "ORG",
+      "start": 3220,
+      "end": 3229
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 3351,
+      "end": 3355
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«C’est malheureux",
+      "start": 0,
+      "end": 19
+    },
+    {
+      "text": "Vous devriez leur demander",
+      "start": 20,
+      "end": 47
+    },
+    {
+      "text": "La Berma dans Phèdre,\ndans le Cid, ce n’est qu’une actrice si vous voulez, mais vous savez\nje ne crois pas beaucoup à la «hiérarchie!» des arts; (et je\nremarquai, comme cela m’avait souvent frappé dans ses conversations\navec les sœurs de ma grand’mère que quand il parlait de choses\nsérieuses, quand il employait une expression qui semblait impliquer\nune opinion sur un sujet important, il avait soin de l’isoler dans une\nintonation spéciale, machinale et ironique, comme s’il l’avait mise\nentre guillemets, semblant ne pas vouloir la prendre à son compte, et\ndire: «la hiérarchie, vous savez, comme disent les gens ridicules»?\nMais alors, si c’était ridicule, pourquoi disait-il la hiérarchie?)",
+      "start": 48,
+      "end": 744
+    },
+    {
+      "text": "Un instant après il ajouta: «Cela vous donnera une vision aussi noble\nque n’importe quel chef-d’œuvre, je ne sais pas moi",
+      "start": 745,
+      "end": 867
+    },
+    {
+      "text": "que»--et il se\nmit à rire--«les Reines de Chartres!» Jusque-là cette horreur\nd’exprimer sérieusement son opinion m’avait paru quelque chose qui\ndevait être élégant et parisien et qui s’opposait au dogmatisme\nprovincial des sœurs de ma grand’mère; et je soupçonnais aussi que\nc’était une des formes de l’esprit dans la coterie où vivait Swann et\noù par réaction sur le lyrisme des générations antérieures on\nréhabilitait à l’excès les petits faits précis, réputés vulgaires\nautrefois, et on proscrivait les «phrases»",
+      "start": 870,
+      "end": 1386
+    },
+    {
+      "text": "Mais maintenant je\ntrouvais quelque chose de choquant dans cette attitude de Swann en\nface des choses",
+      "start": 1387,
+      "end": 1489
+    },
+    {
+      "text": "Il avait l’air de ne pas oser avoir une opinion et de\nn’être tranquille que quand il pouvait donner méticuleusement des\nrenseignements précis",
+      "start": 1490,
+      "end": 1632
+    },
+    {
+      "text": "Mais il ne se rendait donc pas compte que\nc’était professer l’opinion, postuler, que l’exactitude de ces détails\navait de l’importance",
+      "start": 1633,
+      "end": 1768
+    },
+    {
+      "text": "Je repensai alors à ce dîner où j’étais si\ntriste parce que maman ne devait pas monter dans ma chambre et où il\navait dit que les bals chez la princesse de Léon n’avaient aucune\nimportance",
+      "start": 1769,
+      "end": 1958
+    },
+    {
+      "text": "Mais c’était pourtant à ce genre de plaisirs qu’il\nemployait sa vie",
+      "start": 1959,
+      "end": 2027
+    },
+    {
+      "text": "Je trouvais tout cela contradictoire",
+      "start": 2028,
+      "end": 2065
+    },
+    {
+      "text": "Pour quelle\nautre vie réservait-il de dire enfin sérieusement ce qu’il pensait des\nchoses, de formuler des jugements qu’il pût ne pas mettre entre\nguillemets, et de ne plus se livrer avec une politesse pointilleuse à\ndes occupations dont il professait en même temps qu’elles sont\nridicules? Je remarquai aussi dans la façon dont Swann me parla de\nBergotte quelque chose qui en revanche ne lui était pas particulier\nmais au contraire était dans ce temps-là commun à tous les admirateurs\nde l’écrivain, à l’amie de ma mère, au docteur du Boulbon",
+      "start": 2066,
+      "end": 2610
+    },
+    {
+      "text": "Comme\nSwann, ils disaient de Bergotte: «C’est un charmant esprit, si\nparticulier, il a une façon à lui de dire les choses un peu cherchée,\nmais si agréable",
+      "start": 2611,
+      "end": 2767
+    },
+    {
+      "text": "On n’a pas besoin de voir la signature, on reconnaît\ntout de suite que c’est de lui",
+      "start": 2768,
+      "end": 2852
+    },
+    {
+      "text": "» Mais aucun n’aurait été jusqu’à dire:\n«C’est un grand écrivain, il a un grand talent",
+      "start": 2853,
+      "end": 2939
+    },
+    {
+      "text": "» Ils ne disaient même\npas qu’il avait du talent",
+      "start": 2940,
+      "end": 2988
+    },
+    {
+      "text": "Ils ne le disaient pas parce qu’ils ne le\nsavaient pas",
+      "start": 2989,
+      "end": 3044
+    },
+    {
+      "text": "Nous sommes très longs à reconnaître dans la physionomie\nparticulière d’un nouvel écrivain le modèle qui porte le nom de «grand\ntalent» dans notre musée des idées générales",
+      "start": 3045,
+      "end": 3218
+    },
+    {
+      "text": "Justement parce que\ncette physionomie est nouvelle nous ne la trouvons pas tout à fait\nressemblante à ce que nous appelons talent",
+      "start": 3219,
+      "end": 3349
+    },
+    {
+      "text": "Nous disons plutôt\noriginalité, charme, délicatesse, force; et puis un jour nous nous\nrendons compte que c’est justement tout cela le talent",
+      "start": 3350,
+      "end": 3491
+    }
+  ],
+  "tokens": 577,
+  "processed_at": "2025-03-16T02:10:55.146537"
+}

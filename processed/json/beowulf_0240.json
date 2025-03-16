@@ -1,0 +1,20 @@
+{
+  "text": "Le curé avait tellement fatigué ma tante qu’à peine était-il parti,\nelle était obligée de renvoyer Eulalie.",
+  "entities": [
+    {
+      "text": "Eulalie.",
+      "label": "ORG",
+      "start": 99,
+      "end": 107
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le curé avait tellement fatigué ma tante qu’à peine était-il parti,\nelle était obligée de renvoyer Eulalie",
+      "start": 0,
+      "end": 106
+    }
+  ],
+  "tokens": 17,
+  "processed_at": "2025-03-16T02:10:55.250932"
+}

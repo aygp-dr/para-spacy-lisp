@@ -1,0 +1,87 @@
+{
+  "text": "Sans entendre les réflexions, je percevais autour d’elle le murmure\nindistinct de la célébrité. Mon cœur battait d’impatience quand je\npensais qu’il allait se passer un instant encore avant que tous ces\ngens, au milieu desquels je remarquais avec désolation que n’était pas\nun banquier mulâtre par lequel je me sentais méprisé, vissent le jeune\nhomme inconnu auquel ils ne prêtaient aucune attention, saluer (sans\nla connaître, à vrai dire, mais je m’y croyais autorisé parce que mes\nparents connaissaient son mari et que j’étais le camarade de sa\nfille), cette femme dont la réputation de beauté, d’inconduite et\nd’élégance était universelle. Mais déjà j’étais tout près de Mme\nSwann, alors je lui tirais un si grand coup de chapeau, si étendu, si\nprolongé, qu’elle ne pouvait s’empêcher de sourire. Des gens riaient.\nQuant à elle, elle ne m’avait jamais vu avec Gilberte, elle ne savait\npas mon nom, mais j’étais pour elle--comme un des gardes du Bois, ou le\nbatelier ou les canards du lac à qui elle jetait du pain--un des\npersonnages secondaires, familiers, anonymes, aussi dénués de\ncaractères individuels qu’un «emploi de théâtre», de ses promenades au\nbois. Certains jours où je ne l’avais pas vue allée des Acacias, il\nm’arrivait de la rencontrer dans l’allée de la Reine-Marguerite où\nvont les femmes qui cherchent à être seules, ou à avoir l’air de\nchercher à l’être; elle ne le restait pas longtemps, bientôt rejointe\npar quelque ami, souvent coiffé d’un «tube» gris, que je ne\nconnaissais pas et qui causait longuement avec elle, tandis que leurs\ndeux voitures suivaient.",
+  "entities": [
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 644,
+      "end": 648
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 679,
+      "end": 685
+    },
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 819,
+      "end": 824
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 864,
+      "end": 873
+    },
+    {
+      "text": "Bois,",
+      "label": "ORG",
+      "start": 949,
+      "end": 954
+    },
+    {
+      "text": "Certains",
+      "label": "ORG",
+      "start": 1165,
+      "end": 1173
+    },
+    {
+      "text": "Reine-Marguerite",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1290
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sans entendre les réflexions, je percevais autour d’elle le murmure\nindistinct de la célébrité",
+      "start": 0,
+      "end": 94
+    },
+    {
+      "text": "Mon cœur battait d’impatience quand je\npensais qu’il allait se passer un instant encore avant que tous ces\ngens, au milieu desquels je remarquais avec désolation que n’était pas\nun banquier mulâtre par lequel je me sentais méprisé, vissent le jeune\nhomme inconnu auquel ils ne prêtaient aucune attention, saluer (sans\nla connaître, à vrai dire, mais je m’y croyais autorisé parce que mes\nparents connaissaient son mari et que j’étais le camarade de sa\nfille), cette femme dont la réputation de beauté, d’inconduite et\nd’élégance était universelle",
+      "start": 95,
+      "end": 642
+    },
+    {
+      "text": "Mais déjà j’étais tout près de Mme\nSwann, alors je lui tirais un si grand coup de chapeau, si étendu, si\nprolongé, qu’elle ne pouvait s’empêcher de sourire",
+      "start": 643,
+      "end": 799
+    },
+    {
+      "text": "Des gens riaient",
+      "start": 800,
+      "end": 817
+    },
+    {
+      "text": "Quant à elle, elle ne m’avait jamais vu avec Gilberte, elle ne savait\npas mon nom, mais j’étais pour elle--comme un des gardes du Bois, ou le\nbatelier ou les canards du lac à qui elle jetait du pain--un des\npersonnages secondaires, familiers, anonymes, aussi dénués de\ncaractères individuels qu’un «emploi de théâtre», de ses promenades au\nbois",
+      "start": 818,
+      "end": 1163
+    },
+    {
+      "text": "Certains jours où je ne l’avais pas vue allée des Acacias, il\nm’arrivait de la rencontrer dans l’allée de la Reine-Marguerite où\nvont les femmes qui cherchent à être seules, ou à avoir l’air de\nchercher à l’être; elle ne le restait pas longtemps, bientôt rejointe\npar quelque ami, souvent coiffé d’un «tube» gris, que je ne\nconnaissais pas et qui causait longuement avec elle, tandis que leurs\ndeux voitures suivaient",
+      "start": 1164,
+      "end": 1582
+    }
+  ],
+  "tokens": 262,
+  "processed_at": "2025-03-16T02:10:57.618432"
+}

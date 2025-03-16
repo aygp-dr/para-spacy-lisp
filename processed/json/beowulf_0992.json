@@ -1,0 +1,260 @@
+{
+  "text": "J’emmenais Françoise au-devant de Gilberte jusqu’à l’Arc-de-Triomphe,\nnous ne la rencontrions pas, et je revenais vers la pelouse persuadé\nqu’elle ne viendrait plus, quand, devant les chevaux de bois, la\nfillette à la voix brève se jetait sur moi: «Vite, vite, il y a déjà\nun quart d’heure que Gilberte est arrivée. Elle va repartir bientôt.\nOn vous attend pour faire une partie de barres.» Pendant que je\nmontais l’avenue des Champs-Élysées, Gilberte était venue par la rue\nBoissy-d’Anglas, Mademoiselle ayant profité du beau temps pour faire\ndes courses pour elle; et M. Swann allait venir chercher sa fille.\nAussi c’était ma faute; je n’aurais pas dû m’éloigner de la pelouse;\ncar on ne savait jamais sûrement par quel côté Gilberte viendrait, si\nce serait plus ou moins tard, et cette attente finissait par me rendre\nplus émouvants, non seulement les Champs-Élysées entiers et toute la\ndurée de l’après-midi, comme une immense étendue d’espace et de temps\nsur chacun des points et à chacun des moments de laquelle il était\npossible qu’apparût l’image de Gilberte, mais encore cette image,\nelle-même, parce que derrière cette image je sentais se cacher la\nraison pour laquelle elle m’était décochée en plein cœur, à quatre\nheures au lieu de deux heures et demie, surmontée d’un chapeau de\nvisite à la place d’un béret de jeu, devant les «Ambassadeurs» et non\nentre les deux guignols, je devinais quelqu’une de ces occupations où\nje ne pouvais suivre Gilberte et qui la forçaient à sortir ou à rester\nà la maison, j’étais en contact avec le mystère de sa vie inconnue.\nC’était ce mystère aussi qui me troublait quand, courant sur l’ordre\nde la fillette à la voix brève pour commencer tout de suite notre\npartie de barres, j’apercevais Gilberte, si vive et brusque avec nous,\nfaisant une révérence à la dame aux Débats (qui lui disait: «Quel beau\nsoleil, on dirait du feu»), lui parlant avec un sourire timide, d’un\nair compassé qui m’évoquait la jeune fille différente que Gilberte\ndevait être chez ses parents, avec les amis de ses parents, en visite,\ndans toute son autre existence qui m’échappait. Mais de cette\nexistence personne ne me donnait l’impression comme M. Swann qui\nvenait un peu après pour retrouver sa fille. C’est que lui et Mme\nSwann,--parce que leur fille habitait chez eux, parce que ses études,\nses jeux, ses amitiés dépendaient d’eux--contenaient pour moi, comme\nGilberte, peut-être même plus que Gilberte, comme il convenait à des\nlieux tout-puissants sur elle en qui il aurait eu sa source, un\ninconnu inaccessible, un charme douloureux. Tout ce qui les concernait\nétait de ma part l’objet d’une préoccupation si constante que les\njours où, comme ceux-là, M. Swann (que j’avais vu si souvent autrefois\nsans qu’il excitât ma curiosité, quand il était lié avec mes parents)\nvenait chercher Gilberte aux Champs-Élysées, une fois calmés les\nbattements de cœur qu’avait excités en moi l’apparition de son chapeau\ngris et de son manteau à pèlerine, son aspect m’impressionnait encore\ncomme celui d’un personnage historique sur lequel nous venons de lire\nune série d’ouvrages et dont les moindres particularités nous\npassionnent. Ses relations avec le comte de Paris qui, quand j’en\nentendais parler à Combray, me semblaient indifférentes, prenaient\nmaintenant pour moi quelque chose de merveilleux, comme si personne\nd’autre n’eût jamais connu les Orléans; elles le faisaient se détacher\nvivement sur le fond vulgaire des promeneurs de différentes classes\nqui encombraient cette allée des Champs-Élysées, et au milieu desquels\nj’admirais qu’il consentît à figurer sans réclamer d’eux d’égards\nspéciaux, qu’aucun d’ailleurs ne songeait à lui rendre, tant était\nprofond l’incognito dont il était enveloppé.",
+  "entities": [
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 11,
+      "end": 20
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 34,
+      "end": 42
+    },
+    {
+      "text": "«Vite,",
+      "label": "ORG",
+      "start": 248,
+      "end": 254
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 294,
+      "end": 302
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 316,
+      "end": 320
+    },
+    {
+      "text": "Pendant",
+      "label": "ORG",
+      "start": 391,
+      "end": 398
+    },
+    {
+      "text": "Champs-Élysées,",
+      "label": "ORG",
+      "start": 427,
+      "end": 442
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 443,
+      "end": 451
+    },
+    {
+      "text": "Mademoiselle",
+      "label": "ORG",
+      "start": 492,
+      "end": 504
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 573,
+      "end": 578
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 727,
+      "end": 735
+    },
+    {
+      "text": "Champs-Élysées",
+      "label": "ORG",
+      "start": 855,
+      "end": 869
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 1058,
+      "end": 1067
+    },
+    {
+      "text": "«Ambassadeurs»",
+      "label": "ORG",
+      "start": 1340,
+      "end": 1354
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1453,
+      "end": 1461
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 1737,
+      "end": 1746
+    },
+    {
+      "text": "Débats",
+      "label": "ORG",
+      "start": 1813,
+      "end": 1819
+    },
+    {
+      "text": "«Quel",
+      "label": "ORG",
+      "start": 1837,
+      "end": 1842
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1975,
+      "end": 1983
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2103,
+      "end": 2107
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2172,
+      "end": 2177
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 2387,
+      "end": 2396
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 2421,
+      "end": 2430
+    },
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 2564,
+      "end": 2568
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2685,
+      "end": 2690
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 2814,
+      "end": 2822
+    },
+    {
+      "text": "Champs-Élysées,",
+      "label": "ORG",
+      "start": 2827,
+      "end": 2842
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 3180,
+      "end": 3185
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 3221,
+      "end": 3229
+    },
+    {
+      "text": "Orléans;",
+      "label": "ORG",
+      "start": 3368,
+      "end": 3376
+    },
+    {
+      "text": "Champs-Élysées,",
+      "label": "ORG",
+      "start": 3509,
+      "end": 3524
+    }
+  ],
+  "sentences": [
+    {
+      "text": "J’emmenais Françoise au-devant de Gilberte jusqu’à l’Arc-de-Triomphe,\nnous ne la rencontrions pas, et je revenais vers la pelouse persuadé\nqu’elle ne viendrait plus, quand, devant les chevaux de bois, la\nfillette à la voix brève se jetait sur moi: «Vite, vite, il y a déjà\nun quart d’heure que Gilberte est arrivée",
+      "start": 0,
+      "end": 314
+    },
+    {
+      "text": "Elle va repartir bientôt",
+      "start": 315,
+      "end": 340
+    },
+    {
+      "text": "On vous attend pour faire une partie de barres",
+      "start": 341,
+      "end": 388
+    },
+    {
+      "text": "» Pendant que je\nmontais l’avenue des Champs-Élysées, Gilberte était venue par la rue\nBoissy-d’Anglas, Mademoiselle ayant profité du beau temps pour faire\ndes courses pour elle; et M",
+      "start": 389,
+      "end": 571
+    },
+    {
+      "text": "Swann allait venir chercher sa fille",
+      "start": 572,
+      "end": 609
+    },
+    {
+      "text": "Aussi c’était ma faute; je n’aurais pas dû m’éloigner de la pelouse;\ncar on ne savait jamais sûrement par quel côté Gilberte viendrait, si\nce serait plus ou moins tard, et cette attente finissait par me rendre\nplus émouvants, non seulement les Champs-Élysées entiers et toute la\ndurée de l’après-midi, comme une immense étendue d’espace et de temps\nsur chacun des points et à chacun des moments de laquelle il était\npossible qu’apparût l’image de Gilberte, mais encore cette image,\nelle-même, parce que derrière cette image je sentais se cacher la\nraison pour laquelle elle m’était décochée en plein cœur, à quatre\nheures au lieu de deux heures et demie, surmontée d’un chapeau de\nvisite à la place d’un béret de jeu, devant les «Ambassadeurs» et non\nentre les deux guignols, je devinais quelqu’une de ces occupations où\nje ne pouvais suivre Gilberte et qui la forçaient à sortir ou à rester\nà la maison, j’étais en contact avec le mystère de sa vie inconnue",
+      "start": 610,
+      "end": 1569
+    },
+    {
+      "text": "C’était ce mystère aussi qui me troublait quand, courant sur l’ordre\nde la fillette à la voix brève pour commencer tout de suite notre\npartie de barres, j’apercevais Gilberte, si vive et brusque avec nous,\nfaisant une révérence à la dame aux Débats (qui lui disait: «Quel beau\nsoleil, on dirait du feu»), lui parlant avec un sourire timide, d’un\nair compassé qui m’évoquait la jeune fille différente que Gilberte\ndevait être chez ses parents, avec les amis de ses parents, en visite,\ndans toute son autre existence qui m’échappait",
+      "start": 1570,
+      "end": 2101
+    },
+    {
+      "text": "Mais de cette\nexistence personne ne me donnait l’impression comme M",
+      "start": 2102,
+      "end": 2170
+    },
+    {
+      "text": "Swann qui\nvenait un peu après pour retrouver sa fille",
+      "start": 2171,
+      "end": 2225
+    },
+    {
+      "text": "C’est que lui et Mme\nSwann,--parce que leur fille habitait chez eux, parce que ses études,\nses jeux, ses amitiés dépendaient d’eux--contenaient pour moi, comme\nGilberte, peut-être même plus que Gilberte, comme il convenait à des\nlieux tout-puissants sur elle en qui il aurait eu sa source, un\ninconnu inaccessible, un charme douloureux",
+      "start": 2226,
+      "end": 2562
+    },
+    {
+      "text": "Tout ce qui les concernait\nétait de ma part l’objet d’une préoccupation si constante que les\njours où, comme ceux-là, M",
+      "start": 2563,
+      "end": 2683
+    },
+    {
+      "text": "Swann (que j’avais vu si souvent autrefois\nsans qu’il excitât ma curiosité, quand il était lié avec mes parents)\nvenait chercher Gilberte aux Champs-Élysées, une fois calmés les\nbattements de cœur qu’avait excités en moi l’apparition de son chapeau\ngris et de son manteau à pèlerine, son aspect m’impressionnait encore\ncomme celui d’un personnage historique sur lequel nous venons de lire\nune série d’ouvrages et dont les moindres particularités nous\npassionnent",
+      "start": 2684,
+      "end": 3147
+    },
+    {
+      "text": "Ses relations avec le comte de Paris qui, quand j’en\nentendais parler à Combray, me semblaient indifférentes, prenaient\nmaintenant pour moi quelque chose de merveilleux, comme si personne\nd’autre n’eût jamais connu les Orléans; elles le faisaient se détacher\nvivement sur le fond vulgaire des promeneurs de différentes classes\nqui encombraient cette allée des Champs-Élysées, et au milieu desquels\nj’admirais qu’il consentît à figurer sans réclamer d’eux d’égards\nspéciaux, qu’aucun d’ailleurs ne songeait à lui rendre, tant était\nprofond l’incognito dont il était enveloppé",
+      "start": 3148,
+      "end": 3723
+    }
+  ],
+  "tokens": 604,
+  "processed_at": "2025-03-16T02:10:57.557037"
+}

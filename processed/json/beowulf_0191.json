@@ -1,0 +1,30 @@
+{
+  "text": "--«Monsieur, je ne puis absolument vous dire s’il a plu. Je vis si\nrésolument en dehors des contingences physiques que mes sens ne\nprennent pas la peine de me les notifier.»",
+  "entities": [
+    {
+      "text": "--«Monsieur,",
+      "label": "ORG",
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Monsieur, je ne puis absolument vous dire s’il a plu",
+      "start": 0,
+      "end": 55
+    },
+    {
+      "text": "Je vis si\nrésolument en dehors des contingences physiques que mes sens ne\nprennent pas la peine de me les notifier",
+      "start": 56,
+      "end": 171
+    },
+    {
+      "text": "»",
+      "start": 172,
+      "end": 173
+    }
+  ],
+  "tokens": 31,
+  "processed_at": "2025-03-16T02:10:55.087901"
+}

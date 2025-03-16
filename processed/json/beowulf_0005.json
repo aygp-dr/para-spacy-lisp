@@ -1,0 +1,32 @@
+{
+  "text": "À Monsieur Gaston Calmette",
+  "entities": [
+    {
+      "text": "Monsieur",
+      "label": "ORG",
+      "start": 2,
+      "end": 10
+    },
+    {
+      "text": "Gaston",
+      "label": "ORG",
+      "start": 11,
+      "end": 17
+    },
+    {
+      "text": "Calmette",
+      "label": "ORG",
+      "start": 18,
+      "end": 26
+    }
+  ],
+  "sentences": [
+    {
+      "text": "À Monsieur Gaston Calmette",
+      "start": 0,
+      "end": 26
+    }
+  ],
+  "tokens": 4,
+  "processed_at": "2025-03-16T02:10:54.363855"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "Toutes mes conversations avec mes camarades portaient sur ces acteurs\ndont l’art, bien qu’il me fût encore inconnu, était la première forme,\nentre toutes celles qu’il revêt, sous laquelle se laissait pressentir\npar moi, l’Art. Entre la manière que l’un ou l’autre avait de débiter,\nde nuancer une tirade, les différences les plus minimes me semblaient\navoir une importance incalculable. Et, d’après ce que l’on m’avait dit\nd’eux, je les classais par ordre de talent, dans des listes que je me\nrécitais toute la journée: et qui avaient fini par durcir dans mon\ncerveau et par le gêner de leur inamovibilité.",
+  "entities": [
+    {
+      "text": "Toutes",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Entre",
+      "label": "ORG",
+      "start": 227,
+      "end": 232
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Toutes mes conversations avec mes camarades portaient sur ces acteurs\ndont l’art, bien qu’il me fût encore inconnu, était la première forme,\nentre toutes celles qu’il revêt, sous laquelle se laissait pressentir\npar moi, l’Art",
+      "start": 0,
+      "end": 225
+    },
+    {
+      "text": "Entre la manière que l’un ou l’autre avait de débiter,\nde nuancer une tirade, les différences les plus minimes me semblaient\navoir une importance incalculable",
+      "start": 226,
+      "end": 385
+    },
+    {
+      "text": "Et, d’après ce que l’on m’avait dit\nd’eux, je les classais par ordre de talent, dans des listes que je me\nrécitais toute la journée: et qui avaient fini par durcir dans mon\ncerveau et par le gêner de leur inamovibilité",
+      "start": 386,
+      "end": 605
+    }
+  ],
+  "tokens": 101,
+  "processed_at": "2025-03-16T02:10:54.826832"
+}

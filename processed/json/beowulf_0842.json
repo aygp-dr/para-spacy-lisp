@@ -1,0 +1,106 @@
+{
+  "text": "Le pianiste qui avait à jouer deux morceaux de Chopin, après avoir\nterminé le prélude avait attaqué aussitôt une polonaise. Mais depuis\nque Mme de Gallardon avait signalé à sa cousine la présence de Swann,\nChopin ressuscité aurait pu venir jouer lui-même toutes ses œuvres\nsans que Mme des Laumes pût y faire attention. Elle faisait partie\nd’une de ces deux moitiés de l’humanité chez qui la curiosité qu’a\nl’autre moitié pour les êtres qu’elle ne connaît pas est remplacée par\nl’intérêt pour les êtres qu’elle connaît. Comme beaucoup de femmes du\nfaubourg Saint-Germain la présence dans un endroit où elle se trouvait\nde quelqu’un de sa coterie, et auquel d’ailleurs elle n’avait rien de\nparticulier à dire, accaparait exclusivement son attention aux dépens\nde tout le reste. A partir de ce moment, dans l’espoir que Swann la\nremarquerait, la princesse ne fit plus, comme une souris blanche\napprivoisée à qui on tend puis on retire un morceau de sucre, que\ntourner sa figure, remplie de mille signes de connivence dénués de\nrapports avec le sentiment de la polonaise de Chopin, dans la\ndirection où était Swann et si celui-ci changeait de place, elle\ndéplaçait parallèlement son sourire aimanté.",
+  "entities": [
+    {
+      "text": "Chopin,",
+      "label": "ORG",
+      "start": 47,
+      "end": 54
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 124,
+      "end": 128
+    },
+    {
+      "text": "Gallardon",
+      "label": "ORG",
+      "start": 147,
+      "end": 156
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 199,
+      "end": 205
+    },
+    {
+      "text": "Chopin",
+      "label": "ORG",
+      "start": 206,
+      "end": 212
+    },
+    {
+      "text": "Laumes",
+      "label": "ORG",
+      "start": 290,
+      "end": 296
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 320,
+      "end": 324
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 520,
+      "end": 525
+    },
+    {
+      "text": "Saint-Germain",
+      "label": "ORG",
+      "start": 557,
+      "end": 570
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 818,
+      "end": 823
+    },
+    {
+      "text": "Chopin,",
+      "label": "ORG",
+      "start": 1071,
+      "end": 1078
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1106,
+      "end": 1111
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le pianiste qui avait à jouer deux morceaux de Chopin, après avoir\nterminé le prélude avait attaqué aussitôt une polonaise",
+      "start": 0,
+      "end": 122
+    },
+    {
+      "text": "Mais depuis\nque Mme de Gallardon avait signalé à sa cousine la présence de Swann,\nChopin ressuscité aurait pu venir jouer lui-même toutes ses œuvres\nsans que Mme des Laumes pût y faire attention",
+      "start": 123,
+      "end": 318
+    },
+    {
+      "text": "Elle faisait partie\nd’une de ces deux moitiés de l’humanité chez qui la curiosité qu’a\nl’autre moitié pour les êtres qu’elle ne connaît pas est remplacée par\nl’intérêt pour les êtres qu’elle connaît",
+      "start": 319,
+      "end": 518
+    },
+    {
+      "text": "Comme beaucoup de femmes du\nfaubourg Saint-Germain la présence dans un endroit où elle se trouvait\nde quelqu’un de sa coterie, et auquel d’ailleurs elle n’avait rien de\nparticulier à dire, accaparait exclusivement son attention aux dépens\nde tout le reste",
+      "start": 519,
+      "end": 775
+    },
+    {
+      "text": "A partir de ce moment, dans l’espoir que Swann la\nremarquerait, la princesse ne fit plus, comme une souris blanche\napprivoisée à qui on tend puis on retire un morceau de sucre, que\ntourner sa figure, remplie de mille signes de connivence dénués de\nrapports avec le sentiment de la polonaise de Chopin, dans la\ndirection où était Swann et si celui-ci changeait de place, elle\ndéplaçait parallèlement son sourire aimanté",
+      "start": 776,
+      "end": 1195
+    }
+  ],
+  "tokens": 199,
+  "processed_at": "2025-03-16T02:10:57.084514"
+}

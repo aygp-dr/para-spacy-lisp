@@ -1,0 +1,18 @@
+{
+  "text": "L’habit noir était défendu parce qu’on était entre «copains» et pour\nne pas ressembler aux «ennuyeux» dont on se garait comme de la peste\net qu’on n’invitait qu’aux grandes soirées, données le plus rarement\npossible et seulement si cela pouvait amuser le peintre ou faire\nconnaître le musicien. Le reste du temps on se contentait de jouer des\ncharades, de souper en costumes, mais entre soi, en ne mêlant aucun\nétranger au petit «noyau».",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "L’habit noir était défendu parce qu’on était entre «copains» et pour\nne pas ressembler aux «ennuyeux» dont on se garait comme de la peste\net qu’on n’invitait qu’aux grandes soirées, données le plus rarement\npossible et seulement si cela pouvait amuser le peintre ou faire\nconnaître le musicien",
+      "start": 0,
+      "end": 293
+    },
+    {
+      "text": "Le reste du temps on se contentait de jouer des\ncharades, de souper en costumes, mais entre soi, en ne mêlant aucun\nétranger au petit «noyau»",
+      "start": 294,
+      "end": 436
+    }
+  ],
+  "tokens": 74,
+  "processed_at": "2025-03-16T02:10:55.725853"
+}

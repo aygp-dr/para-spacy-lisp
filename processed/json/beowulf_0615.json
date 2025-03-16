@@ -1,0 +1,25 @@
+{
+  "text": "--«Non, mais nous vous en ferons si vous venez tous dîner vendredi.»",
+  "entities": [
+    {
+      "text": "--«Non,",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Non, mais nous vous en ferons si vous venez tous dîner vendredi",
+      "start": 0,
+      "end": 66
+    },
+    {
+      "text": "»",
+      "start": 67,
+      "end": 68
+    }
+  ],
+  "tokens": 12,
+  "processed_at": "2025-03-16T02:10:56.395327"
+}

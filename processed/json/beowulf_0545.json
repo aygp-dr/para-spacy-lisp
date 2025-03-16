@@ -1,0 +1,36 @@
+{
+  "text": "--«Mais pas du tout, s’écria-t-il, il faut que nous trouvions cette\ndame; c’est de la plus haute importance. Elle serait extrêmement\nennuyée, pour une affaire, et froissée, si elle ne m’avait pas vu.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 109,
+      "end": 113
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais pas du tout, s’écria-t-il, il faut que nous trouvions cette\ndame; c’est de la plus haute importance",
+      "start": 0,
+      "end": 107
+    },
+    {
+      "text": "Elle serait extrêmement\nennuyée, pour une affaire, et froissée, si elle ne m’avait pas vu",
+      "start": 108,
+      "end": 198
+    },
+    {
+      "text": "»",
+      "start": 199,
+      "end": 200
+    }
+  ],
+  "tokens": 33,
+  "processed_at": "2025-03-16T02:10:56.185116"
+}

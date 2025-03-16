@@ -1,0 +1,30 @@
+{
+  "text": "--«Ah! soupirait ma tante, je voudrais que ce soit déjà l’heure\nd’Eulalie. Il n’y a vraiment qu’elle qui pourra me dire cela.»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! soupirait ma tante, je voudrais que ce soit déjà l’heure\nd’Eulalie",
+      "start": 0,
+      "end": 73
+    },
+    {
+      "text": "Il n’y a vraiment qu’elle qui pourra me dire cela",
+      "start": 74,
+      "end": 124
+    },
+    {
+      "text": "»",
+      "start": 125,
+      "end": 126
+    }
+  ],
+  "tokens": 22,
+  "processed_at": "2025-03-16T02:10:54.789019"
+}

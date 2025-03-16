@@ -1,0 +1,56 @@
+{
+  "text": "Mais si l’on avait dit à ma grand’mère que ce Swann qui, en tant que\nfils Swann était parfaitement «qualifié» pour être reçu par toute la\n«belle bourgeoisie», par les notaires ou les avoués les plus estimés\nde Paris (privilège qu’il semblait laisser tomber un peu en\nquenouille), avait, comme en cachette, une vie toute différente; qu’en\nsortant de chez nous, à Paris, après nous avoir dit qu’il rentrait se\ncoucher, il rebroussait chemin à peine la rue tournée et se rendait\ndans tel salon que jamais l’œil d’aucun agent ou associé d’agent ne\ncontempla, cela eût paru aussi extraordinaire à ma tante qu’aurait pu\nl’être pour une dame plus lettrée la pensée d’être personnellement\nliée avec Aristée dont elle aurait compris qu’il allait, après avoir\ncausé avec elle, plonger au sein des royaumes de Thétis, dans un\nempire soustrait aux yeux des mortels et où Virgile nous le montre\nreçu à bras ouverts; ou, pour s’en tenir à une image qui avait plus de\nchance de lui venir à l’esprit, car elle l’avait vue peinte sur nos\nassiettes à petits fours de Combray--d’avoir eu à dîner Ali-Baba,\nlequel quand il se saura seul, pénétrera dans la caverne, éblouissante\nde trésors insoupçonnés.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 46,
+      "end": 51
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 74,
+      "end": 79
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 210,
+      "end": 215
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 362,
+      "end": 368
+    },
+    {
+      "text": "Thétis,",
+      "label": "ORG",
+      "start": 799,
+      "end": 806
+    },
+    {
+      "text": "Virgile",
+      "label": "ORG",
+      "start": 859,
+      "end": 866
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais si l’on avait dit à ma grand’mère que ce Swann qui, en tant que\nfils Swann était parfaitement «qualifié» pour être reçu par toute la\n«belle bourgeoisie», par les notaires ou les avoués les plus estimés\nde Paris (privilège qu’il semblait laisser tomber un peu en\nquenouille), avait, comme en cachette, une vie toute différente; qu’en\nsortant de chez nous, à Paris, après nous avoir dit qu’il rentrait se\ncoucher, il rebroussait chemin à peine la rue tournée et se rendait\ndans tel salon que jamais l’œil d’aucun agent ou associé d’agent ne\ncontempla, cela eût paru aussi extraordinaire à ma tante qu’aurait pu\nl’être pour une dame plus lettrée la pensée d’être personnellement\nliée avec Aristée dont elle aurait compris qu’il allait, après avoir\ncausé avec elle, plonger au sein des royaumes de Thétis, dans un\nempire soustrait aux yeux des mortels et où Virgile nous le montre\nreçu à bras ouverts; ou, pour s’en tenir à une image qui avait plus de\nchance de lui venir à l’esprit, car elle l’avait vue peinte sur nos\nassiettes à petits fours de Combray--d’avoir eu à dîner Ali-Baba,\nlequel quand il se saura seul, pénétrera dans la caverne, éblouissante\nde trésors insoupçonnés",
+      "start": 0,
+      "end": 1181
+    }
+  ],
+  "tokens": 202,
+  "processed_at": "2025-03-16T02:10:54.447455"
+}

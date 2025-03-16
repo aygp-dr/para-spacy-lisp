@@ -1,0 +1,77 @@
+{
+  "text": "Mais le prestige qu’avait à ses yeux le Président de la République\nfinit pourtant par triompher et de l’humilité de Swann et de la\nmalveillance de Mme Verdurin, et à chaque dîner, Cottard demandait\navec intérêt: «Verrons-nous ce soir M. Swann? Il a des relations\npersonnelles avec M. Grévy. C’est bien ce qu’on appelle un gentleman?»\nIl alla même jusqu’à lui offrir une carte d’invitation pour\nl’exposition dentaire.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Président",
+      "label": "ORG",
+      "start": 40,
+      "end": 49
+    },
+    {
+      "text": "République",
+      "label": "ORG",
+      "start": 56,
+      "end": 66
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 116,
+      "end": 121
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 151,
+      "end": 160
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 180,
+      "end": 187
+    },
+    {
+      "text": "Swann?",
+      "label": "ORG",
+      "start": 237,
+      "end": 243
+    },
+    {
+      "text": "Grévy.",
+      "label": "ORG",
+      "start": 284,
+      "end": 290
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais le prestige qu’avait à ses yeux le Président de la République\nfinit pourtant par triompher et de l’humilité de Swann et de la\nmalveillance de Mme Verdurin, et à chaque dîner, Cottard demandait\navec intérêt: «Verrons-nous ce soir M",
+      "start": 0,
+      "end": 235
+    },
+    {
+      "text": "Swann? Il a des relations\npersonnelles avec M",
+      "start": 236,
+      "end": 282
+    },
+    {
+      "text": "Grévy",
+      "start": 283,
+      "end": 289
+    },
+    {
+      "text": "C’est bien ce qu’on appelle un gentleman?»\nIl alla même jusqu’à lui offrir une carte d’invitation pour\nl’exposition dentaire",
+      "start": 290,
+      "end": 415
+    }
+  ],
+  "tokens": 68,
+  "processed_at": "2025-03-16T02:10:56.069895"
+}

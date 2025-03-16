@@ -1,0 +1,357 @@
+{
+  "text": "J’entendis les pas de mes parents qui accompagnaient Swann; et quand\nle grelot de la porte m’eut averti qu’il venait de partir, j’allai à\nla fenêtre. Maman demandait à mon père s’il avait trouvé la langouste\nbonne et si M. Swann avait repris de la glace au café et à la\npistache. «Je l’ai trouvée bien quelconque, dit ma mère; je crois que\nla prochaine fois il faudra essayer d’un autre parfum.» «Je ne peux\npas dire comme je trouve que Swann change, dit ma grand’tante, il est\nd’un vieux!» Ma grand’tante avait tellement l’habitude de voir\ntoujours en Swann un même adolescent, qu’elle s’étonnait de le trouver\ntout à coup moins jeune que l’âge qu’elle continuait à lui donner. Et\nmes parents du reste commençaient à lui trouver cette vieillesse\nanormale, excessive, honteuse et méritée des célibataires, de tous\nceux pour qui il semble que le grand jour qui n’a pas de lendemain\nsoit plus long que pour les autres, parce que pour eux il est vide et\nque les moments s’y additionnent depuis le matin sans se diviser\nensuite entre des enfants. «Je crois qu’il a beaucoup de soucis avec\nsa coquine de femme qui vit au su de tout Combray avec un certain\nmonsieur de Charlus. C’est la fable de la ville.» Ma mère fit\nremarquer qu’il avait pourtant l’air bien moins triste depuis quelque\ntemps. «Il fait aussi moins souvent ce geste qu’il a tout à fait comme\nson père de s’essuyer les yeux et de se passer la main sur le front.\nMoi je crois qu’au fond il n’aime plus cette femme.» «Mais\nnaturellement il ne l’aime plus, répondit mon grand-père. J’ai reçu de\nlui il y a déjà longtemps une lettre à ce sujet, à laquelle je me suis\nempressé de ne pas me conformer, et qui ne laisse aucun doute sur ses\nsentiments au moins d’amour, pour sa femme. Hé bien! vous voyez, vous\nne l’avez pas remercié pour l’Asti», ajouta mon grand-père en se\ntournant vers ses deux belles-sœurs. «Comment, nous ne l’avons pas\nremercié? je crois, entre nous, que je lui ai même tourné cela assez\ndélicatement», répondit ma tante Flora. «Oui, tu as très bien arrangé\ncela: je t’ai admirée», dit ma tante Céline. «Mais toi tu as été très\nbien aussi.» «Oui j’étais assez fière de ma phrase sur les voisins\naimables.» «Comment, c’est cela que vous appelez remercier! s’écria\nmon grand-père. J’ai bien entendu cela, mais du diable si j’ai cru que\nc’était pour Swann. Vous pouvez être sûres qu’il n’a rien compris.»\n«Mais voyons, Swann n’est pas bête, je suis certaine qu’il a apprécié.\nJe ne pouvais cependant pas lui dire le nombre de bouteilles et le\nprix du vin!» Mon père et ma mère restèrent seuls, et s’assirent un\ninstant; puis mon père dit: «Hé bien! si tu veux, nous allons monter\nnous coucher.» «Si tu veux, mon ami, bien que je n’aie pas l’ombre de\nsommeil; ce n’est pas cette glace au café si anodine qui a pu pourtant\nme tenir si éveillée; mais j’aperçois de la lumière dans l’office et\npuisque la pauvre Françoise m’a attendue, je vais lui demander de\ndégrafer mon corsage pendant que tu vas te déshabiller.» Et ma mère\nouvrit la porte treillagée du vestibule qui donnait sur l’escalier.\nBientôt, je l’entendis qui montait fermer sa fenêtre. J’allai sans\nbruit dans le couloir; mon cœur battait si fort que j’avais de la\npeine à avancer, mais du moins il ne battait plus d’anxiété, mais\nd’épouvante et de joie. Je vis dans la cage de l’escalier la lumière\nprojetée par la bougie de maman. Puis je la vis elle-même; je\nm’élançai. À la première seconde, elle me regarda avec étonnement, ne\ncomprenant pas ce qui était arrivé. Puis sa figure prit une expression\nde colère, elle ne me disait même pas un mot, et en effet pour bien\nmoins que cela on ne m’adressait plus la parole pendant plusieurs\njours. Si maman m’avait dit un mot, ç’aurait été admettre qu’on\npouvait me reparler et d’ailleurs cela peut-être m’eût paru plus\nterrible encore, comme un signe que devant la gravité du châtiment qui\nallait se préparer, le silence, la brouille, eussent été puérils. Une\nparole c’eût été le calme avec lequel on répond à un domestique quand\non vient de décider de le renvoyer; le baiser qu’on donne à un fils\nqu’on envoie s’engager alors qu’on le lui aurait refusé si on devait\nse contenter d’être fâché deux jours avec lui. Mais elle entendit mon\npère qui montait du cabinet de toilette où il était allé se\ndéshabiller et pour éviter la scène qu’il me ferait, elle me dit d’une\nvoix entrecoupée par la colère: «Sauve-toi, sauve-toi, qu’au moins ton\npère ne t’ait vu ainsi attendant comme un fou!» Mais je lui répétais:\n«Viens me dire bonsoir», terrifié en voyant que le reflet de la bougie\nde mon père s’élevait déjà sur le mur, mais aussi usant de son\napproche comme d’un moyen de chantage et espérant que maman, pour\néviter que mon père me trouvât encore là si elle continuait à refuser,\nallait me dire: «Rentre dans ta chambre, je vais venir.» Il était trop\ntard, mon père était devant nous. Sans le vouloir, je murmurai ces\nmots que personne n’entendit: «Je suis perdu!»",
+  "entities": [
+    {
+      "text": "Swann;",
+      "label": "ORG",
+      "start": 53,
+      "end": 59
+    },
+    {
+      "text": "Maman",
+      "label": "ORG",
+      "start": 150,
+      "end": 155
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 223,
+      "end": 228
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 437,
+      "end": 442
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 553,
+      "end": 558
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1127,
+      "end": 1134
+    },
+    {
+      "text": "Charlus.",
+      "label": "ORG",
+      "start": 1163,
+      "end": 1171
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 1476,
+      "end": 1481
+    },
+    {
+      "text": "«Comment,",
+      "label": "ORG",
+      "start": 1866,
+      "end": 1875
+    },
+    {
+      "text": "Flora.",
+      "label": "ORG",
+      "start": 1998,
+      "end": 2004
+    },
+    {
+      "text": "«Oui,",
+      "label": "ORG",
+      "start": 2005,
+      "end": 2010
+    },
+    {
+      "text": "Céline.",
+      "label": "ORG",
+      "start": 2072,
+      "end": 2079
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 2080,
+      "end": 2085
+    },
+    {
+      "text": "«Oui",
+      "label": "ORG",
+      "start": 2118,
+      "end": 2122
+    },
+    {
+      "text": "«Comment,",
+      "label": "ORG",
+      "start": 2183,
+      "end": 2192
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 2324,
+      "end": 2330
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 2331,
+      "end": 2335
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 2379,
+      "end": 2384
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2393,
+      "end": 2398
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 2882,
+      "end": 2891
+    },
+    {
+      "text": "Bientôt,",
+      "label": "ORG",
+      "start": 3066,
+      "end": 3074
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 3367,
+      "end": 3371
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 3502,
+      "end": 3506
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 4195,
+      "end": 4199
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 4468,
+      "end": 4472
+    },
+    {
+      "text": "«Viens",
+      "label": "ORG",
+      "start": 4490,
+      "end": 4496
+    },
+    {
+      "text": "«Rentre",
+      "label": "ORG",
+      "start": 4777,
+      "end": 4784
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 4866,
+      "end": 4870
+    }
+  ],
+  "sentences": [
+    {
+      "text": "J’entendis les pas de mes parents qui accompagnaient Swann; et quand\nle grelot de la porte m’eut averti qu’il venait de partir, j’allai à\nla fenêtre",
+      "start": 0,
+      "end": 148
+    },
+    {
+      "text": "Maman demandait à mon père s’il avait trouvé la langouste\nbonne et si M",
+      "start": 149,
+      "end": 221
+    },
+    {
+      "text": "Swann avait repris de la glace au café et à la\npistache",
+      "start": 222,
+      "end": 278
+    },
+    {
+      "text": "«Je l’ai trouvée bien quelconque, dit ma mère; je crois que\nla prochaine fois il faudra essayer d’un autre parfum",
+      "start": 279,
+      "end": 393
+    },
+    {
+      "text": "» «Je ne peux\npas dire comme je trouve que Swann change, dit ma grand’tante, il est\nd’un vieux!» Ma grand’tante avait tellement l’habitude de voir\ntoujours en Swann un même adolescent, qu’elle s’étonnait de le trouver\ntout à coup moins jeune que l’âge qu’elle continuait à lui donner",
+      "start": 394,
+      "end": 677
+    },
+    {
+      "text": "Et\nmes parents du reste commençaient à lui trouver cette vieillesse\nanormale, excessive, honteuse et méritée des célibataires, de tous\nceux pour qui il semble que le grand jour qui n’a pas de lendemain\nsoit plus long que pour les autres, parce que pour eux il est vide et\nque les moments s’y additionnent depuis le matin sans se diviser\nensuite entre des enfants",
+      "start": 678,
+      "end": 1041
+    },
+    {
+      "text": "«Je crois qu’il a beaucoup de soucis avec\nsa coquine de femme qui vit au su de tout Combray avec un certain\nmonsieur de Charlus",
+      "start": 1042,
+      "end": 1170
+    },
+    {
+      "text": "C’est la fable de la ville",
+      "start": 1171,
+      "end": 1198
+    },
+    {
+      "text": "» Ma mère fit\nremarquer qu’il avait pourtant l’air bien moins triste depuis quelque\ntemps",
+      "start": 1199,
+      "end": 1288
+    },
+    {
+      "text": "«Il fait aussi moins souvent ce geste qu’il a tout à fait comme\nson père de s’essuyer les yeux et de se passer la main sur le front",
+      "start": 1289,
+      "end": 1421
+    },
+    {
+      "text": "Moi je crois qu’au fond il n’aime plus cette femme",
+      "start": 1422,
+      "end": 1473
+    },
+    {
+      "text": "» «Mais\nnaturellement il ne l’aime plus, répondit mon grand-père",
+      "start": 1474,
+      "end": 1538
+    },
+    {
+      "text": "J’ai reçu de\nlui il y a déjà longtemps une lettre à ce sujet, à laquelle je me suis\nempressé de ne pas me conformer, et qui ne laisse aucun doute sur ses\nsentiments au moins d’amour, pour sa femme",
+      "start": 1539,
+      "end": 1736
+    },
+    {
+      "text": "Hé bien! vous voyez, vous\nne l’avez pas remercié pour l’Asti», ajouta mon grand-père en se\ntournant vers ses deux belles-sœurs",
+      "start": 1737,
+      "end": 1864
+    },
+    {
+      "text": "«Comment, nous ne l’avons pas\nremercié? je crois, entre nous, que je lui ai même tourné cela assez\ndélicatement», répondit ma tante Flora",
+      "start": 1865,
+      "end": 2003
+    },
+    {
+      "text": "«Oui, tu as très bien arrangé\ncela: je t’ai admirée», dit ma tante Céline",
+      "start": 2004,
+      "end": 2078
+    },
+    {
+      "text": "«Mais toi tu as été très\nbien aussi",
+      "start": 2079,
+      "end": 2115
+    },
+    {
+      "text": "» «Oui j’étais assez fière de ma phrase sur les voisins\naimables",
+      "start": 2116,
+      "end": 2180
+    },
+    {
+      "text": "» «Comment, c’est cela que vous appelez remercier! s’écria\nmon grand-père",
+      "start": 2181,
+      "end": 2254
+    },
+    {
+      "text": "J’ai bien entendu cela, mais du diable si j’ai cru que\nc’était pour Swann",
+      "start": 2255,
+      "end": 2329
+    },
+    {
+      "text": "Vous pouvez être sûres qu’il n’a rien compris",
+      "start": 2330,
+      "end": 2376
+    },
+    {
+      "text": "»\n«Mais voyons, Swann n’est pas bête, je suis certaine qu’il a apprécié",
+      "start": 2377,
+      "end": 2448
+    },
+    {
+      "text": "Je ne pouvais cependant pas lui dire le nombre de bouteilles et le\nprix du vin!» Mon père et ma mère restèrent seuls, et s’assirent un\ninstant; puis mon père dit: «Hé bien! si tu veux, nous allons monter\nnous coucher",
+      "start": 2449,
+      "end": 2666
+    },
+    {
+      "text": "» «Si tu veux, mon ami, bien que je n’aie pas l’ombre de\nsommeil; ce n’est pas cette glace au café si anodine qui a pu pourtant\nme tenir si éveillée; mais j’aperçois de la lumière dans l’office et\npuisque la pauvre Françoise m’a attendue, je vais lui demander de\ndégrafer mon corsage pendant que tu vas te déshabiller",
+      "start": 2667,
+      "end": 2984
+    },
+    {
+      "text": "» Et ma mère\nouvrit la porte treillagée du vestibule qui donnait sur l’escalier",
+      "start": 2985,
+      "end": 3064
+    },
+    {
+      "text": "Bientôt, je l’entendis qui montait fermer sa fenêtre",
+      "start": 3065,
+      "end": 3118
+    },
+    {
+      "text": "J’allai sans\nbruit dans le couloir; mon cœur battait si fort que j’avais de la\npeine à avancer, mais du moins il ne battait plus d’anxiété, mais\nd’épouvante et de joie",
+      "start": 3119,
+      "end": 3287
+    },
+    {
+      "text": "Je vis dans la cage de l’escalier la lumière\nprojetée par la bougie de maman",
+      "start": 3288,
+      "end": 3365
+    },
+    {
+      "text": "Puis je la vis elle-même; je\nm’élançai",
+      "start": 3366,
+      "end": 3405
+    },
+    {
+      "text": "À la première seconde, elle me regarda avec étonnement, ne\ncomprenant pas ce qui était arrivé",
+      "start": 3406,
+      "end": 3500
+    },
+    {
+      "text": "Puis sa figure prit une expression\nde colère, elle ne me disait même pas un mot, et en effet pour bien\nmoins que cela on ne m’adressait plus la parole pendant plusieurs\njours",
+      "start": 3501,
+      "end": 3676
+    },
+    {
+      "text": "Si maman m’avait dit un mot, ç’aurait été admettre qu’on\npouvait me reparler et d’ailleurs cela peut-être m’eût paru plus\nterrible encore, comme un signe que devant la gravité du châtiment qui\nallait se préparer, le silence, la brouille, eussent été puérils",
+      "start": 3677,
+      "end": 3935
+    },
+    {
+      "text": "Une\nparole c’eût été le calme avec lequel on répond à un domestique quand\non vient de décider de le renvoyer; le baiser qu’on donne à un fils\nqu’on envoie s’engager alors qu’on le lui aurait refusé si on devait\nse contenter d’être fâché deux jours avec lui",
+      "start": 3936,
+      "end": 4193
+    },
+    {
+      "text": "Mais elle entendit mon\npère qui montait du cabinet de toilette où il était allé se\ndéshabiller et pour éviter la scène qu’il me ferait, elle me dit d’une\nvoix entrecoupée par la colère: «Sauve-toi, sauve-toi, qu’au moins ton\npère ne t’ait vu ainsi attendant comme un fou!» Mais je lui répétais:\n«Viens me dire bonsoir», terrifié en voyant que le reflet de la bougie\nde mon père s’élevait déjà sur le mur, mais aussi usant de son\napproche comme d’un moyen de chantage et espérant que maman, pour\néviter que mon père me trouvât encore là si elle continuait à refuser,\nallait me dire: «Rentre dans ta chambre, je vais venir",
+      "start": 4194,
+      "end": 4815
+    },
+    {
+      "text": "» Il était trop\ntard, mon père était devant nous",
+      "start": 4816,
+      "end": 4864
+    },
+    {
+      "text": "Sans le vouloir, je murmurai ces\nmots que personne n’entendit: «Je suis perdu!»",
+      "start": 4865,
+      "end": 4945
+    }
+  ],
+  "tokens": 883,
+  "processed_at": "2025-03-16T02:10:54.506917"
+}

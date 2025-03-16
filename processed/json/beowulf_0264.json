@@ -1,0 +1,58 @@
+{
+  "text": "Je ne restai pas pour entendre le récit de mon père, car j’étais\njustement avec lui après la messe quand nous avions rencontré M.\nLegrandin, et je descendis à la cuisine demander le menu du dîner qui\ntous les jours me distrayait comme les nouvelles qu’on lit dans un\njournal et m’excitait à la façon d’un programme de fête. Comme M.\nLegrandin avait passé près de nous en sortant de l’église, marchant à\ncôté d’une châtelaine du voisinage que nous ne connaissions que de\nvue, mon père avait fait un salut à la fois amical et réservé, sans\nque nous nous arrêtions; M. Legrandin avait à peine répondu, d’un air\nétonné, comme s’il ne nous reconnaissait pas, et avec cette\nperspective du regard particulière aux personnes qui ne veulent pas\nêtre aimables et qui, du fond subitement prolongé de leurs yeux, ont\nl’air de vous apercevoir comme au bout d’une route interminable et à\nune si grande distance qu’elles se contentent de vous adresser un\nsigne de tête minuscule pour le proportionner à vos dimensions de\nmarionnette.",
+  "entities": [
+    {
+      "text": "Legrandin,",
+      "label": "ORG",
+      "start": 130,
+      "end": 140
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 324,
+      "end": 329
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 333,
+      "end": 342
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 566,
+      "end": 575
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je ne restai pas pour entendre le récit de mon père, car j’étais\njustement avec lui après la messe quand nous avions rencontré M",
+      "start": 0,
+      "end": 128
+    },
+    {
+      "text": "Legrandin, et je descendis à la cuisine demander le menu du dîner qui\ntous les jours me distrayait comme les nouvelles qu’on lit dans un\njournal et m’excitait à la façon d’un programme de fête",
+      "start": 129,
+      "end": 322
+    },
+    {
+      "text": "Comme M",
+      "start": 323,
+      "end": 331
+    },
+    {
+      "text": "Legrandin avait passé près de nous en sortant de l’église, marchant à\ncôté d’une châtelaine du voisinage que nous ne connaissions que de\nvue, mon père avait fait un salut à la fois amical et réservé, sans\nque nous nous arrêtions; M",
+      "start": 332,
+      "end": 564
+    },
+    {
+      "text": "Legrandin avait à peine répondu, d’un air\nétonné, comme s’il ne nous reconnaissait pas, et avec cette\nperspective du regard particulière aux personnes qui ne veulent pas\nêtre aimables et qui, du fond subitement prolongé de leurs yeux, ont\nl’air de vous apercevoir comme au bout d’une route interminable et à\nune si grande distance qu’elles se contentent de vous adresser un\nsigne de tête minuscule pour le proportionner à vos dimensions de\nmarionnette",
+      "start": 565,
+      "end": 1017
+    }
+  ],
+  "tokens": 177,
+  "processed_at": "2025-03-16T02:10:55.345423"
+}

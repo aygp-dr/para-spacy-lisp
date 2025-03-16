@@ -1,0 +1,90 @@
+{
+  "text": "--«Mais non, pourquoi?» lui demanda-t-elle avec une extrême vivacité,\nsoit pour ne pas avoir l’air de savoir que c’est parce qu’elle était\nune des plus grandes dames de France, soit pour avoir le plaisir de\nl’entendre dire au général. «Pourquoi? Qu’en savez-vous? Cela leur\nserait peut-être tout ce qu’il y a de plus désagréable. Moi je ne sais\npas, mais si j’en juge par moi, cela m’ennuie déjà tant de voir les\npersonnes que je connais, je crois que s’il fallait voir des gens que\nje ne connais pas, «même héroïques», je deviendrais folle. D’ailleurs,\nvoyons, sauf lorsqu’il s’agit de vieux amis comme vous qu’on connaît\nsans cela, je ne sais pas si l’héroïsme serait d’un format très\nportatif dans le monde. Ça m’ennuie déjà souvent de donner des dîners,\nmais s’il fallait offrir le bras à Spartacus pour aller à table... Non\nvraiment, ce ne serait jamais à Vercingétorix que je ferais signe\ncomme quatorzième. Je sens que je le réserverais pour les grandes\nsoirées. Et comme je n’en donne pas...»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "France,",
+      "label": "ORG",
+      "start": 169,
+      "end": 176
+    },
+    {
+      "text": "«Pourquoi?",
+      "label": "ORG",
+      "start": 235,
+      "end": 245
+    },
+    {
+      "text": "Cela",
+      "label": "ORG",
+      "start": 264,
+      "end": 268
+    },
+    {
+      "text": "Spartacus",
+      "label": "ORG",
+      "start": 793,
+      "end": 802
+    },
+    {
+      "text": "Vercingétorix",
+      "label": "ORG",
+      "start": 861,
+      "end": 874
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais non, pourquoi?» lui demanda-t-elle avec une extrême vivacité,\nsoit pour ne pas avoir l’air de savoir que c’est parce qu’elle était\nune des plus grandes dames de France, soit pour avoir le plaisir de\nl’entendre dire au général",
+      "start": 0,
+      "end": 233
+    },
+    {
+      "text": "«Pourquoi? Qu’en savez-vous? Cela leur\nserait peut-être tout ce qu’il y a de plus désagréable",
+      "start": 234,
+      "end": 328
+    },
+    {
+      "text": "Moi je ne sais\npas, mais si j’en juge par moi, cela m’ennuie déjà tant de voir les\npersonnes que je connais, je crois que s’il fallait voir des gens que\nje ne connais pas, «même héroïques», je deviendrais folle",
+      "start": 329,
+      "end": 540
+    },
+    {
+      "text": "D’ailleurs,\nvoyons, sauf lorsqu’il s’agit de vieux amis comme vous qu’on connaît\nsans cela, je ne sais pas si l’héroïsme serait d’un format très\nportatif dans le monde",
+      "start": 541,
+      "end": 709
+    },
+    {
+      "text": "Ça m’ennuie déjà souvent de donner des dîners,\nmais s’il fallait offrir le bras à Spartacus pour aller à table",
+      "start": 710,
+      "end": 821
+    },
+    {
+      "text": "Non\nvraiment, ce ne serait jamais à Vercingétorix que je ferais signe\ncomme quatorzième",
+      "start": 824,
+      "end": 912
+    },
+    {
+      "text": "Je sens que je le réserverais pour les grandes\nsoirées",
+      "start": 913,
+      "end": 968
+    },
+    {
+      "text": "Et comme je n’en donne pas",
+      "start": 969,
+      "end": 996
+    },
+    {
+      "text": "»",
+      "start": 22,
+      "end": 23
+    }
+  ],
+  "tokens": 172,
+  "processed_at": "2025-03-16T02:10:57.165557"
+}

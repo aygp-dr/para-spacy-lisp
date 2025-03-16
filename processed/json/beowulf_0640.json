@@ -1,0 +1,48 @@
+{
+  "text": "--Finissez votre entremets qu’on puisse enlever votre assiette, dit Mme\nVerdurin d’un ton aigre en s’adressant à Saniette, lequel absorbé dans\ndes réflexions, avait cessé de manger. Et peut-être un peu honteuse du\nton qu’elle avait pris: «Cela ne fait rien, vous avez votre temps,\nmais, si je vous le dis, c’est pour les autres, parce que cela empêche\nde servir.»",
+  "entities": [
+    {
+      "text": "--Finissez",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 72,
+      "end": 80
+    },
+    {
+      "text": "Saniette,",
+      "label": "ORG",
+      "start": 113,
+      "end": 122
+    },
+    {
+      "text": "«Cela",
+      "label": "ORG",
+      "start": 238,
+      "end": 243
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Finissez votre entremets qu’on puisse enlever votre assiette, dit Mme\nVerdurin d’un ton aigre en s’adressant à Saniette, lequel absorbé dans\ndes réflexions, avait cessé de manger",
+      "start": 0,
+      "end": 180
+    },
+    {
+      "text": "Et peut-être un peu honteuse du\nton qu’elle avait pris: «Cela ne fait rien, vous avez votre temps,\nmais, si je vous le dis, c’est pour les autres, parce que cela empêche\nde servir",
+      "start": 181,
+      "end": 361
+    },
+    {
+      "text": "»",
+      "start": 362,
+      "end": 363
+    }
+  ],
+  "tokens": 61,
+  "processed_at": "2025-03-16T02:10:56.471561"
+}

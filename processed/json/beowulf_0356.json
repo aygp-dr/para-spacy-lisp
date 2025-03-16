@@ -1,0 +1,54 @@
+{
+  "text": "On passait, rue de l’Oiseau, devant la vieille hôtellerie de l’Oiseau\nflesché dans la grande cour de laquelle entrèrent quelquefois au XVIIe\nsiècle les carrosses des duchesses de Montpensier, de Guermantes et de\nMontmorency quand elles avaient à venir à Combray pour quelque\ncontestation avec leurs fermiers, pour une question d’hommage. On\ngagnait le mail entre les arbres duquel apparaissait le clocher de\nSaint-Hilaire. Et j’aurais voulu pouvoir m’asseoir là et rester toute\nla journée à lire en écoutant les cloches; car il faisait si beau et\nsi tranquille que, quand sonnait l’heure, on aurait dit non qu’elle\nrompait le calme du jour mais qu’elle le débarrassait de ce qu’il\ncontenait et que le clocher avec l’exactitude indolente et soigneuse\nd’une personne qui n’a rien d’autre à faire, venait seulement--pour\nexprimer et laisser tomber les quelques gouttes d’or que la chaleur y\navait lentement et naturellement amassées--de presser, au moment voulu,\nla plénitude du silence.",
+  "entities": [
+    {
+      "text": "Montpensier,",
+      "label": "ORG",
+      "start": 179,
+      "end": 191
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 195,
+      "end": 205
+    },
+    {
+      "text": "Montmorency",
+      "label": "ORG",
+      "start": 212,
+      "end": 223
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 254,
+      "end": 261
+    },
+    {
+      "text": "Saint-Hilaire.",
+      "label": "ORG",
+      "start": 408,
+      "end": 422
+    }
+  ],
+  "sentences": [
+    {
+      "text": "On passait, rue de l’Oiseau, devant la vieille hôtellerie de l’Oiseau\nflesché dans la grande cour de laquelle entrèrent quelquefois au XVIIe\nsiècle les carrosses des duchesses de Montpensier, de Guermantes et de\nMontmorency quand elles avaient à venir à Combray pour quelque\ncontestation avec leurs fermiers, pour une question d’hommage",
+      "start": 0,
+      "end": 336
+    },
+    {
+      "text": "On\ngagnait le mail entre les arbres duquel apparaissait le clocher de\nSaint-Hilaire",
+      "start": 337,
+      "end": 421
+    },
+    {
+      "text": "Et j’aurais voulu pouvoir m’asseoir là et rester toute\nla journée à lire en écoutant les cloches; car il faisait si beau et\nsi tranquille que, quand sonnait l’heure, on aurait dit non qu’elle\nrompait le calme du jour mais qu’elle le débarrassait de ce qu’il\ncontenait et que le clocher avec l’exactitude indolente et soigneuse\nd’une personne qui n’a rien d’autre à faire, venait seulement--pour\nexprimer et laisser tomber les quelques gouttes d’or que la chaleur y\navait lentement et naturellement amassées--de presser, au moment voulu,\nla plénitude du silence",
+      "start": 422,
+      "end": 983
+    }
+  ],
+  "tokens": 155,
+  "processed_at": "2025-03-16T02:10:55.631659"
+}

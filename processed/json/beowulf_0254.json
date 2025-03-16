@@ -1,0 +1,20 @@
+{
+  "text": "Le samedi avait encore ceci de particulier que ce jour-là, pendant le\nmois de mai, nous sortions après le dîner pour aller au «mois de\nMarie».",
+  "entities": [
+    {
+      "text": "Marie».",
+      "label": "ORG",
+      "start": 135,
+      "end": 142
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le samedi avait encore ceci de particulier que ce jour-là, pendant le\nmois de mai, nous sortions après le dîner pour aller au «mois de\nMarie»",
+      "start": 0,
+      "end": 141
+    }
+  ],
+  "tokens": 26,
+  "processed_at": "2025-03-16T02:10:55.305435"
+}

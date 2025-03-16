@@ -1,0 +1,97 @@
+{
+  "text": "Au pas saccadé de son cheval, Golo, plein d’un affreux dessein,\nsortait de la petite forêt triangulaire qui veloutait d’un vert sombre\nla pente d’une colline, et s’avançait en tressautant vers le château\nde la pauvre Geneviève de Brabant. Ce château était coupé selon une\nligne courbe qui n’était autre que la limite d’un des ovales de verre\nménagés dans le châssis qu’on glissait entre les coulisses de la\nlanterne. Ce n’était qu’un pan de château et il avait devant lui une\nlande où rêvait Geneviève qui portait une ceinture bleue. Le château\net la lande étaient jaunes et je n’avais pas attendu de les voir pour\nconnaître leur couleur car, avant les verres du châssis, la sonorité\nmordorée du nom de Brabant me l’avait montrée avec évidence. Golo\ns’arrêtait un instant pour écouter avec tristesse le boniment lu à\nhaute voix par ma grand’tante et qu’il avait l’air de comprendre\nparfaitement, conformant son attitude avec une docilité qui n’excluait\npas une certaine majesté, aux indications du texte; puis il\ns’éloignait du même pas saccadé. Et rien ne pouvait arrêter sa lente\nchevauchée. Si on bougeait la lanterne, je distinguais le cheval de\nGolo qui continuait à s’avancer sur les rideaux de la fenêtre, se\nbombant de leurs plis, descendant dans leurs fentes. Le corps de Golo\nlui-même, d’une essence aussi surnaturelle que celui de sa monture,\ns’arrangeait de tout obstacle matériel, de tout objet gênant qu’il\nrencontrait en le prenant comme ossature et en se le rendant\nintérieur, fût-ce le bouton de la porte sur lequel s’adaptait aussitôt\net surnageait invinciblement sa robe rouge ou sa figure pâle toujours\naussi noble et aussi mélancolique, mais qui ne laissait paraître aucun\ntrouble de cette transvertébration.",
+  "entities": [
+    {
+      "text": "Golo,",
+      "label": "ORG",
+      "start": 30,
+      "end": 35
+    },
+    {
+      "text": "Geneviève",
+      "label": "ORG",
+      "start": 217,
+      "end": 226
+    },
+    {
+      "text": "Brabant.",
+      "label": "ORG",
+      "start": 230,
+      "end": 238
+    },
+    {
+      "text": "Geneviève",
+      "label": "ORG",
+      "start": 492,
+      "end": 501
+    },
+    {
+      "text": "Brabant",
+      "label": "ORG",
+      "start": 703,
+      "end": 710
+    },
+    {
+      "text": "Golo",
+      "label": "ORG",
+      "start": 745,
+      "end": 749
+    },
+    {
+      "text": "Golo",
+      "label": "ORG",
+      "start": 1150,
+      "end": 1154
+    },
+    {
+      "text": "Golo",
+      "label": "ORG",
+      "start": 1281,
+      "end": 1285
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Au pas saccadé de son cheval, Golo, plein d’un affreux dessein,\nsortait de la petite forêt triangulaire qui veloutait d’un vert sombre\nla pente d’une colline, et s’avançait en tressautant vers le château\nde la pauvre Geneviève de Brabant",
+      "start": 0,
+      "end": 237
+    },
+    {
+      "text": "Ce château était coupé selon une\nligne courbe qui n’était autre que la limite d’un des ovales de verre\nménagés dans le châssis qu’on glissait entre les coulisses de la\nlanterne",
+      "start": 238,
+      "end": 415
+    },
+    {
+      "text": "Ce n’était qu’un pan de château et il avait devant lui une\nlande où rêvait Geneviève qui portait une ceinture bleue",
+      "start": 416,
+      "end": 532
+    },
+    {
+      "text": "Le château\net la lande étaient jaunes et je n’avais pas attendu de les voir pour\nconnaître leur couleur car, avant les verres du châssis, la sonorité\nmordorée du nom de Brabant me l’avait montrée avec évidence",
+      "start": 533,
+      "end": 743
+    },
+    {
+      "text": "Golo\ns’arrêtait un instant pour écouter avec tristesse le boniment lu à\nhaute voix par ma grand’tante et qu’il avait l’air de comprendre\nparfaitement, conformant son attitude avec une docilité qui n’excluait\npas une certaine majesté, aux indications du texte; puis il\ns’éloignait du même pas saccadé",
+      "start": 744,
+      "end": 1044
+    },
+    {
+      "text": "Et rien ne pouvait arrêter sa lente\nchevauchée",
+      "start": 1045,
+      "end": 1092
+    },
+    {
+      "text": "Si on bougeait la lanterne, je distinguais le cheval de\nGolo qui continuait à s’avancer sur les rideaux de la fenêtre, se\nbombant de leurs plis, descendant dans leurs fentes",
+      "start": 1093,
+      "end": 1267
+    },
+    {
+      "text": "Le corps de Golo\nlui-même, d’une essence aussi surnaturelle que celui de sa monture,\ns’arrangeait de tout obstacle matériel, de tout objet gênant qu’il\nrencontrait en le prenant comme ossature et en se le rendant\nintérieur, fût-ce le bouton de la porte sur lequel s’adaptait aussitôt\net surnageait invinciblement sa robe rouge ou sa figure pâle toujours\naussi noble et aussi mélancolique, mais qui ne laissait paraître aucun\ntrouble de cette transvertébration",
+      "start": 1268,
+      "end": 1728
+    }
+  ],
+  "tokens": 285,
+  "processed_at": "2025-03-16T02:10:54.408429"
+}

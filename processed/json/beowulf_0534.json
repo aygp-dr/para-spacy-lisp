@@ -1,0 +1,36 @@
+{
+  "text": "--«Tu me permettras de ne pas être de ton avis, dit M. Verdurin, il ne\nme revient qu’à demi ce monsieur; je le trouve poseur.»",
+  "entities": [
+    {
+      "text": "--«Tu",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 55,
+      "end": 64
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Tu me permettras de ne pas être de ton avis, dit M",
+      "start": 0,
+      "end": 53
+    },
+    {
+      "text": "Verdurin, il ne\nme revient qu’à demi ce monsieur; je le trouve poseur",
+      "start": 54,
+      "end": 124
+    },
+    {
+      "text": "»",
+      "start": 125,
+      "end": 126
+    }
+  ],
+  "tokens": 25,
+  "processed_at": "2025-03-16T02:10:56.155612"
+}

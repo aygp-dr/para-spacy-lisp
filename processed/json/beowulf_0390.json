@@ -1,0 +1,36 @@
+{
+  "text": "--«Je viendrai le vendredi saint... vous faire mes adieux car nous\nallons passer les fêtes de Pâques en Auvergne.»",
+  "entities": [
+    {
+      "text": "--«Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Pâques",
+      "label": "ORG",
+      "start": 94,
+      "end": 100
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Je viendrai le vendredi saint",
+      "start": 0,
+      "end": 32
+    },
+    {
+      "text": "vous faire mes adieux car nous\nallons passer les fêtes de Pâques en Auvergne",
+      "start": 35,
+      "end": 112
+    },
+    {
+      "text": "»",
+      "start": 113,
+      "end": 114
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:55.741523"
+}

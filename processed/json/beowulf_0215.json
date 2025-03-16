@@ -1,0 +1,75 @@
+{
+  "text": "--«Tiens, disait ma tante en se frappant le front, cela me fait penser\nque je n’ai point su si elle était arrivée à l’église après\nl’élévation. Il faudra que je pense à le demander à Eulalie...\nFrançoise, regardez-moi ce nuage noir derrière le clocher et ce\nmauvais soleil sur les ardoises, bien sûr que la journée ne se passera\npas sans pluie. Ce n’était pas possible que ça reste comme ça, il\nfaisait trop chaud. Et le plus tôt sera le mieux, car tant que l’orage\nn’aura pas éclaté, mon eau de Vichy ne descendra pas, ajoutait ma\ntante dans l’esprit de qui le désir de hâter la descente de l’eau de\nVichy l’emportait infiniment sur la crainte de voir Mme Goupil gâter\nsa robe.»",
+  "entities": [
+    {
+      "text": "--«Tiens,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Eulalie...",
+      "label": "ORG",
+      "start": 183,
+      "end": 193
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 194,
+      "end": 204
+    },
+    {
+      "text": "Vichy",
+      "label": "ORG",
+      "start": 496,
+      "end": 501
+    },
+    {
+      "text": "Vichy",
+      "label": "ORG",
+      "start": 601,
+      "end": 606
+    },
+    {
+      "text": "Goupil",
+      "label": "ORG",
+      "start": 657,
+      "end": 663
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Tiens, disait ma tante en se frappant le front, cela me fait penser\nque je n’ai point su si elle était arrivée à l’église après\nl’élévation",
+      "start": 0,
+      "end": 142
+    },
+    {
+      "text": "Il faudra que je pense à le demander à Eulalie",
+      "start": 143,
+      "end": 190
+    },
+    {
+      "text": "Françoise, regardez-moi ce nuage noir derrière le clocher et ce\nmauvais soleil sur les ardoises, bien sûr que la journée ne se passera\npas sans pluie",
+      "start": 193,
+      "end": 343
+    },
+    {
+      "text": "Ce n’était pas possible que ça reste comme ça, il\nfaisait trop chaud",
+      "start": 344,
+      "end": 413
+    },
+    {
+      "text": "Et le plus tôt sera le mieux, car tant que l’orage\nn’aura pas éclaté, mon eau de Vichy ne descendra pas, ajoutait ma\ntante dans l’esprit de qui le désir de hâter la descente de l’eau de\nVichy l’emportait infiniment sur la crainte de voir Mme Goupil gâter\nsa robe",
+      "start": 414,
+      "end": 677
+    },
+    {
+      "text": "»",
+      "start": 678,
+      "end": 679
+    }
+  ],
+  "tokens": 125,
+  "processed_at": "2025-03-16T02:10:55.168277"
+}

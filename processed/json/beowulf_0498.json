@@ -1,0 +1,60 @@
+{
+  "text": "--Comment ça, M. Grévy? vous connaissez M. Grévy? dit-il à Swann de\nl’air stupide et incrédule d’un municipal à qui un inconnu demande à\nvoir le Président de la République et qui, comprenant par ces mots «à\nqui il a affaire», comme disent les journaux, assure au pauvre dément\nqu’il va être reçu à l’instant et le dirige sur l’infirmerie spéciale\ndu dépôt.",
+  "entities": [
+    {
+      "text": "--Comment",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Grévy?",
+      "label": "ORG",
+      "start": 17,
+      "end": 23
+    },
+    {
+      "text": "Grévy?",
+      "label": "ORG",
+      "start": 43,
+      "end": 49
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 59,
+      "end": 64
+    },
+    {
+      "text": "Président",
+      "label": "ORG",
+      "start": 145,
+      "end": 154
+    },
+    {
+      "text": "République",
+      "label": "ORG",
+      "start": 161,
+      "end": 171
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Comment ça, M",
+      "start": 0,
+      "end": 15
+    },
+    {
+      "text": "Grévy? vous connaissez M",
+      "start": 16,
+      "end": 41
+    },
+    {
+      "text": "Grévy? dit-il à Swann de\nl’air stupide et incrédule d’un municipal à qui un inconnu demande à\nvoir le Président de la République et qui, comprenant par ces mots «à\nqui il a affaire», comme disent les journaux, assure au pauvre dément\nqu’il va être reçu à l’instant et le dirige sur l’infirmerie spéciale\ndu dépôt",
+      "start": 42,
+      "end": 355
+    }
+  ],
+  "tokens": 63,
+  "processed_at": "2025-03-16T02:10:56.049220"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "--Qu’est-ce que c’est exactement que cette Mme Verdurin, un\ndemi-castor? dit Forcheville au peintre à qui il proposa de revenir\navec lui.",
+  "entities": [
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 47,
+      "end": 56
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 77,
+      "end": 88
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Qu’est-ce que c’est exactement que cette Mme Verdurin, un\ndemi-castor? dit Forcheville au peintre à qui il proposa de revenir\navec lui",
+      "start": 0,
+      "end": 136
+    }
+  ],
+  "tokens": 22,
+  "processed_at": "2025-03-16T02:10:56.579824"
+}

@@ -1,0 +1,88 @@
+{
+  "text": "Une autre fois, toujours préoccupé du désir d’entendre la Berma dans\nune pièce classique, je lui avais demandé si elle ne possédait pas une\nbrochure où Bergotte parlait de Racine, et qui ne se trouvait plus\ndans le commerce. Elle m’avait prié de lui en rappeler le titre exact,\net le soir je lui avais adressé un petit télégramme en écrivant sur\nl’enveloppe ce nom de Gilberte Swann que j’avais tant de fois tracé\nsur mes cahiers. Le lendemain elle m’apporta dans un paquet noué de\nfaveurs mauves et scellé de cire blanche, la brochure qu’elle avait\nfait chercher. «Vous voyez que c’est bien ce que vous m’avez demandé,\nme dit-elle, tirant de son manchon le télégramme que je lui avais\nenvoyé.» Mais dans l’adresse de ce pneumatique,--qui, hier encore\nn’était rien, n’était qu’un petit bleu que j’avais écrit, et qui\ndepuis qu’un télégraphiste l’avait remis au concierge de Gilberte et\nqu’un domestique l’avait porté jusqu’à sa chambre, était devenu cette\nchose sans prix, un des petits bleus qu’elle avait reçus ce\njour-là,--j’eus peine à reconnaître les lignes vaines et solitaires de\nmon écriture sous les cercles imprimés qu’y avait apposés la poste,\nsous les inscriptions qu’y avait ajoutées au crayon un des facteurs,\nsignes de réalisation effective, cachets du monde extérieur, violettes\nceintures symboliques de la vie, qui pour la première fois venaient\népouser, maintenir, relever, réjouir mon rêve.",
+  "entities": [
+    {
+      "text": "Berma",
+      "label": "ORG",
+      "start": 58,
+      "end": 63
+    },
+    {
+      "text": "Bergotte",
+      "label": "ORG",
+      "start": 152,
+      "end": 160
+    },
+    {
+      "text": "Racine,",
+      "label": "ORG",
+      "start": 172,
+      "end": 179
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 225,
+      "end": 229
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 368,
+      "end": 376
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 377,
+      "end": 382
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 565,
+      "end": 570
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 695,
+      "end": 699
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 874,
+      "end": 882
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Une autre fois, toujours préoccupé du désir d’entendre la Berma dans\nune pièce classique, je lui avais demandé si elle ne possédait pas une\nbrochure où Bergotte parlait de Racine, et qui ne se trouvait plus\ndans le commerce",
+      "start": 0,
+      "end": 223
+    },
+    {
+      "text": "Elle m’avait prié de lui en rappeler le titre exact,\net le soir je lui avais adressé un petit télégramme en écrivant sur\nl’enveloppe ce nom de Gilberte Swann que j’avais tant de fois tracé\nsur mes cahiers",
+      "start": 224,
+      "end": 429
+    },
+    {
+      "text": "Le lendemain elle m’apporta dans un paquet noué de\nfaveurs mauves et scellé de cire blanche, la brochure qu’elle avait\nfait chercher",
+      "start": 430,
+      "end": 563
+    },
+    {
+      "text": "«Vous voyez que c’est bien ce que vous m’avez demandé,\nme dit-elle, tirant de son manchon le télégramme que je lui avais\nenvoyé",
+      "start": 564,
+      "end": 692
+    },
+    {
+      "text": "» Mais dans l’adresse de ce pneumatique,--qui, hier encore\nn’était rien, n’était qu’un petit bleu que j’avais écrit, et qui\ndepuis qu’un télégraphiste l’avait remis au concierge de Gilberte et\nqu’un domestique l’avait porté jusqu’à sa chambre, était devenu cette\nchose sans prix, un des petits bleus qu’elle avait reçus ce\njour-là,--j’eus peine à reconnaître les lignes vaines et solitaires de\nmon écriture sous les cercles imprimés qu’y avait apposés la poste,\nsous les inscriptions qu’y avait ajoutées au crayon un des facteurs,\nsignes de réalisation effective, cachets du monde extérieur, violettes\nceintures symboliques de la vie, qui pour la première fois venaient\népouser, maintenir, relever, réjouir mon rêve",
+      "start": 693,
+      "end": 1408
+    }
+  ],
+  "tokens": 230,
+  "processed_at": "2025-03-16T02:10:57.545435"
+}

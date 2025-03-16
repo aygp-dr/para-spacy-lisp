@@ -1,0 +1,20 @@
+{
+  "text": "Celle-ci, voyant Swann sur une chaise, le fit lever:",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 17,
+      "end": 22
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Celle-ci, voyant Swann sur une chaise, le fit lever:",
+      "start": 0,
+      "end": 52
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:55.905120"
+}

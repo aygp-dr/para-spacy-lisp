@@ -1,0 +1,88 @@
+{
+  "text": "La cousine de mon grand-père,--ma grand’tante,--chez qui nous habitions,\nétait la mère de cette tante Léonie qui, depuis la mort de son mari,\nmon oncle Octave, n’avait plus voulu quitter, d’abord Combray, puis à\nCombray sa maison, puis sa chambre, puis son lit et ne «descendait»\nplus, toujours couchée dans un état incertain de chagrin, de débilité\nphysique, de maladie, d’idée fixe et de dévotion. Son appartement\nparticulier donnait sur la rue Saint-Jacques qui aboutissait beaucoup\nplus loin au Grand-Pré (par opposition au Petit-Pré, verdoyant au\nmilieu de la ville, entre trois rues), et qui, unie, grisâtre, avec\nles trois hautes marches de grès presque devant chaque porte, semblait\ncomme un défilé pratiqué par un tailleur d’images gothiques à même la\npierre où il eût sculpté une crèche ou un calvaire. Ma tante\nn’habitait plus effectivement que deux chambres contiguës, restant\nl’après-midi dans l’une pendant qu’on aérait l’autre. C’étaient de ces\nchambres de province qui,--de même qu’en certains pays des parties\nentières de l’air ou de la mer sont illuminées ou parfumées par des\nmyriades de protozoaires que nous ne voyons pas,--nous enchantent des\nmille odeurs qu’y dégagent les vertus, la sagesse, les habitudes,\ntoute une vie secrète, invisible, surabondante et morale que\nl’atmosphère y tient en suspens; odeurs naturelles encore, certes, et\ncouleur du temps comme celles de la campagne voisine, mais déjà\ncasanières, humaines et renfermées, gelée exquise industrieuse et\nlimpide de tous les fruits de l’année qui ont quitté le verger pour\nl’armoire; saisonnières, mais mobilières et domestiques, corrigeant le\npiquant de la gelée blanche par la douceur du pain chaud, oisives et\nponctuelles comme une horloge de village, flâneuses et rangées,\ninsoucieuses et prévoyantes, lingères, matinales, dévotes, heureuses\nd’une paix qui n’apporte qu’un surcroît d’anxiété et d’un prosaïsme\nqui sert de grand réservoir de poésie à celui qui la traverse sans y\navoir vécu. L’air y était saturé de la fine fleur d’un silence si\nnourricier, si succulent que je ne m’y avançais qu’avec une sorte de\ngourmandise, surtout par ces premiers matins encore froids de la\nsemaine de Pâques où je le goûtais mieux parce que je venais seulement\nd’arriver à Combray: avant que j’entrasse souhaiter le bonjour à ma\ntante on me faisait attendre un instant, dans la première pièce où le\nsoleil, d’hiver encore, était venu se mettre au chaud devant le feu,\ndéjà allumé entre les deux briques et qui badigeonnait toute la\nchambre d’une odeur de suie, en faisait comme un de ces grands\n«devants de four» de campagne, ou de ces manteaux de cheminée de\nchâteaux, sous lesquels on souhaite que se déclarent dehors la pluie,\nla neige, même quelque catastrophe diluvienne pour ajouter au confort\nde la réclusion la poésie de l’hivernage; je faisais quelques pas du\nprie-Dieu aux fauteuils en velours frappé, toujours revêtus d’un\nappui-tête au crochet; et le feu cuisant comme une pâte les\nappétissantes odeurs dont l’air de la chambre était tout grumeleux et\nqu’avait déjà fait travailler et «lever» la fraîcheur humide et\nensoleillée du matin, il les feuilletait, les dorait, les godait, les\nboursouflait, en faisant un invisible et palpable gâteau provincial,\nun immense «chausson» où, à peine goûtés les arômes plus\ncroustillants, plus fins, plus réputés, mais plus secs aussi du\nplacard, de la commode, du papier à ramages, je revenais toujours avec\nune convoitise inavouée m’engluer dans l’odeur médiane, poisseuse,\nfade, indigeste et fruitée de couvre-lit à fleurs.",
+  "entities": [
+    {
+      "text": "Léonie",
+      "label": "ORG",
+      "start": 102,
+      "end": 108
+    },
+    {
+      "text": "Octave,",
+      "label": "ORG",
+      "start": 152,
+      "end": 159
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 196,
+      "end": 204
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 212,
+      "end": 219
+    },
+    {
+      "text": "Saint-Jacques",
+      "label": "ORG",
+      "start": 447,
+      "end": 460
+    },
+    {
+      "text": "Grand-Pré",
+      "label": "ORG",
+      "start": 499,
+      "end": 508
+    },
+    {
+      "text": "Petit-Pré,",
+      "label": "ORG",
+      "start": 528,
+      "end": 538
+    },
+    {
+      "text": "Pâques",
+      "label": "ORG",
+      "start": 2181,
+      "end": 2187
+    },
+    {
+      "text": "Combray:",
+      "label": "ORG",
+      "start": 2253,
+      "end": 2261
+    }
+  ],
+  "sentences": [
+    {
+      "text": "La cousine de mon grand-père,--ma grand’tante,--chez qui nous habitions,\nétait la mère de cette tante Léonie qui, depuis la mort de son mari,\nmon oncle Octave, n’avait plus voulu quitter, d’abord Combray, puis à\nCombray sa maison, puis sa chambre, puis son lit et ne «descendait»\nplus, toujours couchée dans un état incertain de chagrin, de débilité\nphysique, de maladie, d’idée fixe et de dévotion",
+      "start": 0,
+      "end": 398
+    },
+    {
+      "text": "Son appartement\nparticulier donnait sur la rue Saint-Jacques qui aboutissait beaucoup\nplus loin au Grand-Pré (par opposition au Petit-Pré, verdoyant au\nmilieu de la ville, entre trois rues), et qui, unie, grisâtre, avec\nles trois hautes marches de grès presque devant chaque porte, semblait\ncomme un défilé pratiqué par un tailleur d’images gothiques à même la\npierre où il eût sculpté une crèche ou un calvaire",
+      "start": 399,
+      "end": 811
+    },
+    {
+      "text": "Ma tante\nn’habitait plus effectivement que deux chambres contiguës, restant\nl’après-midi dans l’une pendant qu’on aérait l’autre",
+      "start": 812,
+      "end": 941
+    },
+    {
+      "text": "C’étaient de ces\nchambres de province qui,--de même qu’en certains pays des parties\nentières de l’air ou de la mer sont illuminées ou parfumées par des\nmyriades de protozoaires que nous ne voyons pas,--nous enchantent des\nmille odeurs qu’y dégagent les vertus, la sagesse, les habitudes,\ntoute une vie secrète, invisible, surabondante et morale que\nl’atmosphère y tient en suspens; odeurs naturelles encore, certes, et\ncouleur du temps comme celles de la campagne voisine, mais déjà\ncasanières, humaines et renfermées, gelée exquise industrieuse et\nlimpide de tous les fruits de l’année qui ont quitté le verger pour\nl’armoire; saisonnières, mais mobilières et domestiques, corrigeant le\npiquant de la gelée blanche par la douceur du pain chaud, oisives et\nponctuelles comme une horloge de village, flâneuses et rangées,\ninsoucieuses et prévoyantes, lingères, matinales, dévotes, heureuses\nd’une paix qui n’apporte qu’un surcroît d’anxiété et d’un prosaïsme\nqui sert de grand réservoir de poésie à celui qui la traverse sans y\navoir vécu",
+      "start": 942,
+      "end": 1980
+    },
+    {
+      "text": "L’air y était saturé de la fine fleur d’un silence si\nnourricier, si succulent que je ne m’y avançais qu’avec une sorte de\ngourmandise, surtout par ces premiers matins encore froids de la\nsemaine de Pâques où je le goûtais mieux parce que je venais seulement\nd’arriver à Combray: avant que j’entrasse souhaiter le bonjour à ma\ntante on me faisait attendre un instant, dans la première pièce où le\nsoleil, d’hiver encore, était venu se mettre au chaud devant le feu,\ndéjà allumé entre les deux briques et qui badigeonnait toute la\nchambre d’une odeur de suie, en faisait comme un de ces grands\n«devants de four» de campagne, ou de ces manteaux de cheminée de\nchâteaux, sous lesquels on souhaite que se déclarent dehors la pluie,\nla neige, même quelque catastrophe diluvienne pour ajouter au confort\nde la réclusion la poésie de l’hivernage; je faisais quelques pas du\nprie-Dieu aux fauteuils en velours frappé, toujours revêtus d’un\nappui-tête au crochet; et le feu cuisant comme une pâte les\nappétissantes odeurs dont l’air de la chambre était tout grumeleux et\nqu’avait déjà fait travailler et «lever» la fraîcheur humide et\nensoleillée du matin, il les feuilletait, les dorait, les godait, les\nboursouflait, en faisant un invisible et palpable gâteau provincial,\nun immense «chausson» où, à peine goûtés les arômes plus\ncroustillants, plus fins, plus réputés, mais plus secs aussi du\nplacard, de la commode, du papier à ramages, je revenais toujours avec\nune convoitise inavouée m’engluer dans l’odeur médiane, poisseuse,\nfade, indigeste et fruitée de couvre-lit à fleurs",
+      "start": 1981,
+      "end": 3555
+    }
+  ],
+  "tokens": 567,
+  "processed_at": "2025-03-16T02:10:54.584072"
+}

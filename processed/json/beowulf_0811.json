@@ -1,0 +1,60 @@
+{
+  "text": "--«Oh! sapristi non! je te dirai, je ne peux pas prendre Lorédan quand\nje vais rue La Pérouse. Odette n’aime pas que je prenne Lorédan, elle\nne le trouve pas bien pour moi; enfin que veux-tu, les femmes, tu\nsais! je sais que ça lui déplairait beaucoup. Ah bien oui! je n’aurais\neu qu’à prendre Rémi! j’en aurais eu une histoire!»",
+  "entities": [
+    {
+      "text": "--«Oh!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Lorédan",
+      "label": "ORG",
+      "start": 57,
+      "end": 64
+    },
+    {
+      "text": "Pérouse.",
+      "label": "ORG",
+      "start": 86,
+      "end": 94
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 95,
+      "end": 101
+    },
+    {
+      "text": "Lorédan,",
+      "label": "ORG",
+      "start": 127,
+      "end": 135
+    },
+    {
+      "text": "Rémi!",
+      "label": "ORG",
+      "start": 294,
+      "end": 299
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Oh! sapristi non! je te dirai, je ne peux pas prendre Lorédan quand\nje vais rue La Pérouse",
+      "start": 0,
+      "end": 93
+    },
+    {
+      "text": "Odette n’aime pas que je prenne Lorédan, elle\nne le trouve pas bien pour moi; enfin que veux-tu, les femmes, tu\nsais! je sais que ça lui déplairait beaucoup",
+      "start": 94,
+      "end": 251
+    },
+    {
+      "text": "Ah bien oui! je n’aurais\neu qu’à prendre Rémi! j’en aurais eu une histoire!»",
+      "start": 252,
+      "end": 329
+    }
+  ],
+  "tokens": 61,
+  "processed_at": "2025-03-16T02:10:56.987018"
+}

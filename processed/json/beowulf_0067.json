@@ -1,0 +1,161 @@
+{
+  "text": "Françoise, en effet, qui était depuis des années a son service et ne\nse doutait pas alors qu’elle entrerait un jour tout à fait au nôtre\ndélaissait un peu ma tante pendant les mois où nous étions là. Il y\navait eu dans mon enfance, avant que nous allions à Combray, quand ma\ntante Léonie passait encore l’hiver à Paris chez sa mère, un temps où\nje connaissais si peu Françoise que, le 1er janvier, avant d’entrer\nchez ma grand’tante, ma mère me mettait dans la main une pièce de cinq\nfrancs et me disait: «Surtout ne te trompe pas de personne. Attends\npour donner que tu m’entendes dire: «Bonjour Françoise»; en même temps\nje te toucherai légèrement le bras. A peine arrivions-nous dans\nl’obscure antichambre de ma tante que nous apercevions dans l’ombre,\nsous les tuyaux d’un bonnet éblouissant, raide et fragile comme s’il\navait été de sucre filé, les remous concentriques d’un sourire de\nreconnaissance anticipé. C’était Françoise, immobile et debout dans\nl’encadrement de la petite porte du corridor comme une statue de\nsainte dans sa niche. Quand on était un peu habitué à ces ténèbres de\nchapelle, on distinguait sur son visage l’amour désintéressé de\nl’humanité, le respect attendri pour les hautes classes qu’exaltait\ndans les meilleures régions de son cœur l’espoir des étrennes. Maman\nme pinçait le bras avec violence et disait d’une voix forte: «Bonjour\nFrançoise.» A ce signal mes doigts s’ouvraient et je lâchais la pièce\nqui trouvait pour la recevoir une main confuse, mais tendue. Mais\ndepuis que nous allions à Combray je ne connaissais personne mieux que\nFrançoise; nous étions ses préférés, elle avait pour nous, au moins\npendant les premières années, avec autant de considération que pour ma\ntante, un goût plus vif, parce que nous ajoutions, au prestige de\nfaire partie de la famille (elle avait pour les liens invisibles que\nnoue entre les membres d’une famille la circulation d’un même sang,\nautant de respect qu’un tragique grec), le charme de n’être pas ses\nmaîtres habituels. Aussi, avec quelle joie elle nous recevait, nous\nplaignant de n’avoir pas encore plus beau temps, le jour de notre\narrivée, la veille de Pâques, où souvent il faisait un vent glacial,\nquand maman lui demandait des nouvelles de sa fille et de ses neveux,\nsi son petit-fils était gentil, ce qu’on comptait faire de lui, s’il\nressemblerait à sa grand’mère.",
+  "entities": [
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 257,
+      "end": 265
+    },
+    {
+      "text": "Léonie",
+      "label": "ORG",
+      "start": 281,
+      "end": 287
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 313,
+      "end": 318
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 367,
+      "end": 376
+    },
+    {
+      "text": "«Surtout",
+      "label": "ORG",
+      "start": 505,
+      "end": 513
+    },
+    {
+      "text": "«Bonjour",
+      "label": "ORG",
+      "start": 588,
+      "end": 596
+    },
+    {
+      "text": "Françoise»;",
+      "label": "ORG",
+      "start": 597,
+      "end": 608
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 924,
+      "end": 934
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 1046,
+      "end": 1051
+    },
+    {
+      "text": "Maman",
+      "label": "ORG",
+      "start": 1289,
+      "end": 1294
+    },
+    {
+      "text": "«Bonjour",
+      "label": "ORG",
+      "start": 1356,
+      "end": 1364
+    },
+    {
+      "text": "Françoise.»",
+      "label": "ORG",
+      "start": 1365,
+      "end": 1376
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1496,
+      "end": 1500
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1527,
+      "end": 1534
+    },
+    {
+      "text": "Françoise;",
+      "label": "ORG",
+      "start": 1572,
+      "end": 1582
+    },
+    {
+      "text": "Pâques,",
+      "label": "ORG",
+      "start": 2138,
+      "end": 2145
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Françoise, en effet, qui était depuis des années a son service et ne\nse doutait pas alors qu’elle entrerait un jour tout à fait au nôtre\ndélaissait un peu ma tante pendant les mois où nous étions là",
+      "start": 0,
+      "end": 198
+    },
+    {
+      "text": "Il y\navait eu dans mon enfance, avant que nous allions à Combray, quand ma\ntante Léonie passait encore l’hiver à Paris chez sa mère, un temps où\nje connaissais si peu Françoise que, le 1er janvier, avant d’entrer\nchez ma grand’tante, ma mère me mettait dans la main une pièce de cinq\nfrancs et me disait: «Surtout ne te trompe pas de personne",
+      "start": 199,
+      "end": 542
+    },
+    {
+      "text": "Attends\npour donner que tu m’entendes dire: «Bonjour Françoise»; en même temps\nje te toucherai légèrement le bras",
+      "start": 543,
+      "end": 657
+    },
+    {
+      "text": "A peine arrivions-nous dans\nl’obscure antichambre de ma tante que nous apercevions dans l’ombre,\nsous les tuyaux d’un bonnet éblouissant, raide et fragile comme s’il\navait été de sucre filé, les remous concentriques d’un sourire de\nreconnaissance anticipé",
+      "start": 658,
+      "end": 914
+    },
+    {
+      "text": "C’était Françoise, immobile et debout dans\nl’encadrement de la petite porte du corridor comme une statue de\nsainte dans sa niche",
+      "start": 915,
+      "end": 1044
+    },
+    {
+      "text": "Quand on était un peu habitué à ces ténèbres de\nchapelle, on distinguait sur son visage l’amour désintéressé de\nl’humanité, le respect attendri pour les hautes classes qu’exaltait\ndans les meilleures régions de son cœur l’espoir des étrennes",
+      "start": 1045,
+      "end": 1287
+    },
+    {
+      "text": "Maman\nme pinçait le bras avec violence et disait d’une voix forte: «Bonjour\nFrançoise",
+      "start": 1288,
+      "end": 1374
+    },
+    {
+      "text": "» A ce signal mes doigts s’ouvraient et je lâchais la pièce\nqui trouvait pour la recevoir une main confuse, mais tendue",
+      "start": 1375,
+      "end": 1494
+    },
+    {
+      "text": "Mais\ndepuis que nous allions à Combray je ne connaissais personne mieux que\nFrançoise; nous étions ses préférés, elle avait pour nous, au moins\npendant les premières années, avec autant de considération que pour ma\ntante, un goût plus vif, parce que nous ajoutions, au prestige de\nfaire partie de la famille (elle avait pour les liens invisibles que\nnoue entre les membres d’une famille la circulation d’un même sang,\nautant de respect qu’un tragique grec), le charme de n’être pas ses\nmaîtres habituels",
+      "start": 1495,
+      "end": 1999
+    },
+    {
+      "text": "Aussi, avec quelle joie elle nous recevait, nous\nplaignant de n’avoir pas encore plus beau temps, le jour de notre\narrivée, la veille de Pâques, où souvent il faisait un vent glacial,\nquand maman lui demandait des nouvelles de sa fille et de ses neveux,\nsi son petit-fils était gentil, ce qu’on comptait faire de lui, s’il\nressemblerait à sa grand’mère",
+      "start": 2000,
+      "end": 2353
+    }
+  ],
+  "tokens": 397,
+  "processed_at": "2025-03-16T02:10:54.601436"
+}

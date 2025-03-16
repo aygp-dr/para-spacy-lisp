@@ -1,0 +1,13 @@
+{
+  "text": "MARCEL PROUST",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "MARCEL PROUST",
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "tokens": 2,
+  "processed_at": "2025-03-16T02:10:54.353342"
+}

@@ -1,0 +1,134 @@
+{
+  "text": "Par cet amour Swann avait été tellement détaché de tous les intérêts,\nque quand par hasard il retournait dans le monde en se disant que ses\nrelations comme une monture élégante qu’elle n’aurait pas d’ailleurs\nsu estimer très exactement, pouvaient lui rendre à lui-même un peu de\nprix aux yeux d’Odette (et ç’aurait peut-être été vrai en effet si\nelles n’avaient été avilies par cet amour même, qui pour Odette\ndépréciait toutes les choses qu’il touchait par le fait qu’il semblait\nles proclamer moins précieuses), il y éprouvait, à côté de la détresse\nd’être dans des lieux, au milieu de gens qu’elle ne connaissait pas,\nle plaisir désintéressé qu’il aurait pris à un roman ou à un tableau\noù sont peints les divertissements d’une classe oisive, comme, chez\nlui, il se complaisait à considérer le fonctionnement de sa vie\ndomestique, l’élégance de sa garde-robe et de sa livrée, le bon\nplacement de ses valeurs, de la même façon qu’à lire dans Saint-Simon,\nqui était un de ses auteurs favoris, la mécanique des journées, le\nmenu des repas de Mme de Maintenon, ou l’avarice avisée et le grand\ntrain de Lulli. Et dans la faible mesure où ce détachement n’était pas\nabsolu, la raison de ce plaisir nouveau que goûtait Swann, c’était de\npouvoir émigrer un moment dans les rares parties de lui-même restées\npresque étrangères à son amour, à son chagrin. A cet égard cette\npersonnalité, que lui attribuait ma grand’tante, de «fils Swann»,\ndistincte de sa personnalité plus individuelle de Charles Swann, était\ncelle où il se plaisait maintenant le mieux. Un jour que, pour\nl’anniversaire de la princesse de Parme (et parce qu’elle pouvait\nsouvent être indirectement agréable à Odette en lui faisant avoir des\nplaces pour des galas, des jubilés), il avait voulu lui envoyer des\nfruits, ne sachant pas trop comment les commander, il en avait chargé\nune cousine de sa mère qui, ravie de faire une commission pour lui,\nlui avait écrit, en lui rendant compte qu’elle n’avait pas pris tous\nles fruits au même endroit, mais les raisins chez Crapote dont c’est\nla spécialité, les fraises chez Jauret, les poires chez Chevet où\nelles étaient plus belles, etc., «chaque fruit visité et examiné un\npar un par moi». Et en effet, par les remerciements de la princesse,\nil avait pu juger du parfum des fraises et du moelleux des poires.\nMais surtout le «chaque fruit visité et examiné un par un par moi»\navait été un apaisement à sa souffrance, en emmenant sa conscience\ndans une région où il se rendait rarement, bien qu’elle lui appartînt\ncomme héritier d’une famille de riche et bonne bourgeoisie où\ns’étaient conservés héréditairement, tout prêts à être mis à son\nservice dès qu’il le souhaitait, la connaissance des «bonnes adresses»\net l’art de savoir bien faire une commande.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 14,
+      "end": 19
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 295,
+      "end": 301
+    },
+    {
+      "text": "Saint-Simon,",
+      "label": "ORG",
+      "start": 944,
+      "end": 956
+    },
+    {
+      "text": "Maintenon,",
+      "label": "ORG",
+      "start": 1049,
+      "end": 1059
+    },
+    {
+      "text": "Lulli.",
+      "label": "ORG",
+      "start": 1101,
+      "end": 1107
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1215,
+      "end": 1221
+    },
+    {
+      "text": "Swann»,",
+      "label": "ORG",
+      "start": 1425,
+      "end": 1432
+    },
+    {
+      "text": "Charles",
+      "label": "ORG",
+      "start": 1483,
+      "end": 1490
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1491,
+      "end": 1497
+    },
+    {
+      "text": "Parme",
+      "label": "ORG",
+      "start": 1601,
+      "end": 1606
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1671,
+      "end": 1677
+    },
+    {
+      "text": "Crapote",
+      "label": "ORG",
+      "start": 2028,
+      "end": 2035
+    },
+    {
+      "text": "Jauret,",
+      "label": "ORG",
+      "start": 2079,
+      "end": 2086
+    },
+    {
+      "text": "Chevet",
+      "label": "ORG",
+      "start": 2103,
+      "end": 2109
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2317,
+      "end": 2321
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Par cet amour Swann avait été tellement détaché de tous les intérêts,\nque quand par hasard il retournait dans le monde en se disant que ses\nrelations comme une monture élégante qu’elle n’aurait pas d’ailleurs\nsu estimer très exactement, pouvaient lui rendre à lui-même un peu de\nprix aux yeux d’Odette (et ç’aurait peut-être été vrai en effet si\nelles n’avaient été avilies par cet amour même, qui pour Odette\ndépréciait toutes les choses qu’il touchait par le fait qu’il semblait\nles proclamer moins précieuses), il y éprouvait, à côté de la détresse\nd’être dans des lieux, au milieu de gens qu’elle ne connaissait pas,\nle plaisir désintéressé qu’il aurait pris à un roman ou à un tableau\noù sont peints les divertissements d’une classe oisive, comme, chez\nlui, il se complaisait à considérer le fonctionnement de sa vie\ndomestique, l’élégance de sa garde-robe et de sa livrée, le bon\nplacement de ses valeurs, de la même façon qu’à lire dans Saint-Simon,\nqui était un de ses auteurs favoris, la mécanique des journées, le\nmenu des repas de Mme de Maintenon, ou l’avarice avisée et le grand\ntrain de Lulli",
+      "start": 0,
+      "end": 1106
+    },
+    {
+      "text": "Et dans la faible mesure où ce détachement n’était pas\nabsolu, la raison de ce plaisir nouveau que goûtait Swann, c’était de\npouvoir émigrer un moment dans les rares parties de lui-même restées\npresque étrangères à son amour, à son chagrin",
+      "start": 1107,
+      "end": 1347
+    },
+    {
+      "text": "A cet égard cette\npersonnalité, que lui attribuait ma grand’tante, de «fils Swann»,\ndistincte de sa personnalité plus individuelle de Charles Swann, était\ncelle où il se plaisait maintenant le mieux",
+      "start": 1348,
+      "end": 1547
+    },
+    {
+      "text": "Un jour que, pour\nl’anniversaire de la princesse de Parme (et parce qu’elle pouvait\nsouvent être indirectement agréable à Odette en lui faisant avoir des\nplaces pour des galas, des jubilés), il avait voulu lui envoyer des\nfruits, ne sachant pas trop comment les commander, il en avait chargé\nune cousine de sa mère qui, ravie de faire une commission pour lui,\nlui avait écrit, en lui rendant compte qu’elle n’avait pas pris tous\nles fruits au même endroit, mais les raisins chez Crapote dont c’est\nla spécialité, les fraises chez Jauret, les poires chez Chevet où\nelles étaient plus belles, etc",
+      "start": 1548,
+      "end": 2143
+    },
+    {
+      "text": ", «chaque fruit visité et examiné un\npar un par moi»",
+      "start": 2144,
+      "end": 2196
+    },
+    {
+      "text": "Et en effet, par les remerciements de la princesse,\nil avait pu juger du parfum des fraises et du moelleux des poires",
+      "start": 2197,
+      "end": 2315
+    },
+    {
+      "text": "Mais surtout le «chaque fruit visité et examiné un par un par moi»\navait été un apaisement à sa souffrance, en emmenant sa conscience\ndans une région où il se rendait rarement, bien qu’elle lui appartînt\ncomme héritier d’une famille de riche et bonne bourgeoisie où\ns’étaient conservés héréditairement, tout prêts à être mis à son\nservice dès qu’il le souhaitait, la connaissance des «bonnes adresses»\net l’art de savoir bien faire une commande",
+      "start": 2316,
+      "end": 2761
+    }
+  ],
+  "tokens": 470,
+  "processed_at": "2025-03-16T02:10:56.920567"
+}

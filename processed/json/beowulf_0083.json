@@ -1,0 +1,37 @@
+{
+  "text": "--«Mais, madame Octave, ce n’est pas encore l’heure de la pepsine,\ndisait Françoise. Est-ce que vous vous êtes senti une faiblesse?»",
+  "entities": [
+    {
+      "text": "--«Mais,",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Octave,",
+      "label": "ORG",
+      "start": 16,
+      "end": 23
+    },
+    {
+      "text": "Françoise.",
+      "label": "ORG",
+      "start": 74,
+      "end": 84
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais, madame Octave, ce n’est pas encore l’heure de la pepsine,\ndisait Françoise",
+      "start": 0,
+      "end": 83
+    },
+    {
+      "text": "Est-ce que vous vous êtes senti une faiblesse?»",
+      "start": 84,
+      "end": 132
+    }
+  ],
+  "tokens": 21,
+  "processed_at": "2025-03-16T02:10:54.654520"
+}

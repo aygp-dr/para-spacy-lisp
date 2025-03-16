@@ -1,0 +1,25 @@
+{
+  "text": "A intervalles symétriques, au milieu de l’inimitable ornementation de\nleurs feuilles qu’on ne peut confondre avec la feuille d’aucun autre\narbre fruitier, les pommiers ouvraient leurs larges pétales de satin\nblanc ou suspendaient les timides bouquets de leurs rougissants\nboutons. C’est du côté de Méséglise que j’ai remarqué pour la première\nfois l’ombre ronde que les pommiers font sur la terre ensoleillée, et\naussi ces soies d’or impalpable que le couchant tisse obliquement sous\nles feuilles, et que je voyais mon père interrompre de sa canne sans\nles faire jamais dévier.",
+  "entities": [
+    {
+      "text": "Méséglise",
+      "label": "ORG",
+      "start": 298,
+      "end": 307
+    }
+  ],
+  "sentences": [
+    {
+      "text": "A intervalles symétriques, au milieu de l’inimitable ornementation de\nleurs feuilles qu’on ne peut confondre avec la feuille d’aucun autre\narbre fruitier, les pommiers ouvraient leurs larges pétales de satin\nblanc ou suspendaient les timides bouquets de leurs rougissants\nboutons",
+      "start": 0,
+      "end": 279
+    },
+    {
+      "text": "C’est du côté de Méséglise que j’ai remarqué pour la première\nfois l’ombre ronde que les pommiers font sur la terre ensoleillée, et\naussi ces soies d’or impalpable que le couchant tisse obliquement sous\nles feuilles, et que je voyais mon père interrompre de sa canne sans\nles faire jamais dévier",
+      "start": 280,
+      "end": 576
+    }
+  ],
+  "tokens": 91,
+  "processed_at": "2025-03-16T02:10:55.507136"
+}

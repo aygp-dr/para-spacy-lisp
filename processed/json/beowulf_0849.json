@@ -1,0 +1,20 @@
+{
+  "text": "--Mais oui, un très long moment qui m’a semblé très court, long\nseulement parce que je ne vous voyais pas.",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais oui, un très long moment qui m’a semblé très court, long\nseulement parce que je ne vous voyais pas",
+      "start": 0,
+      "end": 105
+    }
+  ],
+  "tokens": 20,
+  "processed_at": "2025-03-16T02:10:57.105938"
+}

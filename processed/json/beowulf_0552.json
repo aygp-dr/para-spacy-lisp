@@ -1,0 +1,59 @@
+{
+  "text": "Elle tenait à la main un bouquet de catleyas et Swann vit, sous sa\nfanchon de dentelle, qu’elle avait dans les cheveux des fleurs de\ncette même orchidée attachées à une aigrette en plumes de cygnes. Elle\nétait habillée sous sa mantille, d’un flot de velours noir qui, par un\nrattrapé oblique, découvrait en un large triangle le bas d’une jupe de\nfaille blanche et laissait voir un empiècement, également de faille\nblanche, à l’ouverture du corsage décolleté, où étaient enfoncées\nd’autres fleurs de catleyas. Elle était à peine remise de la frayeur\nque Swann lui avait causée quand un obstacle fit faire un écart au\ncheval. Ils furent vivement déplacés, elle avait jeté un cri et\nrestait toute palpitante, sans respiration.",
+  "entities": [
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 48,
+      "end": 53
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 199,
+      "end": 203
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 509,
+      "end": 513
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 553,
+      "end": 558
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle tenait à la main un bouquet de catleyas et Swann vit, sous sa\nfanchon de dentelle, qu’elle avait dans les cheveux des fleurs de\ncette même orchidée attachées à une aigrette en plumes de cygnes",
+      "start": 0,
+      "end": 197
+    },
+    {
+      "text": "Elle\nétait habillée sous sa mantille, d’un flot de velours noir qui, par un\nrattrapé oblique, découvrait en un large triangle le bas d’une jupe de\nfaille blanche et laissait voir un empiècement, également de faille\nblanche, à l’ouverture du corsage décolleté, où étaient enfoncées\nd’autres fleurs de catleyas",
+      "start": 198,
+      "end": 507
+    },
+    {
+      "text": "Elle était à peine remise de la frayeur\nque Swann lui avait causée quand un obstacle fit faire un écart au\ncheval",
+      "start": 508,
+      "end": 622
+    },
+    {
+      "text": "Ils furent vivement déplacés, elle avait jeté un cri et\nrestait toute palpitante, sans respiration",
+      "start": 623,
+      "end": 722
+    }
+  ],
+  "tokens": 122,
+  "processed_at": "2025-03-16T02:10:56.204337"
+}

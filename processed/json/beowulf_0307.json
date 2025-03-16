@@ -1,0 +1,41 @@
+{
+  "text": "La haie laissait voir à l’intérieur du parc une allée bordée de\njasmins, de pensées et de verveines entre lesquelles des giroflées\nouvraient leur bourse fraîche, du rose odorant et passé d’un cuir\nancien de Cordoue, tandis que sur le gravier un long tuyau d’arrosage\npeint en vert, déroulant ses circuits, dressait aux points où il était\npercé au-dessus des fleurs, dont il imbibait les parfums, l’éventail\nvertical et prismatique de ses gouttelettes multicolores. Tout à coup,\nje m’arrêtai, je ne pus plus bouger, comme il arrive quand une vision\nne s’adresse pas seulement à nos regards, mais requiert des\nperceptions plus profondes et dispose de notre être tout entier. Une\nfillette d’un blond roux qui avait l’air de rentrer de promenade et\ntenait à la main une bêche de jardinage, nous regardait, levant son\nvisage semé de taches roses. Ses yeux noirs brillaient et comme je ne\nsavais pas alors, ni ne l’ai appris depuis, réduire en ses éléments\nobjectifs une impression forte, comme je n’avais pas, ainsi qu’on dit,\nassez «d’esprit d’observation» pour dégager la notion de leur couleur,\npendant longtemps, chaque fois que je repensai à elle, le souvenir de\nleur éclat se présentait aussitôt à moi comme celui d’un vif azur,\npuisqu’elle était blonde: de sorte que, peut-être si elle n’avait pas\neu des yeux aussi noirs,--ce qui frappait tant la première fois qu’on\nla voyait--je n’aurais pas été, comme je le fus, plus particulièrement\namoureux, en elle, de ses yeux bleus.",
+  "entities": [
+    {
+      "text": "Cordoue,",
+      "label": "ORG",
+      "start": 207,
+      "end": 215
+    },
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 465,
+      "end": 469
+    }
+  ],
+  "sentences": [
+    {
+      "text": "La haie laissait voir à l’intérieur du parc une allée bordée de\njasmins, de pensées et de verveines entre lesquelles des giroflées\nouvraient leur bourse fraîche, du rose odorant et passé d’un cuir\nancien de Cordoue, tandis que sur le gravier un long tuyau d’arrosage\npeint en vert, déroulant ses circuits, dressait aux points où il était\npercé au-dessus des fleurs, dont il imbibait les parfums, l’éventail\nvertical et prismatique de ses gouttelettes multicolores",
+      "start": 0,
+      "end": 463
+    },
+    {
+      "text": "Tout à coup,\nje m’arrêtai, je ne pus plus bouger, comme il arrive quand une vision\nne s’adresse pas seulement à nos regards, mais requiert des\nperceptions plus profondes et dispose de notre être tout entier",
+      "start": 464,
+      "end": 671
+    },
+    {
+      "text": "Une\nfillette d’un blond roux qui avait l’air de rentrer de promenade et\ntenait à la main une bêche de jardinage, nous regardait, levant son\nvisage semé de taches roses",
+      "start": 672,
+      "end": 840
+    },
+    {
+      "text": "Ses yeux noirs brillaient et comme je ne\nsavais pas alors, ni ne l’ai appris depuis, réduire en ses éléments\nobjectifs une impression forte, comme je n’avais pas, ainsi qu’on dit,\nassez «d’esprit d’observation» pour dégager la notion de leur couleur,\npendant longtemps, chaque fois que je repensai à elle, le souvenir de\nleur éclat se présentait aussitôt à moi comme celui d’un vif azur,\npuisqu’elle était blonde: de sorte que, peut-être si elle n’avait pas\neu des yeux aussi noirs,--ce qui frappait tant la première fois qu’on\nla voyait--je n’aurais pas été, comme je le fus, plus particulièrement\namoureux, en elle, de ses yeux bleus",
+      "start": 841,
+      "end": 1477
+    }
+  ],
+  "tokens": 246,
+  "processed_at": "2025-03-16T02:10:55.478767"
+}

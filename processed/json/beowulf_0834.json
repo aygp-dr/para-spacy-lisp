@@ -1,0 +1,70 @@
+{
+  "text": "La princesse n’aimait pas à dire aux gens qu’elle ne voulait pas aller\nchez eux. Tous les jours elle écrivait son regret d’avoir été\nprivée--par une visite inopinée de sa belle-mère, par une invitation de\nson beau-frère, par l’Opéra, par une partie de campagne--d’une soirée à\nlaquelle elle n’aurait jamais songé à se rendre. Elle donnait ainsi à\nbeaucoup de gens la joie de croire qu’elle était de leurs relations,\nqu’elle eût été volontiers chez eux, qu’elle n’avait été empêchée de\nle faire que par les contretemps princiers qu’ils étaient flattés de\nvoir entrer en concurrence avec leur soirée. Puis, faisant partie de\ncette spirituelle coterie des Guermantes où survivait quelque chose de\nl’esprit alerte, dépouillé de lieux communs et de sentiments convenus,\nqui descend de Mérimée,--et a trouvé sa dernière expression dans le\nthéâtre de Meilhac et Halévy,--elle l’adaptait même aux rapports\nsociaux, le transposait jusque dans sa politesse qui s’efforçait\nd’être positive, précise, de se rapprocher de l’humble vérité. Elle ne\ndéveloppait pas longuement à une maîtresse de maison l’expression du\ndésir qu’elle avait d’aller à sa soirée; elle trouvait plus aimable de\nlui exposer quelques petits faits d’où dépendrait qu’il lui fût ou non\npossible de s’y rendre.",
+  "entities": [
+    {
+      "text": "Tous",
+      "label": "ORG",
+      "start": 81,
+      "end": 85
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 326,
+      "end": 330
+    },
+    {
+      "text": "Puis,",
+      "label": "ORG",
+      "start": 599,
+      "end": 604
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 653,
+      "end": 663
+    },
+    {
+      "text": "Meilhac",
+      "label": "ORG",
+      "start": 844,
+      "end": 851
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1026,
+      "end": 1030
+    }
+  ],
+  "sentences": [
+    {
+      "text": "La princesse n’aimait pas à dire aux gens qu’elle ne voulait pas aller\nchez eux",
+      "start": 0,
+      "end": 79
+    },
+    {
+      "text": "Tous les jours elle écrivait son regret d’avoir été\nprivée--par une visite inopinée de sa belle-mère, par une invitation de\nson beau-frère, par l’Opéra, par une partie de campagne--d’une soirée à\nlaquelle elle n’aurait jamais songé à se rendre",
+      "start": 80,
+      "end": 324
+    },
+    {
+      "text": "Elle donnait ainsi à\nbeaucoup de gens la joie de croire qu’elle était de leurs relations,\nqu’elle eût été volontiers chez eux, qu’elle n’avait été empêchée de\nle faire que par les contretemps princiers qu’ils étaient flattés de\nvoir entrer en concurrence avec leur soirée",
+      "start": 325,
+      "end": 597
+    },
+    {
+      "text": "Puis, faisant partie de\ncette spirituelle coterie des Guermantes où survivait quelque chose de\nl’esprit alerte, dépouillé de lieux communs et de sentiments convenus,\nqui descend de Mérimée,--et a trouvé sa dernière expression dans le\nthéâtre de Meilhac et Halévy,--elle l’adaptait même aux rapports\nsociaux, le transposait jusque dans sa politesse qui s’efforçait\nd’être positive, précise, de se rapprocher de l’humble vérité",
+      "start": 598,
+      "end": 1024
+    },
+    {
+      "text": "Elle ne\ndéveloppait pas longuement à une maîtresse de maison l’expression du\ndésir qu’elle avait d’aller à sa soirée; elle trouvait plus aimable de\nlui exposer quelques petits faits d’où dépendrait qu’il lui fût ou non\npossible de s’y rendre",
+      "start": 1025,
+      "end": 1267
+    }
+  ],
+  "tokens": 201,
+  "processed_at": "2025-03-16T02:10:57.059507"
+}

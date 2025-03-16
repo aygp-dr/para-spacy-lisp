@@ -1,0 +1,60 @@
+{
+  "text": "Ce n’était vraiment pas de chance qu’elle lui défendît le seul endroit\nqui le tentait aujourd’hui. Aujourd’hui! S’il y allait, malgré son\ninterdiction, il pourrait la voir aujourd’hui même! Mais, alors que,\nsi elle eût retrouvé à Pierrefonds quelque indifférent, elle lui eût\ndit joyeusement: «Tiens, vous ici!», et lui aurait demandé d’aller la\nvoir à l’hôtel où elle était descendue avec les Verdurin, au contraire\nsi elle l’y rencontrait, lui, Swann, elle serait froissée, elle se\ndirait qu’elle était suivie, elle l’aimerait moins, peut-être se\ndétournerait-elle avec colère en l’apercevant. «Alors, je n’ai plus le\ndroit de voyager!», lui dirait-elle au retour, tandis qu’en somme\nc’était lui qui n’avait plus le droit de voyager!",
+  "entities": [
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 190,
+      "end": 195
+    },
+    {
+      "text": "Pierrefonds",
+      "label": "ORG",
+      "start": 230,
+      "end": 241
+    },
+    {
+      "text": "«Tiens,",
+      "label": "ORG",
+      "start": 293,
+      "end": 300
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 394,
+      "end": 403
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 447,
+      "end": 453
+    },
+    {
+      "text": "«Alors,",
+      "label": "ORG",
+      "start": 596,
+      "end": 603
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ce n’était vraiment pas de chance qu’elle lui défendît le seul endroit\nqui le tentait aujourd’hui",
+      "start": 0,
+      "end": 97
+    },
+    {
+      "text": "Aujourd’hui! S’il y allait, malgré son\ninterdiction, il pourrait la voir aujourd’hui même! Mais, alors que,\nsi elle eût retrouvé à Pierrefonds quelque indifférent, elle lui eût\ndit joyeusement: «Tiens, vous ici!», et lui aurait demandé d’aller la\nvoir à l’hôtel où elle était descendue avec les Verdurin, au contraire\nsi elle l’y rencontrait, lui, Swann, elle serait froissée, elle se\ndirait qu’elle était suivie, elle l’aimerait moins, peut-être se\ndétournerait-elle avec colère en l’apercevant",
+      "start": 98,
+      "end": 594
+    },
+    {
+      "text": "«Alors, je n’ai plus le\ndroit de voyager!», lui dirait-elle au retour, tandis qu’en somme\nc’était lui qui n’avait plus le droit de voyager!",
+      "start": 595,
+      "end": 735
+    }
+  ],
+  "tokens": 115,
+  "processed_at": "2025-03-16T02:10:56.834714"
+}

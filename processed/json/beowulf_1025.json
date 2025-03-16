@@ -1,0 +1,44 @@
+{
+  "text": "--«Vous savez qui c’est? Mme Swann! Cela ne vous dit rien? Odette de\nCrécy?»",
+  "entities": [
+    {
+      "text": "--«Vous",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Swann!",
+      "label": "ORG",
+      "start": 29,
+      "end": 35
+    },
+    {
+      "text": "Cela",
+      "label": "ORG",
+      "start": 36,
+      "end": 40
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 59,
+      "end": 65
+    },
+    {
+      "text": "Crécy?»",
+      "label": "ORG",
+      "start": 69,
+      "end": 76
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Vous savez qui c’est? Mme Swann! Cela ne vous dit rien? Odette de\nCrécy?»",
+      "start": 0,
+      "end": 76
+    }
+  ],
+  "tokens": 14,
+  "processed_at": "2025-03-16T02:10:57.613937"
+}

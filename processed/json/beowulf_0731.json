@@ -1,0 +1,26 @@
+{
+  "text": "--«Comment, mais je croyais que je vous reconduisais», s’écria Swann,\ndisant sans dissimulation, les mots nécessaires, car la portière était\nouverte, les secondes étaient comptées, et il ne pouvait rentrer sans\nelle dans l’état où il était.",
+  "entities": [
+    {
+      "text": "--«Comment,",
+      "label": "ORG",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 63,
+      "end": 69
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Comment, mais je croyais que je vous reconduisais», s’écria Swann,\ndisant sans dissimulation, les mots nécessaires, car la portière était\nouverte, les secondes étaient comptées, et il ne pouvait rentrer sans\nelle dans l’état où il était",
+      "start": 0,
+      "end": 239
+    }
+  ],
+  "tokens": 37,
+  "processed_at": "2025-03-16T02:10:56.742368"
+}

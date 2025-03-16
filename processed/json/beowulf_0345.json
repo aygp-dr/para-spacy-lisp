@@ -1,0 +1,25 @@
+{
+  "text": "--«Oh! ce portrait de mon père qui nous regarde, je ne sais pas qui a\npu le mettre là, j’ai pourtant dit vingt fois que ce n’était pas sa\nplace.»",
+  "entities": [
+    {
+      "text": "--«Oh!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Oh! ce portrait de mon père qui nous regarde, je ne sais pas qui a\npu le mettre là, j’ai pourtant dit vingt fois que ce n’était pas sa\nplace",
+      "start": 0,
+      "end": 143
+    },
+    {
+      "text": "»",
+      "start": 144,
+      "end": 145
+    }
+  ],
+  "tokens": 30,
+  "processed_at": "2025-03-16T02:10:55.599452"
+}

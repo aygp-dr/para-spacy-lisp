@@ -1,0 +1,30 @@
+{
+  "text": "--«Mais laisse-le donc où il est, il n’est plus là pour nous embêter.\nCrois-tu qu’il pleurnicherait, qu’il voudrait te mettre ton manteau,\ns’il te voyait là, la fenêtre ouverte, le vilain singe.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais laisse-le donc où il est, il n’est plus là pour nous embêter",
+      "start": 0,
+      "end": 68
+    },
+    {
+      "text": "Crois-tu qu’il pleurnicherait, qu’il voudrait te mettre ton manteau,\ns’il te voyait là, la fenêtre ouverte, le vilain singe",
+      "start": 69,
+      "end": 193
+    },
+    {
+      "text": "»",
+      "start": 194,
+      "end": 195
+    }
+  ],
+  "tokens": 32,
+  "processed_at": "2025-03-16T02:10:55.604420"
+}

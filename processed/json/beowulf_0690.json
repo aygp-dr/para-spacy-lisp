@@ -1,0 +1,92 @@
+{
+  "text": "Le jour où il dînait en ville, il faisait atteler pour sept heures et\ndemie; il s’habillait tout en songeant à Odette et ainsi il ne se\ntrouvait pas seul, car la pensée constante d’Odette donnait aux\nmoments où il était loin d’elle le même charme particulier qu’à ceux\noù elle était là. Il montait en voiture, mais il sentait que cette\npensée y avait sauté en même temps et s’installait sur ses genoux\ncomme une bête aimée qu’on emmène partout et qu’il garderait avec lui\nà table, à l’insu des convives. Il la caressait, se réchauffait à\nelle, et éprouvant une sorte de langueur, se laissait aller à un léger\nfrémissement qui crispait son cou et son nez, et était nouveau chez\nlui, tout en fixant à sa boutonnière le bouquet d’ancolies. Se sentant\nsouffrant et triste depuis quelque temps, surtout depuis qu’Odette\navait présenté Forcheville aux Verdurin, Swann aurait aimé aller se\nreposer un peu à la campagne. Mais il n’aurait pas eu le courage de\nquitter Paris un seul jour pendant qu’Odette y était. L’air était\nchaud; c’étaient les plus beaux jours du printemps. Et il avait beau\ntraverser une ville de pierre pour se rendre en quelque hôtel clos, ce\nqui était sans cesse devant ses yeux, c’était un parc qu’il possédait\nprès de Combray, où, dès quatre heures, avant d’arriver au plant\nd’asperges, grâce au vent qui vient des champs de Méséglise, on\npouvait goûter sous une charmille autant de fraîcheur qu’au bord de\nl’étang cerné de myosotis et de glaïeuls, et où, quand il dînait,\nenlacées par son jardinier, couraient autour de la table les\ngroseilles et les roses.",
+  "entities": [
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 111,
+      "end": 117
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 830,
+      "end": 841
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 846,
+      "end": 855
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 856,
+      "end": 861
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 913,
+      "end": 917
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 959,
+      "end": 964
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 1235,
+      "end": 1243
+    },
+    {
+      "text": "Méséglise,",
+      "label": "ORG",
+      "start": 1342,
+      "end": 1352
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le jour où il dînait en ville, il faisait atteler pour sept heures et\ndemie; il s’habillait tout en songeant à Odette et ainsi il ne se\ntrouvait pas seul, car la pensée constante d’Odette donnait aux\nmoments où il était loin d’elle le même charme particulier qu’à ceux\noù elle était là",
+      "start": 0,
+      "end": 285
+    },
+    {
+      "text": "Il montait en voiture, mais il sentait que cette\npensée y avait sauté en même temps et s’installait sur ses genoux\ncomme une bête aimée qu’on emmène partout et qu’il garderait avec lui\nà table, à l’insu des convives",
+      "start": 286,
+      "end": 502
+    },
+    {
+      "text": "Il la caressait, se réchauffait à\nelle, et éprouvant une sorte de langueur, se laissait aller à un léger\nfrémissement qui crispait son cou et son nez, et était nouveau chez\nlui, tout en fixant à sa boutonnière le bouquet d’ancolies",
+      "start": 503,
+      "end": 735
+    },
+    {
+      "text": "Se sentant\nsouffrant et triste depuis quelque temps, surtout depuis qu’Odette\navait présenté Forcheville aux Verdurin, Swann aurait aimé aller se\nreposer un peu à la campagne",
+      "start": 736,
+      "end": 911
+    },
+    {
+      "text": "Mais il n’aurait pas eu le courage de\nquitter Paris un seul jour pendant qu’Odette y était",
+      "start": 912,
+      "end": 1003
+    },
+    {
+      "text": "L’air était\nchaud; c’étaient les plus beaux jours du printemps",
+      "start": 1004,
+      "end": 1067
+    },
+    {
+      "text": "Et il avait beau\ntraverser une ville de pierre pour se rendre en quelque hôtel clos, ce\nqui était sans cesse devant ses yeux, c’était un parc qu’il possédait\nprès de Combray, où, dès quatre heures, avant d’arriver au plant\nd’asperges, grâce au vent qui vient des champs de Méséglise, on\npouvait goûter sous une charmille autant de fraîcheur qu’au bord de\nl’étang cerné de myosotis et de glaïeuls, et où, quand il dînait,\nenlacées par son jardinier, couraient autour de la table les\ngroseilles et les roses",
+      "start": 1068,
+      "end": 1574
+    }
+  ],
+  "tokens": 275,
+  "processed_at": "2025-03-16T02:10:56.622708"
+}

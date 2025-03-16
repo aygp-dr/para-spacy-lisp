@@ -1,0 +1,38 @@
+{
+  "text": "Lierre instantané, flore pariétaire et fugitive! la plus incolore, la\nplus triste, au gré de beaucoup, de celles qui peuvent ramper sur le\nmur ou décorer la croisée; pour moi, de toutes la plus chère depuis le\njour où elle était apparue sur notre balcon, comme l’ombre même de la\nprésence de Gilberte qui était peut-être déjà aux Champs-Élysées, et\ndès que j’y arriverais, me dirait: «Commençons tout de suite à jouer\naux barres, vous êtes dans mon camp»; fragile, emportée par un\nsouffle, mais aussi en rapport non pas avec la saison, mais avec\nl’heure; promesse du bonheur immédiat que la journée refuse ou\naccomplira, et par là du bonheur immédiat par excellence, le bonheur\nde l’amour; plus douce, plus chaude sur la pierre que n’est la mousse\nmême; vivace, à qui il suffit d’un rayon pour naître et faire éclore\nde la joie, même au cœur de l’hiver.",
+  "entities": [
+    {
+      "text": "Lierre",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 292,
+      "end": 300
+    },
+    {
+      "text": "Champs-Élysées,",
+      "label": "ORG",
+      "start": 330,
+      "end": 345
+    },
+    {
+      "text": "«Commençons",
+      "label": "ORG",
+      "start": 384,
+      "end": 395
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Lierre instantané, flore pariétaire et fugitive! la plus incolore, la\nplus triste, au gré de beaucoup, de celles qui peuvent ramper sur le\nmur ou décorer la croisée; pour moi, de toutes la plus chère depuis le\njour où elle était apparue sur notre balcon, comme l’ombre même de la\nprésence de Gilberte qui était peut-être déjà aux Champs-Élysées, et\ndès que j’y arriverais, me dirait: «Commençons tout de suite à jouer\naux barres, vous êtes dans mon camp»; fragile, emportée par un\nsouffle, mais aussi en rapport non pas avec la saison, mais avec\nl’heure; promesse du bonheur immédiat que la journée refuse ou\naccomplira, et par là du bonheur immédiat par excellence, le bonheur\nde l’amour; plus douce, plus chaude sur la pierre que n’est la mousse\nmême; vivace, à qui il suffit d’un rayon pour naître et faire éclore\nde la joie, même au cœur de l’hiver",
+      "start": 0,
+      "end": 852
+    }
+  ],
+  "tokens": 150,
+  "processed_at": "2025-03-16T02:10:57.518398"
+}

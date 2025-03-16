@@ -1,0 +1,53 @@
+{
+  "text": "Quelquefois le temps était tout à fait gâté, il fallait rentrer et\nrester enfermé dans la maison. Çà et là au loin dans la campagne que\nl’obscurité et l’humidité faisaient ressembler à la mer, des maisons\nisolées, accrochées au flanc d’une colline plongée dans la nuit et\ndans l’eau, brillaient comme des petits bateaux qui ont replié leurs\nvoiles et sont immobiles au large pour toute la nuit. Mais\nqu’importait la pluie, qu’importait l’orage! L’été, le mauvais temps\nn’est qu’une humeur passagère, superficielle, du beau temps\nsous-jacent et fixe, bien différent du beau temps instable et fluide\nde l’hiver et qui, au contraire, installé sur la terre où il s’est\nsolidifié en denses feuillages sur lesquels la pluie peut s’égoutter\nsans compromettre la résistance de leur permanente joie, a hissé pour\ntoute la saison, jusque dans les rues du village, aux murs des maisons\net des jardins, ses pavillons de soie violette ou blanche. Assis dans\nle petit salon, où j’attendais l’heure du dîner en lisant, j’entendais\nl’eau dégoutter de nos marronniers, mais je savais que l’averse ne\nfaisait que vernir leurs feuilles et qu’ils promettaient de demeurer\nlà, comme des gages de l’été, toute la nuit pluvieuse, à assurer la\ncontinuité du beau temps; qu’il avait beau pleuvoir, demain, au-dessus\nde la barrière blanche de Tansonville, onduleraient, aussi nombreuses,\nde petites feuilles en forme de cœur; et c’est sans tristesse que\nj’apercevais le peuplier de la rue des Perchamps adresser à l’orage\ndes supplications et des salutations désespérées; c’est sans tristesse\nque j’entendais au fond du jardin les derniers roulements du tonnerre\nroucouler dans les lilas.",
+  "entities": [
+    {
+      "text": "Quelquefois",
+      "label": "ORG",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 395,
+      "end": 399
+    },
+    {
+      "text": "Tansonville,",
+      "label": "ORG",
+      "start": 1317,
+      "end": 1329
+    },
+    {
+      "text": "Perchamps",
+      "label": "ORG",
+      "start": 1467,
+      "end": 1476
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quelquefois le temps était tout à fait gâté, il fallait rentrer et\nrester enfermé dans la maison",
+      "start": 0,
+      "end": 96
+    },
+    {
+      "text": "Çà et là au loin dans la campagne que\nl’obscurité et l’humidité faisaient ressembler à la mer, des maisons\nisolées, accrochées au flanc d’une colline plongée dans la nuit et\ndans l’eau, brillaient comme des petits bateaux qui ont replié leurs\nvoiles et sont immobiles au large pour toute la nuit",
+      "start": 97,
+      "end": 393
+    },
+    {
+      "text": "Mais\nqu’importait la pluie, qu’importait l’orage! L’été, le mauvais temps\nn’est qu’une humeur passagère, superficielle, du beau temps\nsous-jacent et fixe, bien différent du beau temps instable et fluide\nde l’hiver et qui, au contraire, installé sur la terre où il s’est\nsolidifié en denses feuillages sur lesquels la pluie peut s’égoutter\nsans compromettre la résistance de leur permanente joie, a hissé pour\ntoute la saison, jusque dans les rues du village, aux murs des maisons\net des jardins, ses pavillons de soie violette ou blanche",
+      "start": 394,
+      "end": 932
+    },
+    {
+      "text": "Assis dans\nle petit salon, où j’attendais l’heure du dîner en lisant, j’entendais\nl’eau dégoutter de nos marronniers, mais je savais que l’averse ne\nfaisait que vernir leurs feuilles et qu’ils promettaient de demeurer\nlà, comme des gages de l’été, toute la nuit pluvieuse, à assurer la\ncontinuité du beau temps; qu’il avait beau pleuvoir, demain, au-dessus\nde la barrière blanche de Tansonville, onduleraient, aussi nombreuses,\nde petites feuilles en forme de cœur; et c’est sans tristesse que\nj’apercevais le peuplier de la rue des Perchamps adresser à l’orage\ndes supplications et des salutations désespérées; c’est sans tristesse\nque j’entendais au fond du jardin les derniers roulements du tonnerre\nroucouler dans les lilas",
+      "start": 933,
+      "end": 1661
+    }
+  ],
+  "tokens": 267,
+  "processed_at": "2025-03-16T02:10:55.542398"
+}

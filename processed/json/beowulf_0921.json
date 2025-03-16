@@ -1,0 +1,31 @@
+{
+  "text": "--Odette, lui dit-il, mon chéri, je sais bien que je suis odieux, mais\nil faut que je te demande des choses. Tu te souviens de l’idée que\nj’avais eue à propos de toi et de Mme Verdurin? Dis-moi si c’était\nvrai, avec elle ou avec une autre.",
+  "entities": [
+    {
+      "text": "--Odette,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Verdurin?",
+      "label": "ORG",
+      "start": 176,
+      "end": 185
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Odette, lui dit-il, mon chéri, je sais bien que je suis odieux, mais\nil faut que je te demande des choses",
+      "start": 0,
+      "end": 107
+    },
+    {
+      "text": "Tu te souviens de l’idée que\nj’avais eue à propos de toi et de Mme Verdurin? Dis-moi si c’était\nvrai, avec elle ou avec une autre",
+      "start": 108,
+      "end": 238
+    }
+  ],
+  "tokens": 47,
+  "processed_at": "2025-03-16T02:10:57.324478"
+}

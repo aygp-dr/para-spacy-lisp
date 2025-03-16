@@ -1,0 +1,105 @@
+{
+  "text": "Un genre d’esprit comme celui de Brichot aurait été tenu pour\nstupidité pure dans la coterie où Swann avait passé sa jeunesse, bien\nqu’il soit compatible avec une intelligence réelle. Et celle du\nprofesseur, vigoureuse et bien nourrie, aurait probablement pu être\nenviée par bien des gens du monde que Swann trouvait spirituels. Mais\nceux-ci avaient fini par lui inculquer si bien leurs goûts et leurs\nrépugnances, au moins en tout ce qui touche à la vie mondaine et même\nen celle de ses parties annexes qui devrait plutôt relever du domaine\nde l’intelligence: la conversation, que Swann ne put trouver les\nplaisanteries de Brichot que pédantesques, vulgaires et grasses à\nécœurer. Puis il était choqué, dans l’habitude qu’il avait des bonnes\nmanières, par le ton rude et militaire qu’affectait, en s’adressant à\nchacun, l’universitaire cocardier. Enfin, peut-être avait-il surtout\nperdu, ce soir-là, de son indulgence en voyant l’amabilité que Mme\nVerdurin déployait pour ce Forcheville qu’Odette avait eu la\nsingulière idée d’amener. Un peu gênée vis-à-vis de Swann, elle lui\navait demandé en arrivant:",
+  "entities": [
+    {
+      "text": "Brichot",
+      "label": "ORG",
+      "start": 33,
+      "end": 40
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 96,
+      "end": 101
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 302,
+      "end": 307
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 329,
+      "end": 333
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 582,
+      "end": 587
+    },
+    {
+      "text": "Brichot",
+      "label": "ORG",
+      "start": 624,
+      "end": 631
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 682,
+      "end": 686
+    },
+    {
+      "text": "Enfin,",
+      "label": "ORG",
+      "start": 848,
+      "end": 854
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 949,
+      "end": 957
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 976,
+      "end": 987
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1062,
+      "end": 1068
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Un genre d’esprit comme celui de Brichot aurait été tenu pour\nstupidité pure dans la coterie où Swann avait passé sa jeunesse, bien\nqu’il soit compatible avec une intelligence réelle",
+      "start": 0,
+      "end": 182
+    },
+    {
+      "text": "Et celle du\nprofesseur, vigoureuse et bien nourrie, aurait probablement pu être\nenviée par bien des gens du monde que Swann trouvait spirituels",
+      "start": 183,
+      "end": 327
+    },
+    {
+      "text": "Mais\nceux-ci avaient fini par lui inculquer si bien leurs goûts et leurs\nrépugnances, au moins en tout ce qui touche à la vie mondaine et même\nen celle de ses parties annexes qui devrait plutôt relever du domaine\nde l’intelligence: la conversation, que Swann ne put trouver les\nplaisanteries de Brichot que pédantesques, vulgaires et grasses à\nécœurer",
+      "start": 328,
+      "end": 680
+    },
+    {
+      "text": "Puis il était choqué, dans l’habitude qu’il avait des bonnes\nmanières, par le ton rude et militaire qu’affectait, en s’adressant à\nchacun, l’universitaire cocardier",
+      "start": 681,
+      "end": 846
+    },
+    {
+      "text": "Enfin, peut-être avait-il surtout\nperdu, ce soir-là, de son indulgence en voyant l’amabilité que Mme\nVerdurin déployait pour ce Forcheville qu’Odette avait eu la\nsingulière idée d’amener",
+      "start": 847,
+      "end": 1034
+    },
+    {
+      "text": "Un peu gênée vis-à-vis de Swann, elle lui\navait demandé en arrivant:",
+      "start": 1035,
+      "end": 1104
+    }
+  ],
+  "tokens": 175,
+  "processed_at": "2025-03-16T02:10:56.341674"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "--Ce n’est pas de la salade japonaise? dit-elle à mi-voix en se\ntournant vers Odette.",
+  "entities": [
+    {
+      "text": "--Ce",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Odette.",
+      "label": "ORG",
+      "start": 78,
+      "end": 85
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ce n’est pas de la salade japonaise? dit-elle à mi-voix en se\ntournant vers Odette",
+      "start": 0,
+      "end": 84
+    }
+  ],
+  "tokens": 15,
+  "processed_at": "2025-03-16T02:10:56.390043"
+}

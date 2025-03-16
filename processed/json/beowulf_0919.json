@@ -1,0 +1,174 @@
+{
+  "text": "Un jour, étant dans la période de calme la plus longue qu’il eût\nencore pu traverser sans être repris d’accès de jalousie, il avait\naccepté d’aller le soir au théâtre avec la princesse des Laumes. Ayant\nouvert le journal, pour chercher ce qu’on jouait, la vue du titre: Les\nFilles de Marbre de Théodore Barrière le frappa si cruellement qu’il\neut un mouvement de recul et détourna la tête. Éclairé comme par la\nlumière de la rampe, à la place nouvelle où il figurait, ce mot de\n«marbre» qu’il avait perdu la faculté de distinguer tant il avait\nl’habitude de l’avoir souvent sous les yeux, lui était soudain\nredevenu visible et l’avait aussitôt fait souvenir de cette histoire\nqu’Odette lui avait racontée autrefois, d’une visite qu’elle avait\nfaite au Salon du Palais de l’Industrie avec Mme Verdurin et où\ncelle-ci lui avait dit: «Prends garde, je saurai bien te dégeler, tu\nn’es pas de marbre.» Odette lui avait affirmé que ce n’était qu’une\nplaisanterie, et il n’y avait attaché aucune importance. Mais il avait\nalors plus de confiance en elle qu’aujourd’hui. Et justement la lettre\nanonyme parlait d’amour de ce genre. Sans oser lever les yeux vers le\njournal, il le déplia, tourna une feuille pour ne plus voir ce mot:\n«Les Filles de Marbre» et commença à lire machinalement les nouvelles\ndes départements. Il y avait eu une tempête dans la Manche, on\nsignalait des dégâts à Dieppe, à Cabourg, à Beuzeval. Aussitôt il fit\nun nouveau mouvement en arrière.",
+  "entities": [
+    {
+      "text": "Laumes.",
+      "label": "ORG",
+      "start": 189,
+      "end": 196
+    },
+    {
+      "text": "Filles",
+      "label": "ORG",
+      "start": 274,
+      "end": 280
+    },
+    {
+      "text": "Marbre",
+      "label": "ORG",
+      "start": 284,
+      "end": 290
+    },
+    {
+      "text": "Théodore",
+      "label": "ORG",
+      "start": 294,
+      "end": 302
+    },
+    {
+      "text": "Barrière",
+      "label": "ORG",
+      "start": 303,
+      "end": 311
+    },
+    {
+      "text": "Éclairé",
+      "label": "ORG",
+      "start": 390,
+      "end": 397
+    },
+    {
+      "text": "Salon",
+      "label": "ORG",
+      "start": 752,
+      "end": 757
+    },
+    {
+      "text": "Palais",
+      "label": "ORG",
+      "start": 761,
+      "end": 767
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 792,
+      "end": 800
+    },
+    {
+      "text": "«Prends",
+      "label": "ORG",
+      "start": 831,
+      "end": 838
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 897,
+      "end": 903
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1001,
+      "end": 1005
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 1123,
+      "end": 1127
+    },
+    {
+      "text": "«Les",
+      "label": "ORG",
+      "start": 1224,
+      "end": 1228
+    },
+    {
+      "text": "Filles",
+      "label": "ORG",
+      "start": 1229,
+      "end": 1235
+    },
+    {
+      "text": "Marbre»",
+      "label": "ORG",
+      "start": 1239,
+      "end": 1246
+    },
+    {
+      "text": "Manche,",
+      "label": "ORG",
+      "start": 1346,
+      "end": 1353
+    },
+    {
+      "text": "Dieppe,",
+      "label": "ORG",
+      "start": 1380,
+      "end": 1387
+    },
+    {
+      "text": "Cabourg,",
+      "label": "ORG",
+      "start": 1390,
+      "end": 1398
+    },
+    {
+      "text": "Beuzeval.",
+      "label": "ORG",
+      "start": 1401,
+      "end": 1410
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Un jour, étant dans la période de calme la plus longue qu’il eût\nencore pu traverser sans être repris d’accès de jalousie, il avait\naccepté d’aller le soir au théâtre avec la princesse des Laumes",
+      "start": 0,
+      "end": 195
+    },
+    {
+      "text": "Ayant\nouvert le journal, pour chercher ce qu’on jouait, la vue du titre: Les\nFilles de Marbre de Théodore Barrière le frappa si cruellement qu’il\neut un mouvement de recul et détourna la tête",
+      "start": 196,
+      "end": 388
+    },
+    {
+      "text": "Éclairé comme par la\nlumière de la rampe, à la place nouvelle où il figurait, ce mot de\n«marbre» qu’il avait perdu la faculté de distinguer tant il avait\nl’habitude de l’avoir souvent sous les yeux, lui était soudain\nredevenu visible et l’avait aussitôt fait souvenir de cette histoire\nqu’Odette lui avait racontée autrefois, d’une visite qu’elle avait\nfaite au Salon du Palais de l’Industrie avec Mme Verdurin et où\ncelle-ci lui avait dit: «Prends garde, je saurai bien te dégeler, tu\nn’es pas de marbre",
+      "start": 389,
+      "end": 894
+    },
+    {
+      "text": "» Odette lui avait affirmé que ce n’était qu’une\nplaisanterie, et il n’y avait attaché aucune importance",
+      "start": 895,
+      "end": 999
+    },
+    {
+      "text": "Mais il avait\nalors plus de confiance en elle qu’aujourd’hui",
+      "start": 1000,
+      "end": 1061
+    },
+    {
+      "text": "Et justement la lettre\nanonyme parlait d’amour de ce genre",
+      "start": 1062,
+      "end": 1121
+    },
+    {
+      "text": "Sans oser lever les yeux vers le\njournal, il le déplia, tourna une feuille pour ne plus voir ce mot:\n«Les Filles de Marbre» et commença à lire machinalement les nouvelles\ndes départements",
+      "start": 1122,
+      "end": 1310
+    },
+    {
+      "text": "Il y avait eu une tempête dans la Manche, on\nsignalait des dégâts à Dieppe, à Cabourg, à Beuzeval",
+      "start": 1311,
+      "end": 1409
+    },
+    {
+      "text": "Aussitôt il fit\nun nouveau mouvement en arrière",
+      "start": 1410,
+      "end": 1458
+    }
+  ],
+  "tokens": 251,
+  "processed_at": "2025-03-16T02:10:57.314023"
+}

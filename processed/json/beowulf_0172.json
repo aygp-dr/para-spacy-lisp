@@ -1,0 +1,166 @@
+{
+  "text": "J’avais entendu parler de Bergotte pour la première fois par un de mes\ncamarades plus âgé que moi et pour qui j’avais une grande admiration,\nBloch. En m’entendant lui avouer mon admiration pour la Nuit\nd’Octobre, il avait fait éclater un rire bruyant comme une trompette\net m’avait dit: «Défie-toi de ta dilection assez basse pour le sieur\nde Musset. C’est un coco des plus malfaisants et une assez sinistre\nbrute. Je dois confesser, d’ailleurs, que lui et même le nommé Racine,\nont fait chacun dans leur vie un vers assez bien rythmé, et qui a pour\nlui, ce qui est selon moi le mérite suprême, de ne signifier\nabsolument rien. C’est: «La blanche Oloossone et la blanche Camire» et\n«La fille de Minos et de Pasiphaé». Ils m’ont été signalés à la\ndécharge de ces deux malandrins par un article de mon très cher\nmaître, le père Leconte, agréable aux Dieux Immortels. A propos voici\nun livre que je n’ai pas le temps de lire en ce moment qui est\nrecommandé, paraît-il, par cet immense bonhomme. Il tient, m’a-t-on\ndit, l’auteur, le sieur Bergotte, pour un coco des plus subtils; et\nbien qu’il fasse preuve, des fois, de mansuétudes assez mal\nexplicables, sa parole est pour moi oracle delphique. Lis donc ces\nproses lyriques, et si le gigantesque assembleur de rythmes qui a\nécrit Bhagavat et le Levrier de Magnus a dit vrai, par Apollôn, tu\ngoûteras, cher maître, les joies nectaréennes de l’Olympos.» C’est sur\nun ton sarcastique qu’il m’avait demandé de l’appeler «cher maître» et\nqu’il m’appelait lui-même ainsi. Mais en réalité nous prenions un\ncertain plaisir à ce jeu, étant encore rapprochés de l’âge où on croit\nqu’on crée ce qu’on nomme.",
+  "entities": [
+    {
+      "text": "Bergotte",
+      "label": "ORG",
+      "start": 26,
+      "end": 34
+    },
+    {
+      "text": "Bloch.",
+      "label": "ORG",
+      "start": 141,
+      "end": 147
+    },
+    {
+      "text": "Nuit",
+      "label": "ORG",
+      "start": 197,
+      "end": 201
+    },
+    {
+      "text": "Musset.",
+      "label": "ORG",
+      "start": 343,
+      "end": 350
+    },
+    {
+      "text": "Racine,",
+      "label": "ORG",
+      "start": 471,
+      "end": 478
+    },
+    {
+      "text": "Oloossone",
+      "label": "ORG",
+      "start": 647,
+      "end": 656
+    },
+    {
+      "text": "Camire»",
+      "label": "ORG",
+      "start": 671,
+      "end": 678
+    },
+    {
+      "text": "Minos",
+      "label": "ORG",
+      "start": 695,
+      "end": 700
+    },
+    {
+      "text": "Pasiphaé».",
+      "label": "ORG",
+      "start": 707,
+      "end": 717
+    },
+    {
+      "text": "Leconte,",
+      "label": "ORG",
+      "start": 826,
+      "end": 834
+    },
+    {
+      "text": "Dieux",
+      "label": "ORG",
+      "start": 848,
+      "end": 853
+    },
+    {
+      "text": "Immortels.",
+      "label": "ORG",
+      "start": 854,
+      "end": 864
+    },
+    {
+      "text": "Bergotte,",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1044
+    },
+    {
+      "text": "Bhagavat",
+      "label": "ORG",
+      "start": 1278,
+      "end": 1286
+    },
+    {
+      "text": "Levrier",
+      "label": "ORG",
+      "start": 1293,
+      "end": 1300
+    },
+    {
+      "text": "Magnus",
+      "label": "ORG",
+      "start": 1304,
+      "end": 1310
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1514,
+      "end": 1518
+    }
+  ],
+  "sentences": [
+    {
+      "text": "J’avais entendu parler de Bergotte pour la première fois par un de mes\ncamarades plus âgé que moi et pour qui j’avais une grande admiration,\nBloch",
+      "start": 0,
+      "end": 146
+    },
+    {
+      "text": "En m’entendant lui avouer mon admiration pour la Nuit\nd’Octobre, il avait fait éclater un rire bruyant comme une trompette\net m’avait dit: «Défie-toi de ta dilection assez basse pour le sieur\nde Musset",
+      "start": 147,
+      "end": 349
+    },
+    {
+      "text": "C’est un coco des plus malfaisants et une assez sinistre\nbrute",
+      "start": 350,
+      "end": 413
+    },
+    {
+      "text": "Je dois confesser, d’ailleurs, que lui et même le nommé Racine,\nont fait chacun dans leur vie un vers assez bien rythmé, et qui a pour\nlui, ce qui est selon moi le mérite suprême, de ne signifier\nabsolument rien",
+      "start": 414,
+      "end": 626
+    },
+    {
+      "text": "C’est: «La blanche Oloossone et la blanche Camire» et\n«La fille de Minos et de Pasiphaé»",
+      "start": 627,
+      "end": 716
+    },
+    {
+      "text": "Ils m’ont été signalés à la\ndécharge de ces deux malandrins par un article de mon très cher\nmaître, le père Leconte, agréable aux Dieux Immortels",
+      "start": 717,
+      "end": 863
+    },
+    {
+      "text": "A propos voici\nun livre que je n’ai pas le temps de lire en ce moment qui est\nrecommandé, paraît-il, par cet immense bonhomme",
+      "start": 864,
+      "end": 990
+    },
+    {
+      "text": "Il tient, m’a-t-on\ndit, l’auteur, le sieur Bergotte, pour un coco des plus subtils; et\nbien qu’il fasse preuve, des fois, de mansuétudes assez mal\nexplicables, sa parole est pour moi oracle delphique",
+      "start": 991,
+      "end": 1191
+    },
+    {
+      "text": "Lis donc ces\nproses lyriques, et si le gigantesque assembleur de rythmes qui a\nécrit Bhagavat et le Levrier de Magnus a dit vrai, par Apollôn, tu\ngoûteras, cher maître, les joies nectaréennes de l’Olympos",
+      "start": 1192,
+      "end": 1397
+    },
+    {
+      "text": "» C’est sur\nun ton sarcastique qu’il m’avait demandé de l’appeler «cher maître» et\nqu’il m’appelait lui-même ainsi",
+      "start": 1398,
+      "end": 1512
+    },
+    {
+      "text": "Mais en réalité nous prenions un\ncertain plaisir à ce jeu, étant encore rapprochés de l’âge où on croit\nqu’on crée ce qu’on nomme",
+      "start": 1513,
+      "end": 1643
+    }
+  ],
+  "tokens": 286,
+  "processed_at": "2025-03-16T02:10:55.022633"
+}

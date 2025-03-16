@@ -1,0 +1,31 @@
+{
+  "text": "M. Verdurin fit remarquer que pourtant Swann n’avait pas apprécié la\ntante du pianiste.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 3,
+      "end": 11
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 39,
+      "end": 44
+    }
+  ],
+  "sentences": [
+    {
+      "text": "M",
+      "start": 0,
+      "end": 1
+    },
+    {
+      "text": "Verdurin fit remarquer que pourtant Swann n’avait pas apprécié la\ntante du pianiste",
+      "start": 2,
+      "end": 86
+    }
+  ],
+  "tokens": 14,
+  "processed_at": "2025-03-16T02:10:56.014951"
+}

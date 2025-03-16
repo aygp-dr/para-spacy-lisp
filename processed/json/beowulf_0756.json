@@ -1,0 +1,75 @@
+{
+  "text": "Physiquement, elle traversait une mauvaise phase: elle épaississait;\net le charme expressif et dolent, les regards étonnés et rêveurs\nqu’elle avait autrefois semblaient avoir disparu avec sa première\njeunesse. De sorte qu’elle était devenue si chère à Swann au moment\npour ainsi dire où il la trouvait précisément bien moins jolie. Il la\nregardait longuement pour tâcher de ressaisir le charme qu’il lui\navait connu, et ne le retrouvait pas. Mais savoir que sous cette\nchrysalide nouvelle, c’était toujours Odette qui vivait, toujours la\nmême volonté fugace, insaisissable et sournoise, suffisait à Swann\npour qu’il continuât de mettre la même passion à chercher à la capter.\nPuis il regardait des photographies d’il y avait deux ans, il se\nrappelait comme elle avait été délicieuse. Et cela le consolait un peu\nde se donner tant de mal pour elle.",
+  "entities": [
+    {
+      "text": "Physiquement,",
+      "label": "ORG",
+      "start": 0,
+      "end": 13
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 252,
+      "end": 257
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 442,
+      "end": 446
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 507,
+      "end": 513
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 599,
+      "end": 604
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 676,
+      "end": 680
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Physiquement, elle traversait une mauvaise phase: elle épaississait;\net le charme expressif et dolent, les regards étonnés et rêveurs\nqu’elle avait autrefois semblaient avoir disparu avec sa première\njeunesse",
+      "start": 0,
+      "end": 208
+    },
+    {
+      "text": "De sorte qu’elle était devenue si chère à Swann au moment\npour ainsi dire où il la trouvait précisément bien moins jolie",
+      "start": 209,
+      "end": 330
+    },
+    {
+      "text": "Il la\nregardait longuement pour tâcher de ressaisir le charme qu’il lui\navait connu, et ne le retrouvait pas",
+      "start": 331,
+      "end": 440
+    },
+    {
+      "text": "Mais savoir que sous cette\nchrysalide nouvelle, c’était toujours Odette qui vivait, toujours la\nmême volonté fugace, insaisissable et sournoise, suffisait à Swann\npour qu’il continuât de mettre la même passion à chercher à la capter",
+      "start": 441,
+      "end": 674
+    },
+    {
+      "text": "Puis il regardait des photographies d’il y avait deux ans, il se\nrappelait comme elle avait été délicieuse",
+      "start": 675,
+      "end": 782
+    },
+    {
+      "text": "Et cela le consolait un peu\nde se donner tant de mal pour elle",
+      "start": 783,
+      "end": 846
+    }
+  ],
+  "tokens": 138,
+  "processed_at": "2025-03-16T02:10:56.814495"
+}

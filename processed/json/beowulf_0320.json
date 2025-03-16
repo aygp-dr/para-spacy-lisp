@@ -1,0 +1,48 @@
+{
+  "text": "--«Quel homme exquis, nous dit-il, quand Swann nous eut quittés, avec\nla même enthousiaste vénération qui tient de spirituelles et jolies\nbourgeoises en respect et sous le charme d’une duchesse, fût-elle\nlaide et sotte. Quel homme exquis! Quel malheur qu’il ait fait un\nmariage tout à fait déplacé.»",
+  "entities": [
+    {
+      "text": "--«Quel",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 41,
+      "end": 46
+    },
+    {
+      "text": "Quel",
+      "label": "ORG",
+      "start": 220,
+      "end": 224
+    },
+    {
+      "text": "Quel",
+      "label": "ORG",
+      "start": 239,
+      "end": 243
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Quel homme exquis, nous dit-il, quand Swann nous eut quittés, avec\nla même enthousiaste vénération qui tient de spirituelles et jolies\nbourgeoises en respect et sous le charme d’une duchesse, fût-elle\nlaide et sotte",
+      "start": 0,
+      "end": 218
+    },
+    {
+      "text": "Quel homme exquis! Quel malheur qu’il ait fait un\nmariage tout à fait déplacé",
+      "start": 219,
+      "end": 297
+    },
+    {
+      "text": "»",
+      "start": 298,
+      "end": 299
+    }
+  ],
+  "tokens": 48,
+  "processed_at": "2025-03-16T02:10:55.521231"
+}

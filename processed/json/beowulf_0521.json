@@ -1,0 +1,65 @@
+{
+  "text": "Et cependant ce n’était pas seulement la lassitude d’Odette qu’il\ns’ingéniait à prévenir, c’était quelquefois aussi la sienne propre;\nsentant que depuis qu’Odette avait toutes facilités pour le voir, elle\nsemblait n’avoir pas grand’chose à lui dire, il craignait que les\nfaçons un peu insignifiantes, monotones, et comme définitivement\nfixées, qui étaient maintenant les siennes quand ils étaient ensemble,\nne finissent par tuer en lui cet espoir romanesque d’un jour où elle\nvoudrait déclarer sa passion, qui seul l’avait rendu et gardé\namoureux. Et pour renouveler un peu l’aspect moral, trop figé,\nd’Odette, et dont il avait peur de se fatiguer, il lui écrivait tout\nd’un coup une lettre pleine de déceptions feintes et de colères\nsimulées qu’il lui faisait porter avant le dîner. Il savait qu’elle\nallait être effrayée, lui répondre et il espérait que dans la\ncontraction que la peur de le perdre ferait subir à son âme,\njailliraient des mots qu’elle ne lui avait encore jamais dits; et en\neffet c’est de cette façon qu’il avait obtenu les lettres les plus\ntendres qu’elle lui eût encore écrites dont l’une, qu’elle lui avait\nfait porter à midi de la «Maison Dorée» (c’était le jour de la fête de\nParis-Murcie donnée pour les inondés de Murcie), commençait par ces\nmots: «Mon ami, ma main tremble si fort que je peux à peine écrire»,\net qu’il avait gardée dans le même tiroir que la fleur séchée du\nchrysanthème. Ou bien si elle n’avait pas eu le temps de lui écrire,\nquand il arriverait chez les Verdurin, elle irait vivement à lui et\nlui dirait: «J’ai à vous parler», et il contemplerait avec curiosité\nsur son visage et dans ses paroles ce qu’elle lui avait caché\njusque-là de son cœur.",
+  "entities": [
+    {
+      "text": "«Maison",
+      "label": "ORG",
+      "start": 1155,
+      "end": 1162
+    },
+    {
+      "text": "Dorée»",
+      "label": "ORG",
+      "start": 1163,
+      "end": 1169
+    },
+    {
+      "text": "Paris-Murcie",
+      "label": "ORG",
+      "start": 1201,
+      "end": 1213
+    },
+    {
+      "text": "Murcie),",
+      "label": "ORG",
+      "start": 1241,
+      "end": 1249
+    },
+    {
+      "text": "«Mon",
+      "label": "ORG",
+      "start": 1275,
+      "end": 1279
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 1501,
+      "end": 1510
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et cependant ce n’était pas seulement la lassitude d’Odette qu’il\ns’ingéniait à prévenir, c’était quelquefois aussi la sienne propre;\nsentant que depuis qu’Odette avait toutes facilités pour le voir, elle\nsemblait n’avoir pas grand’chose à lui dire, il craignait que les\nfaçons un peu insignifiantes, monotones, et comme définitivement\nfixées, qui étaient maintenant les siennes quand ils étaient ensemble,\nne finissent par tuer en lui cet espoir romanesque d’un jour où elle\nvoudrait déclarer sa passion, qui seul l’avait rendu et gardé\namoureux",
+      "start": 0,
+      "end": 546
+    },
+    {
+      "text": "Et pour renouveler un peu l’aspect moral, trop figé,\nd’Odette, et dont il avait peur de se fatiguer, il lui écrivait tout\nd’un coup une lettre pleine de déceptions feintes et de colères\nsimulées qu’il lui faisait porter avant le dîner",
+      "start": 547,
+      "end": 782
+    },
+    {
+      "text": "Il savait qu’elle\nallait être effrayée, lui répondre et il espérait que dans la\ncontraction que la peur de le perdre ferait subir à son âme,\njailliraient des mots qu’elle ne lui avait encore jamais dits; et en\neffet c’est de cette façon qu’il avait obtenu les lettres les plus\ntendres qu’elle lui eût encore écrites dont l’une, qu’elle lui avait\nfait porter à midi de la «Maison Dorée» (c’était le jour de la fête de\nParis-Murcie donnée pour les inondés de Murcie), commençait par ces\nmots: «Mon ami, ma main tremble si fort que je peux à peine écrire»,\net qu’il avait gardée dans le même tiroir que la fleur séchée du\nchrysanthème",
+      "start": 783,
+      "end": 1415
+    },
+    {
+      "text": "Ou bien si elle n’avait pas eu le temps de lui écrire,\nquand il arriverait chez les Verdurin, elle irait vivement à lui et\nlui dirait: «J’ai à vous parler», et il contemplerait avec curiosité\nsur son visage et dans ses paroles ce qu’elle lui avait caché\njusque-là de son cœur",
+      "start": 1416,
+      "end": 1692
+    }
+  ],
+  "tokens": 289,
+  "processed_at": "2025-03-16T02:10:56.120205"
+}

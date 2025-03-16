@@ -1,0 +1,75 @@
+{
+  "text": "Cependant le pianiste redoublant de vitesse, l’émotion musicale était\nà son comble, un domestique passait des rafraîchissements sur un\nplateau et faisait tinter des cuillers et, comme chaque semaine, Mme\nde Saint-Euverte lui faisait, sans qu’il la vît, des signes de s’en\naller. Une nouvelle mariée, à qui on avait appris qu’une jeune femme\nne doit pas avoir l’air blasé, souriait de plaisir, et cherchait des\nyeux la maîtresse de maison pour lui témoigner par son regard sa\nreconnaissance d’avoir «pensé à elle» pour un pareil régal. Pourtant,\nquoique avec plus de calme que Mme de Franquetot, ce n’est pas sans\ninquiétude qu’elle suivait le morceau; mais la sienne avait pour\nobjet, au lieu du pianiste, le piano sur lequel une bougie tressautant\nà chaque fortissimo, risquait, sinon de mettre le feu à l’abat-jour,\ndu moins de faire des taches sur le palissandre. À la fin elle n’y\ntint plus et, escaladant les deux marches de l’estrade, sur laquelle\nétait placé le piano, se précipita pour enlever la bobèche. Mais à\npeine ses mains allaient-elles la toucher que sur un dernier accord,\nle morceau finit et le pianiste se leva. Néanmoins l’initiative hardie\nde cette jeune femme, la courte promiscuité qui en résulta entre elle\net l’instrumentiste, produisirent une impression généralement\nfavorable.",
+  "entities": [
+    {
+      "text": "Cependant",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Saint-Euverte",
+      "label": "ORG",
+      "start": 207,
+      "end": 220
+    },
+    {
+      "text": "Pourtant,",
+      "label": "ORG",
+      "start": 535,
+      "end": 544
+    },
+    {
+      "text": "Franquetot,",
+      "label": "ORG",
+      "start": 583,
+      "end": 594
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1014,
+      "end": 1018
+    },
+    {
+      "text": "Néanmoins",
+      "label": "ORG",
+      "start": 1131,
+      "end": 1140
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cependant le pianiste redoublant de vitesse, l’émotion musicale était\nà son comble, un domestique passait des rafraîchissements sur un\nplateau et faisait tinter des cuillers et, comme chaque semaine, Mme\nde Saint-Euverte lui faisait, sans qu’il la vît, des signes de s’en\naller",
+      "start": 0,
+      "end": 277
+    },
+    {
+      "text": "Une nouvelle mariée, à qui on avait appris qu’une jeune femme\nne doit pas avoir l’air blasé, souriait de plaisir, et cherchait des\nyeux la maîtresse de maison pour lui témoigner par son regard sa\nreconnaissance d’avoir «pensé à elle» pour un pareil régal",
+      "start": 278,
+      "end": 533
+    },
+    {
+      "text": "Pourtant,\nquoique avec plus de calme que Mme de Franquetot, ce n’est pas sans\ninquiétude qu’elle suivait le morceau; mais la sienne avait pour\nobjet, au lieu du pianiste, le piano sur lequel une bougie tressautant\nà chaque fortissimo, risquait, sinon de mettre le feu à l’abat-jour,\ndu moins de faire des taches sur le palissandre",
+      "start": 534,
+      "end": 865
+    },
+    {
+      "text": "À la fin elle n’y\ntint plus et, escaladant les deux marches de l’estrade, sur laquelle\nétait placé le piano, se précipita pour enlever la bobèche",
+      "start": 866,
+      "end": 1012
+    },
+    {
+      "text": "Mais à\npeine ses mains allaient-elles la toucher que sur un dernier accord,\nle morceau finit et le pianiste se leva",
+      "start": 1013,
+      "end": 1129
+    },
+    {
+      "text": "Néanmoins l’initiative hardie\nde cette jeune femme, la courte promiscuité qui en résulta entre elle\net l’instrumentiste, produisirent une impression généralement\nfavorable",
+      "start": 1130,
+      "end": 1302
+    }
+  ],
+  "tokens": 212,
+  "processed_at": "2025-03-16T02:10:57.120222"
+}

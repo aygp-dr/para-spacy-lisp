@@ -1,0 +1,25 @@
+{
+  "text": "--«Comment veux-tu que ça soit sincère, me dit-elle, puisqu’il ne me\nconnaît pas; ou bien alors il est fou.»",
+  "entities": [
+    {
+      "text": "--«Comment",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Comment veux-tu que ça soit sincère, me dit-elle, puisqu’il ne me\nconnaît pas; ou bien alors il est fou",
+      "start": 0,
+      "end": 106
+    },
+    {
+      "text": "»",
+      "start": 107,
+      "end": 108
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:55.097476"
+}

@@ -1,0 +1,162 @@
+{
+  "text": "Et en effet elle trouvait Swann, intellectuellement, inférieur à ce\nqu’elle aurait cru. «Tu gardes toujours ton sang-froid, je ne peux te\ndéfinir.» Elle s’émerveillait davantage de son indifférence à\nl’argent, de sa gentillesse pour chacun, de sa délicatesse. Et il\narrive en effet souvent pour de plus grands que n’était Swann, pour un\nsavant, pour un artiste, quand il n’est pas méconnu par ceux qui\nl’entourent, que celui de leurs sentiments qui prouve que la\nsupériorité de son intelligence s’est imposée à eux, ce n’est pas leur\nadmiration pour ses idées, car elles leur échappent, mais leur respect\npour sa bonté. C’est aussi du respect qu’inspirait à Odette la\nsituation qu’avait Swann dans le monde, mais elle ne désirait pas\nqu’il cherchât à l’y faire recevoir. Peut-être sentait-elle qu’il ne\npourrait pas y réussir, et même craignait-elle, que rien qu’en parlant\nd’elle, il ne provoquât des révélations qu’elle redoutait. Toujours\nest-il qu’elle lui avait fait promettre de ne jamais prononcer son\nnom. La raison pour laquelle elle ne voulait pas aller dans le monde,\nlui avait-elle dit, était une brouille qu’elle avait eue autrefois\navec une amie qui, pour se venger, avait ensuite dit du mal d’elle.\nSwann objectait: «Mais tout le monde n’a pas connu ton amie.»--«Mais\nsi, ça fait la tache d’huile, le monde est si méchant.» D’une part\nSwann ne comprit pas cette histoire, mais d’autre part il savait que\nces propositions: «Le monde est si méchant», «un propos calomnieux\nfait la tache d’huile», sont généralement tenues pour vraies; il\ndevait y avoir des cas auxquels elles s’appliquaient. Celui d’Odette\nétait-il l’un de ceux-là? Il se le demandait, mais pas longtemps, car\nil était sujet, lui aussi, à cette lourdeur d’esprit qui\ns’appesantissait sur son père, quand il se posait un problème\ndifficile. D’ailleurs, ce monde qui faisait si peur à Odette, ne lui\ninspirait peut-être pas de grands désirs, car pour qu’elle se le\nreprésentât bien nettement, il était trop éloigné de celui qu’elle\nconnaissait. Pourtant, tout en étant restée à certains égards vraiment\nsimple (elle avait par exemple gardé pour amie une petite couturière\nretirée dont elle grimpait presque chaque jour l’escalier raide,\nobscur et fétide), elle avait soif de chic, mais ne s’en faisait pas\nla même idée que les gens du monde. Pour eux, le chic est une\némanation de quelques personnes peu nombreuses qui le projettent\njusqu’à un degré assez éloigné",
+  "entities": [
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 26,
+      "end": 32
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 148,
+      "end": 152
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 322,
+      "end": 328
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 658,
+      "end": 664
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 687,
+      "end": 692
+    },
+    {
+      "text": "Toujours",
+      "label": "ORG",
+      "start": 933,
+      "end": 941
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1214,
+      "end": 1219
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 1231,
+      "end": 1236
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1350,
+      "end": 1355
+    },
+    {
+      "text": "Celui",
+      "label": "ORG",
+      "start": 1605,
+      "end": 1610
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 1863,
+      "end": 1870
+    },
+    {
+      "text": "Pourtant,",
+      "label": "ORG",
+      "start": 2023,
+      "end": 2032
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 2320,
+      "end": 2324
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et en effet elle trouvait Swann, intellectuellement, inférieur à ce\nqu’elle aurait cru",
+      "start": 0,
+      "end": 86
+    },
+    {
+      "text": "«Tu gardes toujours ton sang-froid, je ne peux te\ndéfinir",
+      "start": 87,
+      "end": 145
+    },
+    {
+      "text": "» Elle s’émerveillait davantage de son indifférence à\nl’argent, de sa gentillesse pour chacun, de sa délicatesse",
+      "start": 146,
+      "end": 258
+    },
+    {
+      "text": "Et il\narrive en effet souvent pour de plus grands que n’était Swann, pour un\nsavant, pour un artiste, quand il n’est pas méconnu par ceux qui\nl’entourent, que celui de leurs sentiments qui prouve que la\nsupériorité de son intelligence s’est imposée à eux, ce n’est pas leur\nadmiration pour ses idées, car elles leur échappent, mais leur respect\npour sa bonté",
+      "start": 259,
+      "end": 618
+    },
+    {
+      "text": "C’est aussi du respect qu’inspirait à Odette la\nsituation qu’avait Swann dans le monde, mais elle ne désirait pas\nqu’il cherchât à l’y faire recevoir",
+      "start": 619,
+      "end": 769
+    },
+    {
+      "text": "Peut-être sentait-elle qu’il ne\npourrait pas y réussir, et même craignait-elle, que rien qu’en parlant\nd’elle, il ne provoquât des révélations qu’elle redoutait",
+      "start": 770,
+      "end": 931
+    },
+    {
+      "text": "Toujours\nest-il qu’elle lui avait fait promettre de ne jamais prononcer son\nnom",
+      "start": 932,
+      "end": 1012
+    },
+    {
+      "text": "La raison pour laquelle elle ne voulait pas aller dans le monde,\nlui avait-elle dit, était une brouille qu’elle avait eue autrefois\navec une amie qui, pour se venger, avait ensuite dit du mal d’elle",
+      "start": 1013,
+      "end": 1212
+    },
+    {
+      "text": "Swann objectait: «Mais tout le monde n’a pas connu ton amie",
+      "start": 1213,
+      "end": 1273
+    },
+    {
+      "text": "»--«Mais\nsi, ça fait la tache d’huile, le monde est si méchant",
+      "start": 1274,
+      "end": 1336
+    },
+    {
+      "text": "» D’une part\nSwann ne comprit pas cette histoire, mais d’autre part il savait que\nces propositions: «Le monde est si méchant», «un propos calomnieux\nfait la tache d’huile», sont généralement tenues pour vraies; il\ndevait y avoir des cas auxquels elles s’appliquaient",
+      "start": 1337,
+      "end": 1603
+    },
+    {
+      "text": "Celui d’Odette\nétait-il l’un de ceux-là? Il se le demandait, mais pas longtemps, car\nil était sujet, lui aussi, à cette lourdeur d’esprit qui\ns’appesantissait sur son père, quand il se posait un problème\ndifficile",
+      "start": 1604,
+      "end": 1818
+    },
+    {
+      "text": "D’ailleurs, ce monde qui faisait si peur à Odette, ne lui\ninspirait peut-être pas de grands désirs, car pour qu’elle se le\nreprésentât bien nettement, il était trop éloigné de celui qu’elle\nconnaissait",
+      "start": 1819,
+      "end": 2021
+    },
+    {
+      "text": "Pourtant, tout en étant restée à certains égards vraiment\nsimple (elle avait par exemple gardé pour amie une petite couturière\nretirée dont elle grimpait presque chaque jour l’escalier raide,\nobscur et fétide), elle avait soif de chic, mais ne s’en faisait pas\nla même idée que les gens du monde",
+      "start": 2022,
+      "end": 2318
+    },
+    {
+      "text": "Pour eux, le chic est une\némanation de quelques personnes peu nombreuses qui le projettent\njusqu’à un degré assez éloigné",
+      "start": 2319,
+      "end": 2441
+    }
+  ],
+  "tokens": 400,
+  "processed_at": "2025-03-16T02:10:56.253008"
+}

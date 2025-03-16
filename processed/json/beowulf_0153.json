@@ -1,0 +1,66 @@
+{
+  "text": "Et ma pensée n’était-elle pas aussi comme une autre crèche au fond de\nlaquelle je sentais que je restais enfoncé, même pour regarder ce qui\nse passait au dehors? Quand je voyais un objet extérieur, la\nconscience que je le voyais restait entre moi et lui, le bordait d’un\nmince liseré spirituel qui m’empêchait de jamais toucher directement\nsa matière; elle se volatilisait en quelque sorte avant que je prisse\ncontact avec elle, comme un corps incandescent qu’on approche d’un\nobjet mouillé ne touche pas son humidité parce qu’il se fait toujours\nprécéder d’une zone d’évaporation. Dans l’espèce d’écran diapré\nd’états différents que, tandis que je lisais, déployait simultanément\nma conscience, et qui allaient des aspirations les plus profondément\ncachées en moi-même jusqu’à la vision tout extérieure de l’horizon que\nj’avais, au bout du jardin, sous les yeux, ce qu’il y avait d’abord en\nmoi, de plus intime, la poignée sans cesse en mouvement qui gouvernait\nle reste, c’était ma croyance en la richesse philosophique, en la\nbeauté du livre que je lisais, et mon désir de me les approprier, quel\nque fût ce livre. Car, même si je l’avais acheté à Combray, en\nl’apercevant devant l’épicerie Borange, trop distante de la maison\npour que Françoise pût s’y fournir comme chez Camus, mais mieux\nachalandée comme papeterie et librairie, retenu par des ficelles dans\nla mosaïque des brochures et des livraisons qui revêtaient les deux\nvantaux de sa porte plus mystérieuse, plus semée de pensées qu’une\nporte de cathédrale, c’est que je l’avais reconnu pour m’avoir été\ncité comme un ouvrage remarquable par le professeur ou le camarade qui\nme paraissait à cette époque détenir le secret de la vérité et de la\nbeauté à demi pressenties, à demi incompréhensibles, dont la\nconnaissance était le but vague mais permanent de ma pensée.",
+  "entities": [
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 162,
+      "end": 167
+    },
+    {
+      "text": "Dans",
+      "label": "ORG",
+      "start": 582,
+      "end": 586
+    },
+    {
+      "text": "Car,",
+      "label": "ORG",
+      "start": 1118,
+      "end": 1122
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 1151,
+      "end": 1159
+    },
+    {
+      "text": "Borange,",
+      "label": "ORG",
+      "start": 1194,
+      "end": 1202
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1239,
+      "end": 1248
+    },
+    {
+      "text": "Camus,",
+      "label": "ORG",
+      "start": 1276,
+      "end": 1282
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et ma pensée n’était-elle pas aussi comme une autre crèche au fond de\nlaquelle je sentais que je restais enfoncé, même pour regarder ce qui\nse passait au dehors? Quand je voyais un objet extérieur, la\nconscience que je le voyais restait entre moi et lui, le bordait d’un\nmince liseré spirituel qui m’empêchait de jamais toucher directement\nsa matière; elle se volatilisait en quelque sorte avant que je prisse\ncontact avec elle, comme un corps incandescent qu’on approche d’un\nobjet mouillé ne touche pas son humidité parce qu’il se fait toujours\nprécéder d’une zone d’évaporation",
+      "start": 0,
+      "end": 580
+    },
+    {
+      "text": "Dans l’espèce d’écran diapré\nd’états différents que, tandis que je lisais, déployait simultanément\nma conscience, et qui allaient des aspirations les plus profondément\ncachées en moi-même jusqu’à la vision tout extérieure de l’horizon que\nj’avais, au bout du jardin, sous les yeux, ce qu’il y avait d’abord en\nmoi, de plus intime, la poignée sans cesse en mouvement qui gouvernait\nle reste, c’était ma croyance en la richesse philosophique, en la\nbeauté du livre que je lisais, et mon désir de me les approprier, quel\nque fût ce livre",
+      "start": 581,
+      "end": 1116
+    },
+    {
+      "text": "Car, même si je l’avais acheté à Combray, en\nl’apercevant devant l’épicerie Borange, trop distante de la maison\npour que Françoise pût s’y fournir comme chez Camus, mais mieux\nachalandée comme papeterie et librairie, retenu par des ficelles dans\nla mosaïque des brochures et des livraisons qui revêtaient les deux\nvantaux de sa porte plus mystérieuse, plus semée de pensées qu’une\nporte de cathédrale, c’est que je l’avais reconnu pour m’avoir été\ncité comme un ouvrage remarquable par le professeur ou le camarade qui\nme paraissait à cette époque détenir le secret de la vérité et de la\nbeauté à demi pressenties, à demi incompréhensibles, dont la\nconnaissance était le but vague mais permanent de ma pensée",
+      "start": 1117,
+      "end": 1826
+    }
+  ],
+  "tokens": 302,
+  "processed_at": "2025-03-16T02:10:54.947946"
+}

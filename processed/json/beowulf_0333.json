@@ -1,0 +1,75 @@
+{
+  "text": "C’est peut-être d’une impression ressentie aussi auprès de\nMontjouvain, quelques années plus tard, impression restée obscure\nalors, qu’est sortie, bien après, l’idée que je me suis faite du\nsadisme. On verra plus tard que, pour de tout autres raisons, le\nsouvenir de cette impression devait jouer un rôle important dans ma\nvie. C’était par un temps très chaud; mes parents qui avaient dû\ns’absenter pour toute la journée, m’avaient dit de rentrer aussi tard\nque je voudrais; et étant allé jusqu’à la mare de Montjouvain où\nj’aimais revoir les reflets du toit de tuile, je m’étais étendu à\nl’ombre et endormi dans les buissons du talus qui domine la maison, là\noù j’avais attendu mon père autrefois, un jour qu’il était allé voir\nM. Vinteuil. Il faisait presque nuit quand je m’éveillai, je voulus me\nlever, mais je vis Mlle Vinteuil (autant que je pus la reconnaître,\ncar je ne l’avais pas vue souvent à Combray, et seulement quand elle\nétait encore une enfant, tandis qu’elle commençait d’être une jeune\nfille) qui probablement venait de rentrer, en face de moi, à quelques\ncentimètres de moi, dans cette chambre où son père avait reçu le mien\net dont elle avait fait son petit salon à elle. La fenêtre était\nentr’ouverte, la lampe était allumée, je voyais tous ses mouvements\nsans qu’elle me vît, mais en m’en allant j’aurais fait craquer les\nbuissons, elle m’aurait entendu et elle aurait pu croire que je\nm’étais caché là pour l’épier.",
+  "entities": [
+    {
+      "text": "Montjouvain,",
+      "label": "ORG",
+      "start": 59,
+      "end": 71
+    },
+    {
+      "text": "Montjouvain",
+      "label": "ORG",
+      "start": 508,
+      "end": 519
+    },
+    {
+      "text": "Vinteuil.",
+      "label": "ORG",
+      "start": 732,
+      "end": 741
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 819,
+      "end": 823
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 824,
+      "end": 832
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 904,
+      "end": 912
+    }
+  ],
+  "sentences": [
+    {
+      "text": "C’est peut-être d’une impression ressentie aussi auprès de\nMontjouvain, quelques années plus tard, impression restée obscure\nalors, qu’est sortie, bien après, l’idée que je me suis faite du\nsadisme",
+      "start": 0,
+      "end": 197
+    },
+    {
+      "text": "On verra plus tard que, pour de tout autres raisons, le\nsouvenir de cette impression devait jouer un rôle important dans ma\nvie",
+      "start": 198,
+      "end": 326
+    },
+    {
+      "text": "C’était par un temps très chaud; mes parents qui avaient dû\ns’absenter pour toute la journée, m’avaient dit de rentrer aussi tard\nque je voudrais; et étant allé jusqu’à la mare de Montjouvain où\nj’aimais revoir les reflets du toit de tuile, je m’étais étendu à\nl’ombre et endormi dans les buissons du talus qui domine la maison, là\noù j’avais attendu mon père autrefois, un jour qu’il était allé voir\nM",
+      "start": 327,
+      "end": 730
+    },
+    {
+      "text": "Vinteuil",
+      "start": 731,
+      "end": 740
+    },
+    {
+      "text": "Il faisait presque nuit quand je m’éveillai, je voulus me\nlever, mais je vis Mlle Vinteuil (autant que je pus la reconnaître,\ncar je ne l’avais pas vue souvent à Combray, et seulement quand elle\nétait encore une enfant, tandis qu’elle commençait d’être une jeune\nfille) qui probablement venait de rentrer, en face de moi, à quelques\ncentimètres de moi, dans cette chambre où son père avait reçu le mien\net dont elle avait fait son petit salon à elle",
+      "start": 741,
+      "end": 1191
+    },
+    {
+      "text": "La fenêtre était\nentr’ouverte, la lampe était allumée, je voyais tous ses mouvements\nsans qu’elle me vît, mais en m’en allant j’aurais fait craquer les\nbuissons, elle m’aurait entendu et elle aurait pu croire que je\nm’étais caché là pour l’épier",
+      "start": 1192,
+      "end": 1438
+    }
+  ],
+  "tokens": 246,
+  "processed_at": "2025-03-16T02:10:55.566266"
+}

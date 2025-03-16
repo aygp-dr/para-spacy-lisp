@@ -1,0 +1,31 @@
+{
+  "text": "--«Je suis sûre que si vous le demandiez à Monseigneur, disait\nmollement ma tante qui commençait à penser qu’elle allait être\nfatiguée, il ne vous refuserait pas un vitrail neuf.»",
+  "entities": [
+    {
+      "text": "--«Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Monseigneur,",
+      "label": "ORG",
+      "start": 43,
+      "end": 55
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Je suis sûre que si vous le demandiez à Monseigneur, disait\nmollement ma tante qui commençait à penser qu’elle allait être\nfatiguée, il ne vous refuserait pas un vitrail neuf",
+      "start": 0,
+      "end": 177
+    },
+    {
+      "text": "»",
+      "start": 178,
+      "end": 179
+    }
+  ],
+  "tokens": 30,
+  "processed_at": "2025-03-16T02:10:55.237613"
+}

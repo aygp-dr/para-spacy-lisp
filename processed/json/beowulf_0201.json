@@ -1,0 +1,254 @@
+{
+  "text": "Je n’étais pas tout à fait le seul admirateur de Bergotte; il était\naussi l’écrivain préféré d’une amie de ma mère qui était très lettrée;\nenfin pour lire son dernier livre paru, le docteur du Boulbon faisait\nattendre ses malades; et ce fut de son cabinet de consultation, et\nd’un parc voisin de Combray, que s’envolèrent quelques-unes des\npremières graines de cette prédilection pour Bergotte, espèce si rare\nalors, aujourd’hui universellement répandue, et dont on trouve partout\nen Europe, en Amérique, jusque dans le moindre village, la fleur\nidéale et commune. Ce que l’amie de ma mère et, paraît-il, le docteur\ndu Boulbon aimaient surtout dans les livres de Bergotte c’était comme\nmoi, ce même flux mélodique, ces expressions anciennes, quelques\nautres très simples et connues, mais pour lesquelles la place où il\nles mettait en lumière semblait révéler de sa part un goût\nparticulier; enfin, dans les passages tristes, une certaine\nbrusquerie, un accent presque rauque. Et sans doute lui-même devait\nsentir que là étaient ses plus grands charmes. Car dans les livres qui\nsuivirent, s’il avait rencontré quelque grande vérité, ou le nom d’une\ncélèbre cathédrale, il interrompait son récit et dans une invocation,\nune apostrophe, une longue prière, il donnait un libre cours à ces\neffluves qui dans ses premiers ouvrages restaient intérieurs à sa\nprose, décelés seulement alors par les ondulations de la surface, plus\ndouces peut-être encore, plus harmonieuses quand elles étaient ainsi\nvoilées et qu’on n’aurait pu indiquer d’une manière précise où\nnaissait, où expirait leur murmure. Ces morceaux auxquels il se\ncomplaisait étaient nos morceaux préférés. Pour moi, je les savais par\ncœur. J’étais déçu quand il reprenait le fil de son récit. Chaque fois\nqu’il parlait de quelque chose dont la beauté m’était restée jusque-là\ncachée, des forêts de pins, de la grêle, de Notre-Dame de Paris,\nd’Athalie ou de Phèdre, il faisait dans une image exploser cette\nbeauté jusqu’à moi. Aussi sentant combien il y avait de parties de\nl’univers que ma perception infirme ne distinguerait pas s’il ne les\nrapprochait de moi, j’aurais voulu posséder une opinion de lui, une\nmétaphore de lui, sur toutes choses, surtout sur celles que j’aurais\nl’occasion de voir moi-même, et entre celles-là, particulièrement sur\nd’anciens monuments français et certains paysages maritimes, parce que\nl’insistance avec laquelle il les citait dans ses livres prouvait\nqu’il les tenait pour riches de signification et de beauté.\nMalheureusement sur presque toutes choses j’ignorais son opinion. Je\nne doutais pas qu’elle ne fût entièrement différente des miennes,\npuisqu’elle descendait d’un monde inconnu vers lequel je cherchais à\nm’élever: persuadé que mes pensées eussent paru pure ineptie à cet\nesprit parfait, j’avais tellement fait table rase de toutes, que quand\npar hasard il m’arriva d’en rencontrer, dans tel de ses livres, une\nque j’avais déjà eue moi-même, mon cœur se gonflait comme si un Dieu\ndans sa bonté me l’avait rendue, l’avait déclarée légitime et belle.\nIl arrivait parfois qu’une page de lui disait les mêmes choses que\nj’écrivais souvent la nuit à ma grand’mère et à ma mère quand je ne\npouvais pas dormir, si bien que cette page de Bergotte avait l’air\nd’un recueil d’épigraphes pour être placées en tête de mes lettres.\nMême plus tard, quand je commençai de composer un livre, certaines\nphrases dont la qualité ne suffit pas pour me décider à le continuer,\nj’en retrouvai l’équivalent dans Bergotte. Mais ce n’était qu’alors,\nquand je les lisais dans son œuvre, que je pouvais en jouir; quand\nc’était moi qui les composais, préoccupé qu’elles reflétassent\nexactement ce que j’apercevais dans ma pensée, craignant de ne pas\n«faire ressemblant», j’avais bien le temps de me demander si ce que\nj’écrivais était agréable! Mais en réalité il n’y avait que ce genre\nde phrases, ce genre d’idées que j’aimais vraiment. Mes efforts\ninquiets et mécontents étaient eux-mêmes une marque d’amour, d’amour\nsans plaisir mais profond. Aussi quand tout d’un coup je trouvais de\ntelles phrases dans l’œuvre d’un autre, c’est-à-dire sans plus avoir\nde scrupules, de sévérité, sans avoir à me tourmenter, je me laissais\nenfin aller avec délices au goût que j’avais pour elles, comme un\ncuisinier qui pour une fois où il n’a pas à faire la cuisine trouve\nenfin le temps d’être gourmand. Un jour, ayant rencontré dans un livre\nde Bergotte, à propos d’une vieille servante, une plaisanterie que le\nmagnifique et solennel langage de l’écrivain rendait encore plus\nironique mais qui était la même que j’avais souvent faite à ma\ngrand’mère en parlant de Françoise, une autre fois où je vis qu’il ne\njugeait pas indigne de figurer dans un de ces miroirs de la vérité\nqu’étaient ses ouvrages, une remarque analogue à celle que j’avais eu\nl’occasion de faire sur notre ami M. Legrandin (remarques sur\nFrançoise et M. Legrandin qui étaient certes de celles que j’eusse le\nplus délibérément sacrifiées à Bergotte, persuadé qu’il les trouverait\nsans intérêt), il me sembla soudain que mon humble vie et les royaumes\ndu vrai n’étaient pas aussi séparés que j’avais cru, qu’ils\ncoïncidaient même sur certains points, et de confiance et de joie je\npleurai sur les pages de l’écrivain comme dans les bras d’un père\nretrouvé.",
+  "entities": [
+    {
+      "text": "Bergotte;",
+      "label": "ORG",
+      "start": 49,
+      "end": 58
+    },
+    {
+      "text": "Boulbon",
+      "label": "ORG",
+      "start": 193,
+      "end": 200
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 296,
+      "end": 304
+    },
+    {
+      "text": "Bergotte,",
+      "label": "ORG",
+      "start": 385,
+      "end": 394
+    },
+    {
+      "text": "Europe,",
+      "label": "ORG",
+      "start": 484,
+      "end": 491
+    },
+    {
+      "text": "Boulbon",
+      "label": "ORG",
+      "start": 619,
+      "end": 626
+    },
+    {
+      "text": "Bergotte",
+      "label": "ORG",
+      "start": 663,
+      "end": 671
+    },
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 1661,
+      "end": 1665
+    },
+    {
+      "text": "Chaque",
+      "label": "ORG",
+      "start": 1748,
+      "end": 1754
+    },
+    {
+      "text": "Notre-Dame",
+      "label": "ORG",
+      "start": 1875,
+      "end": 1885
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 1889,
+      "end": 1895
+    },
+    {
+      "text": "Phèdre,",
+      "label": "ORG",
+      "start": 1912,
+      "end": 1919
+    },
+    {
+      "text": "Malheureusement",
+      "label": "ORG",
+      "start": 2501,
+      "end": 2516
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 2975,
+      "end": 2979
+    },
+    {
+      "text": "Bergotte",
+      "label": "ORG",
+      "start": 3230,
+      "end": 3238
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 3319,
+      "end": 3323
+    },
+    {
+      "text": "Bergotte.",
+      "label": "ORG",
+      "start": 3489,
+      "end": 3498
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 3499,
+      "end": 3503
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 3817,
+      "end": 3821
+    },
+    {
+      "text": "Bergotte,",
+      "label": "ORG",
+      "start": 4408,
+      "end": 4417
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 4628,
+      "end": 4638
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 4847,
+      "end": 4856
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 4872,
+      "end": 4881
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 4888,
+      "end": 4897
+    },
+    {
+      "text": "Bergotte,",
+      "label": "ORG",
+      "start": 4973,
+      "end": 4982
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je n’étais pas tout à fait le seul admirateur de Bergotte; il était\naussi l’écrivain préféré d’une amie de ma mère qui était très lettrée;\nenfin pour lire son dernier livre paru, le docteur du Boulbon faisait\nattendre ses malades; et ce fut de son cabinet de consultation, et\nd’un parc voisin de Combray, que s’envolèrent quelques-unes des\npremières graines de cette prédilection pour Bergotte, espèce si rare\nalors, aujourd’hui universellement répandue, et dont on trouve partout\nen Europe, en Amérique, jusque dans le moindre village, la fleur\nidéale et commune",
+      "start": 0,
+      "end": 563
+    },
+    {
+      "text": "Ce que l’amie de ma mère et, paraît-il, le docteur\ndu Boulbon aimaient surtout dans les livres de Bergotte c’était comme\nmoi, ce même flux mélodique, ces expressions anciennes, quelques\nautres très simples et connues, mais pour lesquelles la place où il\nles mettait en lumière semblait révéler de sa part un goût\nparticulier; enfin, dans les passages tristes, une certaine\nbrusquerie, un accent presque rauque",
+      "start": 564,
+      "end": 974
+    },
+    {
+      "text": "Et sans doute lui-même devait\nsentir que là étaient ses plus grands charmes",
+      "start": 975,
+      "end": 1051
+    },
+    {
+      "text": "Car dans les livres qui\nsuivirent, s’il avait rencontré quelque grande vérité, ou le nom d’une\ncélèbre cathédrale, il interrompait son récit et dans une invocation,\nune apostrophe, une longue prière, il donnait un libre cours à ces\neffluves qui dans ses premiers ouvrages restaient intérieurs à sa\nprose, décelés seulement alors par les ondulations de la surface, plus\ndouces peut-être encore, plus harmonieuses quand elles étaient ainsi\nvoilées et qu’on n’aurait pu indiquer d’une manière précise où\nnaissait, où expirait leur murmure",
+      "start": 1052,
+      "end": 1588
+    },
+    {
+      "text": "Ces morceaux auxquels il se\ncomplaisait étaient nos morceaux préférés",
+      "start": 1589,
+      "end": 1659
+    },
+    {
+      "text": "Pour moi, je les savais par\ncœur",
+      "start": 1660,
+      "end": 1693
+    },
+    {
+      "text": "J’étais déçu quand il reprenait le fil de son récit",
+      "start": 1694,
+      "end": 1746
+    },
+    {
+      "text": "Chaque fois\nqu’il parlait de quelque chose dont la beauté m’était restée jusque-là\ncachée, des forêts de pins, de la grêle, de Notre-Dame de Paris,\nd’Athalie ou de Phèdre, il faisait dans une image exploser cette\nbeauté jusqu’à moi",
+      "start": 1747,
+      "end": 1979
+    },
+    {
+      "text": "Aussi sentant combien il y avait de parties de\nl’univers que ma perception infirme ne distinguerait pas s’il ne les\nrapprochait de moi, j’aurais voulu posséder une opinion de lui, une\nmétaphore de lui, sur toutes choses, surtout sur celles que j’aurais\nl’occasion de voir moi-même, et entre celles-là, particulièrement sur\nd’anciens monuments français et certains paysages maritimes, parce que\nl’insistance avec laquelle il les citait dans ses livres prouvait\nqu’il les tenait pour riches de signification et de beauté",
+      "start": 1980,
+      "end": 2499
+    },
+    {
+      "text": "Malheureusement sur presque toutes choses j’ignorais son opinion",
+      "start": 2500,
+      "end": 2565
+    },
+    {
+      "text": "Je\nne doutais pas qu’elle ne fût entièrement différente des miennes,\npuisqu’elle descendait d’un monde inconnu vers lequel je cherchais à\nm’élever: persuadé que mes pensées eussent paru pure ineptie à cet\nesprit parfait, j’avais tellement fait table rase de toutes, que quand\npar hasard il m’arriva d’en rencontrer, dans tel de ses livres, une\nque j’avais déjà eue moi-même, mon cœur se gonflait comme si un Dieu\ndans sa bonté me l’avait rendue, l’avait déclarée légitime et belle",
+      "start": 2566,
+      "end": 3047
+    },
+    {
+      "text": "Il arrivait parfois qu’une page de lui disait les mêmes choses que\nj’écrivais souvent la nuit à ma grand’mère et à ma mère quand je ne\npouvais pas dormir, si bien que cette page de Bergotte avait l’air\nd’un recueil d’épigraphes pour être placées en tête de mes lettres",
+      "start": 3048,
+      "end": 3317
+    },
+    {
+      "text": "Même plus tard, quand je commençai de composer un livre, certaines\nphrases dont la qualité ne suffit pas pour me décider à le continuer,\nj’en retrouvai l’équivalent dans Bergotte",
+      "start": 3318,
+      "end": 3497
+    },
+    {
+      "text": "Mais ce n’était qu’alors,\nquand je les lisais dans son œuvre, que je pouvais en jouir; quand\nc’était moi qui les composais, préoccupé qu’elles reflétassent\nexactement ce que j’apercevais dans ma pensée, craignant de ne pas\n«faire ressemblant», j’avais bien le temps de me demander si ce que\nj’écrivais était agréable! Mais en réalité il n’y avait que ce genre\nde phrases, ce genre d’idées que j’aimais vraiment",
+      "start": 3498,
+      "end": 3909
+    },
+    {
+      "text": "Mes efforts\ninquiets et mécontents étaient eux-mêmes une marque d’amour, d’amour\nsans plaisir mais profond",
+      "start": 3910,
+      "end": 4017
+    },
+    {
+      "text": "Aussi quand tout d’un coup je trouvais de\ntelles phrases dans l’œuvre d’un autre, c’est-à-dire sans plus avoir\nde scrupules, de sévérité, sans avoir à me tourmenter, je me laissais\nenfin aller avec délices au goût que j’avais pour elles, comme un\ncuisinier qui pour une fois où il n’a pas à faire la cuisine trouve\nenfin le temps d’être gourmand",
+      "start": 4018,
+      "end": 4364
+    },
+    {
+      "text": "Un jour, ayant rencontré dans un livre\nde Bergotte, à propos d’une vieille servante, une plaisanterie que le\nmagnifique et solennel langage de l’écrivain rendait encore plus\nironique mais qui était la même que j’avais souvent faite à ma\ngrand’mère en parlant de Françoise, une autre fois où je vis qu’il ne\njugeait pas indigne de figurer dans un de ces miroirs de la vérité\nqu’étaient ses ouvrages, une remarque analogue à celle que j’avais eu\nl’occasion de faire sur notre ami M",
+      "start": 4365,
+      "end": 4845
+    },
+    {
+      "text": "Legrandin (remarques sur\nFrançoise et M",
+      "start": 4846,
+      "end": 4886
+    },
+    {
+      "text": "Legrandin qui étaient certes de celles que j’eusse le\nplus délibérément sacrifiées à Bergotte, persuadé qu’il les trouverait\nsans intérêt), il me sembla soudain que mon humble vie et les royaumes\ndu vrai n’étaient pas aussi séparés que j’avais cru, qu’ils\ncoïncidaient même sur certains points, et de confiance et de joie je\npleurai sur les pages de l’écrivain comme dans les bras d’un père\nretrouvé",
+      "start": 4887,
+      "end": 5287
+    }
+  ],
+  "tokens": 863,
+  "processed_at": "2025-03-16T02:10:55.120563"
+}

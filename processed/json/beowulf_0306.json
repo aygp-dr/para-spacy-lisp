@@ -1,0 +1,108 @@
+{
+  "text": "Puis je revenais devant les aubépines comme devant ces chefs-d’œuvre\ndont on croit qu’on saura mieux les voir quand on a cessé un moment de\nles regarder, mais j’avais beau me faire un écran de mes mains pour\nn’avoir qu’elles sous les yeux, le sentiment qu’elles éveillaient en\nmoi restait obscur et vague, cherchant en vain à se dégager, à venir\nadhérer à leurs fleurs. Elles ne m’aidaient pas à l’éclaircir, et je\nne pouvais demander à d’autres fleurs de le satisfaire. Alors, me\ndonnant cette joie que nous éprouvons quand nous voyons de notre\npeintre préféré une œuvre qui diffère de celles que nous connaissions,\nou bien si l’on nous mène devant un tableau dont nous n’avions vu\njusque-là qu’une esquisse au crayon, si un morceau entendu seulement\nau piano nous apparaît ensuite revêtu des couleurs de l’orchestre, mon\ngrand-père m’appelant et me désignant la haie de Tansonville, me dit:\n«Toi qui aimes les aubépines, regarde un peu cette épine rose;\nest-elle jolie!» En effet c’était une épine, mais rose, plus belle\nencore que les blanches. Elle aussi avait une parure de fête,--de ces\nseules vraies fêtes que sont les fêtes religieuses, puisqu’un caprice\ncontingent ne les applique pas comme les fêtes mondaines à un jour\nquelconque qui ne leur est pas spécialement destiné, qui n’a rien\nd’essentiellement férié,--mais une parure plus riche encore, car les\nfleurs attachées sur la branche, les unes au-dessus des autres, de\nmanière à ne laisser aucune place qui ne fût décorée, comme des\npompons qui enguirlandent une houlette rococo, étaient «en couleur»,\npar conséquent d’une qualité supérieure selon l’esthétique de Combray\nsi l’on en jugeait par l’échelle des prix dans le «magasin» de la\nPlace ou chez Camus où étaient plus chers ceux des biscuits qui\nétaient roses. Moi-même j’appréciais plus le fromage à la crème rose,\ncelui où l’on m’avait permis d’écraser des fraises. Et justement ces\nfleurs avaient choisi une de ces teintes de chose mangeable, ou de\ntendre embellissement à une toilette pour une grande fête, qui, parce\nqu’elles leur présentent la raison de leur supériorité, sont celles\nqui semblent belles avec le plus d’évidence aux yeux des enfants, et à\ncause de cela, gardent toujours pour eux quelque chose de plus vif et\nde plus naturel que les autres teintes, même lorsqu’ils ont compris\nqu’elles ne promettaient rien à leur gourmandise et n’avaient pas été\nchoisies par la couturière. Et certes, je l’avais tout de suite senti,\ncomme devant les épines blanches mais avec plus d’émerveillement, que\nce n’était pas facticement, par un artifice de fabrication humaine,\nqu’était traduite l’intention de festivité dans les fleurs, mais que\nc’était la nature qui, spontanément, l’avait exprimée avec la naïveté\nd’une commerçante de village travaillant pour un reposoir, en\nsurchargeant l’arbuste de ces rosettes d’un ton trop tendre et d’un\npompadour provincial. Au haut des branches, comme autant de ces petits\nrosiers aux pots cachés dans des papiers en dentelles, dont aux\ngrandes fêtes on faisait rayonner sur l’autel les minces fusées,\npullulaient mille petits boutons d’une teinte plus pâle qui, en\ns’entr’ouvrant, laissaient voir, comme au fond d’une coupe de marbre\nrose, de rouges sanguines et trahissaient plus encore que les fleurs,\nl’essence particulière, irrésistible, de l’épine, qui, partout où elle\nbourgeonnait, où elle allait fleurir, ne le pouvait qu’en rose.\nIntercalé dans la haie, mais aussi différent d’elle qu’une jeune fille\nen robe de fête au milieu de personnes en négligé qui resteront à la\nmaison, tout prêt pour le mois de Marie, dont il semblait faire partie\ndéjà, tel brillait en souriant dans sa fraîche toilette rose,\nl’arbuste catholique et délicieux.",
+  "entities": [
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Elles",
+      "label": "ORG",
+      "start": 370,
+      "end": 375
+    },
+    {
+      "text": "Tansonville,",
+      "label": "ORG",
+      "start": 872,
+      "end": 884
+    },
+    {
+      "text": "«Toi",
+      "label": "ORG",
+      "start": 893,
+      "end": 897
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1048,
+      "end": 1052
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1627,
+      "end": 1634
+    },
+    {
+      "text": "Place",
+      "label": "ORG",
+      "start": 1701,
+      "end": 1706
+    },
+    {
+      "text": "Camus",
+      "label": "ORG",
+      "start": 1715,
+      "end": 1720
+    },
+    {
+      "text": "Marie,",
+      "label": "ORG",
+      "start": 3578,
+      "end": 3584
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Puis je revenais devant les aubépines comme devant ces chefs-d’œuvre\ndont on croit qu’on saura mieux les voir quand on a cessé un moment de\nles regarder, mais j’avais beau me faire un écran de mes mains pour\nn’avoir qu’elles sous les yeux, le sentiment qu’elles éveillaient en\nmoi restait obscur et vague, cherchant en vain à se dégager, à venir\nadhérer à leurs fleurs",
+      "start": 0,
+      "end": 368
+    },
+    {
+      "text": "Elles ne m’aidaient pas à l’éclaircir, et je\nne pouvais demander à d’autres fleurs de le satisfaire",
+      "start": 369,
+      "end": 469
+    },
+    {
+      "text": "Alors, me\ndonnant cette joie que nous éprouvons quand nous voyons de notre\npeintre préféré une œuvre qui diffère de celles que nous connaissions,\nou bien si l’on nous mène devant un tableau dont nous n’avions vu\njusque-là qu’une esquisse au crayon, si un morceau entendu seulement\nau piano nous apparaît ensuite revêtu des couleurs de l’orchestre, mon\ngrand-père m’appelant et me désignant la haie de Tansonville, me dit:\n«Toi qui aimes les aubépines, regarde un peu cette épine rose;\nest-elle jolie!» En effet c’était une épine, mais rose, plus belle\nencore que les blanches",
+      "start": 470,
+      "end": 1046
+    },
+    {
+      "text": "Elle aussi avait une parure de fête,--de ces\nseules vraies fêtes que sont les fêtes religieuses, puisqu’un caprice\ncontingent ne les applique pas comme les fêtes mondaines à un jour\nquelconque qui ne leur est pas spécialement destiné, qui n’a rien\nd’essentiellement férié,--mais une parure plus riche encore, car les\nfleurs attachées sur la branche, les unes au-dessus des autres, de\nmanière à ne laisser aucune place qui ne fût décorée, comme des\npompons qui enguirlandent une houlette rococo, étaient «en couleur»,\npar conséquent d’une qualité supérieure selon l’esthétique de Combray\nsi l’on en jugeait par l’échelle des prix dans le «magasin» de la\nPlace ou chez Camus où étaient plus chers ceux des biscuits qui\nétaient roses",
+      "start": 1047,
+      "end": 1778
+    },
+    {
+      "text": "Moi-même j’appréciais plus le fromage à la crème rose,\ncelui où l’on m’avait permis d’écraser des fraises",
+      "start": 1779,
+      "end": 1885
+    },
+    {
+      "text": "Et justement ces\nfleurs avaient choisi une de ces teintes de chose mangeable, ou de\ntendre embellissement à une toilette pour une grande fête, qui, parce\nqu’elles leur présentent la raison de leur supériorité, sont celles\nqui semblent belles avec le plus d’évidence aux yeux des enfants, et à\ncause de cela, gardent toujours pour eux quelque chose de plus vif et\nde plus naturel que les autres teintes, même lorsqu’ils ont compris\nqu’elles ne promettaient rien à leur gourmandise et n’avaient pas été\nchoisies par la couturière",
+      "start": 1886,
+      "end": 2414
+    },
+    {
+      "text": "Et certes, je l’avais tout de suite senti,\ncomme devant les épines blanches mais avec plus d’émerveillement, que\nce n’était pas facticement, par un artifice de fabrication humaine,\nqu’était traduite l’intention de festivité dans les fleurs, mais que\nc’était la nature qui, spontanément, l’avait exprimée avec la naïveté\nd’une commerçante de village travaillant pour un reposoir, en\nsurchargeant l’arbuste de ces rosettes d’un ton trop tendre et d’un\npompadour provincial",
+      "start": 2415,
+      "end": 2886
+    },
+    {
+      "text": "Au haut des branches, comme autant de ces petits\nrosiers aux pots cachés dans des papiers en dentelles, dont aux\ngrandes fêtes on faisait rayonner sur l’autel les minces fusées,\npullulaient mille petits boutons d’une teinte plus pâle qui, en\ns’entr’ouvrant, laissaient voir, comme au fond d’une coupe de marbre\nrose, de rouges sanguines et trahissaient plus encore que les fleurs,\nl’essence particulière, irrésistible, de l’épine, qui, partout où elle\nbourgeonnait, où elle allait fleurir, ne le pouvait qu’en rose",
+      "start": 2887,
+      "end": 3402
+    },
+    {
+      "text": "Intercalé dans la haie, mais aussi différent d’elle qu’une jeune fille\nen robe de fête au milieu de personnes en négligé qui resteront à la\nmaison, tout prêt pour le mois de Marie, dont il semblait faire partie\ndéjà, tel brillait en souriant dans sa fraîche toilette rose,\nl’arbuste catholique et délicieux",
+      "start": 3403,
+      "end": 3710
+    }
+  ],
+  "tokens": 602,
+  "processed_at": "2025-03-16T02:10:55.475535"
+}

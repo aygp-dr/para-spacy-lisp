@@ -1,0 +1,61 @@
+{
+  "text": "Puis, nous poursuivions notre route jusque devant leur porte cochère\noù un concierge différent de tout concierge, et pénétré jusque dans\nles galons de sa livrée du même charme douloureux que j’avais ressenti\ndans le nom de Gilberte, avait l’air de savoir que j’étais de ceux à\nqui une indignité originelle interdirait toujours de pénétrer dans la\nvie mystérieuse qu’il était chargé de garder et sur laquelle les\nfenêtres de l’entre-sol paraissaient conscientes d’être refermées,\nressemblant beaucoup moins entre la noble retombée de leurs rideaux de\nmousseline à n’importe quelles autres fenêtres, qu’aux regards de\nGilberte. D’autres fois nous allions sur les boulevards et je me\npostais à l’entrée de la rue Duphot; on m’avait dit qu’on pouvait\nsouvent y voir passer Swann se rendant chez son dentiste; et mon\nimagination différenciait tellement le père de Gilberte du reste de\nl’humanité, sa présence au milieu du monde réel y introduisait tant de\nmerveilleux, que, avant même d’arriver à la Madeleine, j’étais ému à\nla pensée d’approcher d’une rue où pouvait se produire inopinément\nl’apparition surnaturelle.",
+  "entities": [
+    {
+      "text": "Puis,",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 223,
+      "end": 232
+    },
+    {
+      "text": "Gilberte.",
+      "label": "ORG",
+      "start": 616,
+      "end": 625
+    },
+    {
+      "text": "Duphot;",
+      "label": "ORG",
+      "start": 710,
+      "end": 717
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 769,
+      "end": 774
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 859,
+      "end": 867
+    },
+    {
+      "text": "Madeleine,",
+      "label": "ORG",
+      "start": 995,
+      "end": 1005
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Puis, nous poursuivions notre route jusque devant leur porte cochère\noù un concierge différent de tout concierge, et pénétré jusque dans\nles galons de sa livrée du même charme douloureux que j’avais ressenti\ndans le nom de Gilberte, avait l’air de savoir que j’étais de ceux à\nqui une indignité originelle interdirait toujours de pénétrer dans la\nvie mystérieuse qu’il était chargé de garder et sur laquelle les\nfenêtres de l’entre-sol paraissaient conscientes d’être refermées,\nressemblant beaucoup moins entre la noble retombée de leurs rideaux de\nmousseline à n’importe quelles autres fenêtres, qu’aux regards de\nGilberte",
+      "start": 0,
+      "end": 624
+    },
+    {
+      "text": "D’autres fois nous allions sur les boulevards et je me\npostais à l’entrée de la rue Duphot; on m’avait dit qu’on pouvait\nsouvent y voir passer Swann se rendant chez son dentiste; et mon\nimagination différenciait tellement le père de Gilberte du reste de\nl’humanité, sa présence au milieu du monde réel y introduisait tant de\nmerveilleux, que, avant même d’arriver à la Madeleine, j’étais ému à\nla pensée d’approcher d’une rue où pouvait se produire inopinément\nl’apparition surnaturelle",
+      "start": 625,
+      "end": 1112
+    }
+  ],
+  "tokens": 175,
+  "processed_at": "2025-03-16T02:10:57.607785"
+}

@@ -1,0 +1,23 @@
+{
+  "text": "Je me levai, j’avais une envie irrésistible de baiser la main de la\ndame en rose, mais il me semblait que c’eût été quelque chose\nd’audacieux comme un enlèvement. Mon cœur battait tandis que je me\ndisais: «Faut-il le faire, faut-il ne pas le faire», puis je cessai de\nme demander ce qu’il fallait faire pour pouvoir faire quelque chose.\nEt d’un geste aveugle et insensé, dépouillé de toutes les raisons que\nje trouvais il y avait un moment en sa faveur, je portai à mes lèvres\nla main qu’elle me tendait.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "Je me levai, j’avais une envie irrésistible de baiser la main de la\ndame en rose, mais il me semblait que c’eût été quelque chose\nd’audacieux comme un enlèvement",
+      "start": 0,
+      "end": 161
+    },
+    {
+      "text": "Mon cœur battait tandis que je me\ndisais: «Faut-il le faire, faut-il ne pas le faire», puis je cessai de\nme demander ce qu’il fallait faire pour pouvoir faire quelque chose",
+      "start": 162,
+      "end": 335
+    },
+    {
+      "text": "Et d’un geste aveugle et insensé, dépouillé de toutes les raisons que\nje trouvais il y avait un moment en sa faveur, je portai à mes lèvres\nla main qu’elle me tendait",
+      "start": 336,
+      "end": 503
+    }
+  ],
+  "tokens": 92,
+  "processed_at": "2025-03-16T02:10:54.893689"
+}

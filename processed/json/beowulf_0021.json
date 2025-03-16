@@ -1,0 +1,82 @@
+{
+  "text": "Certes je leur trouvais du charme à ces brillantes projections qui\nsemblaient émaner d’un passé mérovingien et promenaient autour de moi\ndes reflets d’histoire si anciens. Mais je ne peux dire quel malaise\nme causait pourtant cette intrusion du mystère et de la beauté dans\nune chambre que j’avais fini par remplir de mon moi au point de ne pas\nfaire plus attention à elle qu’à lui-même. L’influence anesthésiante\nde l’habitude ayant cessé, je me mettais à penser, à sentir, choses si\ntristes. Ce bouton de la porte de ma chambre, qui différait pour moi\nde tous les autres boutons de porte du monde en ceci qu’il semblait\nouvrir tout seul, sans que j’eusse besoin de le tourner, tant le\nmaniement m’en était devenu inconscient, le voilà qui servait\nmaintenant de corps astral à Golo. Et dès qu’on sonnait le dîner,\nj’avais hâte de courir à la salle à manger, où la grosse lampe de la\nsuspension, ignorante de Golo et de Barbe-Bleue, et qui connaissait\nmes parents et le bœuf à la casserole, donnait sa lumière de tous les\nsoirs; et de tomber dans les bras de maman que les malheurs de\nGeneviève de Brabant me rendaient plus chère, tandis que les crimes de\nGolo me faisaient examiner ma propre conscience avec plus de\nscrupules.",
+  "entities": [
+    {
+      "text": "Certes",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 172,
+      "end": 176
+    },
+    {
+      "text": "Golo.",
+      "label": "ORG",
+      "start": 778,
+      "end": 783
+    },
+    {
+      "text": "Golo",
+      "label": "ORG",
+      "start": 909,
+      "end": 913
+    },
+    {
+      "text": "Barbe-Bleue,",
+      "label": "ORG",
+      "start": 920,
+      "end": 932
+    },
+    {
+      "text": "Geneviève",
+      "label": "ORG",
+      "start": 1085,
+      "end": 1094
+    },
+    {
+      "text": "Brabant",
+      "label": "ORG",
+      "start": 1098,
+      "end": 1105
+    },
+    {
+      "text": "Golo",
+      "label": "ORG",
+      "start": 1156,
+      "end": 1160
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Certes je leur trouvais du charme à ces brillantes projections qui\nsemblaient émaner d’un passé mérovingien et promenaient autour de moi\ndes reflets d’histoire si anciens",
+      "start": 0,
+      "end": 170
+    },
+    {
+      "text": "Mais je ne peux dire quel malaise\nme causait pourtant cette intrusion du mystère et de la beauté dans\nune chambre que j’avais fini par remplir de mon moi au point de ne pas\nfaire plus attention à elle qu’à lui-même",
+      "start": 171,
+      "end": 386
+    },
+    {
+      "text": "L’influence anesthésiante\nde l’habitude ayant cessé, je me mettais à penser, à sentir, choses si\ntristes",
+      "start": 387,
+      "end": 492
+    },
+    {
+      "text": "Ce bouton de la porte de ma chambre, qui différait pour moi\nde tous les autres boutons de porte du monde en ceci qu’il semblait\nouvrir tout seul, sans que j’eusse besoin de le tourner, tant le\nmaniement m’en était devenu inconscient, le voilà qui servait\nmaintenant de corps astral à Golo",
+      "start": 493,
+      "end": 782
+    },
+    {
+      "text": "Et dès qu’on sonnait le dîner,\nj’avais hâte de courir à la salle à manger, où la grosse lampe de la\nsuspension, ignorante de Golo et de Barbe-Bleue, et qui connaissait\nmes parents et le bœuf à la casserole, donnait sa lumière de tous les\nsoirs; et de tomber dans les bras de maman que les malheurs de\nGeneviève de Brabant me rendaient plus chère, tandis que les crimes de\nGolo me faisaient examiner ma propre conscience avec plus de\nscrupules",
+      "start": 783,
+      "end": 1226
+    }
+  ],
+  "tokens": 216,
+  "processed_at": "2025-03-16T02:10:54.415029"
+}

@@ -1,0 +1,20 @@
+{
+  "text": "--Comment, vous êtes là depuis déjà un long moment!",
+  "entities": [
+    {
+      "text": "--Comment,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Comment, vous êtes là depuis déjà un long moment!",
+      "start": 0,
+      "end": 51
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:57.103462"
+}

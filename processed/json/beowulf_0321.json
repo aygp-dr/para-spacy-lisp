@@ -1,0 +1,102 @@
+{
+  "text": "Et alors, tant les gens les plus sincères sont mêlés d’hypocrisie et\ndépouillent en causant avec une personne l’opinion qu’ils ont d’elle\net expriment dès qu’elle n’est plus là, mes parents déplorèrent avec\nM. Vinteuil le mariage de Swann au nom de principes et de convenances\nauxquels (par cela même qu’ils les invoquaient en commun avec lui, en\nbraves gens de même acabit) ils avaient l’air de sous-entendre qu’il\nn’était pas contrevenu à Montjouvain. M. Vinteuil n’envoya pas sa\nfille chez Swann. Et celui-ci fût le premier à le regretter. Car\nchaque fois qu’il venait de quitter M. Vinteuil, il se rappelait qu’il\navait depuis quelque temps un renseignement à lui demander sur\nquelqu’un qui portait le même nom que lui, un de ses parents,\ncroyait-il. Et cette fois-là il s’était bien promis de ne pas oublier\nce qu’il avait à lui dire, quand M. Vinteuil enverrait sa fille à\nTansonville.",
+  "entities": [
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 210,
+      "end": 218
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 233,
+      "end": 238
+    },
+    {
+      "text": "Montjouvain.",
+      "label": "ORG",
+      "start": 441,
+      "end": 453
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 457,
+      "end": 465
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 493,
+      "end": 499
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 586,
+      "end": 595
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 849,
+      "end": 857
+    },
+    {
+      "text": "Tansonville.",
+      "label": "ORG",
+      "start": 879,
+      "end": 891
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et alors, tant les gens les plus sincères sont mêlés d’hypocrisie et\ndépouillent en causant avec une personne l’opinion qu’ils ont d’elle\net expriment dès qu’elle n’est plus là, mes parents déplorèrent avec\nM",
+      "start": 0,
+      "end": 208
+    },
+    {
+      "text": "Vinteuil le mariage de Swann au nom de principes et de convenances\nauxquels (par cela même qu’ils les invoquaient en commun avec lui, en\nbraves gens de même acabit) ils avaient l’air de sous-entendre qu’il\nn’était pas contrevenu à Montjouvain",
+      "start": 209,
+      "end": 452
+    },
+    {
+      "text": "M",
+      "start": 440,
+      "end": 442
+    },
+    {
+      "text": "Vinteuil n’envoya pas sa\nfille chez Swann",
+      "start": 456,
+      "end": 498
+    },
+    {
+      "text": "Et celui-ci fût le premier à le regretter",
+      "start": 499,
+      "end": 541
+    },
+    {
+      "text": "Car\nchaque fois qu’il venait de quitter M",
+      "start": 542,
+      "end": 584
+    },
+    {
+      "text": "Vinteuil, il se rappelait qu’il\navait depuis quelque temps un renseignement à lui demander sur\nquelqu’un qui portait le même nom que lui, un de ses parents,\ncroyait-il",
+      "start": 585,
+      "end": 753
+    },
+    {
+      "text": "Et cette fois-là il s’était bien promis de ne pas oublier\nce qu’il avait à lui dire, quand M",
+      "start": 754,
+      "end": 847
+    },
+    {
+      "text": "Vinteuil enverrait sa fille à\nTansonville",
+      "start": 848,
+      "end": 890
+    }
+  ],
+  "tokens": 151,
+  "processed_at": "2025-03-16T02:10:55.524059"
+}

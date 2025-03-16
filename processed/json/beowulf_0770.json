@@ -1,0 +1,71 @@
+{
+  "text": "Pourtant il se doutait bien que ce qu’il regrettait ainsi c’était un\ncalme, une paix qui n’auraient pas été pour son amour une atmosphère\nfavorable. Quand Odette cesserait d’être pour lui une créature\ntoujours absente, regrettée, imaginaire, quand le sentiment qu’il\naurait pour elle ne serait plus ce même trouble mystérieux que lui\ncausait la phrase de la sonate, mais de l’affection, de la\nreconnaissance quand s’établiraient entre eux des rapports normaux qui\nmettraient fin à sa folie et à sa tristesse, alors sans doute les\nactes de la vie d’Odette lui paraîtraient peu intéressants en\neux-mêmes--comme il avait déjà eu plusieurs fois le soupçon qu’ils\nétaient, par exemple le jour où il avait lu à travers l’enveloppe la\nlettre adressée à Forcheville. Considérant son mal avec autant de\nsagacité que s’il se l’était inoculé pour en faire l’étude, il se\ndisait que, quand il serait guéri, ce que pourrait faire Odette lui\nserait indifférent. Mais du sein de son état morbide, à vrai dire, il\nredoutait à l’égal de la mort une telle guérison, qui eût été en effet\nla mort de tout ce qu’il était actuellement.",
+  "entities": [
+    {
+      "text": "Pourtant",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 149,
+      "end": 154
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 155,
+      "end": 161
+    },
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 746,
+      "end": 758
+    },
+    {
+      "text": "Considérant",
+      "label": "ORG",
+      "start": 759,
+      "end": 770
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 917,
+      "end": 923
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 948,
+      "end": 952
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pourtant il se doutait bien que ce qu’il regrettait ainsi c’était un\ncalme, une paix qui n’auraient pas été pour son amour une atmosphère\nfavorable",
+      "start": 0,
+      "end": 147
+    },
+    {
+      "text": "Quand Odette cesserait d’être pour lui une créature\ntoujours absente, regrettée, imaginaire, quand le sentiment qu’il\naurait pour elle ne serait plus ce même trouble mystérieux que lui\ncausait la phrase de la sonate, mais de l’affection, de la\nreconnaissance quand s’établiraient entre eux des rapports normaux qui\nmettraient fin à sa folie et à sa tristesse, alors sans doute les\nactes de la vie d’Odette lui paraîtraient peu intéressants en\neux-mêmes--comme il avait déjà eu plusieurs fois le soupçon qu’ils\nétaient, par exemple le jour où il avait lu à travers l’enveloppe la\nlettre adressée à Forcheville",
+      "start": 148,
+      "end": 757
+    },
+    {
+      "text": "Considérant son mal avec autant de\nsagacité que s’il se l’était inoculé pour en faire l’étude, il se\ndisait que, quand il serait guéri, ce que pourrait faire Odette lui\nserait indifférent",
+      "start": 758,
+      "end": 946
+    },
+    {
+      "text": "Mais du sein de son état morbide, à vrai dire, il\nredoutait à l’égal de la mort une telle guérison, qui eût été en effet\nla mort de tout ce qu’il était actuellement",
+      "start": 947,
+      "end": 1112
+    }
+  ],
+  "tokens": 188,
+  "processed_at": "2025-03-16T02:10:56.861536"
+}

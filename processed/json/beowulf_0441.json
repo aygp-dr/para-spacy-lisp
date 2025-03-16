@@ -1,0 +1,59 @@
+{
+  "text": "--«Que l’andante, comme tu y vas» s’écria Mme Verdurin. «C’est\njustement l’andante qui me casse bras et jambes. Il est vraiment\nsuperbe le Patron! C’est comme si dans la «Neuvième» il disait: nous\nn’entendrons que le finale, ou dans «les Maîtres» que l’ouverture.»",
+  "entities": [
+    {
+      "text": "--«Que",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 46,
+      "end": 55
+    },
+    {
+      "text": "Patron!",
+      "label": "ORG",
+      "start": 139,
+      "end": 146
+    },
+    {
+      "text": "«Neuvième»",
+      "label": "ORG",
+      "start": 170,
+      "end": 180
+    },
+    {
+      "text": "Maîtres»",
+      "label": "ORG",
+      "start": 238,
+      "end": 246
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Que l’andante, comme tu y vas» s’écria Mme Verdurin",
+      "start": 0,
+      "end": 54
+    },
+    {
+      "text": "«C’est\njustement l’andante qui me casse bras et jambes",
+      "start": 55,
+      "end": 110
+    },
+    {
+      "text": "Il est vraiment\nsuperbe le Patron! C’est comme si dans la «Neuvième» il disait: nous\nn’entendrons que le finale, ou dans «les Maîtres» que l’ouverture",
+      "start": 111,
+      "end": 262
+    },
+    {
+      "text": "»",
+      "start": 32,
+      "end": 33
+    }
+  ],
+  "tokens": 43,
+  "processed_at": "2025-03-16T02:10:55.887845"
+}

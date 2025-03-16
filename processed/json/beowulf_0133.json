@@ -1,0 +1,25 @@
+{
+  "text": "--«Mais vous n’avez jamais vu ma nièce qu’en photographie, dit vivement\nmon oncle d’un ton bourru.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais vous n’avez jamais vu ma nièce qu’en photographie, dit vivement\nmon oncle d’un ton bourru",
+      "start": 0,
+      "end": 97
+    },
+    {
+      "text": "»",
+      "start": 98,
+      "end": 99
+    }
+  ],
+  "tokens": 16,
+  "processed_at": "2025-03-16T02:10:54.845374"
+}

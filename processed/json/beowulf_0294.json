@@ -1,0 +1,82 @@
+{
+  "text": "Nous rentrions toujours de bonne heure de nos promenades pour pouvoir\nfaire une visite à ma tante Léonie avant le dîner. Au commencement de\nla saison où le jour finit tôt, quand nous arrivions rue du\nSaint-Esprit, il y avait encore un reflet du couchant sur les vitres\nde la maison et un bandeau de pourpre au fond des bois du Calvaire qui\nse reflétait plus loin dans l’étang, rougeur qui, accompagnée souvent\nd’un froid assez vif, s’associait, dans mon esprit, à la rougeur du\nfeu au-dessus duquel rôtissait le poulet qui ferait succéder pour moi\nau plaisir poétique donné par la promenade, le plaisir de la\ngourmandise, de la chaleur et du repos. Dans l’été, au contraire,\nquand nous rentrions, le soleil ne se couchait pas encore; et pendant\nla visite que nous faisions chez ma tante Léonie, sa lumière qui\ns’abaissait et touchait la fenêtre était arrêtée entre les grands\nrideaux et les embrasses, divisée, ramifiée, filtrée, et incrustant de\npetits morceaux d’or le bois de citronnier de la commode, illuminait\nobliquement la chambre avec la délicatesse qu’elle prend dans les\nsous-bois. Mais certains jours fort rares, quand nous rentrions, il y\navait bien longtemps que la commode avait perdu ses incrustations\nmomentanées, il n’y avait plus quand nous arrivions rue du\nSaint-Esprit nul reflet de couchant étendu sur les vitres et l’étang\nau pied du calvaire avait perdu sa rougeur, quelquefois il était déjà\ncouleur d’opale et un long rayon de lune qui allait en s’élargissant\net se fendillait de toutes les rides de l’eau le traversait tout\nentier. Alors, en arrivant près de la maison, nous apercevions une\nforme sur le pas de la porte et maman me disait:",
+  "entities": [
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Léonie",
+      "label": "ORG",
+      "start": 98,
+      "end": 104
+    },
+    {
+      "text": "Saint-Esprit,",
+      "label": "ORG",
+      "start": 200,
+      "end": 213
+    },
+    {
+      "text": "Calvaire",
+      "label": "ORG",
+      "start": 327,
+      "end": 335
+    },
+    {
+      "text": "Dans",
+      "label": "ORG",
+      "start": 649,
+      "end": 653
+    },
+    {
+      "text": "Léonie,",
+      "label": "ORG",
+      "start": 787,
+      "end": 794
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1093,
+      "end": 1097
+    },
+    {
+      "text": "Saint-Esprit",
+      "label": "ORG",
+      "start": 1277,
+      "end": 1289
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Nous rentrions toujours de bonne heure de nos promenades pour pouvoir\nfaire une visite à ma tante Léonie avant le dîner",
+      "start": 0,
+      "end": 119
+    },
+    {
+      "text": "Au commencement de\nla saison où le jour finit tôt, quand nous arrivions rue du\nSaint-Esprit, il y avait encore un reflet du couchant sur les vitres\nde la maison et un bandeau de pourpre au fond des bois du Calvaire qui\nse reflétait plus loin dans l’étang, rougeur qui, accompagnée souvent\nd’un froid assez vif, s’associait, dans mon esprit, à la rougeur du\nfeu au-dessus duquel rôtissait le poulet qui ferait succéder pour moi\nau plaisir poétique donné par la promenade, le plaisir de la\ngourmandise, de la chaleur et du repos",
+      "start": 120,
+      "end": 647
+    },
+    {
+      "text": "Dans l’été, au contraire,\nquand nous rentrions, le soleil ne se couchait pas encore; et pendant\nla visite que nous faisions chez ma tante Léonie, sa lumière qui\ns’abaissait et touchait la fenêtre était arrêtée entre les grands\nrideaux et les embrasses, divisée, ramifiée, filtrée, et incrustant de\npetits morceaux d’or le bois de citronnier de la commode, illuminait\nobliquement la chambre avec la délicatesse qu’elle prend dans les\nsous-bois",
+      "start": 648,
+      "end": 1091
+    },
+    {
+      "text": "Mais certains jours fort rares, quand nous rentrions, il y\navait bien longtemps que la commode avait perdu ses incrustations\nmomentanées, il n’y avait plus quand nous arrivions rue du\nSaint-Esprit nul reflet de couchant étendu sur les vitres et l’étang\nau pied du calvaire avait perdu sa rougeur, quelquefois il était déjà\ncouleur d’opale et un long rayon de lune qui allait en s’élargissant\net se fendillait de toutes les rides de l’eau le traversait tout\nentier",
+      "start": 1092,
+      "end": 1556
+    },
+    {
+      "text": "Alors, en arrivant près de la maison, nous apercevions une\nforme sur le pas de la porte et maman me disait:",
+      "start": 1557,
+      "end": 1665
+    }
+  ],
+  "tokens": 283,
+  "processed_at": "2025-03-16T02:10:55.442469"
+}

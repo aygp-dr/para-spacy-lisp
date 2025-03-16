@@ -1,0 +1,28 @@
+{
+  "text": "Si mes parents m’avaient permis, quand je lisais un livre, d’aller\nvisiter la région qu’il décrivait, j’aurais cru faire un pas\ninestimable dans la conquête de la vérité. Car si on a la sensation\nd’être toujours entouré de son âme, ce n’est pas comme d’une prison\nimmobile: plutôt on est comme emporté avec elle dans un perpétuel élan\npour la dépasser, pour atteindre à l’extérieur, avec une sorte de\ndécouragement, entendant toujours autour de soi cette sonorité\nidentique qui n’est pas écho du dehors mais retentissement d’une\nvibration interne. On cherche à retrouver dans les choses, devenues\npar là précieuses, le reflet que notre âme a projeté sur elles; on est\ndéçu en constatant qu’elles semblent dépourvues dans la nature, du\ncharme qu’elles devaient, dans notre pensée, au voisinage de certaines\nidées; parfois on convertit toutes les forces de cette âme en\nhabileté, en splendeur pour agir sur des êtres dont nous sentons bien\nqu’ils sont situés en dehors de nous et que nous ne les atteindrons\njamais. Aussi, si j’imaginais toujours autour de la femme que\nj’aimais, les lieux que je désirais le plus alors, si j’eusse voulu\nque ce fût elle qui me les fît visiter, qui m’ouvrît l’accès d’un\nmonde inconnu, ce n’était pas par le hasard d’une simple association\nde pensée; non, c’est que mes rêves de voyage et d’amour n’étaient que\ndes moments--que je sépare artificiellement aujourd’hui comme si je\npratiquais des sections à des hauteurs différentes d’un jet d’eau\nirisé et en apparence immobile--dans un même et infléchissable\njaillissement de toutes les forces de ma vie.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "Si mes parents m’avaient permis, quand je lisais un livre, d’aller\nvisiter la région qu’il décrivait, j’aurais cru faire un pas\ninestimable dans la conquête de la vérité",
+      "start": 0,
+      "end": 169
+    },
+    {
+      "text": "Car si on a la sensation\nd’être toujours entouré de son âme, ce n’est pas comme d’une prison\nimmobile: plutôt on est comme emporté avec elle dans un perpétuel élan\npour la dépasser, pour atteindre à l’extérieur, avec une sorte de\ndécouragement, entendant toujours autour de soi cette sonorité\nidentique qui n’est pas écho du dehors mais retentissement d’une\nvibration interne",
+      "start": 170,
+      "end": 546
+    },
+    {
+      "text": "On cherche à retrouver dans les choses, devenues\npar là précieuses, le reflet que notre âme a projeté sur elles; on est\ndéçu en constatant qu’elles semblent dépourvues dans la nature, du\ncharme qu’elles devaient, dans notre pensée, au voisinage de certaines\nidées; parfois on convertit toutes les forces de cette âme en\nhabileté, en splendeur pour agir sur des êtres dont nous sentons bien\nqu’ils sont situés en dehors de nous et que nous ne les atteindrons\njamais",
+      "start": 547,
+      "end": 1012
+    },
+    {
+      "text": "Aussi, si j’imaginais toujours autour de la femme que\nj’aimais, les lieux que je désirais le plus alors, si j’eusse voulu\nque ce fût elle qui me les fît visiter, qui m’ouvrît l’accès d’un\nmonde inconnu, ce n’était pas par le hasard d’une simple association\nde pensée; non, c’est que mes rêves de voyage et d’amour n’étaient que\ndes moments--que je sépare artificiellement aujourd’hui comme si je\npratiquais des sections à des hauteurs différentes d’un jet d’eau\nirisé et en apparence immobile--dans un même et infléchissable\njaillissement de toutes les forces de ma vie",
+      "start": 1013,
+      "end": 1583
+    }
+  ],
+  "tokens": 262,
+  "processed_at": "2025-03-16T02:10:54.967130"
+}

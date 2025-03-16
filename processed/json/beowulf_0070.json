@@ -1,0 +1,26 @@
+{
+  "text": "Quand Françoise, après avoir veillé à ce que mes parents eussent tout\nce qu’il leur fallait, remontait une première fois chez ma tante pour\nlui donner sa pepsine et lui demander ce qu’elle prendrait pour\ndéjeuner, il était bien rare qu’il ne fallût pas donner déjà son avis\nou fournir des explications sur quelque événement d’importance:",
+  "entities": [
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 6,
+      "end": 16
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quand Françoise, après avoir veillé à ce que mes parents eussent tout\nce qu’il leur fallait, remontait une première fois chez ma tante pour\nlui donner sa pepsine et lui demander ce qu’elle prendrait pour\ndéjeuner, il était bien rare qu’il ne fallût pas donner déjà son avis\nou fournir des explications sur quelque événement d’importance:",
+      "start": 0,
+      "end": 337
+    }
+  ],
+  "tokens": 56,
+  "processed_at": "2025-03-16T02:10:54.614160"
+}

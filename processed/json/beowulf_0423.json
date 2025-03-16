@@ -1,0 +1,47 @@
+{
+  "text": "Pour les locutions, il était insatiable de renseignements, car, leur\nsupposant parfois un sens plus précis qu’elles n’ont, il eût désiré\nsavoir ce qu’on voulait dire exactement par celles qu’il entendait le\nplus souvent employer: la beauté du diable, du sang bleu, une vie de\nbâtons de chaise, le quart d’heure de Rabelais, être le prince des\nélégances, donner carte blanche, être réduit à quia, etc., et dans\nquels cas déterminés il pouvait à son tour les faire figurer dans ses\npropos. A leur défaut il plaçait des jeux de mots qu’il avait appris.\nQuant aux noms de personnes nouveaux qu’on prononçait devant lui il se\ncontentait seulement de les répéter sur un ton interrogatif qu’il\npensait suffisant pour lui valoir des explications qu’il n’aurait pas\nl’air de demander.",
+  "entities": [
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Rabelais,",
+      "label": "ORG",
+      "start": 314,
+      "end": 323
+    },
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 550,
+      "end": 555
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pour les locutions, il était insatiable de renseignements, car, leur\nsupposant parfois un sens plus précis qu’elles n’ont, il eût désiré\nsavoir ce qu’on voulait dire exactement par celles qu’il entendait le\nplus souvent employer: la beauté du diable, du sang bleu, une vie de\nbâtons de chaise, le quart d’heure de Rabelais, être le prince des\nélégances, donner carte blanche, être réduit à quia, etc",
+      "start": 0,
+      "end": 399
+    },
+    {
+      "text": ", et dans\nquels cas déterminés il pouvait à son tour les faire figurer dans ses\npropos",
+      "start": 400,
+      "end": 486
+    },
+    {
+      "text": "A leur défaut il plaçait des jeux de mots qu’il avait appris",
+      "start": 487,
+      "end": 548
+    },
+    {
+      "text": "Quant aux noms de personnes nouveaux qu’on prononçait devant lui il se\ncontentait seulement de les répéter sur un ton interrogatif qu’il\npensait suffisant pour lui valoir des explications qu’il n’aurait pas\nl’air de demander",
+      "start": 549,
+      "end": 774
+    }
+  ],
+  "tokens": 129,
+  "processed_at": "2025-03-16T02:10:55.834556"
+}

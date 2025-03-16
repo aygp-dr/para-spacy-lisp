@@ -1,0 +1,49 @@
+{
+  "text": "Odette le vit s’éloigner avec regret, elle n’osa pas ne pas revenir\navec Swann, mais fut de mauvaise humeur en voiture, et quand il lui\ndemanda s’il devait entrer chez elle, elle lui dit: «Bien entendu» en\nhaussant les épaules avec impatience. Quand tous les invités furent\npartis, Mme Verdurin dit à son mari:",
+  "entities": [
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 73,
+      "end": 79
+    },
+    {
+      "text": "«Bien",
+      "label": "ORG",
+      "start": 188,
+      "end": 193
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 244,
+      "end": 249
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 286,
+      "end": 294
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Odette le vit s’éloigner avec regret, elle n’osa pas ne pas revenir\navec Swann, mais fut de mauvaise humeur en voiture, et quand il lui\ndemanda s’il devait entrer chez elle, elle lui dit: «Bien entendu» en\nhaussant les épaules avec impatience",
+      "start": 0,
+      "end": 242
+    },
+    {
+      "text": "Quand tous les invités furent\npartis, Mme Verdurin dit à son mari:",
+      "start": 243,
+      "end": 310
+    }
+  ],
+  "tokens": 54,
+  "processed_at": "2025-03-16T02:10:56.584558"
+}

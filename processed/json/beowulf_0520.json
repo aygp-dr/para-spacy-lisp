@@ -1,0 +1,77 @@
+{
+  "text": "Il plaça sur sa table de travail, comme une photographie d’Odette, une\nreproduction de la fille de Jéthro. Il admirait les grands yeux, le\ndélicat visage qui laissait deviner la peau imparfaite, les boucles\nmerveilleuses des cheveux le long des joues fatiguées, et adaptant ce\nqu’il trouvait beau jusque-là d’une façon esthétique à l’idée d’une\nfemme vivante, il le transformait en mérites physiques qu’il se\nfélicitait de trouver réunis dans un être qu’il pourrait posséder.\nCette vague sympathie qui nous porte vers un chef-d’œuvre que nous\nregardons, maintenant qu’il connaissait l’original charnel de la fille\nde Jéthro, elle devenait un désir qui suppléa désormais à celui que le\ncorps d’Odette ne lui avait pas d’abord inspiré. Quand il avait\nregardé longtemps ce Botticelli, il pensait à son Botticelli à lui\nqu’il trouvait plus beau encore et approchant de lui la photographie\nde Zéphora, il croyait serrer Odette contre son cœur.",
+  "entities": [
+    {
+      "text": "Jéthro.",
+      "label": "ORG",
+      "start": 99,
+      "end": 106
+    },
+    {
+      "text": "Cette",
+      "label": "ORG",
+      "start": 476,
+      "end": 481
+    },
+    {
+      "text": "Jéthro,",
+      "label": "ORG",
+      "start": 617,
+      "end": 624
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 734,
+      "end": 739
+    },
+    {
+      "text": "Botticelli,",
+      "label": "ORG",
+      "start": 770,
+      "end": 781
+    },
+    {
+      "text": "Botticelli",
+      "label": "ORG",
+      "start": 799,
+      "end": 809
+    },
+    {
+      "text": "Zéphora,",
+      "label": "ORG",
+      "start": 888,
+      "end": 896
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 915,
+      "end": 921
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il plaça sur sa table de travail, comme une photographie d’Odette, une\nreproduction de la fille de Jéthro",
+      "start": 0,
+      "end": 105
+    },
+    {
+      "text": "Il admirait les grands yeux, le\ndélicat visage qui laissait deviner la peau imparfaite, les boucles\nmerveilleuses des cheveux le long des joues fatiguées, et adaptant ce\nqu’il trouvait beau jusque-là d’une façon esthétique à l’idée d’une\nfemme vivante, il le transformait en mérites physiques qu’il se\nfélicitait de trouver réunis dans un être qu’il pourrait posséder",
+      "start": 106,
+      "end": 474
+    },
+    {
+      "text": "Cette vague sympathie qui nous porte vers un chef-d’œuvre que nous\nregardons, maintenant qu’il connaissait l’original charnel de la fille\nde Jéthro, elle devenait un désir qui suppléa désormais à celui que le\ncorps d’Odette ne lui avait pas d’abord inspiré",
+      "start": 475,
+      "end": 732
+    },
+    {
+      "text": "Quand il avait\nregardé longtemps ce Botticelli, il pensait à son Botticelli à lui\nqu’il trouvait plus beau encore et approchant de lui la photographie\nde Zéphora, il croyait serrer Odette contre son cœur",
+      "start": 733,
+      "end": 937
+    }
+  ],
+  "tokens": 150,
+  "processed_at": "2025-03-16T02:10:56.118213"
+}

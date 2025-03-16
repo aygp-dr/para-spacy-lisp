@@ -1,0 +1,31 @@
+{
+  "text": "--Mais... tu dois bien savoir que c’est vrai, répondit la princesse des\nLaumes, puisque tu l’as invité cinquante fois et qu’il n’est jamais\nvenu.",
+  "entities": [
+    {
+      "text": "--Mais...",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Laumes,",
+      "label": "ORG",
+      "start": 72,
+      "end": 79
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "tu dois bien savoir que c’est vrai, répondit la princesse des\nLaumes, puisque tu l’as invité cinquante fois et qu’il n’est jamais\nvenu",
+      "start": 9,
+      "end": 144
+    }
+  ],
+  "tokens": 24,
+  "processed_at": "2025-03-16T02:10:57.093768"
+}

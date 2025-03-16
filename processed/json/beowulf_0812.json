@@ -1,0 +1,47 @@
+{
+  "text": "Ces nouvelles façons indifférentes, distraites, irritables, qui\nétaient maintenant celles d’Odette avec lui, certes Swann en\nsouffrait; mais il ne connaissait pas sa souffrance; comme c’était\nprogressivement, jour par jour, qu’Odette s’était refroidie à son\négard, ce n’est qu’en mettant en regard de ce qu’elle était\naujourd’hui ce qu’elle avait été au début, qu’il aurait pu sonder la\nprofondeur du changement qui s’était accompli. Or ce changement\nc’était sa profonde, sa secrète blessure, qui lui faisait mal jour et\nnuit, et dès qu’il sentait que ses pensées allaient un peu trop près\nd’elle, vivement il les dirigeait d’un autre côté de peur de trop\nsouffrir. Il se disait bien d’une façon abstraite: «Il fut un temps où\nOdette m’aimait davantage», mais jamais il ne revoyait ce temps. De\nmême qu’il y avait dans son cabinet une commode qu’il s’arrangeait à\nne pas regarder, qu’il faisait un crochet pour éviter en entrant et en\nsortant, parce que dans un tiroir étaient serrés le chrysanthème\nqu’elle lui avait donné le premier soir où il l’avait reconduite, les\nlettres où elle disait: «Que n’y avez-vous oublié aussi votre cœur, je\nne vous aurais pas laissé le reprendre» et: «A quelque heure du jour\net de la nuit que vous ayez besoin de moi, faites-moi signe et\ndisposez de ma vie», de même il y avait en lui une place dont il ne\nlaissait jamais approcher son esprit, lui faisant faire s’il le\nfallait le détour d’un long raisonnement pour qu’il n’eût pas à passer\ndevant elle: c’était celle où vivait le souvenir des jours heureux.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 116,
+      "end": 121
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 227,
+      "end": 233
+    },
+    {
+      "text": "«Que",
+      "label": "ORG",
+      "start": 1094,
+      "end": 1098
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ces nouvelles façons indifférentes, distraites, irritables, qui\nétaient maintenant celles d’Odette avec lui, certes Swann en\nsouffrait; mais il ne connaissait pas sa souffrance; comme c’était\nprogressivement, jour par jour, qu’Odette s’était refroidie à son\négard, ce n’est qu’en mettant en regard de ce qu’elle était\naujourd’hui ce qu’elle avait été au début, qu’il aurait pu sonder la\nprofondeur du changement qui s’était accompli",
+      "start": 0,
+      "end": 432
+    },
+    {
+      "text": "Or ce changement\nc’était sa profonde, sa secrète blessure, qui lui faisait mal jour et\nnuit, et dès qu’il sentait que ses pensées allaient un peu trop près\nd’elle, vivement il les dirigeait d’un autre côté de peur de trop\nsouffrir",
+      "start": 433,
+      "end": 664
+    },
+    {
+      "text": "Il se disait bien d’une façon abstraite: «Il fut un temps où\nOdette m’aimait davantage», mais jamais il ne revoyait ce temps",
+      "start": 665,
+      "end": 790
+    },
+    {
+      "text": "De\nmême qu’il y avait dans son cabinet une commode qu’il s’arrangeait à\nne pas regarder, qu’il faisait un crochet pour éviter en entrant et en\nsortant, parce que dans un tiroir étaient serrés le chrysanthème\nqu’elle lui avait donné le premier soir où il l’avait reconduite, les\nlettres où elle disait: «Que n’y avez-vous oublié aussi votre cœur, je\nne vous aurais pas laissé le reprendre» et: «A quelque heure du jour\net de la nuit que vous ayez besoin de moi, faites-moi signe et\ndisposez de ma vie», de même il y avait en lui une place dont il ne\nlaissait jamais approcher son esprit, lui faisant faire s’il le\nfallait le détour d’un long raisonnement pour qu’il n’eût pas à passer\ndevant elle: c’était celle où vivait le souvenir des jours heureux",
+      "start": 791,
+      "end": 1542
+    }
+  ],
+  "tokens": 262,
+  "processed_at": "2025-03-16T02:10:56.989040"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "--«Mais non, madame Octave, mon temps n’est pas si cher; celui qui l’a\nfait ne nous l’a pas vendu. Je vas seulement voir si mon feu ne\ns’éteint pas.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Octave,",
+      "label": "ORG",
+      "start": 20,
+      "end": 27
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais non, madame Octave, mon temps n’est pas si cher; celui qui l’a\nfait ne nous l’a pas vendu",
+      "start": 0,
+      "end": 97
+    },
+    {
+      "text": "Je vas seulement voir si mon feu ne\ns’éteint pas",
+      "start": 98,
+      "end": 147
+    },
+    {
+      "text": "»",
+      "start": 148,
+      "end": 149
+    }
+  ],
+  "tokens": 29,
+  "processed_at": "2025-03-16T02:10:54.649609"
+}

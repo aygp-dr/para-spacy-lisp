@@ -1,0 +1,20 @@
+{
+  "text": "Elle, qui n’avait pas été habituée à voir les hommes faire tant de\nfaçons avec elle, dit en souriant:",
+  "entities": [
+    {
+      "text": "Elle,",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elle, qui n’avait pas été habituée à voir les hommes faire tant de\nfaçons avec elle, dit en souriant:",
+      "start": 0,
+      "end": 101
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:56.215746"
+}

@@ -1,0 +1,48 @@
+{
+  "text": "Il fallait que ces Vertus et ces Vices de Padoue eussent en eux bien\nde la réalité puisqu’ils m’apparaissaient comme aussi vivants que la\nservante enceinte, et qu’elle-même ne me semblait pas beaucoup moins\nallégorique. Et peut-être cette non-participation (du moins apparente)\nde l’âme d’un être à la vertu qui agit par lui, a aussi en dehors de\nsa valeur esthétique une réalité sinon psychologique, au moins, comme\non dit, physiognomonique. Quand, plus tard, j’ai eu l’occasion de\nrencontrer, au cours de ma vie, dans des couvents par exemple, des\nincarnations vraiment saintes de la charité active, elles avaient\ngénéralement un air allègre, positif, indifférent et brusque de\nchirurgien pressé, ce visage où ne se lit aucune commisération, aucun\nattendrissement devant la souffrance humaine, aucune crainte de la\nheurter, et qui est le visage sans douceur, le visage antipathique et\nsublime de la vraie bonté.",
+  "entities": [
+    {
+      "text": "Vertus",
+      "label": "ORG",
+      "start": 19,
+      "end": 25
+    },
+    {
+      "text": "Vices",
+      "label": "ORG",
+      "start": 33,
+      "end": 38
+    },
+    {
+      "text": "Padoue",
+      "label": "ORG",
+      "start": 42,
+      "end": 48
+    },
+    {
+      "text": "Quand,",
+      "label": "ORG",
+      "start": 443,
+      "end": 449
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il fallait que ces Vertus et ces Vices de Padoue eussent en eux bien\nde la réalité puisqu’ils m’apparaissaient comme aussi vivants que la\nservante enceinte, et qu’elle-même ne me semblait pas beaucoup moins\nallégorique",
+      "start": 0,
+      "end": 218
+    },
+    {
+      "text": "Et peut-être cette non-participation (du moins apparente)\nde l’âme d’un être à la vertu qui agit par lui, a aussi en dehors de\nsa valeur esthétique une réalité sinon psychologique, au moins, comme\non dit, physiognomonique",
+      "start": 219,
+      "end": 441
+    },
+    {
+      "text": "Quand, plus tard, j’ai eu l’occasion de\nrencontrer, au cours de ma vie, dans des couvents par exemple, des\nincarnations vraiment saintes de la charité active, elles avaient\ngénéralement un air allègre, positif, indifférent et brusque de\nchirurgien pressé, ce visage où ne se lit aucune commisération, aucun\nattendrissement devant la souffrance humaine, aucune crainte de la\nheurter, et qui est le visage sans douceur, le visage antipathique et\nsublime de la vraie bonté",
+      "start": 442,
+      "end": 912
+    }
+  ],
+  "tokens": 145,
+  "processed_at": "2025-03-16T02:10:54.926247"
+}

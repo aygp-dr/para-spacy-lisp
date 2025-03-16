@@ -1,0 +1,31 @@
+{
+  "text": "--Ah! elle demeure rue La Pérouse. C’est sympathique, c’est une jolie\nrue, si triste.",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Pérouse.",
+      "label": "ORG",
+      "start": 26,
+      "end": 34
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! elle demeure rue La Pérouse",
+      "start": 0,
+      "end": 33
+    },
+    {
+      "text": "C’est sympathique, c’est une jolie\nrue, si triste",
+      "start": 34,
+      "end": 84
+    }
+  ],
+  "tokens": 14,
+  "processed_at": "2025-03-16T02:10:57.254394"
+}

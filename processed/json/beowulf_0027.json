@@ -1,0 +1,193 @@
+{
+  "text": "L’ignorance où nous étions de cette brillante vie mondaine que menait\nSwann tenait évidemment en partie à la réserve et à la discrétion de\nson caractère, mais aussi à ce que les bourgeois d’alors se faisaient\nde la société une idée un peu hindoue et la considéraient comme\ncomposée de castes fermées où chacun, dès sa naissance, se trouvait\nplacé dans le rang qu’occupaient ses parents, et d’où rien, à moins\ndes hasards d’une carrière exceptionnelle ou d’un mariage inespéré, ne\npouvait vous tirer pour vous faire pénétrer dans une caste supérieure.\nM. Swann, le père, était agent de change; le «fils Swann» se trouvait\nfaire partie pour toute sa vie d’une caste où les fortunes, comme dans\nune catégorie de contribuables, variaient entre tel et tel revenu. On\nsavait quelles avaient été les fréquentations de son père, on savait\ndonc quelles étaient les siennes, avec quelles personnes il était «en\nsituation» de frayer. S’il en connaissait d’autres, c’étaient\nrelations de jeune homme sur lesquelles des amis anciens de sa\nfamille, comme étaient mes parents, fermaient d’autant plus\nbienveillamment les yeux qu’il continuait, depuis qu’il était\norphelin, à venir très fidèlement nous voir; mais il y avait fort à\nparier que ces gens inconnus de nous qu’il voyait, étaient de ceux\nqu’il n’aurait pas osé saluer si, étant avec nous, il les avait\nrencontrés. Si l’on avait voulu à toute force appliquer à Swann un\ncoefficient social qui lui fût personnel, entre les autres fils\nd’agents de situation égale à celle de ses parents, ce coefficient eût\nété pour lui un peu inférieur parce que, très simple de façon et ayant\ntoujours eu une «toquade» d’objets anciens et de peinture, il\ndemeurait maintenant dans un vieil hôtel où il entassait ses\ncollections et que ma grand’mère rêvait de visiter, mais qui était\nsitué quai d’Orléans, quartier que ma grand’tante trouvait infamant\nd’habiter. «Êtes-vous seulement connaisseur? je vous demande cela dans\nvotre intérêt, parce que vous devez vous faire repasser des croûtes\npar les marchands», lui disait ma grand’tante; elle ne lui supposait\nen effet aucune compétence et n’avait pas haute idée même au point de\nvue intellectuel d’un homme qui dans la conversation évitait les\nsujets sérieux et montrait une précision fort prosaïque non seulement\nquand il nous donnait, en entrant dans les moindres détails, des\nrecettes de cuisine, mais même quand les sœurs de ma grand’mère\nparlaient de sujets artistiques. Provoqué par elles à donner son avis,\nà exprimer son admiration pour un tableau, il gardait un silence\npresque désobligeant et se rattrapait en revanche s’il pouvait fournir\nsur le musée où il se trouvait, sur la date où il avait été peint, un\nrenseignement matériel. Mais d’habitude il se contentait de chercher à\nnous amuser en racontant chaque fois une histoire nouvelle qui venait\nde lui arriver avec des gens choisis parmi ceux que nous connaissions,\navec le pharmacien de Combray, avec notre cuisinière, avec notre\ncocher. Certes ces récits faisaient rire ma grand’tante, mais sans\nqu’elle distinguât bien si c’était à cause du rôle ridicule que s’y\ndonnait toujours Swann ou de l’esprit qu’il mettait à les conter: «On\npeut dire que vous êtes un vrai type, monsieur Swann!» Comme elle\nétait la seule personne un peu vulgaire de notre famille, elle avait\nsoin de faire remarquer aux étrangers, quand on parlait de Swann,\nqu’il aurait pu, s’il avait voulu, habiter boulevard Haussmann ou\navenue de l’Opéra, qu’il était le fils de M. Swann qui avait dû lui\nlaisser quatre ou cinq millions, mais que c’était sa fantaisie.\nFantaisie qu’elle jugeait du reste devoir être si divertissante pour\nles autres, qu’à Paris, quand M. Swann venait le 1er janvier lui\napporter son sac de marrons glacés, elle ne manquait pas, s’il y avait\ndu monde, de lui dire: «Eh bien! M. Swann, vous habitez toujours près\nde l’Entrepôt des vins, pour être sûr de ne pas manquer le train quand\nvous prenez le chemin de Lyon?» Et elle regardait du coin de l’œil,\npar-dessus son lorgnon, les autres visiteurs.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 70,
+      "end": 75
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 554,
+      "end": 560
+    },
+    {
+      "text": "Swann»",
+      "label": "ORG",
+      "start": 602,
+      "end": 608
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1405,
+      "end": 1410
+    },
+    {
+      "text": "Provoqué",
+      "label": "ORG",
+      "start": 2453,
+      "end": 2461
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2721,
+      "end": 2725
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 2931,
+      "end": 2939
+    },
+    {
+      "text": "Certes",
+      "label": "ORG",
+      "start": 2982,
+      "end": 2988
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3126,
+      "end": 3131
+    },
+    {
+      "text": "Swann!»",
+      "label": "ORG",
+      "start": 3226,
+      "end": 3233
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 3234,
+      "end": 3239
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 3373,
+      "end": 3379
+    },
+    {
+      "text": "Haussmann",
+      "label": "ORG",
+      "start": 3433,
+      "end": 3442
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3491,
+      "end": 3496
+    },
+    {
+      "text": "Fantaisie",
+      "label": "ORG",
+      "start": 3578,
+      "end": 3587
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 3664,
+      "end": 3670
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3680,
+      "end": 3685
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 3819,
+      "end": 3825
+    },
+    {
+      "text": "Lyon?»",
+      "label": "ORG",
+      "start": 3949,
+      "end": 3955
+    }
+  ],
+  "sentences": [
+    {
+      "text": "L’ignorance où nous étions de cette brillante vie mondaine que menait\nSwann tenait évidemment en partie à la réserve et à la discrétion de\nson caractère, mais aussi à ce que les bourgeois d’alors se faisaient\nde la société une idée un peu hindoue et la considéraient comme\ncomposée de castes fermées où chacun, dès sa naissance, se trouvait\nplacé dans le rang qu’occupaient ses parents, et d’où rien, à moins\ndes hasards d’une carrière exceptionnelle ou d’un mariage inespéré, ne\npouvait vous tirer pour vous faire pénétrer dans une caste supérieure",
+      "start": 0,
+      "end": 549
+    },
+    {
+      "text": "M",
+      "start": 550,
+      "end": 552
+    },
+    {
+      "text": "Swann, le père, était agent de change; le «fils Swann» se trouvait\nfaire partie pour toute sa vie d’une caste où les fortunes, comme dans\nune catégorie de contribuables, variaient entre tel et tel revenu",
+      "start": 553,
+      "end": 757
+    },
+    {
+      "text": "On\nsavait quelles avaient été les fréquentations de son père, on savait\ndonc quelles étaient les siennes, avec quelles personnes il était «en\nsituation» de frayer",
+      "start": 758,
+      "end": 921
+    },
+    {
+      "text": "S’il en connaissait d’autres, c’étaient\nrelations de jeune homme sur lesquelles des amis anciens de sa\nfamille, comme étaient mes parents, fermaient d’autant plus\nbienveillamment les yeux qu’il continuait, depuis qu’il était\norphelin, à venir très fidèlement nous voir; mais il y avait fort à\nparier que ces gens inconnus de nous qu’il voyait, étaient de ceux\nqu’il n’aurait pas osé saluer si, étant avec nous, il les avait\nrencontrés",
+      "start": 922,
+      "end": 1357
+    },
+    {
+      "text": "Si l’on avait voulu à toute force appliquer à Swann un\ncoefficient social qui lui fût personnel, entre les autres fils\nd’agents de situation égale à celle de ses parents, ce coefficient eût\nété pour lui un peu inférieur parce que, très simple de façon et ayant\ntoujours eu une «toquade» d’objets anciens et de peinture, il\ndemeurait maintenant dans un vieil hôtel où il entassait ses\ncollections et que ma grand’mère rêvait de visiter, mais qui était\nsitué quai d’Orléans, quartier que ma grand’tante trouvait infamant\nd’habiter",
+      "start": 1358,
+      "end": 1887
+    },
+    {
+      "text": "«Êtes-vous seulement connaisseur? je vous demande cela dans\nvotre intérêt, parce que vous devez vous faire repasser des croûtes\npar les marchands», lui disait ma grand’tante; elle ne lui supposait\nen effet aucune compétence et n’avait pas haute idée même au point de\nvue intellectuel d’un homme qui dans la conversation évitait les\nsujets sérieux et montrait une précision fort prosaïque non seulement\nquand il nous donnait, en entrant dans les moindres détails, des\nrecettes de cuisine, mais même quand les sœurs de ma grand’mère\nparlaient de sujets artistiques",
+      "start": 1888,
+      "end": 2451
+    },
+    {
+      "text": "Provoqué par elles à donner son avis,\nà exprimer son admiration pour un tableau, il gardait un silence\npresque désobligeant et se rattrapait en revanche s’il pouvait fournir\nsur le musée où il se trouvait, sur la date où il avait été peint, un\nrenseignement matériel",
+      "start": 2452,
+      "end": 2719
+    },
+    {
+      "text": "Mais d’habitude il se contentait de chercher à\nnous amuser en racontant chaque fois une histoire nouvelle qui venait\nde lui arriver avec des gens choisis parmi ceux que nous connaissions,\navec le pharmacien de Combray, avec notre cuisinière, avec notre\ncocher",
+      "start": 2720,
+      "end": 2980
+    },
+    {
+      "text": "Certes ces récits faisaient rire ma grand’tante, mais sans\nqu’elle distinguât bien si c’était à cause du rôle ridicule que s’y\ndonnait toujours Swann ou de l’esprit qu’il mettait à les conter: «On\npeut dire que vous êtes un vrai type, monsieur Swann!» Comme elle\nétait la seule personne un peu vulgaire de notre famille, elle avait\nsoin de faire remarquer aux étrangers, quand on parlait de Swann,\nqu’il aurait pu, s’il avait voulu, habiter boulevard Haussmann ou\navenue de l’Opéra, qu’il était le fils de M",
+      "start": 2981,
+      "end": 3489
+    },
+    {
+      "text": "Swann qui avait dû lui\nlaisser quatre ou cinq millions, mais que c’était sa fantaisie",
+      "start": 3490,
+      "end": 3576
+    },
+    {
+      "text": "Fantaisie qu’elle jugeait du reste devoir être si divertissante pour\nles autres, qu’à Paris, quand M",
+      "start": 3577,
+      "end": 3678
+    },
+    {
+      "text": "Swann venait le 1er janvier lui\napporter son sac de marrons glacés, elle ne manquait pas, s’il y avait\ndu monde, de lui dire: «Eh bien! M",
+      "start": 3679,
+      "end": 3817
+    },
+    {
+      "text": "Swann, vous habitez toujours près\nde l’Entrepôt des vins, pour être sûr de ne pas manquer le train quand\nvous prenez le chemin de Lyon?» Et elle regardait du coin de l’œil,\npar-dessus son lorgnon, les autres visiteurs",
+      "start": 3818,
+      "end": 4036
+    }
+  ],
+  "tokens": 672,
+  "processed_at": "2025-03-16T02:10:54.443885"
+}

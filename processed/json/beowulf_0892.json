@@ -1,0 +1,41 @@
+{
+  "text": "--Je crois bien, c’est admirable, répondit Swann, c’est presque trop\nbeau, trop vivant pour moi, en ce moment; c’est un pays pour être\nheureux. C’est peut-être parce que j’y ai vécu, mais les choses m’y\nparlent tellement. Dès qu’il se lève un souffle d’air, que les blés\ncommencent à remuer, il me semble qu’il y a quelqu’un qui va arriver,\nque je vais recevoir une nouvelle; et ces petites maisons au bord de\nl’eau... je serais bien malheureux!",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 43,
+      "end": 49
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je crois bien, c’est admirable, répondit Swann, c’est presque trop\nbeau, trop vivant pour moi, en ce moment; c’est un pays pour être\nheureux",
+      "start": 0,
+      "end": 142
+    },
+    {
+      "text": "C’est peut-être parce que j’y ai vécu, mais les choses m’y\nparlent tellement",
+      "start": 143,
+      "end": 220
+    },
+    {
+      "text": "Dès qu’il se lève un souffle d’air, que les blés\ncommencent à remuer, il me semble qu’il y a quelqu’un qui va arriver,\nque je vais recevoir une nouvelle; et ces petites maisons au bord de\nl’eau",
+      "start": 221,
+      "end": 415
+    },
+    {
+      "text": "je serais bien malheureux!",
+      "start": 418,
+      "end": 445
+    }
+  ],
+  "tokens": 78,
+  "processed_at": "2025-03-16T02:10:57.228105"
+}

@@ -1,0 +1,37 @@
+{
+  "text": "--«Mais les endroits chics, parbleu! Si, à ton âge, il faut t’apprendre\nce que c’est que les endroits chics, que veux-tu que je te dise, moi,\npar exemple, le dimanche matin, l’avenue de l’Impératrice, à cinq\nheures le tour du Lac, le jeudi l’Éden Théâtre, le vendredi\nl’Hippodrome, les bals...»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Lac,",
+      "label": "ORG",
+      "start": 226,
+      "end": 230
+    },
+    {
+      "text": "Théâtre,",
+      "label": "ORG",
+      "start": 247,
+      "end": 255
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais les endroits chics, parbleu! Si, à ton âge, il faut t’apprendre\nce que c’est que les endroits chics, que veux-tu que je te dise, moi,\npar exemple, le dimanche matin, l’avenue de l’Impératrice, à cinq\nheures le tour du Lac, le jeudi l’Éden Théâtre, le vendredi\nl’Hippodrome, les bals",
+      "start": 0,
+      "end": 290
+    },
+    {
+      "text": "»",
+      "start": 293,
+      "end": 294
+    }
+  ],
+  "tokens": 50,
+  "processed_at": "2025-03-16T02:10:56.264888"
+}

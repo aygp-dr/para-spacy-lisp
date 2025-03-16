@@ -1,0 +1,66 @@
+{
+  "text": "Un jour ma mère me dit: «Puisque tu parles toujours de Mme de\nGuermantes, comme le docteur Percepied l’a très bien soignée il y a\nquatre ans, elle doit venir à Combray pour assister au mariage de sa\nfille. Tu pourras l’apercevoir à la cérémonie.» C’était du reste par\nle docteur Percepied que j’avais le plus entendu parler de Mme de\nGuermantes, et il nous avait même montré le numéro d’une revue\nillustrée où elle était représentée dans le costume qu’elle portait à\nun bal travesti chez la princesse de Léon.",
+  "entities": [
+    {
+      "text": "«Puisque",
+      "label": "ORG",
+      "start": 24,
+      "end": 32
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 62,
+      "end": 73
+    },
+    {
+      "text": "Percepied",
+      "label": "PERSON",
+      "start": 91,
+      "end": 100
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 160,
+      "end": 167
+    },
+    {
+      "text": "Percepied",
+      "label": "PERSON",
+      "start": 279,
+      "end": 288
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 334,
+      "end": 345
+    },
+    {
+      "text": "Léon.",
+      "label": "ORG",
+      "start": 504,
+      "end": 509
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Un jour ma mère me dit: «Puisque tu parles toujours de Mme de\nGuermantes, comme le docteur Percepied l’a très bien soignée il y a\nquatre ans, elle doit venir à Combray pour assister au mariage de sa\nfille",
+      "start": 0,
+      "end": 204
+    },
+    {
+      "text": "Tu pourras l’apercevoir à la cérémonie",
+      "start": 205,
+      "end": 244
+    },
+    {
+      "text": "» C’était du reste par\nle docteur Percepied que j’avais le plus entendu parler de Mme de\nGuermantes, et il nous avait même montré le numéro d’une revue\nillustrée où elle était représentée dans le costume qu’elle portait à\nun bal travesti chez la princesse de Léon",
+      "start": 245,
+      "end": 508
+    }
+  ],
+  "tokens": 91,
+  "processed_at": "2025-03-16T02:10:55.669875"
+}

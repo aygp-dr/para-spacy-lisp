@@ -1,0 +1,20 @@
+{
+  "text": "Swann savait qu’Odette ne se parjurerait pas sur cette médaille-là.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann savait qu’Odette ne se parjurerait pas sur cette médaille-là",
+      "start": 0,
+      "end": 66
+    }
+  ],
+  "tokens": 10,
+  "processed_at": "2025-03-16T02:10:57.341884"
+}

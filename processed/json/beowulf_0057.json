@@ -1,0 +1,30 @@
+{
+  "text": "Arrivera-t-il jusqu’à la surface de ma claire conscience, ce souvenir,\nl’instant ancien que l’attraction d’un instant identique est venue de\nsi loin solliciter, émouvoir, soulever tout au fond de moi? Je ne\nsais. Maintenant je ne sens plus rien, il est arrêté, redescendu\npeut-être; qui sait s’il remontera jamais de sa nuit? Dix fois il me\nfaut recommencer, me pencher vers lui. Et chaque fois la lâcheté qui\nnous détourne de toute tâche difficile, de toute œuvre important, m’a\nconseillé de laisser cela, de boire mon thé en pensant simplement à\nmes ennuis d’aujourd’hui, à mes désirs de demain qui se laissent\nremâcher sans peine.",
+  "entities": [
+    {
+      "text": "Maintenant",
+      "label": "ORG",
+      "start": 213,
+      "end": 223
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Arrivera-t-il jusqu’à la surface de ma claire conscience, ce souvenir,\nl’instant ancien que l’attraction d’un instant identique est venue de\nsi loin solliciter, émouvoir, soulever tout au fond de moi? Je ne\nsais",
+      "start": 0,
+      "end": 211
+    },
+    {
+      "text": "Maintenant je ne sens plus rien, il est arrêté, redescendu\npeut-être; qui sait s’il remontera jamais de sa nuit? Dix fois il me\nfaut recommencer, me pencher vers lui",
+      "start": 212,
+      "end": 378
+    },
+    {
+      "text": "Et chaque fois la lâcheté qui\nnous détourne de toute tâche difficile, de toute œuvre important, m’a\nconseillé de laisser cela, de boire mon thé en pensant simplement à\nmes ennuis d’aujourd’hui, à mes désirs de demain qui se laissent\nremâcher sans peine",
+      "start": 379,
+      "end": 632
+    }
+  ],
+  "tokens": 105,
+  "processed_at": "2025-03-16T02:10:54.564757"
+}

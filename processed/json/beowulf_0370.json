@@ -1,0 +1,220 @@
+{
+  "text": "Je trouvais important qu’elle ne partît pas avant que j’eusse pu la\nregarder suffisamment, car je me rappelais que depuis des années je\nconsidérais sa vue comme éminemment désirable, et je ne détachais pas\nmes yeux d’elle, comme si chacun de mes regards eût pu matériellement\nemporter et mettre en réserve en moi le souvenir du nez proéminent,\ndes joues rouges, de toutes ces particularités qui me semblaient\nautant de renseignements précieux, authentiques et singuliers sur son\nvisage. Maintenant que me le faisaient trouver beau toutes les pensées\nque j’y rapportais--et peut-être surtout, forme de l’instinct de\nconservation des meilleures parties de nous-mêmes, ce désir qu’on a\ntoujours de ne pas avoir été déçu,--la replaçant (puisque c’était une\nseule personne qu’elle et cette duchesse de Guermantes que j’avais\névoquée jusque-là) hors du reste de l’humanité dans laquelle la vue\npure et simple de son corps me l’avait fait un instant confondre, je\nm’irritais en entendant dire autour de moi: «Elle est mieux que Mme\nSazerat, que Mlle Vinteuil», comme si elle leur eût été comparable. Et\nmes regards s’arrêtant à ses cheveux blonds, à ses yeux bleus, à\nl’attache de son cou et omettant les traits qui eussent pu me rappeler\nd’autres visages, je m’écriais devant ce croquis volontairement\nincomplet: «Qu’elle est belle! Quelle noblesse! Comme c’est bien une\nfière Guermantes, la descendante de Geneviève de Brabant, que j’ai\ndevant moi!» Et l’attention avec laquelle j’éclairais son visage\nl’isolait tellement, qu’aujourd’hui si je repense à cette cérémonie,\nil m’est impossible de revoir une seule des personnes qui y\nassistaient sauf elle et le suisse qui répondit affirmativement quand\nje lui demandai si cette dame était bien Mme de Guermantes. Mais elle,\nje la revois, surtout au moment du défilé dans la sacristie\nqu’éclairait le soleil intermittent et chaud d’un jour de vent et\nd’orage, et dans laquelle Mme de Guermantes se trouvait au milieu de\ntous ces gens de Combray dont elle ne savait même pas les noms, mais\ndont l’infériorité proclamait trop sa suprématie pour qu’elle ne\nressentît pas pour eux une sincère bienveillance et auxquels du reste\nelle espérait imposer davantage encore à force de bonne grâce et de\nsimplicité. Aussi, ne pouvant émettre ces regards volontaires, chargés\nd’une signification précise, qu’on adresse à quelqu’un qu’on connaît,\nmais seulement laisser ses pensées distraites s’échapper incessamment\ndevant elle en un flot de lumière bleue qu’elle ne pouvait contenir,\nelle ne voulait pas qu’il pût gêner, paraître dédaigner ces petites\ngens qu’il rencontrait au passage, qu’il atteignait à tous moments. Je\nrevois encore, au-dessus de sa cravate mauve, soyeuse et gonflée, le\ndoux étonnement de ses yeux auxquels elle avait ajouté sans oser le\ndestiner à personne mais pour que tous pussent en prendre leur part un\nsourire un peu timide de suzeraine qui a l’air de s’excuser auprès de\nses vassaux et de les aimer. Ce sourire tomba sur moi qui ne la\nquittais pas des yeux. Alors me rappelant ce regard qu’elle avait\nlaissé s’arrêter sur moi, pendant la messe, bleu comme un rayon de\nsoleil qui aurait traversé le vitrail de Gilbert le Mauvais, je me\ndis: «Mais sans doute elle fait attention à moi.» Je crus que je lui\nplaisais, qu’elle penserait encore à moi quand elle aurait quitté\nl’église, qu’à cause de moi elle serait peut-être triste le soir à\nGuermantes. Et aussitôt je l’aimai, car s’il peut quelquefois suffire\npour que nous aimions une femme qu’elle nous regarde avec mépris comme\nj’avais cru qu’avait fait Mlle Swann et que nous pensions qu’elle ne\npourra jamais nous appartenir, quelquefois aussi il peut suffire\nqu’elle nous regarde avec bonté comme faisait Mme de Guermantes et que\nnous pensions qu’elle pourra nous appartenir. Ses yeux bleuissaient\ncomme une pervenche impossible à cueillir et que pourtant elle m’eût\ndédiée; et le soleil menacé par un nuage, mais dardant encore de toute\nsa force sur la place et dans la sacristie, donnait une carnation de\ngéranium aux tapis rouges qu’on y avait étendus par terre pour la\nsolennité et sur lesquels s’avançait en souriant Mme de Guermantes, et\najoutait à leur lainage un velouté rose, un épiderme de lumière, cette\nsorte de tendresse, de sérieuse douceur dans la pompe et dans la joie\nqui caractérisent certaines pages de Lohengrin, certaines peintures de\nCarpaccio, et qui font comprendre que Baudelaire ait pu appliquer au\nson de la trompette l’épithète de délicieux.",
+  "entities": [
+    {
+      "text": "Maintenant",
+      "label": "ORG",
+      "start": 487,
+      "end": 497
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 797,
+      "end": 807
+    },
+    {
+      "text": "«Elle",
+      "label": "ORG",
+      "start": 1001,
+      "end": 1006
+    },
+    {
+      "text": "Sazerat,",
+      "label": "ORG",
+      "start": 1025,
+      "end": 1033
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 1038,
+      "end": 1042
+    },
+    {
+      "text": "Vinteuil»,",
+      "label": "ORG",
+      "start": 1043,
+      "end": 1053
+    },
+    {
+      "text": "Quelle",
+      "label": "ORG",
+      "start": 1327,
+      "end": 1333
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1344,
+      "end": 1349
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 1371,
+      "end": 1382
+    },
+    {
+      "text": "Geneviève",
+      "label": "ORG",
+      "start": 1401,
+      "end": 1410
+    },
+    {
+      "text": "Brabant,",
+      "label": "ORG",
+      "start": 1414,
+      "end": 1422
+    },
+    {
+      "text": "Guermantes.",
+      "label": "ORG",
+      "start": 1744,
+      "end": 1755
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1756,
+      "end": 1760
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 1926,
+      "end": 1936
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1979,
+      "end": 1986
+    },
+    {
+      "text": "Gilbert",
+      "label": "ORG",
+      "start": 3169,
+      "end": 3176
+    },
+    {
+      "text": "Mauvais,",
+      "label": "ORG",
+      "start": 3180,
+      "end": 3188
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 3200,
+      "end": 3205
+    },
+    {
+      "text": "Guermantes.",
+      "label": "ORG",
+      "start": 3397,
+      "end": 3408
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 3564,
+      "end": 3568
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3569,
+      "end": 3574
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 3725,
+      "end": 3735
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 4142,
+      "end": 4153
+    },
+    {
+      "text": "Lohengrin,",
+      "label": "ORG",
+      "start": 4335,
+      "end": 4345
+    },
+    {
+      "text": "Carpaccio,",
+      "label": "ORG",
+      "start": 4369,
+      "end": 4379
+    },
+    {
+      "text": "Baudelaire",
+      "label": "ORG",
+      "start": 4407,
+      "end": 4417
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je trouvais important qu’elle ne partît pas avant que j’eusse pu la\nregarder suffisamment, car je me rappelais que depuis des années je\nconsidérais sa vue comme éminemment désirable, et je ne détachais pas\nmes yeux d’elle, comme si chacun de mes regards eût pu matériellement\nemporter et mettre en réserve en moi le souvenir du nez proéminent,\ndes joues rouges, de toutes ces particularités qui me semblaient\nautant de renseignements précieux, authentiques et singuliers sur son\nvisage",
+      "start": 0,
+      "end": 485
+    },
+    {
+      "text": "Maintenant que me le faisaient trouver beau toutes les pensées\nque j’y rapportais--et peut-être surtout, forme de l’instinct de\nconservation des meilleures parties de nous-mêmes, ce désir qu’on a\ntoujours de ne pas avoir été déçu,--la replaçant (puisque c’était une\nseule personne qu’elle et cette duchesse de Guermantes que j’avais\névoquée jusque-là) hors du reste de l’humanité dans laquelle la vue\npure et simple de son corps me l’avait fait un instant confondre, je\nm’irritais en entendant dire autour de moi: «Elle est mieux que Mme\nSazerat, que Mlle Vinteuil», comme si elle leur eût été comparable",
+      "start": 486,
+      "end": 1091
+    },
+    {
+      "text": "Et\nmes regards s’arrêtant à ses cheveux blonds, à ses yeux bleus, à\nl’attache de son cou et omettant les traits qui eussent pu me rappeler\nd’autres visages, je m’écriais devant ce croquis volontairement\nincomplet: «Qu’elle est belle! Quelle noblesse! Comme c’est bien une\nfière Guermantes, la descendante de Geneviève de Brabant, que j’ai\ndevant moi!» Et l’attention avec laquelle j’éclairais son visage\nl’isolait tellement, qu’aujourd’hui si je repense à cette cérémonie,\nil m’est impossible de revoir une seule des personnes qui y\nassistaient sauf elle et le suisse qui répondit affirmativement quand\nje lui demandai si cette dame était bien Mme de Guermantes",
+      "start": 1092,
+      "end": 1754
+    },
+    {
+      "text": "Mais elle,\nje la revois, surtout au moment du défilé dans la sacristie\nqu’éclairait le soleil intermittent et chaud d’un jour de vent et\nd’orage, et dans laquelle Mme de Guermantes se trouvait au milieu de\ntous ces gens de Combray dont elle ne savait même pas les noms, mais\ndont l’infériorité proclamait trop sa suprématie pour qu’elle ne\nressentît pas pour eux une sincère bienveillance et auxquels du reste\nelle espérait imposer davantage encore à force de bonne grâce et de\nsimplicité",
+      "start": 1755,
+      "end": 2244
+    },
+    {
+      "text": "Aussi, ne pouvant émettre ces regards volontaires, chargés\nd’une signification précise, qu’on adresse à quelqu’un qu’on connaît,\nmais seulement laisser ses pensées distraites s’échapper incessamment\ndevant elle en un flot de lumière bleue qu’elle ne pouvait contenir,\nelle ne voulait pas qu’il pût gêner, paraître dédaigner ces petites\ngens qu’il rencontrait au passage, qu’il atteignait à tous moments",
+      "start": 2245,
+      "end": 2648
+    },
+    {
+      "text": "Je\nrevois encore, au-dessus de sa cravate mauve, soyeuse et gonflée, le\ndoux étonnement de ses yeux auxquels elle avait ajouté sans oser le\ndestiner à personne mais pour que tous pussent en prendre leur part un\nsourire un peu timide de suzeraine qui a l’air de s’excuser auprès de\nses vassaux et de les aimer",
+      "start": 2649,
+      "end": 2958
+    },
+    {
+      "text": "Ce sourire tomba sur moi qui ne la\nquittais pas des yeux",
+      "start": 2959,
+      "end": 3016
+    },
+    {
+      "text": "Alors me rappelant ce regard qu’elle avait\nlaissé s’arrêter sur moi, pendant la messe, bleu comme un rayon de\nsoleil qui aurait traversé le vitrail de Gilbert le Mauvais, je me\ndis: «Mais sans doute elle fait attention à moi",
+      "start": 3017,
+      "end": 3242
+    },
+    {
+      "text": "» Je crus que je lui\nplaisais, qu’elle penserait encore à moi quand elle aurait quitté\nl’église, qu’à cause de moi elle serait peut-être triste le soir à\nGuermantes",
+      "start": 3243,
+      "end": 3407
+    },
+    {
+      "text": "Et aussitôt je l’aimai, car s’il peut quelquefois suffire\npour que nous aimions une femme qu’elle nous regarde avec mépris comme\nj’avais cru qu’avait fait Mlle Swann et que nous pensions qu’elle ne\npourra jamais nous appartenir, quelquefois aussi il peut suffire\nqu’elle nous regarde avec bonté comme faisait Mme de Guermantes et que\nnous pensions qu’elle pourra nous appartenir",
+      "start": 3408,
+      "end": 3787
+    },
+    {
+      "text": "Ses yeux bleuissaient\ncomme une pervenche impossible à cueillir et que pourtant elle m’eût\ndédiée; et le soleil menacé par un nuage, mais dardant encore de toute\nsa force sur la place et dans la sacristie, donnait une carnation de\ngéranium aux tapis rouges qu’on y avait étendus par terre pour la\nsolennité et sur lesquels s’avançait en souriant Mme de Guermantes, et\najoutait à leur lainage un velouté rose, un épiderme de lumière, cette\nsorte de tendresse, de sérieuse douceur dans la pompe et dans la joie\nqui caractérisent certaines pages de Lohengrin, certaines peintures de\nCarpaccio, et qui font comprendre que Baudelaire ait pu appliquer au\nson de la trompette l’épithète de délicieux",
+      "start": 3788,
+      "end": 4481
+    }
+  ],
+  "tokens": 731,
+  "processed_at": "2025-03-16T02:10:55.680572"
+}

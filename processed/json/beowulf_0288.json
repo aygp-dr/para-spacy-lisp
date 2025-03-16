@@ -1,0 +1,26 @@
+{
+  "text": "Dans un dernier effort désespéré, le regard souriant de Legrandin\natteignit son maximum de tendresse, de vague, de sincérité et de\ndistraction, mais, pensant sans doute qu’il n’y avait plus qu’à\nrépondre, il nous dit:",
+  "entities": [
+    {
+      "text": "Dans",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 56,
+      "end": 65
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Dans un dernier effort désespéré, le regard souriant de Legrandin\natteignit son maximum de tendresse, de vague, de sincérité et de\ndistraction, mais, pensant sans doute qu’il n’y avait plus qu’à\nrépondre, il nous dit:",
+      "start": 0,
+      "end": 217
+    }
+  ],
+  "tokens": 35,
+  "processed_at": "2025-03-16T02:10:55.423369"
+}

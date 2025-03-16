@@ -1,0 +1,47 @@
+{
+  "text": "Devant nous, une allée bordée de capucines montait en plein soleil\nvers le château. A droite, au contraire, le parc s’étendait en terrain\nplat. Obscurcie par l’ombre des grands arbres qui l’entouraient, une\npièce d’eau avait été creusée par les parents de Swann; mais dans ses\ncréations les plus factices, c’est sur la nature que l’homme\ntravaille; certains lieux font toujours régner autour d’eux leur\nempire particulier, arborent leurs insignes immémoriaux au milieu d’un\nparc comme ils auraient fait loin de toute intervention humaine, dans\nune solitude qui revient partout les entourer, surgie des nécessités\nde leur exposition et superposée à l’œuvre humaine. C’est ainsi qu’au\npied de l’allée qui dominait l’étang artificiel, s’était composée sur\ndeux rangs, tressés de fleurs de myosotis et de pervenches, la\ncouronne naturelle, délicate et bleue qui ceint le front clair-obscur\ndes eaux, et que le glaïeul, laissant fléchir ses glaives avec un\nabandon royal, étendait sur l’eupatoire et la grenouillette au pied\nmouillé, les fleurs de lis en lambeaux, violettes et jaunes, de son\nsceptre lacustre.",
+  "entities": [
+    {
+      "text": "Devant",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Obscurcie",
+      "label": "ORG",
+      "start": 144,
+      "end": 153
+    },
+    {
+      "text": "Swann;",
+      "label": "ORG",
+      "start": 256,
+      "end": 262
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Devant nous, une allée bordée de capucines montait en plein soleil\nvers le château",
+      "start": 0,
+      "end": 82
+    },
+    {
+      "text": "A droite, au contraire, le parc s’étendait en terrain\nplat",
+      "start": 83,
+      "end": 142
+    },
+    {
+      "text": "Obscurcie par l’ombre des grands arbres qui l’entouraient, une\npièce d’eau avait été creusée par les parents de Swann; mais dans ses\ncréations les plus factices, c’est sur la nature que l’homme\ntravaille; certains lieux font toujours régner autour d’eux leur\nempire particulier, arborent leurs insignes immémoriaux au milieu d’un\nparc comme ils auraient fait loin de toute intervention humaine, dans\nune solitude qui revient partout les entourer, surgie des nécessités\nde leur exposition et superposée à l’œuvre humaine",
+      "start": 143,
+      "end": 663
+    },
+    {
+      "text": "C’est ainsi qu’au\npied de l’allée qui dominait l’étang artificiel, s’était composée sur\ndeux rangs, tressés de fleurs de myosotis et de pervenches, la\ncouronne naturelle, délicate et bleue qui ceint le front clair-obscur\ndes eaux, et que le glaïeul, laissant fléchir ses glaives avec un\nabandon royal, étendait sur l’eupatoire et la grenouillette au pied\nmouillé, les fleurs de lis en lambeaux, violettes et jaunes, de son\nsceptre lacustre",
+      "start": 664,
+      "end": 1104
+    }
+  ],
+  "tokens": 173,
+  "processed_at": "2025-03-16T02:10:55.467625"
+}

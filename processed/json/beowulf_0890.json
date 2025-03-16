@@ -1,0 +1,35 @@
+{
+  "text": "--Oh! oui, la vie est une chose affreuse. Il faut que nous nous\nvoyions, ma chère amie. Ce qu’il y a de gentil avec vous, c’est que\nvous n’êtes pas gaie. On pourrait passer une soirée ensemble.",
+  "entities": [
+    {
+      "text": "--Oh!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Oh! oui, la vie est une chose affreuse",
+      "start": 0,
+      "end": 40
+    },
+    {
+      "text": "Il faut que nous nous\nvoyions, ma chère amie",
+      "start": 41,
+      "end": 86
+    },
+    {
+      "text": "Ce qu’il y a de gentil avec vous, c’est que\nvous n’êtes pas gaie",
+      "start": 87,
+      "end": 152
+    },
+    {
+      "text": "On pourrait passer une soirée ensemble",
+      "start": 153,
+      "end": 192
+    }
+  ],
+  "tokens": 37,
+  "processed_at": "2025-03-16T02:10:57.219045"
+}

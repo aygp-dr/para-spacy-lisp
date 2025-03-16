@@ -1,0 +1,47 @@
+{
+  "text": "Tout d’un coup mon père nous arrêtait et demandait à ma mère: «Où\nsommes-nous?» Epuisée par la marche, mais fière de lui, elle lui\navouait tendrement qu’elle n’en savait absolument rien. Il haussait\nles épaules et riait. Alors, comme s’il l’avait sortie de la poche de\nson veston avec sa clef, il nous montrait debout devant nous la petite\nporte de derrière de notre jardin qui était venue avec le coin de la\nrue du Saint-Esprit nous attendre au bout de ces chemins inconnus. Ma\nmère lui disait avec admiration: «Tu es extraordinaire!» Et à partir\nde cet instant, je n’avais plus un seul pas à faire, le sol marchait\npour moi dans ce jardin où depuis si longtemps mes actes avaient cessé\nd’être accompagnés d’attention volontaire: l’Habitude venait de me\nprendre dans ses bras et me portait jusqu’à mon lit comme un petit\nenfant.",
+  "entities": [
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Epuisée",
+      "label": "ORG",
+      "start": 80,
+      "end": 87
+    },
+    {
+      "text": "Saint-Esprit",
+      "label": "ORG",
+      "start": 416,
+      "end": 428
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Tout d’un coup mon père nous arrêtait et demandait à ma mère: «Où\nsommes-nous?» Epuisée par la marche, mais fière de lui, elle lui\navouait tendrement qu’elle n’en savait absolument rien",
+      "start": 0,
+      "end": 185
+    },
+    {
+      "text": "Il haussait\nles épaules et riait",
+      "start": 186,
+      "end": 219
+    },
+    {
+      "text": "Alors, comme s’il l’avait sortie de la poche de\nson veston avec sa clef, il nous montrait debout devant nous la petite\nporte de derrière de notre jardin qui était venue avec le coin de la\nrue du Saint-Esprit nous attendre au bout de ces chemins inconnus",
+      "start": 220,
+      "end": 474
+    },
+    {
+      "text": "Ma\nmère lui disait avec admiration: «Tu es extraordinaire!» Et à partir\nde cet instant, je n’avais plus un seul pas à faire, le sol marchait\npour moi dans ce jardin où depuis si longtemps mes actes avaient cessé\nd’être accompagnés d’attention volontaire: l’Habitude venait de me\nprendre dans ses bras et me portait jusqu’à mon lit comme un petit\nenfant",
+      "start": 475,
+      "end": 828
+    }
+  ],
+  "tokens": 145,
+  "processed_at": "2025-03-16T02:10:55.320570"
+}

@@ -1,0 +1,97 @@
+{
+  "text": "--Il n’est pas franc, c’est un monsieur cauteleux, toujours entre le\nzist et le zest. Il veut toujours ménager la chèvre et le chou. Quelle\ndifférence avec Forcheville. Voilà au moins un homme qui vous dit\ncarrément sa façon de penser. Ça vous plaît ou ça ne vous plaît pas.\nCe n’est pas comme l’autre qui n’est jamais ni figue ni raisin. Du\nreste Odette a l’air de préférer joliment le Forcheville, et je lui\ndonne raison. Et puis enfin puisque Swann veut nous la faire à l’homme\ndu monde, au champion des duchesses, au moins l’autre a son titre; il\nest toujours comte de Forcheville, ajouta-t-il d’un air délicat, comme\nsi, au courant de l’histoire de ce comté, il en soupesait\nminutieusement la valeur particulière.",
+  "entities": [
+    {
+      "text": "--Il",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Quelle",
+      "label": "ORG",
+      "start": 133,
+      "end": 139
+    },
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 156,
+      "end": 168
+    },
+    {
+      "text": "Voilà",
+      "label": "ORG",
+      "start": 169,
+      "end": 174
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 348,
+      "end": 354
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 387,
+      "end": 399
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 446,
+      "end": 451
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 573,
+      "end": 585
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Il n’est pas franc, c’est un monsieur cauteleux, toujours entre le\nzist et le zest",
+      "start": 0,
+      "end": 84
+    },
+    {
+      "text": "Il veut toujours ménager la chèvre et le chou",
+      "start": 85,
+      "end": 131
+    },
+    {
+      "text": "Quelle\ndifférence avec Forcheville",
+      "start": 132,
+      "end": 167
+    },
+    {
+      "text": "Voilà au moins un homme qui vous dit\ncarrément sa façon de penser",
+      "start": 168,
+      "end": 234
+    },
+    {
+      "text": "Ça vous plaît ou ça ne vous plaît pas",
+      "start": 235,
+      "end": 273
+    },
+    {
+      "text": "Ce n’est pas comme l’autre qui n’est jamais ni figue ni raisin",
+      "start": 274,
+      "end": 337
+    },
+    {
+      "text": "Du\nreste Odette a l’air de préférer joliment le Forcheville, et je lui\ndonne raison",
+      "start": 338,
+      "end": 422
+    },
+    {
+      "text": "Et puis enfin puisque Swann veut nous la faire à l’homme\ndu monde, au champion des duchesses, au moins l’autre a son titre; il\nest toujours comte de Forcheville, ajouta-t-il d’un air délicat, comme\nsi, au courant de l’histoire de ce comté, il en soupesait\nminutieusement la valeur particulière",
+      "start": 423,
+      "end": 717
+    }
+  ],
+  "tokens": 126,
+  "processed_at": "2025-03-16T02:10:56.594826"
+}

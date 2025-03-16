@@ -1,0 +1,42 @@
+{
+  "text": "Quand il l’eut compris, sa pitié cessa, mais il fut jaloux de l’autre\nlui-même qu’elle avait aimé, il fut jaloux de ceux dont il s’était dit\nsouvent sans trop souffrir, «elle les aime peut-être», maintenant\nqu’il avait échangé l’idée vague d’aimer, dans laquelle il n’y a pas\nd’amour, contre les pétales du chrysanthème et l’«en tête» de la\nMaison d’Or, qui, eux en étaient pleins. Puis sa souffrance devenant\ntrop vive, il passa sa main sur son front, laissa tomber son monocle,\nen essuya le verre. Et sans doute s’il s’était vu à ce moment-là, il\neut ajouté à la collection de ceux qu’il avait distingués le monocle\nqu’il déplaçait comme une pensée importune et sur la face embuée\nduquel, avec un mouchoir, il cherchait à effacer des soucis.",
+  "entities": [
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Maison",
+      "label": "ORG",
+      "start": 341,
+      "end": 347
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 382,
+      "end": 386
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quand il l’eut compris, sa pitié cessa, mais il fut jaloux de l’autre\nlui-même qu’elle avait aimé, il fut jaloux de ceux dont il s’était dit\nsouvent sans trop souffrir, «elle les aime peut-être», maintenant\nqu’il avait échangé l’idée vague d’aimer, dans laquelle il n’y a pas\nd’amour, contre les pétales du chrysanthème et l’«en tête» de la\nMaison d’Or, qui, eux en étaient pleins",
+      "start": 0,
+      "end": 380
+    },
+    {
+      "text": "Puis sa souffrance devenant\ntrop vive, il passa sa main sur son front, laissa tomber son monocle,\nen essuya le verre",
+      "start": 381,
+      "end": 498
+    },
+    {
+      "text": "Et sans doute s’il s’était vu à ce moment-là, il\neut ajouté à la collection de ceux qu’il avait distingués le monocle\nqu’il déplaçait comme une pensée importune et sur la face embuée\nduquel, avec un mouchoir, il cherchait à effacer des soucis",
+      "start": 499,
+      "end": 742
+    }
+  ],
+  "tokens": 129,
+  "processed_at": "2025-03-16T02:10:57.273854"
+}

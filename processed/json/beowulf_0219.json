@@ -1,0 +1,31 @@
+{
+  "text": "Et se précipitant sur un livre de messe relié en velours violet, monté\nd’or, et d’où, dans sa hâte, elle laissait s’échapper de ces images,\nbordées d’un bandeau de dentelle de papier jaunissante, qui marquent\nles pages des fêtes, ma tante, tout en avalant ses gouttes commençait\nà lire au plus vite les textes sacrés dont l’intelligence lui était\nlégèrement obscurcie par l’incertitude de savoir si, prise aussi\nlongtemps après l’eau de Vichy, la pepsine serait encore capable de la\nrattraper et de la faire descendre. «Trois heures, c’est incroyable ce\nque le temps passe!»",
+  "entities": [
+    {
+      "text": "Vichy,",
+      "label": "ORG",
+      "start": 437,
+      "end": 443
+    },
+    {
+      "text": "«Trois",
+      "label": "ORG",
+      "start": 519,
+      "end": 525
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et se précipitant sur un livre de messe relié en velours violet, monté\nd’or, et d’où, dans sa hâte, elle laissait s’échapper de ces images,\nbordées d’un bandeau de dentelle de papier jaunissante, qui marquent\nles pages des fêtes, ma tante, tout en avalant ses gouttes commençait\nà lire au plus vite les textes sacrés dont l’intelligence lui était\nlégèrement obscurcie par l’incertitude de savoir si, prise aussi\nlongtemps après l’eau de Vichy, la pepsine serait encore capable de la\nrattraper et de la faire descendre",
+      "start": 0,
+      "end": 517
+    },
+    {
+      "text": "«Trois heures, c’est incroyable ce\nque le temps passe!»",
+      "start": 518,
+      "end": 574
+    }
+  ],
+  "tokens": 95,
+  "processed_at": "2025-03-16T02:10:55.184070"
+}

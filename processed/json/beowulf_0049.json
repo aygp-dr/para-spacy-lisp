@@ -1,0 +1,82 @@
+{
+  "text": "C’est ainsi que, pendant longtemps, quand, réveillé la nuit, je me\nressouvenais de Combray, je n’en revis jamais que cette sorte de pan\nlumineux, découpé au milieu d’indistinctes ténèbres, pareil à ceux que\nl’embrasement d’un feu de Bengale ou quelque projection électrique\néclairent et sectionnent dans un édifice dont les autres parties\nrestent plongées dans la nuit: à la base assez large, le petit salon,\nla salle à manger, l’amorce de l’allée obscure par où arriverait M.\nSwann, l’auteur inconscient de mes tristesses, le vestibule où je\nm’acheminais vers la première marche de l’escalier, si cruel à monter,\nqui constituait à lui seul le tronc fort étroit de cette pyramide\nirrégulière; et, au faîte, ma chambre à coucher avec le petit couloir\nà porte vitrée pour l’entrée de maman; en un mot, toujours vu à la\nmême heure, isolé de tout ce qu’il pouvait y avoir autour, se\ndétachant seul sur l’obscurité, le décor strictement nécessaire (comme\ncelui qu’on voit indiqué en tête des vieilles pièces pour les\nreprésentations en province), au drame de mon déshabillage; comme si\nCombray n’avait consisté qu’en deux étages reliés par un mince\nescalier, et comme s’il n’y avait jamais été que sept heures du soir.\nA vrai dire, j’aurais pu répondre à qui m’eût interrogé que Combray\ncomprenait encore autre chose et existait à d’autres heures. Mais\ncomme ce que je m’en serais rappelé m’eût été fourni seulement par la\nmémoire volontaire, la mémoire de l’intelligence, et comme les\nrenseignements qu’elle donne sur le passé ne conservent rien de lui,\nje n’aurais jamais eu envie de songer à ce reste de Combray. Tout cela\nétait en réalité mort pour moi.",
+  "entities": [
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 83,
+      "end": 91
+    },
+    {
+      "text": "Bengale",
+      "label": "ORG",
+      "start": 233,
+      "end": 240
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 477,
+      "end": 483
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1081,
+      "end": 1088
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1281
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1343,
+      "end": 1347
+    },
+    {
+      "text": "Combray.",
+      "label": "ORG",
+      "start": 1602,
+      "end": 1610
+    },
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 1611,
+      "end": 1615
+    }
+  ],
+  "sentences": [
+    {
+      "text": "C’est ainsi que, pendant longtemps, quand, réveillé la nuit, je me\nressouvenais de Combray, je n’en revis jamais que cette sorte de pan\nlumineux, découpé au milieu d’indistinctes ténèbres, pareil à ceux que\nl’embrasement d’un feu de Bengale ou quelque projection électrique\néclairent et sectionnent dans un édifice dont les autres parties\nrestent plongées dans la nuit: à la base assez large, le petit salon,\nla salle à manger, l’amorce de l’allée obscure par où arriverait M",
+      "start": 0,
+      "end": 475
+    },
+    {
+      "text": "Swann, l’auteur inconscient de mes tristesses, le vestibule où je\nm’acheminais vers la première marche de l’escalier, si cruel à monter,\nqui constituait à lui seul le tronc fort étroit de cette pyramide\nirrégulière; et, au faîte, ma chambre à coucher avec le petit couloir\nà porte vitrée pour l’entrée de maman; en un mot, toujours vu à la\nmême heure, isolé de tout ce qu’il pouvait y avoir autour, se\ndétachant seul sur l’obscurité, le décor strictement nécessaire (comme\ncelui qu’on voit indiqué en tête des vieilles pièces pour les\nreprésentations en province), au drame de mon déshabillage; comme si\nCombray n’avait consisté qu’en deux étages reliés par un mince\nescalier, et comme s’il n’y avait jamais été que sept heures du soir",
+      "start": 476,
+      "end": 1212
+    },
+    {
+      "text": "A vrai dire, j’aurais pu répondre à qui m’eût interrogé que Combray\ncomprenait encore autre chose et existait à d’autres heures",
+      "start": 1213,
+      "end": 1341
+    },
+    {
+      "text": "Mais\ncomme ce que je m’en serais rappelé m’eût été fourni seulement par la\nmémoire volontaire, la mémoire de l’intelligence, et comme les\nrenseignements qu’elle donne sur le passé ne conservent rien de lui,\nje n’aurais jamais eu envie de songer à ce reste de Combray",
+      "start": 1342,
+      "end": 1609
+    },
+    {
+      "text": "Tout cela\nétait en réalité mort pour moi",
+      "start": 1610,
+      "end": 1651
+    }
+  ],
+  "tokens": 276,
+  "processed_at": "2025-03-16T02:10:54.538919"
+}

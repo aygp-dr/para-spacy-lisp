@@ -1,0 +1,126 @@
+{
+  "text": "Mais si ces noms absorbèrent à tout jamais l’image que j’avais de ces\nvilles, ce ne fut qu’en la transformant, qu’en soumettant sa\nréapparition en moi à leurs lois propres; ils eurent ainsi pour\nconséquence de la rendre plus belle, mais aussi plus différente de ce\nque les villes de Normandie ou de Toscane pouvaient être en réalité,\net, en accroissant les joies arbitraires de mon imagination,\nd’aggraver la déception future de mes voyages. Ils exaltèrent l’idée\nque je me faisais de certains lieux de la terre, en les faisant plus\nparticuliers, par conséquent plus réels. Je ne me représentais pas\nalors les villes, les paysages, les monuments, comme des tableaux plus\nou moins agréables, découpés çà et là dans une même matière, mais\nchacun d’eux comme un inconnu, essentiellement différent des autres,\ndont mon âme avait soif et qu’elle aurait profit à connaître. Combien\nils prirent quelque chose de plus individuel encore, d’être désignés\npar des noms, des noms qui n’étaient que pour eux, des noms comme en\nont les personnes. Les mots nous présentent des choses une petite\nimage claire et usuelle comme celles que l’on suspend aux murs des\nécoles pour donner aux enfants l’exemple de ce qu’est un établi, un\noiseau, une fourmilière, choses conçues comme pareilles à toutes\ncelles de même sorte. Mais les noms présentent des personnes--et des\nvilles qu’ils nous habituent à croire individuelles, uniques comme des\npersonnes--une image confuse qui tire d’eux, de leur sonorité éclatante\nou sombre, la couleur dont elle est peinte uniformément comme une de\nces affiches, entièrement bleues ou entièrement rouges, dans\nlesquelles, à cause des limites du procédé employé ou par un caprice\ndu décorateur, sont bleus ou rouges, non seulement le ciel et la mer,\nmais les barques, l’église, les passants. Le nom de Parme, une des\nvilles où je désirais le plus aller, depuis que j’avais lu la\nChartreuse, m’apparaissant compact, lisse, mauve et doux; si on me\nparlait d’une maison quelconque de Parme dans laquelle je serais reçu,\non me causait le plaisir de penser que j’habiterais une demeure lisse,\ncompacte, mauve et douce, qui n’avait de rapport avec les demeures\nd’aucune ville d’Italie puisque je l’imaginais seulement à l’aide de\ncette syllabe lourde du nom de Parme, où ne circule aucun air, et de\ntout ce que je lui avais fait absorber de douceur stendhalienne et du\nreflet des violettes. Et quand je pensais à Florence, c’était comme à\nune ville miraculeusement embaumée et semblable à une corolle, parce\nqu’elle s’appelait la cité des lys et sa cathédrale,\nSainte-Marie-des-Fleurs. Quant à Balbec, c’était un de ces noms où\ncomme sur une vieille poterie normande qui garde la couleur de la\nterre d’où elle fut tirée, on voit se peindre encore la représentation\nde quelque usage aboli, de quelque droit féodal, d’un état ancien de\nlieux, d’une manière désuète de prononcer qui en avait formé les\nsyllabes hétéroclites et que je ne doutais pas de retrouver jusque\nchez l’aubergiste qui me servirait du café au lait à mon arrivée, me\nmenant voir la mer déchaînée devant l’église et auquel je prêtais\nl’aspect disputeur, solennel et médiéval d’un personnage de fabliau.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Normandie",
+      "label": "ORG",
+      "start": 283,
+      "end": 292
+    },
+    {
+      "text": "Toscane",
+      "label": "ORG",
+      "start": 299,
+      "end": 306
+    },
+    {
+      "text": "Combien",
+      "label": "ORG",
+      "start": 868,
+      "end": 875
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1302,
+      "end": 1306
+    },
+    {
+      "text": "Parme,",
+      "label": "ORG",
+      "start": 1813,
+      "end": 1819
+    },
+    {
+      "text": "Chartreuse,",
+      "label": "ORG",
+      "start": 1890,
+      "end": 1901
+    },
+    {
+      "text": "Parme",
+      "label": "ORG",
+      "start": 1992,
+      "end": 1997
+    },
+    {
+      "text": "Parme,",
+      "label": "ORG",
+      "start": 2266,
+      "end": 2272
+    },
+    {
+      "text": "Florence,",
+      "label": "ORG",
+      "start": 2418,
+      "end": 2427
+    },
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 2591,
+      "end": 2596
+    },
+    {
+      "text": "Balbec,",
+      "label": "ORG",
+      "start": 2599,
+      "end": 2606
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais si ces noms absorbèrent à tout jamais l’image que j’avais de ces\nvilles, ce ne fut qu’en la transformant, qu’en soumettant sa\nréapparition en moi à leurs lois propres; ils eurent ainsi pour\nconséquence de la rendre plus belle, mais aussi plus différente de ce\nque les villes de Normandie ou de Toscane pouvaient être en réalité,\net, en accroissant les joies arbitraires de mon imagination,\nd’aggraver la déception future de mes voyages",
+      "start": 0,
+      "end": 440
+    },
+    {
+      "text": "Ils exaltèrent l’idée\nque je me faisais de certains lieux de la terre, en les faisant plus\nparticuliers, par conséquent plus réels",
+      "start": 441,
+      "end": 572
+    },
+    {
+      "text": "Je ne me représentais pas\nalors les villes, les paysages, les monuments, comme des tableaux plus\nou moins agréables, découpés çà et là dans une même matière, mais\nchacun d’eux comme un inconnu, essentiellement différent des autres,\ndont mon âme avait soif et qu’elle aurait profit à connaître",
+      "start": 573,
+      "end": 866
+    },
+    {
+      "text": "Combien\nils prirent quelque chose de plus individuel encore, d’être désignés\npar des noms, des noms qui n’étaient que pour eux, des noms comme en\nont les personnes",
+      "start": 867,
+      "end": 1031
+    },
+    {
+      "text": "Les mots nous présentent des choses une petite\nimage claire et usuelle comme celles que l’on suspend aux murs des\nécoles pour donner aux enfants l’exemple de ce qu’est un établi, un\noiseau, une fourmilière, choses conçues comme pareilles à toutes\ncelles de même sorte",
+      "start": 1032,
+      "end": 1300
+    },
+    {
+      "text": "Mais les noms présentent des personnes--et des\nvilles qu’ils nous habituent à croire individuelles, uniques comme des\npersonnes--une image confuse qui tire d’eux, de leur sonorité éclatante\nou sombre, la couleur dont elle est peinte uniformément comme une de\nces affiches, entièrement bleues ou entièrement rouges, dans\nlesquelles, à cause des limites du procédé employé ou par un caprice\ndu décorateur, sont bleus ou rouges, non seulement le ciel et la mer,\nmais les barques, l’église, les passants",
+      "start": 1301,
+      "end": 1801
+    },
+    {
+      "text": "Le nom de Parme, une des\nvilles où je désirais le plus aller, depuis que j’avais lu la\nChartreuse, m’apparaissant compact, lisse, mauve et doux; si on me\nparlait d’une maison quelconque de Parme dans laquelle je serais reçu,\non me causait le plaisir de penser que j’habiterais une demeure lisse,\ncompacte, mauve et douce, qui n’avait de rapport avec les demeures\nd’aucune ville d’Italie puisque je l’imaginais seulement à l’aide de\ncette syllabe lourde du nom de Parme, où ne circule aucun air, et de\ntout ce que je lui avais fait absorber de douceur stendhalienne et du\nreflet des violettes",
+      "start": 1802,
+      "end": 2394
+    },
+    {
+      "text": "Et quand je pensais à Florence, c’était comme à\nune ville miraculeusement embaumée et semblable à une corolle, parce\nqu’elle s’appelait la cité des lys et sa cathédrale,\nSainte-Marie-des-Fleurs",
+      "start": 2395,
+      "end": 2589
+    },
+    {
+      "text": "Quant à Balbec, c’était un de ces noms où\ncomme sur une vieille poterie normande qui garde la couleur de la\nterre d’où elle fut tirée, on voit se peindre encore la représentation\nde quelque usage aboli, de quelque droit féodal, d’un état ancien de\nlieux, d’une manière désuète de prononcer qui en avait formé les\nsyllabes hétéroclites et que je ne doutais pas de retrouver jusque\nchez l’aubergiste qui me servirait du café au lait à mon arrivée, me\nmenant voir la mer déchaînée devant l’église et auquel je prêtais\nl’aspect disputeur, solennel et médiéval d’un personnage de fabliau",
+      "start": 2590,
+      "end": 3173
+    }
+  ],
+  "tokens": 526,
+  "processed_at": "2025-03-16T02:10:57.491383"
+}

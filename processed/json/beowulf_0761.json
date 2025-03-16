@@ -1,0 +1,54 @@
+{
+  "text": "Mais quand elle était partie pour Dreux ou pour Pierrefonds,--hélas,\nsans lui permettre d’y aller, comme par hasard, de son côté, car «cela\nferait un effet déplorable», disait-elle,--il se plongeait dans le plus\nenivrant des romans d’amour, l’indicateur des chemins de fer, qui lui\napprenait les moyens de la rejoindre, l’après-midi, le soir, ce matin\nmême! Le moyen? presque davantage: l’autorisation. Car enfin\nl’indicateur et les trains eux-mêmes n’étaient pas faits pour des\nchiens. Si on faisait savoir au public, par voie d’imprimés, qu’à huit\nheures du matin partait un train qui arrivait à Pierrefonds à dix\nheures, c’est donc qu’aller à Pierrefonds était un acte licite, pour\nlequel la permission d’Odette était superflue; et c’était aussi un\nacte qui pouvait avoir un tout autre motif que le désir de rencontrer\nOdette, puisque des gens qui ne la connaissaient pas l’accomplissaient\nchaque jour, en assez grand nombre pour que cela valût la peine de\nfaire chauffer des locomotives.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Dreux",
+      "label": "ORG",
+      "start": 34,
+      "end": 39
+    },
+    {
+      "text": "Pierrefonds",
+      "label": "ORG",
+      "start": 48,
+      "end": 59
+    },
+    {
+      "text": "Pierrefonds",
+      "label": "ORG",
+      "start": 598,
+      "end": 609
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 822,
+      "end": 829
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais quand elle était partie pour Dreux ou pour Pierrefonds,--hélas,\nsans lui permettre d’y aller, comme par hasard, de son côté, car «cela\nferait un effet déplorable», disait-elle,--il se plongeait dans le plus\nenivrant des romans d’amour, l’indicateur des chemins de fer, qui lui\napprenait les moyens de la rejoindre, l’après-midi, le soir, ce matin\nmême! Le moyen? presque davantage: l’autorisation",
+      "start": 0,
+      "end": 401
+    },
+    {
+      "text": "Car enfin\nl’indicateur et les trains eux-mêmes n’étaient pas faits pour des\nchiens",
+      "start": 402,
+      "end": 485
+    },
+    {
+      "text": "Si on faisait savoir au public, par voie d’imprimés, qu’à huit\nheures du matin partait un train qui arrivait à Pierrefonds à dix\nheures, c’est donc qu’aller à Pierrefonds était un acte licite, pour\nlequel la permission d’Odette était superflue; et c’était aussi un\nacte qui pouvait avoir un tout autre motif que le désir de rencontrer\nOdette, puisque des gens qui ne la connaissaient pas l’accomplissaient\nchaque jour, en assez grand nombre pour que cela valût la peine de\nfaire chauffer des locomotives",
+      "start": 486,
+      "end": 990
+    }
+  ],
+  "tokens": 158,
+  "processed_at": "2025-03-16T02:10:56.828108"
+}

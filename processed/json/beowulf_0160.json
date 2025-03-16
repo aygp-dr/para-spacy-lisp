@@ -1,0 +1,26 @@
+{
+  "text": "--«Pauvres enfants, disait Françoise à peine arrivée à la grille et\ndéjà en larmes; pauvre jeunesse qui sera fauchée comme un pré; rien\nque d’y penser j’en suis choquée», ajoutait-elle en mettant la main\nsur son cœur, là où elle avait reçu ce choc.",
+  "entities": [
+    {
+      "text": "--«Pauvres",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 27,
+      "end": 36
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Pauvres enfants, disait Françoise à peine arrivée à la grille et\ndéjà en larmes; pauvre jeunesse qui sera fauchée comme un pré; rien\nque d’y penser j’en suis choquée», ajoutait-elle en mettant la main\nsur son cœur, là où elle avait reçu ce choc",
+      "start": 0,
+      "end": 247
+    }
+  ],
+  "tokens": 44,
+  "processed_at": "2025-03-16T02:10:54.980175"
+}

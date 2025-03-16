@@ -1,0 +1,54 @@
+{
+  "text": "Mais j’aimais Bloch, mes parents voulaient me faire plaisir, les\nproblèmes insolubles que je me posais à propos de la beauté dénuée de\nsignification de la fille de Minos et de Pasiphaé me fatiguaient\ndavantage et me rendaient plus souffrant que n’auraient fait de\nnouvelles conversations avec lui, bien que ma mère les jugeât\npernicieuses. Et on l’aurait encore reçu à Combray si, après ce dîner,\ncomme il venait de m’apprendre--nouvelle qui plus tard eut beaucoup\nd’influence sur ma vie, et la rendit plus heureuse, puis plus\nmalheureuse--que toutes les femmes ne pensaient qu’à l’amour et qu’il\nn’y en a pas dont on ne pût vaincre les résistances, il ne m’avait\nassuré avoir entendu dire de la façon la plus certaine que ma\ngrand’tante avait eu une jeunesse orageuse et avait été publiquement\nentretenue. Je ne pus me tenir de répéter ces propos à mes parents, on\nle mit à la porte quand il revint, et quand je l’abordai ensuite dans\nla rue, il fut extrêmement froid pour moi.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Bloch,",
+      "label": "ORG",
+      "start": 14,
+      "end": 20
+    },
+    {
+      "text": "Minos",
+      "label": "ORG",
+      "start": 164,
+      "end": 169
+    },
+    {
+      "text": "Pasiphaé",
+      "label": "ORG",
+      "start": 176,
+      "end": 184
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 369,
+      "end": 376
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais j’aimais Bloch, mes parents voulaient me faire plaisir, les\nproblèmes insolubles que je me posais à propos de la beauté dénuée de\nsignification de la fille de Minos et de Pasiphaé me fatiguaient\ndavantage et me rendaient plus souffrant que n’auraient fait de\nnouvelles conversations avec lui, bien que ma mère les jugeât\npernicieuses",
+      "start": 0,
+      "end": 338
+    },
+    {
+      "text": "Et on l’aurait encore reçu à Combray si, après ce dîner,\ncomme il venait de m’apprendre--nouvelle qui plus tard eut beaucoup\nd’influence sur ma vie, et la rendit plus heureuse, puis plus\nmalheureuse--que toutes les femmes ne pensaient qu’à l’amour et qu’il\nn’y en a pas dont on ne pût vaincre les résistances, il ne m’avait\nassuré avoir entendu dire de la façon la plus certaine que ma\ngrand’tante avait eu une jeunesse orageuse et avait été publiquement\nentretenue",
+      "start": 339,
+      "end": 805
+    },
+    {
+      "text": "Je ne pus me tenir de répéter ces propos à mes parents, on\nle mit à la porte quand il revint, et quand je l’abordai ensuite dans\nla rue, il fut extrêmement froid pour moi",
+      "start": 806,
+      "end": 977
+    }
+  ],
+  "tokens": 169,
+  "processed_at": "2025-03-16T02:10:55.111750"
+}

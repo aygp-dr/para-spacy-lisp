@@ -1,0 +1,42 @@
+{
+  "text": "Ces évocations tournoyantes et confuses ne duraient jamais que\nquelques secondes; souvent, ma brève incertitude du lieu où je me\ntrouvais ne distinguait pas mieux les unes des autres les diverses\nsuppositions dont elle était faite, que nous n’isolons, en voyant un\ncheval courir, les positions successives que nous montre le\nkinétoscope. Mais j’avais revu tantôt l’une, tantôt l’autre, des\nchambres que j’avais habitées dans ma vie, et je finissais par me les\nrappeler toutes dans les longues rêveries qui suivaient mon réveil;\nchambres d’hiver où quand on est couché, on se blottit la tête dans un\nnid qu’on se tresse avec les choses les plus disparates: un coin de\nl’oreiller, le haut des couvertures, un bout de châle, le bord du lit,\net un numéro des Débats roses, qu’on finit par cimenter ensemble selon\nla technique des oiseaux en s’y appuyant indéfiniment; où, par un\ntemps glacial le plaisir qu’on goûte est de se sentir séparé du dehors\n(comme l’hirondelle de mer qui a son nid au fond d’un souterrain dans\nla chaleur de la terre), et où, le feu étant entretenu toute la nuit\ndans la cheminée, on dort dans un grand manteau d’air chaud et fumeux,\ntraversé des lueurs des tisons qui se rallument, sorte d’impalpable\nalcôve, de chaude caverne creusée au sein de la chambre même, zone\nardente et mobile en ses contours thermiques, aérée de souffles qui\nnous rafraîchissent la figure et viennent des angles, des parties\nvoisines de la fenêtre ou éloignées du foyer et qui se sont\nrefroidies;--chambres d’été où l’on aime être uni à la nuit tiède, où\nle clair de lune appuyé aux volets entr’ouverts, jette jusqu’au pied\ndu lit son échelle enchantée, où on\ndort presque en plein air, comme la mésange balancée par la brise à la\npointe d’un rayon--; parfois la chambre Louis XVI, si gaie que même le\npremier soir je n’y avais pas été trop malheureux et où les\ncolonnettes qui soutenaient légèrement le plafond s’écartaient avec\ntant de grâce pour montrer et réserver la place du lit; parfois au\ncontraire celle, petite et si élevée de plafond, creusée en forme de\npyramide dans la hauteur de deux étages et partiellement revêtue\nd’acajou, où dès la première seconde j’avais été intoxiqué moralement\npar l’odeur inconnue du vétiver, convaincu de l’hostilité des rideaux\nviolets et de l’insolente indifférence de la pendule qui jacassait\ntout haut comme si je n’eusse pas été là;--où une étrange et\nimpitoyable glace à pieds quadrangulaires, barrant obliquement un des\nangles de la pièce, se creusait à vif dans la douce plénitude de mon\nchamp visuel accoutumé un emplacement qui n’y était pas prévu;--où ma\npensée, s’efforçant pendant des heures de se disloquer, de s’étirer en\nhauteur pour prendre exactement la forme de la chambre et arriver à\nremplir jusqu’en haut son gigantesque entonnoir, avait souffert bien\nde dures nuits, tandis que j’étais étendu dans mon lit, les yeux\nlevés, l’oreille anxieuse, la narine rétive, le cœur battant: jusqu’à\nce que l’habitude eût changé la couleur des rideaux, fait taire la\npendule, enseigné la pitié à la glace oblique et cruelle, dissimulé,\nsinon chassé complètement, l’odeur du vétiver et notablement diminué\nla hauteur apparente du plafond. L’habitude! aménageuse habile mais\nbien lente et qui commence par laisser souffrir notre esprit pendant\ndes semaines dans une installation provisoire; mais que malgré tout il\nest bien heureux de trouver, car sans l’habitude et réduit à ses seuls\nmoyens il serait impuissant à nous rendre un logis habitable.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 338,
+      "end": 342
+    },
+    {
+      "text": "Débats",
+      "label": "ORG",
+      "start": 755,
+      "end": 761
+    },
+    {
+      "text": "Louis",
+      "label": "ORG",
+      "start": 1771,
+      "end": 1776
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ces évocations tournoyantes et confuses ne duraient jamais que\nquelques secondes; souvent, ma brève incertitude du lieu où je me\ntrouvais ne distinguait pas mieux les unes des autres les diverses\nsuppositions dont elle était faite, que nous n’isolons, en voyant un\ncheval courir, les positions successives que nous montre le\nkinétoscope",
+      "start": 0,
+      "end": 336
+    },
+    {
+      "text": "Mais j’avais revu tantôt l’une, tantôt l’autre, des\nchambres que j’avais habitées dans ma vie, et je finissais par me les\nrappeler toutes dans les longues rêveries qui suivaient mon réveil;\nchambres d’hiver où quand on est couché, on se blottit la tête dans un\nnid qu’on se tresse avec les choses les plus disparates: un coin de\nl’oreiller, le haut des couvertures, un bout de châle, le bord du lit,\net un numéro des Débats roses, qu’on finit par cimenter ensemble selon\nla technique des oiseaux en s’y appuyant indéfiniment; où, par un\ntemps glacial le plaisir qu’on goûte est de se sentir séparé du dehors\n(comme l’hirondelle de mer qui a son nid au fond d’un souterrain dans\nla chaleur de la terre), et où, le feu étant entretenu toute la nuit\ndans la cheminée, on dort dans un grand manteau d’air chaud et fumeux,\ntraversé des lueurs des tisons qui se rallument, sorte d’impalpable\nalcôve, de chaude caverne creusée au sein de la chambre même, zone\nardente et mobile en ses contours thermiques, aérée de souffles qui\nnous rafraîchissent la figure et viennent des angles, des parties\nvoisines de la fenêtre ou éloignées du foyer et qui se sont\nrefroidies;--chambres d’été où l’on aime être uni à la nuit tiède, où\nle clair de lune appuyé aux volets entr’ouverts, jette jusqu’au pied\ndu lit son échelle enchantée, où on\ndort presque en plein air, comme la mésange balancée par la brise à la\npointe d’un rayon--; parfois la chambre Louis XVI, si gaie que même le\npremier soir je n’y avais pas été trop malheureux et où les\ncolonnettes qui soutenaient légèrement le plafond s’écartaient avec\ntant de grâce pour montrer et réserver la place du lit; parfois au\ncontraire celle, petite et si élevée de plafond, creusée en forme de\npyramide dans la hauteur de deux étages et partiellement revêtue\nd’acajou, où dès la première seconde j’avais été intoxiqué moralement\npar l’odeur inconnue du vétiver, convaincu de l’hostilité des rideaux\nviolets et de l’insolente indifférence de la pendule qui jacassait\ntout haut comme si je n’eusse pas été là;--où une étrange et\nimpitoyable glace à pieds quadrangulaires, barrant obliquement un des\nangles de la pièce, se creusait à vif dans la douce plénitude de mon\nchamp visuel accoutumé un emplacement qui n’y était pas prévu;--où ma\npensée, s’efforçant pendant des heures de se disloquer, de s’étirer en\nhauteur pour prendre exactement la forme de la chambre et arriver à\nremplir jusqu’en haut son gigantesque entonnoir, avait souffert bien\nde dures nuits, tandis que j’étais étendu dans mon lit, les yeux\nlevés, l’oreille anxieuse, la narine rétive, le cœur battant: jusqu’à\nce que l’habitude eût changé la couleur des rideaux, fait taire la\npendule, enseigné la pitié à la glace oblique et cruelle, dissimulé,\nsinon chassé complètement, l’odeur du vétiver et notablement diminué\nla hauteur apparente du plafond",
+      "start": 337,
+      "end": 3187
+    },
+    {
+      "text": "L’habitude! aménageuse habile mais\nbien lente et qui commence par laisser souffrir notre esprit pendant\ndes semaines dans une installation provisoire; mais que malgré tout il\nest bien heureux de trouver, car sans l’habitude et réduit à ses seuls\nmoyens il serait impuissant à nous rendre un logis habitable",
+      "start": 3188,
+      "end": 3495
+    }
+  ],
+  "tokens": 582,
+  "processed_at": "2025-03-16T02:10:54.398260"
+}

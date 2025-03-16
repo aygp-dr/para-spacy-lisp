@@ -1,0 +1,219 @@
+{
+  "text": "Mais à ce nom de Guermantes, je vis au milieu des yeux bleus de notre\nami se ficher une petite encoche brune comme s’ils venaient d’être\npercés par une pointe invisible, tandis que le reste de la prunelle\nréagissait en sécrétant des flots d’azur. Le cerne de sa paupière\nnoircit, s’abaissa. Et sa bouche marquée d’un pli amer se ressaisissant\nplus vite sourit, tandis que le regard restait douloureux, comme celui\nd’un beau martyr dont le corps est hérissé de flèches: «Non, je ne les\nconnais pas», dit-il, mais au lieu de donner à un renseignement aussi\nsimple, à une réponse aussi peu surprenante le ton naturel et courant\nqui convenait, il le débita en appuyant sur les mots, en s’inclinant,\nen saluant de la tête, à la fois avec l’insistance qu’on apporte, pour\nêtre cru, à une affirmation invraisemblable,--comme si ce fait qu’il ne\nconnût pas les Guermantes ne pouvait être l’effet que d’un hasard\nsingulier--et aussi avec l’emphase de quelqu’un qui, ne pouvant pas\ntaire une situation qui lui est pénible, préfère la proclamer pour\ndonner aux autres l’idée que l’aveu qu’il fait ne lui cause aucun\nembarras, est facile, agréable, spontané, que la situation\nelle-même--l’absence de relations avec les Guermantes,--pourrait bien\navoir été non pas subie, mais voulue par lui, résulter de quelque\ntradition de famille, principe de morale ou vœu mystique lui\ninterdisant nommément la fréquentation des Guermantes. «Non,\nreprit-il, expliquant par ses paroles sa propre intonation, non, je ne\nles connais pas, je n’ai jamais voulu, j’ai toujours tenu à\nsauvegarder ma pleine indépendance; au fond je suis une tête jacobine,\nvous le savez. Beaucoup de gens sont venus à la rescousse, on me\ndisait que j’avais tort de ne pas aller à Guermantes, que je me\ndonnais l’air d’un malotru, d’un vieil ours. Mais voilà une réputation\nqui n’est pas pour m’effrayer, elle est si vraie! Au fond, je n’aime\nplus au monde que quelques églises, deux ou trois livres, à peine\ndavantage de tableaux, et le clair de lune quand la brise de votre\njeunesse apporte jusqu’à moi l’odeur des parterres que mes vieilles\nprunelles ne distinguent plus.» Je ne comprenais pas bien que pour ne\npas aller chez des gens qu’on ne connaît pas, il fût nécessaire de\ntenir à son indépendance, et en quoi cela pouvait vous donner l’air\nd’un sauvage ou d’un ours. Mais ce que je comprenais c’est que\nLegrandin n’était pas tout à fait véridique quand il disait n’aimer\nque les églises, le clair de lune et la jeunesse; il aimait beaucoup\nles gens des châteaux et se trouvait pris devant eux d’une si grande\npeur de leur déplaire qu’il n’osait pas leur laisser voir qu’il avait\npour amis des bourgeois, des fils de notaires ou d’agents de change,\npréférant, si la vérité devait se découvrir, que ce fût en son\nabsence, loin de lui et «par défaut»; il était snob. Sans doute il ne\ndisait jamais rien de tout cela dans le langage que mes parents et\nmoi-même nous aimions tant. Et si je demandais: «Connaissez-vous les\nGuermantes?», Legrandin le causeur répondait: «Non, je n’ai jamais\nvoulu les connaître.» Malheureusement il ne le répondait qu’en second,\ncar un autre Legrandin qu’il cachait soigneusement au fond de lui,\nqu’il ne montrait pas, parce que ce Legrandin-là savait sur le nôtre,\nsur son snobisme, des histoires compromettantes, un autre Legrandin\navait déjà répondu par la blessure du regard, par le rictus de la\nbouche, par la gravité excessive du ton de la réponse, par les mille\nflèches dont notre Legrandin s’était trouvé en un instant lardé et\nalangui, comme un saint Sébastien du snobisme: «Hélas! que vous me\nfaites mal, non je ne connais pas les Guermantes, ne réveillez pas la\ngrande douleur de ma vie.» Et comme ce Legrandin enfant terrible, ce\nLegrandin maître chanteur, s’il n’avait pas le joli langage de\nl’autre, avait le verbe infiniment plus prompt, composé de ce qu’on\nappelle «réflexes», quand Legrandin le causeur voulait lui imposer\nsilence, l’autre avait déjà parlé et notre ami avait beau se désoler\nde la mauvaise impression que les révélations de son alter ego avaient\ndû produire, il ne pouvait qu’entreprendre de la pallier.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 17,
+      "end": 28
+    },
+    {
+      "text": "«Non,",
+      "label": "ORG",
+      "start": 469,
+      "end": 474
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 853,
+      "end": 863
+    },
+    {
+      "text": "Guermantes.",
+      "label": "ORG",
+      "start": 1404,
+      "end": 1415
+    },
+    {
+      "text": "«Non,",
+      "label": "ORG",
+      "start": 1416,
+      "end": 1421
+    },
+    {
+      "text": "Beaucoup",
+      "label": "ORG",
+      "start": 1639,
+      "end": 1647
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 1731,
+      "end": 1742
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1798,
+      "end": 1802
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2326,
+      "end": 2330
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 2362,
+      "end": 2371
+    },
+    {
+      "text": "Sans",
+      "label": "ORG",
+      "start": 2823,
+      "end": 2827
+    },
+    {
+      "text": "Guermantes?»,",
+      "label": "ORG",
+      "start": 2976,
+      "end": 2989
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 2990,
+      "end": 2999
+    },
+    {
+      "text": "«Non,",
+      "label": "ORG",
+      "start": 3022,
+      "end": 3027
+    },
+    {
+      "text": "Malheureusement",
+      "label": "ORG",
+      "start": 3065,
+      "end": 3080
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 3127,
+      "end": 3136
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 3217,
+      "end": 3226
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 3309,
+      "end": 3318
+    },
+    {
+      "text": "Sébastien",
+      "label": "ORG",
+      "start": 3545,
+      "end": 3554
+    },
+    {
+      "text": "«Hélas!",
+      "label": "ORG",
+      "start": 3568,
+      "end": 3575
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 3626,
+      "end": 3637
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 3697,
+      "end": 3706
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 3727,
+      "end": 3736
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 3884,
+      "end": 3893
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais à ce nom de Guermantes, je vis au milieu des yeux bleus de notre\nami se ficher une petite encoche brune comme s’ils venaient d’être\npercés par une pointe invisible, tandis que le reste de la prunelle\nréagissait en sécrétant des flots d’azur",
+      "start": 0,
+      "end": 245
+    },
+    {
+      "text": "Le cerne de sa paupière\nnoircit, s’abaissa",
+      "start": 246,
+      "end": 289
+    },
+    {
+      "text": "Et sa bouche marquée d’un pli amer se ressaisissant\nplus vite sourit, tandis que le regard restait douloureux, comme celui\nd’un beau martyr dont le corps est hérissé de flèches: «Non, je ne les\nconnais pas», dit-il, mais au lieu de donner à un renseignement aussi\nsimple, à une réponse aussi peu surprenante le ton naturel et courant\nqui convenait, il le débita en appuyant sur les mots, en s’inclinant,\nen saluant de la tête, à la fois avec l’insistance qu’on apporte, pour\nêtre cru, à une affirmation invraisemblable,--comme si ce fait qu’il ne\nconnût pas les Guermantes ne pouvait être l’effet que d’un hasard\nsingulier--et aussi avec l’emphase de quelqu’un qui, ne pouvant pas\ntaire une situation qui lui est pénible, préfère la proclamer pour\ndonner aux autres l’idée que l’aveu qu’il fait ne lui cause aucun\nembarras, est facile, agréable, spontané, que la situation\nelle-même--l’absence de relations avec les Guermantes,--pourrait bien\navoir été non pas subie, mais voulue par lui, résulter de quelque\ntradition de famille, principe de morale ou vœu mystique lui\ninterdisant nommément la fréquentation des Guermantes",
+      "start": 290,
+      "end": 1414
+    },
+    {
+      "text": "«Non,\nreprit-il, expliquant par ses paroles sa propre intonation, non, je ne\nles connais pas, je n’ai jamais voulu, j’ai toujours tenu à\nsauvegarder ma pleine indépendance; au fond je suis une tête jacobine,\nvous le savez",
+      "start": 1415,
+      "end": 1637
+    },
+    {
+      "text": "Beaucoup de gens sont venus à la rescousse, on me\ndisait que j’avais tort de ne pas aller à Guermantes, que je me\ndonnais l’air d’un malotru, d’un vieil ours",
+      "start": 1638,
+      "end": 1796
+    },
+    {
+      "text": "Mais voilà une réputation\nqui n’est pas pour m’effrayer, elle est si vraie! Au fond, je n’aime\nplus au monde que quelques églises, deux ou trois livres, à peine\ndavantage de tableaux, et le clair de lune quand la brise de votre\njeunesse apporte jusqu’à moi l’odeur des parterres que mes vieilles\nprunelles ne distinguent plus",
+      "start": 1797,
+      "end": 2123
+    },
+    {
+      "text": "» Je ne comprenais pas bien que pour ne\npas aller chez des gens qu’on ne connaît pas, il fût nécessaire de\ntenir à son indépendance, et en quoi cela pouvait vous donner l’air\nd’un sauvage ou d’un ours",
+      "start": 2124,
+      "end": 2324
+    },
+    {
+      "text": "Mais ce que je comprenais c’est que\nLegrandin n’était pas tout à fait véridique quand il disait n’aimer\nque les églises, le clair de lune et la jeunesse; il aimait beaucoup\nles gens des châteaux et se trouvait pris devant eux d’une si grande\npeur de leur déplaire qu’il n’osait pas leur laisser voir qu’il avait\npour amis des bourgeois, des fils de notaires ou d’agents de change,\npréférant, si la vérité devait se découvrir, que ce fût en son\nabsence, loin de lui et «par défaut»; il était snob",
+      "start": 2325,
+      "end": 2821
+    },
+    {
+      "text": "Sans doute il ne\ndisait jamais rien de tout cela dans le langage que mes parents et\nmoi-même nous aimions tant",
+      "start": 2822,
+      "end": 2933
+    },
+    {
+      "text": "Et si je demandais: «Connaissez-vous les\nGuermantes?», Legrandin le causeur répondait: «Non, je n’ai jamais\nvoulu les connaître",
+      "start": 2934,
+      "end": 3062
+    },
+    {
+      "text": "» Malheureusement il ne le répondait qu’en second,\ncar un autre Legrandin qu’il cachait soigneusement au fond de lui,\nqu’il ne montrait pas, parce que ce Legrandin-là savait sur le nôtre,\nsur son snobisme, des histoires compromettantes, un autre Legrandin\navait déjà répondu par la blessure du regard, par le rictus de la\nbouche, par la gravité excessive du ton de la réponse, par les mille\nflèches dont notre Legrandin s’était trouvé en un instant lardé et\nalangui, comme un saint Sébastien du snobisme: «Hélas! que vous me\nfaites mal, non je ne connais pas les Guermantes, ne réveillez pas la\ngrande douleur de ma vie",
+      "start": 3063,
+      "end": 3682
+    },
+    {
+      "text": "» Et comme ce Legrandin enfant terrible, ce\nLegrandin maître chanteur, s’il n’avait pas le joli langage de\nl’autre, avait le verbe infiniment plus prompt, composé de ce qu’on\nappelle «réflexes», quand Legrandin le causeur voulait lui imposer\nsilence, l’autre avait déjà parlé et notre ami avait beau se désoler\nde la mauvaise impression que les révélations de son alter ego avaient\ndû produire, il ne pouvait qu’entreprendre de la pallier",
+      "start": 3683,
+      "end": 4121
+    }
+  ],
+  "tokens": 697,
+  "processed_at": "2025-03-16T02:10:55.400633"
+}

@@ -1,0 +1,20 @@
+{
+  "text": "--«Peut-être, peut-être (ce qui signifiait peut-être non)» disait\nFrançoise pour ne pas écarter définitivement la possibilité d’une\nalternative plus favorable.",
+  "entities": [
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 66,
+      "end": 75
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Peut-être, peut-être (ce qui signifiait peut-être non)» disait\nFrançoise pour ne pas écarter définitivement la possibilité d’une\nalternative plus favorable",
+      "start": 0,
+      "end": 158
+    }
+  ],
+  "tokens": 20,
+  "processed_at": "2025-03-16T02:10:55.166052"
+}

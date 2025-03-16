@@ -1,0 +1,71 @@
+{
+  "text": "--Demain, comptez-y, mon bel ami, mais je ne viendrai pas! j’ai un\ngrand goûter; après-demain non plus, je vais chez une amie pour voir\nde ses fenêtres l’arrivée du roi Théodose, ce sera superbe, et le\nlendemain encore à Michel Strogoff et puis après, cela va être bientôt\nNoël et les vacances du jour de l’An. Peut-être on va m’emmener dans\nle midi. Ce que ce serait chic! quoique cela me fera manquer un arbre\nde Noël; en tous cas si je reste à Paris, je ne viendrai pas ici car\nj’irai faire des visites avec maman. Adieu, voilà papa qui m’appelle.",
+  "entities": [
+    {
+      "text": "--Demain,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Théodose,",
+      "label": "ORG",
+      "start": 169,
+      "end": 178
+    },
+    {
+      "text": "Michel",
+      "label": "ORG",
+      "start": 221,
+      "end": 227
+    },
+    {
+      "text": "Strogoff",
+      "label": "ORG",
+      "start": 228,
+      "end": 236
+    },
+    {
+      "text": "Noël",
+      "label": "ORG",
+      "start": 273,
+      "end": 277
+    },
+    {
+      "text": "Noël;",
+      "label": "ORG",
+      "start": 415,
+      "end": 420
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 447,
+      "end": 453
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Demain, comptez-y, mon bel ami, mais je ne viendrai pas! j’ai un\ngrand goûter; après-demain non plus, je vais chez une amie pour voir\nde ses fenêtres l’arrivée du roi Théodose, ce sera superbe, et le\nlendemain encore à Michel Strogoff et puis après, cela va être bientôt\nNoël et les vacances du jour de l’An",
+      "start": 0,
+      "end": 309
+    },
+    {
+      "text": "Peut-être on va m’emmener dans\nle midi",
+      "start": 310,
+      "end": 349
+    },
+    {
+      "text": "Ce que ce serait chic! quoique cela me fera manquer un arbre\nde Noël; en tous cas si je reste à Paris, je ne viendrai pas ici car\nj’irai faire des visites avec maman",
+      "start": 350,
+      "end": 516
+    },
+    {
+      "text": "Adieu, voilà papa qui m’appelle",
+      "start": 517,
+      "end": 549
+    }
+  ],
+  "tokens": 102,
+  "processed_at": "2025-03-16T02:10:57.578769"
+}

@@ -1,0 +1,66 @@
+{
+  "text": "Mais elle ne l’était jamais pour très longtemps; au bout de quelques\njours le regard luisant et fourbe perdait de son éclat et de sa\nduplicité, cette image d’une Odette exécrée disant à Forcheville: «Ce\nqu’il rage!» commençait à pâlir, à s’effacer. Alors, progressivement\nreparaissait et s’élevait en brillant doucement, le visage de l’autre\nOdette, de celle qui adressait aussi un sourire à Forcheville, mais un\nsourire où il n’y avait pour Swann que de la tendresse, quand elle\ndisait: «Ne restez pas longtemps, car ce monsieur-là n’aime pas\nbeaucoup que j’aie des visites quand il a envie d’être auprès de moi.\nAh! si vous connaissiez cet être-là autant que je le connais!», ce\nmême sourire qu’elle avait pour remercier Swann de quelque trait de sa\ndélicatesse qu’elle prisait si fort, de quelque conseil qu’elle lui\navait demandé dans une de ces circonstances graves où elle n’avait\nconfiance qu’en lui.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 162,
+      "end": 168
+    },
+    {
+      "text": "Forcheville:",
+      "label": "ORG",
+      "start": 186,
+      "end": 198
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 342,
+      "end": 349
+    },
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 392,
+      "end": 404
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 442,
+      "end": 447
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 723,
+      "end": 728
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais elle ne l’était jamais pour très longtemps; au bout de quelques\njours le regard luisant et fourbe perdait de son éclat et de sa\nduplicité, cette image d’une Odette exécrée disant à Forcheville: «Ce\nqu’il rage!» commençait à pâlir, à s’effacer",
+      "start": 0,
+      "end": 247
+    },
+    {
+      "text": "Alors, progressivement\nreparaissait et s’élevait en brillant doucement, le visage de l’autre\nOdette, de celle qui adressait aussi un sourire à Forcheville, mais un\nsourire où il n’y avait pour Swann que de la tendresse, quand elle\ndisait: «Ne restez pas longtemps, car ce monsieur-là n’aime pas\nbeaucoup que j’aie des visites quand il a envie d’être auprès de moi",
+      "start": 248,
+      "end": 612
+    },
+    {
+      "text": "Ah! si vous connaissiez cet être-là autant que je le connais!», ce\nmême sourire qu’elle avait pour remercier Swann de quelque trait de sa\ndélicatesse qu’elle prisait si fort, de quelque conseil qu’elle lui\navait demandé dans une de ces circonstances graves où elle n’avait\nconfiance qu’en lui",
+      "start": 613,
+      "end": 906
+    }
+  ],
+  "tokens": 150,
+  "processed_at": "2025-03-16T02:10:56.876116"
+}

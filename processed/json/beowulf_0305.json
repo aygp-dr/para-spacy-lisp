@@ -1,0 +1,36 @@
+{
+  "text": "Mais j’avais beau rester devant les aubépines à respirer, à porter\ndevant ma pensée qui ne savait ce qu’elle devait en faire, à perdre, à\nretrouver leur invisible et fixe odeur, à m’unir au rythme qui jetait\nleurs fleurs, ici et là, avec une allégresse juvénile et à des\nintervalles inattendus comme certains intervalles musicaux, elles\nm’offraient indéfiniment le même charme avec une profusion\ninépuisable, mais sans me laisser approfondir davantage, comme ces\nmélodies qu’on rejoue cent fois de suite sans descendre plus avant\ndans leur secret. Je me détournais d’elles un moment, pour les aborder\nensuite avec des forces plus fraîches. Je poursuivais jusque sur le\ntalus qui, derrière la haie, montait en pente raide vers les champs,\nquelque coquelicot perdu, quelques bluets restés paresseusement en\narrière, qui le décoraient çà et là de leurs fleurs comme la bordure\nd’une tapisserie où apparaît clairsemé le motif agreste qui triomphera\nsur le panneau; rares encore, espacés comme les maisons isolées qui\nannoncent déjà l’approche d’un village, ils m’annonçaient l’immense\nétendue où déferlent les blés, où moutonnent les nuages, et la vue\nd’un seul coquelicot hissant au bout de son cordage et faisant cingler\nau vent sa flamme rouge, au-dessus de sa bouée graisseuse et noire, me\nfaisait battre le cœur, comme au voyageur qui aperçoit sur une terre\nbasse une première barque échouée que répare un calfat, et s’écrie,\navant de l’avoir encore vue: «La Mer!»",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Mer!»",
+      "label": "ORG",
+      "start": 1460,
+      "end": 1465
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais j’avais beau rester devant les aubépines à respirer, à porter\ndevant ma pensée qui ne savait ce qu’elle devait en faire, à perdre, à\nretrouver leur invisible et fixe odeur, à m’unir au rythme qui jetait\nleurs fleurs, ici et là, avec une allégresse juvénile et à des\nintervalles inattendus comme certains intervalles musicaux, elles\nm’offraient indéfiniment le même charme avec une profusion\ninépuisable, mais sans me laisser approfondir davantage, comme ces\nmélodies qu’on rejoue cent fois de suite sans descendre plus avant\ndans leur secret",
+      "start": 0,
+      "end": 546
+    },
+    {
+      "text": "Je me détournais d’elles un moment, pour les aborder\nensuite avec des forces plus fraîches",
+      "start": 547,
+      "end": 638
+    },
+    {
+      "text": "Je poursuivais jusque sur le\ntalus qui, derrière la haie, montait en pente raide vers les champs,\nquelque coquelicot perdu, quelques bluets restés paresseusement en\narrière, qui le décoraient çà et là de leurs fleurs comme la bordure\nd’une tapisserie où apparaît clairsemé le motif agreste qui triomphera\nsur le panneau; rares encore, espacés comme les maisons isolées qui\nannoncent déjà l’approche d’un village, ils m’annonçaient l’immense\nétendue où déferlent les blés, où moutonnent les nuages, et la vue\nd’un seul coquelicot hissant au bout de son cordage et faisant cingler\nau vent sa flamme rouge, au-dessus de sa bouée graisseuse et noire, me\nfaisait battre le cœur, comme au voyageur qui aperçoit sur une terre\nbasse une première barque échouée que répare un calfat, et s’écrie,\navant de l’avoir encore vue: «La Mer!»",
+      "start": 639,
+      "end": 1465
+    }
+  ],
+  "tokens": 236,
+  "processed_at": "2025-03-16T02:10:55.472709"
+}

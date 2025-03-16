@@ -1,0 +1,54 @@
+{
+  "text": "Parmi les chambres dont j’évoquais le plus souvent l’image dans mes\nnuits d’insomnie, aucune ne ressemblait moins aux chambres de Combray,\nsaupoudrées d’une atmosphère grenue, pollinisée, comestible et dévote,\nque celle du Grand-Hôtel de la Plage, à Balbec, dont les murs passés\nau ripolin contenaient comme les parois polies d’une piscine où l’eau\nbleuit, un air pur, azuré et salin. Le tapissier bavarois qui avait\nété chargé de l’aménagement de cet hôtel avait varié la décoration des\npièces et sur trois côtés, fait courir le long des murs, dans celle\nque je me trouvai habiter, des bibliothèques basses, à vitrines en\nglace, dans lesquelles selon la place qu’elles occupaient, et par un\neffet qu’il n’avait pas prévu, telle ou telle partie du tableau\nchangeant de la mer se reflétait, déroulant une frise de claires\nmarines, qu’interrompaient seuls les pleins de l’acajou. Si bien que\ntoute la pièce avait l’air d’un de ces dortoirs modèles qu’on présente\ndans les expositions «modern style» du mobilier où ils sont ornés\nd’œuvres d’art qu’on a supposées capables de réjouir les yeux de celui\nqui couchera là et auxquelles on a donné des sujets en rapport avec le\ngenre de site où l’habitation doit se trouver.",
+  "entities": [
+    {
+      "text": "Parmi",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 130,
+      "end": 138
+    },
+    {
+      "text": "Grand-Hôtel",
+      "label": "ORG",
+      "start": 223,
+      "end": 234
+    },
+    {
+      "text": "Plage,",
+      "label": "ORG",
+      "start": 241,
+      "end": 247
+    },
+    {
+      "text": "Balbec,",
+      "label": "ORG",
+      "start": 250,
+      "end": 257
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Parmi les chambres dont j’évoquais le plus souvent l’image dans mes\nnuits d’insomnie, aucune ne ressemblait moins aux chambres de Combray,\nsaupoudrées d’une atmosphère grenue, pollinisée, comestible et dévote,\nque celle du Grand-Hôtel de la Plage, à Balbec, dont les murs passés\nau ripolin contenaient comme les parois polies d’une piscine où l’eau\nbleuit, un air pur, azuré et salin",
+      "start": 0,
+      "end": 383
+    },
+    {
+      "text": "Le tapissier bavarois qui avait\nété chargé de l’aménagement de cet hôtel avait varié la décoration des\npièces et sur trois côtés, fait courir le long des murs, dans celle\nque je me trouvai habiter, des bibliothèques basses, à vitrines en\nglace, dans lesquelles selon la place qu’elles occupaient, et par un\neffet qu’il n’avait pas prévu, telle ou telle partie du tableau\nchangeant de la mer se reflétait, déroulant une frise de claires\nmarines, qu’interrompaient seuls les pleins de l’acajou",
+      "start": 384,
+      "end": 876
+    },
+    {
+      "text": "Si bien que\ntoute la pièce avait l’air d’un de ces dortoirs modèles qu’on présente\ndans les expositions «modern style» du mobilier où ils sont ornés\nd’œuvres d’art qu’on a supposées capables de réjouir les yeux de celui\nqui couchera là et auxquelles on a donné des sujets en rapport avec le\ngenre de site où l’habitation doit se trouver",
+      "start": 877,
+      "end": 1214
+    }
+  ],
+  "tokens": 201,
+  "processed_at": "2025-03-16T02:10:57.477083"
+}

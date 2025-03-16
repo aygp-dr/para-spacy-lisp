@@ -1,0 +1,42 @@
+{
+  "text": "--«Ah! est-ce que vous connaissez quelqu’un à Balbec? dit mon père.\nJustement ce petit-là doit y aller passer deux mois avec sa grand’mère\net peut-être avec ma femme.»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Balbec?",
+      "label": "ORG",
+      "start": 46,
+      "end": 53
+    },
+    {
+      "text": "Justement",
+      "label": "ORG",
+      "start": 68,
+      "end": 77
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! est-ce que vous connaissez quelqu’un à Balbec? dit mon père",
+      "start": 0,
+      "end": 66
+    },
+    {
+      "text": "Justement ce petit-là doit y aller passer deux mois avec sa grand’mère\net peut-être avec ma femme",
+      "start": 67,
+      "end": 165
+    },
+    {
+      "text": "»",
+      "start": 166,
+      "end": 167
+    }
+  ],
+  "tokens": 28,
+  "processed_at": "2025-03-16T02:10:55.416570"
+}

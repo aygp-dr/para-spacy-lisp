@@ -1,0 +1,102 @@
+{
+  "text": "Deux tapisseries de haute lice représentaient le couronnement d’Esther\n(le tradition voulait qu’on eût donné à Assuérus les traits d’un roi\nde France et à Esther ceux d’une dame de Guermantes dont il était\namoureux) auxquelles leurs couleurs, en fondant, avaient ajouté une\nexpression, un relief, un éclairage: un peu de rose flottait aux\nlèvres d’Esther au delà du dessin de leur contour, le jaune de sa robe\ns’étalait si onctueusement, si grassement, qu’elle en prenait une\nsorte de consistance et s’enlevait vivement sur l’atmosphère refoulée;\net la verdure des arbres restée vive dans les parties basses du\npanneau de soie et de laine, mais ayant «passé» dans le haut, faisait\nse détacher en plus pâle, au-dessus des troncs foncés, les hautes\nbranches jaunissantes, dorées et comme à demi effacées par la brusque\net oblique illumination d’un soleil invisible. Tout cela et plus\nencore les objets précieux venus à l’église de personnages qui étaient\npour moi presque des personnages de légende (la croix d’or travaillée\ndisait-on par saint Éloi et donnée par Dagobert, le tombeau des fils\nde Louis le Germanique, en porphyre et en cuivre émaillé) à cause de\nquoi je m’avançais dans l’église, quand nous gagnions nos chaises,\ncomme dans une vallée visitée des fées, où le paysan s’émerveille de\nvoir dans un rocher, dans un arbre, dans une mare, la trace palpable\nde leur passage surnaturel, tout cela faisait d’elle pour moi quelque\nchose d’entièrement différent du reste de la ville: un édifice\noccupant, si l’on peut dire, un espace à quatre dimensions--la\nquatrième étant celle du Temps,--déployant à travers les siècles son\nvaisseau qui, de travée en travée, de chapelle en chapelle, semblait\nvaincre et franchir non pas seulement quelques mètres, mais des\népoques successives d’où il sortait victorieux; dérobant le rude et\nfarouche XIe siècle dans l’épaisseur de ses murs, d’où il\nn’apparaissait avec ses lourds cintres bouchés et aveuglés de\ngrossiers moellons que par la profonde entaille que creusait près du\nporche l’escalier du clocher, et, même là, dissimulé par les\ngracieuses arcades gothiques qui se pressaient coquettement devant lui\ncomme de plus grandes sœurs, pour le cacher aux étrangers, se placent\nen souriant devant un jeune frère rustre, grognon et mal vêtu; élevant\ndans le ciel au-dessus de la Place, sa tour qui avait contemplé saint\nLouis et semblait le voir encore; et s’enfonçant avec sa crypte dans\nune nuit mérovingienne où, nous guidant à tâtons sous la voûte obscure\net puissamment nervurée comme la membrane d’une immense chauve-souris\nde pierre, Théodore et sa sœur nous éclairaient d’une bougie le\ntombeau de la petite fille de Sigebert, sur lequel une profonde\nvalve,--comme la trace d’un fossile,--avait été creusée, disait-on, «par\nune lampe de cristal qui, le soir du meurtre de la princesse franque,\ns’était détachée d’elle-même des chaînes d’or où elle était suspendue\nà la place de l’actuelle abside, et, sans que le cristal se brisât,\nsans que la flamme s’éteignît, s’était enfoncée dans la pierre et\nl’avait fait mollement céder sous elle.»",
+  "entities": [
+    {
+      "text": "Deux",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "France",
+      "label": "ORG",
+      "start": 143,
+      "end": 149
+    },
+    {
+      "text": "Esther",
+      "label": "ORG",
+      "start": 155,
+      "end": 161
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 181,
+      "end": 191
+    },
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 864,
+      "end": 868
+    },
+    {
+      "text": "Éloi",
+      "label": "ORG",
+      "start": 1043,
+      "end": 1047
+    },
+    {
+      "text": "Dagobert,",
+      "label": "ORG",
+      "start": 1062,
+      "end": 1071
+    },
+    {
+      "text": "Louis",
+      "label": "ORG",
+      "start": 1095,
+      "end": 1100
+    },
+    {
+      "text": "Germanique,",
+      "label": "ORG",
+      "start": 1104,
+      "end": 1115
+    },
+    {
+      "text": "Place,",
+      "label": "ORG",
+      "start": 2323,
+      "end": 2329
+    },
+    {
+      "text": "Louis",
+      "label": "ORG",
+      "start": 2364,
+      "end": 2369
+    },
+    {
+      "text": "Théodore",
+      "label": "ORG",
+      "start": 2585,
+      "end": 2593
+    },
+    {
+      "text": "Sigebert,",
+      "label": "ORG",
+      "start": 2668,
+      "end": 2677
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Deux tapisseries de haute lice représentaient le couronnement d’Esther\n(le tradition voulait qu’on eût donné à Assuérus les traits d’un roi\nde France et à Esther ceux d’une dame de Guermantes dont il était\namoureux) auxquelles leurs couleurs, en fondant, avaient ajouté une\nexpression, un relief, un éclairage: un peu de rose flottait aux\nlèvres d’Esther au delà du dessin de leur contour, le jaune de sa robe\ns’étalait si onctueusement, si grassement, qu’elle en prenait une\nsorte de consistance et s’enlevait vivement sur l’atmosphère refoulée;\net la verdure des arbres restée vive dans les parties basses du\npanneau de soie et de laine, mais ayant «passé» dans le haut, faisait\nse détacher en plus pâle, au-dessus des troncs foncés, les hautes\nbranches jaunissantes, dorées et comme à demi effacées par la brusque\net oblique illumination d’un soleil invisible",
+      "start": 0,
+      "end": 862
+    },
+    {
+      "text": "Tout cela et plus\nencore les objets précieux venus à l’église de personnages qui étaient\npour moi presque des personnages de légende (la croix d’or travaillée\ndisait-on par saint Éloi et donnée par Dagobert, le tombeau des fils\nde Louis le Germanique, en porphyre et en cuivre émaillé) à cause de\nquoi je m’avançais dans l’église, quand nous gagnions nos chaises,\ncomme dans une vallée visitée des fées, où le paysan s’émerveille de\nvoir dans un rocher, dans un arbre, dans une mare, la trace palpable\nde leur passage surnaturel, tout cela faisait d’elle pour moi quelque\nchose d’entièrement différent du reste de la ville: un édifice\noccupant, si l’on peut dire, un espace à quatre dimensions--la\nquatrième étant celle du Temps,--déployant à travers les siècles son\nvaisseau qui, de travée en travée, de chapelle en chapelle, semblait\nvaincre et franchir non pas seulement quelques mètres, mais des\népoques successives d’où il sortait victorieux; dérobant le rude et\nfarouche XIe siècle dans l’épaisseur de ses murs, d’où il\nn’apparaissait avec ses lourds cintres bouchés et aveuglés de\ngrossiers moellons que par la profonde entaille que creusait près du\nporche l’escalier du clocher, et, même là, dissimulé par les\ngracieuses arcades gothiques qui se pressaient coquettement devant lui\ncomme de plus grandes sœurs, pour le cacher aux étrangers, se placent\nen souriant devant un jeune frère rustre, grognon et mal vêtu; élevant\ndans le ciel au-dessus de la Place, sa tour qui avait contemplé saint\nLouis et semblait le voir encore; et s’enfonçant avec sa crypte dans\nune nuit mérovingienne où, nous guidant à tâtons sous la voûte obscure\net puissamment nervurée comme la membrane d’une immense chauve-souris\nde pierre, Théodore et sa sœur nous éclairaient d’une bougie le\ntombeau de la petite fille de Sigebert, sur lequel une profonde\nvalve,--comme la trace d’un fossile,--avait été creusée, disait-on, «par\nune lampe de cristal qui, le soir du meurtre de la princesse franque,\ns’était détachée d’elle-même des chaînes d’or où elle était suspendue\nà la place de l’actuelle abside, et, sans que le cristal se brisât,\nsans que la flamme s’éteignît, s’était enfoncée dans la pierre et\nl’avait fait mollement céder sous elle",
+      "start": 863,
+      "end": 3087
+    },
+    {
+      "text": "»",
+      "start": 657,
+      "end": 658
+    }
+  ],
+  "tokens": 500,
+  "processed_at": "2025-03-16T02:10:54.741140"
+}

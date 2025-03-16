@@ -1,0 +1,31 @@
+{
+  "text": "--«Tenez, ma pauvre Eulalie, disait-elle d’une voix faible, en tirant\nune pièce d’une petite bourse qu’elle avait à portée de sa main, voilà\npour que vous ne m’oubliez pas dans vos prières.»",
+  "entities": [
+    {
+      "text": "--«Tenez,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Eulalie,",
+      "label": "ORG",
+      "start": 20,
+      "end": 28
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Tenez, ma pauvre Eulalie, disait-elle d’une voix faible, en tirant\nune pièce d’une petite bourse qu’elle avait à portée de sa main, voilà\npour que vous ne m’oubliez pas dans vos prières",
+      "start": 0,
+      "end": 188
+    },
+    {
+      "text": "»",
+      "start": 189,
+      "end": 190
+    }
+  ],
+  "tokens": 32,
+  "processed_at": "2025-03-16T02:10:55.254472"
+}

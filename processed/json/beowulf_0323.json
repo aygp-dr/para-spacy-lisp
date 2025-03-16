@@ -1,0 +1,36 @@
+{
+  "text": "Souvent le soleil se cachait derrière une nuée qui déformait son ovale\net dont il jaunissait la bordure. L’éclat, mais non la clarté, était\nenlevé à la campagne où toute vie semblait suspendue, tandis que le\npetit village de Roussainville sculptait sur le ciel le relief de ses\narêtes blanches avec une précision et un fini accablants. Un peu de\nvent faisait envoler un corbeau qui retombait dans le lointain, et,\ncontre le ciel blanchissant, le lointain des bois paraissait plus\nbleu, comme peint dans ces camaïeux qui décorent les trumeaux des\nanciennes demeures.",
+  "entities": [
+    {
+      "text": "Souvent",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Roussainville",
+      "label": "ORG",
+      "start": 225,
+      "end": 238
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Souvent le soleil se cachait derrière une nuée qui déformait son ovale\net dont il jaunissait la bordure",
+      "start": 0,
+      "end": 103
+    },
+    {
+      "text": "L’éclat, mais non la clarté, était\nenlevé à la campagne où toute vie semblait suspendue, tandis que le\npetit village de Roussainville sculptait sur le ciel le relief de ses\narêtes blanches avec une précision et un fini accablants",
+      "start": 104,
+      "end": 334
+    },
+    {
+      "text": "Un peu de\nvent faisait envoler un corbeau qui retombait dans le lointain, et,\ncontre le ciel blanchissant, le lointain des bois paraissait plus\nbleu, comme peint dans ces camaïeux qui décorent les trumeaux des\nanciennes demeures",
+      "start": 335,
+      "end": 564
+    }
+  ],
+  "tokens": 94,
+  "processed_at": "2025-03-16T02:10:55.529305"
+}

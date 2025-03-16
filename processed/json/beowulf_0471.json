@@ -1,0 +1,26 @@
+{
+  "text": "Swann apprit seulement que l’apparition récente de la sonate de\nVinteuil avait produit une grande impression dans une école de\ntendances très avancées mais était entièrement inconnue du grand\npublic.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 64,
+      "end": 72
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann apprit seulement que l’apparition récente de la sonate de\nVinteuil avait produit une grande impression dans une école de\ntendances très avancées mais était entièrement inconnue du grand\npublic",
+      "start": 0,
+      "end": 198
+    }
+  ],
+  "tokens": 30,
+  "processed_at": "2025-03-16T02:10:55.974594"
+}

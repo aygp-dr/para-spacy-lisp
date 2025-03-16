@@ -1,0 +1,72 @@
+{
+  "text": "D’autres fois il lui disait que ce qui plus que tout ferait qu’il\ncesserait de l’aimer, c’est qu’elle ne voulût pas renoncer à mentir.\n«Même au simple point de vue de la coquetterie, lui disait-il, ne\ncomprends-tu donc pas combien tu perds de ta séduction en t’abaissant\nà mentir? Par un aveu! combien de fautes tu pourrais racheter!\nVraiment tu es bien moins intelligente que je ne croyais!» Mais c’est\nen vain que Swann lui exposait ainsi toutes les raisons qu’elle avait\nde ne pas mentir; elles auraient pu ruiner chez Odette un système\ngénéral du mensonge; mais Odette n’en possédait pas; elle se\ncontentait seulement, dans chaque cas où elle voulait que Swann\nignorât quelque chose qu’elle avait fait, de ne pas le lui dire. Ainsi\nle mensonge était pour elle un expédient d’ordre particulier; et ce\nqui seul pouvait décider si elle devait s’en servir ou avouer la\nvérité, c’était une raison d’ordre particulier aussi, la chance plus\nou moins grande qu’il y avait pour que Swann pût découvrir qu’elle\nn’avait pas dit la vérité.",
+  "entities": [
+    {
+      "text": "«Même",
+      "label": "ORG",
+      "start": 135,
+      "end": 140
+    },
+    {
+      "text": "Vraiment",
+      "label": "ORG",
+      "start": 334,
+      "end": 342
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 393,
+      "end": 397
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 416,
+      "end": 421
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 522,
+      "end": 528
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 566,
+      "end": 572
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 659,
+      "end": 664
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 977,
+      "end": 982
+    }
+  ],
+  "sentences": [
+    {
+      "text": "D’autres fois il lui disait que ce qui plus que tout ferait qu’il\ncesserait de l’aimer, c’est qu’elle ne voulût pas renoncer à mentir",
+      "start": 0,
+      "end": 133
+    },
+    {
+      "text": "«Même au simple point de vue de la coquetterie, lui disait-il, ne\ncomprends-tu donc pas combien tu perds de ta séduction en t’abaissant\nà mentir? Par un aveu! combien de fautes tu pourrais racheter!\nVraiment tu es bien moins intelligente que je ne croyais!» Mais c’est\nen vain que Swann lui exposait ainsi toutes les raisons qu’elle avait\nde ne pas mentir; elles auraient pu ruiner chez Odette un système\ngénéral du mensonge; mais Odette n’en possédait pas; elle se\ncontentait seulement, dans chaque cas où elle voulait que Swann\nignorât quelque chose qu’elle avait fait, de ne pas le lui dire",
+      "start": 134,
+      "end": 728
+    },
+    {
+      "text": "Ainsi\nle mensonge était pour elle un expédient d’ordre particulier; et ce\nqui seul pouvait décider si elle devait s’en servir ou avouer la\nvérité, c’était une raison d’ordre particulier aussi, la chance plus\nou moins grande qu’il y avait pour que Swann pût découvrir qu’elle\nn’avait pas dit la vérité",
+      "start": 729,
+      "end": 1030
+    }
+  ],
+  "tokens": 177,
+  "processed_at": "2025-03-16T02:10:56.812213"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "--«Mais cela ne l’empêche pas d’être charmante; nous ne disons pas du\nmal d’elle, nous disons que ce n’est pas une vertu ni une\nintelligence. Au fond, dit-il au peintre, tenez-vous tant que ça à ce\nqu’elle soit vertueuse? Elle serait peut-être beaucoup moins\ncharmante, qui sait?»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 222,
+      "end": 226
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais cela ne l’empêche pas d’être charmante; nous ne disons pas du\nmal d’elle, nous disons que ce n’est pas une vertu ni une\nintelligence",
+      "start": 0,
+      "end": 140
+    },
+    {
+      "text": "Au fond, dit-il au peintre, tenez-vous tant que ça à ce\nqu’elle soit vertueuse? Elle serait peut-être beaucoup moins\ncharmante, qui sait?»",
+      "start": 141,
+      "end": 280
+    }
+  ],
+  "tokens": 47,
+  "processed_at": "2025-03-16T02:10:56.166022"
+}

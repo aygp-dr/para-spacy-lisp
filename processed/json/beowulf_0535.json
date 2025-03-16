@@ -1,0 +1,20 @@
+{
+  "text": "Mme Verdurin s’immobilisa, prit une expression inerte comme si elle\nétait devenue une statue, fiction qui lui permit d’être censée ne pas\navoir entendu ce mot insupportable de poseur qui avait l’air\nd’impliquer qu’on pouvait «poser» avec eux, donc qu’on était «plus\nqu’eux».",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 4,
+      "end": 12
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mme Verdurin s’immobilisa, prit une expression inerte comme si elle\nétait devenue une statue, fiction qui lui permit d’être censée ne pas\navoir entendu ce mot insupportable de poseur qui avait l’air\nd’impliquer qu’on pouvait «poser» avec eux, donc qu’on était «plus\nqu’eux»",
+      "start": 0,
+      "end": 273
+    }
+  ],
+  "tokens": 43,
+  "processed_at": "2025-03-16T02:10:56.157810"
+}

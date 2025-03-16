@@ -1,0 +1,42 @@
+{
+  "text": "M. Verdurin avait d’ailleurs fait sagement en ne retirant pas sa pipe\nde sa bouche, car Cottard qui avait besoin de s’éloigner un instant\nfit à mi-voix une plaisanterie qu’il avait apprise depuis peu et qu’il\nrenouvelait chaque fois qu’il avait à aller au même endroit: «Il faut\nque j’aille entretenir un instant le duc d’Aumale», de sorte que la\nquinte de M. Verdurin recommença.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 3,
+      "end": 11
+    },
+    {
+      "text": "Cottard",
+      "label": "ORG",
+      "start": 88,
+      "end": 95
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 360,
+      "end": 368
+    }
+  ],
+  "sentences": [
+    {
+      "text": "M",
+      "start": 0,
+      "end": 1
+    },
+    {
+      "text": "Verdurin avait d’ailleurs fait sagement en ne retirant pas sa pipe\nde sa bouche, car Cottard qui avait besoin de s’éloigner un instant\nfit à mi-voix une plaisanterie qu’il avait apprise depuis peu et qu’il\nrenouvelait chaque fois qu’il avait à aller au même endroit: «Il faut\nque j’aille entretenir un instant le duc d’Aumale», de sorte que la\nquinte de M",
+      "start": 2,
+      "end": 358
+    },
+    {
+      "text": "Verdurin recommença",
+      "start": 359,
+      "end": 379
+    }
+  ],
+  "tokens": 65,
+  "processed_at": "2025-03-16T02:10:56.504104"
+}

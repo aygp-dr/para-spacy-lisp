@@ -1,0 +1,37 @@
+{
+  "text": "--Oh! je voulais seulement savoir si c’est depuis que je te connais.\nMais ce serait si naturel, est-ce que ça se passait ici; tu ne peux\npas me dire un certain soir, que je me représente ce que je faisais ce\nsoir-là; tu comprends bien qu’il n’est pas possible que tu ne te\nrappelles pas avec qui, Odette, mon amour.",
+  "entities": [
+    {
+      "text": "--Oh!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 69,
+      "end": 73
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 297,
+      "end": 304
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Oh! je voulais seulement savoir si c’est depuis que je te connais",
+      "start": 0,
+      "end": 67
+    },
+    {
+      "text": "Mais ce serait si naturel, est-ce que ça se passait ici; tu ne peux\npas me dire un certain soir, que je me représente ce que je faisais ce\nsoir-là; tu comprends bien qu’il n’est pas possible que tu ne te\nrappelles pas avec qui, Odette, mon amour",
+      "start": 68,
+      "end": 314
+    }
+  ],
+  "tokens": 60,
+  "processed_at": "2025-03-16T02:10:57.377394"
+}

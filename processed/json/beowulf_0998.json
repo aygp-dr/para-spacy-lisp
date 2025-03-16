@@ -1,0 +1,25 @@
+{
+  "text": "Je revins avec Françoise par les rues qui étaient encore pavoisées de\nsoleil, comme au soir d’une fête qui est finie. Je ne pouvais pas\ntraîner mes jambes.",
+  "entities": [
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 15,
+      "end": 24
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je revins avec Françoise par les rues qui étaient encore pavoisées de\nsoleil, comme au soir d’une fête qui est finie",
+      "start": 0,
+      "end": 116
+    },
+    {
+      "text": "Je ne pouvais pas\ntraîner mes jambes",
+      "start": 117,
+      "end": 154
+    }
+  ],
+  "tokens": 28,
+  "processed_at": "2025-03-16T02:10:57.579702"
+}

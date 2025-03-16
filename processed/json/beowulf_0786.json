@@ -1,0 +1,73 @@
+{
+  "text": "Parfois c’était après quelques jours où elle ne lui avait pas causé de\nsouci nouveau; et comme, des visites prochaines qu’il lui ferait, il\nsavait qu’il ne pouvait tirer nulle bien grande joie mais plus\nprobablement quelque chagrin qui mettrait fin au calme où il se\ntrouvait, il lui écrivait qu’étant très occupé il ne pourrait la voir\naucun des jours qu’il lui avait dit. Or une lettre d’elle, se croisant\navec la sienne, le priait précisément de déplacer un rendez-vous. Il\nse demandait pourquoi; ses soupçons, sa douleur le reprenaient. Il ne\npouvait plus tenir, dans l’état nouveau d’agitation où il se trouvait,\nl’engagement qu’il avait pris dans l’état antérieur de calme relatif,\nil courait chez elle et exigeait de la voir tous les jours suivants.\nEt même si elle ne lui avait pas écrit la première, si elle répondait\nseulement, cela suffisait pour qu’il ne pût plus rester sans la voir.\nCar, contrairement au calcul de Swann, le consentement d’Odette avait\ntout changé en lui. Comme tous ceux qui possèdent une chose, pour\nsavoir ce qui arriverait s’il cessait un moment de la posséder, il\navait ôté cette chose de son esprit, en y laissant tout le reste dans\nle même état que quand elle était là. Or l’absence d’une chose, ce\nn’est pas que cela, ce n’est pas un simple manque partiel, c’est un\nbouleversement de tout le reste, c’est un état nouveau qu’on ne peut\nprévoir dans l’ancien.",
+  "entities": [
+    {
+      "text": "Parfois",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Car,",
+      "label": "ORG",
+      "start": 897,
+      "end": 901
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 929,
+      "end": 935
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 987,
+      "end": 992
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Parfois c’était après quelques jours où elle ne lui avait pas causé de\nsouci nouveau; et comme, des visites prochaines qu’il lui ferait, il\nsavait qu’il ne pouvait tirer nulle bien grande joie mais plus\nprobablement quelque chagrin qui mettrait fin au calme où il se\ntrouvait, il lui écrivait qu’étant très occupé il ne pourrait la voir\naucun des jours qu’il lui avait dit",
+      "start": 0,
+      "end": 372
+    },
+    {
+      "text": "Or une lettre d’elle, se croisant\navec la sienne, le priait précisément de déplacer un rendez-vous",
+      "start": 373,
+      "end": 472
+    },
+    {
+      "text": "Il\nse demandait pourquoi; ses soupçons, sa douleur le reprenaient",
+      "start": 473,
+      "end": 539
+    },
+    {
+      "text": "Il ne\npouvait plus tenir, dans l’état nouveau d’agitation où il se trouvait,\nl’engagement qu’il avait pris dans l’état antérieur de calme relatif,\nil courait chez elle et exigeait de la voir tous les jours suivants",
+      "start": 540,
+      "end": 755
+    },
+    {
+      "text": "Et même si elle ne lui avait pas écrit la première, si elle répondait\nseulement, cela suffisait pour qu’il ne pût plus rester sans la voir",
+      "start": 756,
+      "end": 895
+    },
+    {
+      "text": "Car, contrairement au calcul de Swann, le consentement d’Odette avait\ntout changé en lui",
+      "start": 896,
+      "end": 985
+    },
+    {
+      "text": "Comme tous ceux qui possèdent une chose, pour\nsavoir ce qui arriverait s’il cessait un moment de la posséder, il\navait ôté cette chose de son esprit, en y laissant tout le reste dans\nle même état que quand elle était là",
+      "start": 986,
+      "end": 1206
+    },
+    {
+      "text": "Or l’absence d’une chose, ce\nn’est pas que cela, ce n’est pas un simple manque partiel, c’est un\nbouleversement de tout le reste, c’est un état nouveau qu’on ne peut\nprévoir dans l’ancien",
+      "start": 1207,
+      "end": 1395
+    }
+  ],
+  "tokens": 242,
+  "processed_at": "2025-03-16T02:10:56.903405"
+}

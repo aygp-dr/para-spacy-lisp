@@ -1,0 +1,37 @@
+{
+  "text": "--«Quel joli Beauvais, dit avant de s’asseoir Swann qui cherchait à\nêtre aimable.»",
+  "entities": [
+    {
+      "text": "--«Quel",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Beauvais,",
+      "label": "ORG",
+      "start": 13,
+      "end": 22
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 46,
+      "end": 51
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Quel joli Beauvais, dit avant de s’asseoir Swann qui cherchait à\nêtre aimable",
+      "start": 0,
+      "end": 80
+    },
+    {
+      "text": "»",
+      "start": 81,
+      "end": 82
+    }
+  ],
+  "tokens": 13,
+  "processed_at": "2025-03-16T02:10:55.913098"
+}

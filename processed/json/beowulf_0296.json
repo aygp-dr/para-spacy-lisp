@@ -1,0 +1,26 @@
+{
+  "text": "Et sans avoir pris le temps d’enlever nos affaires, nous montions vite\nchez ma tante Léonie pour la rassurer et lui montrer que,\ncontrairement à ce qu’elle imaginait déjà, il ne nous était rien\narrivé, mais que nous étions allés «du côté de Guermantes» et, dame,\nquand on faisait cette promenade-là, ma tante savait pourtant bien\nqu’on ne pouvait jamais être sûr de l’heure à laquelle on serait\nrentré.",
+  "entities": [
+    {
+      "text": "Léonie",
+      "label": "ORG",
+      "start": 85,
+      "end": 91
+    },
+    {
+      "text": "Guermantes»",
+      "label": "ORG",
+      "start": 241,
+      "end": 252
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et sans avoir pris le temps d’enlever nos affaires, nous montions vite\nchez ma tante Léonie pour la rassurer et lui montrer que,\ncontrairement à ce qu’elle imaginait déjà, il ne nous était rien\narrivé, mais que nous étions allés «du côté de Guermantes» et, dame,\nquand on faisait cette promenade-là, ma tante savait pourtant bien\nqu’on ne pouvait jamais être sûr de l’heure à laquelle on serait\nrentré",
+      "start": 0,
+      "end": 401
+    }
+  ],
+  "tokens": 69,
+  "processed_at": "2025-03-16T02:10:55.446348"
+}

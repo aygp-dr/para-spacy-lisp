@@ -1,0 +1,54 @@
+{
+  "text": "Il est vrai qu’un jour Forcheville avait demandé à être ramené en même\ntemps, mais comme, arrivé devant la porte d’Odette il avait sollicité\nla permission d’entrer aussi, Odette lui avait répondu en montrant\nSwann: «Ah! cela dépend de ce monsieur-là, demandez-lui. Enfin, entrez\nun moment si vous voulez, mais pas longtemps parce que je vous\npréviens qu’il aime causer tranquillement avec moi, et qu’il n’aime\npas beaucoup qu’il y ait des visites quand il vient. Ah! si vous\nconnaissiez cet être-là autant que je le connais; n’est-ce pas, my\nlove, il n’y a que moi qui vous connaisse bien?»",
+  "entities": [
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 23,
+      "end": 34
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 115,
+      "end": 121
+    },
+    {
+      "text": "Swann:",
+      "label": "ORG",
+      "start": 208,
+      "end": 214
+    },
+    {
+      "text": "«Ah!",
+      "label": "ORG",
+      "start": 215,
+      "end": 219
+    },
+    {
+      "text": "Enfin,",
+      "label": "ORG",
+      "start": 265,
+      "end": 271
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il est vrai qu’un jour Forcheville avait demandé à être ramené en même\ntemps, mais comme, arrivé devant la porte d’Odette il avait sollicité\nla permission d’entrer aussi, Odette lui avait répondu en montrant\nSwann: «Ah! cela dépend de ce monsieur-là, demandez-lui",
+      "start": 0,
+      "end": 263
+    },
+    {
+      "text": "Enfin, entrez\nun moment si vous voulez, mais pas longtemps parce que je vous\npréviens qu’il aime causer tranquillement avec moi, et qu’il n’aime\npas beaucoup qu’il y ait des visites quand il vient",
+      "start": 264,
+      "end": 461
+    },
+    {
+      "text": "Ah! si vous\nconnaissiez cet être-là autant que je le connais; n’est-ce pas, my\nlove, il n’y a que moi qui vous connaisse bien?»",
+      "start": 462,
+      "end": 590
+    }
+  ],
+  "tokens": 100,
+  "processed_at": "2025-03-16T02:10:56.850030"
+}

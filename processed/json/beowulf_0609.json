@@ -1,0 +1,62 @@
+{
+  "text": "--«Ce qu’il m’amuse quand il s’emballe comme ça, s’écria, quand il eut\nterminé, Mme Verdurin, ravie que la table fût justement si\nintéressante le jour où M. de Forcheville venait pour la première\nfois. Et toi, qu’est-ce que tu as à rester comme cela, bouche bée\ncomme une grande bête? dit-elle à son mari. Tu sais pourtant qu’il\nparle bien; on dirait que c’est la première fois qu’il vous entend. Si\nvous l’aviez vu pendant que vous parliez, il vous buvait. Et demain il\nnous récitera tout ce que vous avez dit sans manger un mot.»",
+  "entities": [
+    {
+      "text": "--«Ce",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 84,
+      "end": 93
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 160,
+      "end": 171
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ce qu’il m’amuse quand il s’emballe comme ça, s’écria, quand il eut\nterminé, Mme Verdurin, ravie que la table fût justement si\nintéressante le jour où M",
+      "start": 0,
+      "end": 155
+    },
+    {
+      "text": "de Forcheville venait pour la première\nfois",
+      "start": 156,
+      "end": 200
+    },
+    {
+      "text": "Et toi, qu’est-ce que tu as à rester comme cela, bouche bée\ncomme une grande bête? dit-elle à son mari",
+      "start": 201,
+      "end": 304
+    },
+    {
+      "text": "Tu sais pourtant qu’il\nparle bien; on dirait que c’est la première fois qu’il vous entend",
+      "start": 305,
+      "end": 395
+    },
+    {
+      "text": "Si\nvous l’aviez vu pendant que vous parliez, il vous buvait",
+      "start": 396,
+      "end": 456
+    },
+    {
+      "text": "Et demain il\nnous récitera tout ce que vous avez dit sans manger un mot",
+      "start": 457,
+      "end": 529
+    },
+    {
+      "text": "»",
+      "start": 530,
+      "end": 531
+    }
+  ],
+  "tokens": 96,
+  "processed_at": "2025-03-16T02:10:56.380875"
+}

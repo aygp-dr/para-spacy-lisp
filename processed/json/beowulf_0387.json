@@ -1,0 +1,26 @@
+{
+  "text": "--«Vous croyez qu’elle en mourrait, votre mère, s’écria durement Mme\nVerdurin, si vous ne dîniez pas avec elle le jour de l’an, comme en\nprovince!»",
+  "entities": [
+    {
+      "text": "--«Vous",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 69,
+      "end": 78
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Vous croyez qu’elle en mourrait, votre mère, s’écria durement Mme\nVerdurin, si vous ne dîniez pas avec elle le jour de l’an, comme en\nprovince!»",
+      "start": 0,
+      "end": 147
+    }
+  ],
+  "tokens": 25,
+  "processed_at": "2025-03-16T02:10:55.732371"
+}

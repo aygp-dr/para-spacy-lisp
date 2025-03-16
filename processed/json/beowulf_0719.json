@@ -1,0 +1,53 @@
+{
+  "text": "Malgré cela il ne distinguait pas bien. D’ailleurs cela ne faisait\nrien car il en avait assez vu pour se rendre compte qu’il s’agissait\nd’un petit événement sans importance et qui ne touchait nullement à\ndes relations amoureuses, c’était quelque chose qui se rapportait à un\noncle d’Odette. Swann avait bien lu au commencement de la ligne: «J’ai\neu raison», mais ne comprenait pas ce qu’Odette avait eu raison de\nfaire, quand soudain, un mot qu’il n’avait pas pu déchiffrer d’abord,\napparut et éclaira le sens de la phrase tout entière: «J’ai eu raison\nd’ouvrir, c’était mon oncle.» D’ouvrir! alors Forcheville était là\ntantôt quand Swann avait sonné et elle l’avait fait partir, d’où le\nbruit qu’il avait entendu.",
+  "entities": [
+    {
+      "text": "Malgré",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 291,
+      "end": 296
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 599,
+      "end": 610
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 633,
+      "end": 638
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Malgré cela il ne distinguait pas bien",
+      "start": 0,
+      "end": 38
+    },
+    {
+      "text": "D’ailleurs cela ne faisait\nrien car il en avait assez vu pour se rendre compte qu’il s’agissait\nd’un petit événement sans importance et qui ne touchait nullement à\ndes relations amoureuses, c’était quelque chose qui se rapportait à un\noncle d’Odette",
+      "start": 39,
+      "end": 289
+    },
+    {
+      "text": "Swann avait bien lu au commencement de la ligne: «J’ai\neu raison», mais ne comprenait pas ce qu’Odette avait eu raison de\nfaire, quand soudain, un mot qu’il n’avait pas pu déchiffrer d’abord,\napparut et éclaira le sens de la phrase tout entière: «J’ai eu raison\nd’ouvrir, c’était mon oncle",
+      "start": 290,
+      "end": 580
+    },
+    {
+      "text": "» D’ouvrir! alors Forcheville était là\ntantôt quand Swann avait sonné et elle l’avait fait partir, d’où le\nbruit qu’il avait entendu",
+      "start": 581,
+      "end": 713
+    }
+  ],
+  "tokens": 119,
+  "processed_at": "2025-03-16T02:10:56.708312"
+}

@@ -1,0 +1,64 @@
+{
+  "text": "Mais d’autres fois se mettait à tomber la pluie dont nous avait\nmenacés le capucin que l’opticien avait à sa devanture; les gouttes\nd’eau comme des oiseaux migrateurs qui prennent leur vol tous\nensemble, descendaient à rangs pressés du ciel. Elles ne se séparent\npoint, elles ne vont pas à l’aventure pendant la rapide traversée,\nmais chacune tenant sa place, attire à elle celle qui la suit et le\nciel en est plus obscurci qu’au départ des hirondelles. Nous nous\nréfugions dans le bois. Quand leur voyage semblait fini,\nquelques-unes, plus débiles, plus lentes, arrivaient encore. Mais nous\nressortions de notre abri, car les gouttes se plaisent aux feuillages,\net la terre était déjà presque séchée que plus d’une s’attardait à\njouer sur les nervures d’une feuille, et suspendue à la pointe,\nreposée, brillant au soleil, tout d’un coup se laissait glisser de\ntoute la hauteur de la branche et nous tombait sur le nez.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Elles",
+      "label": "ORG",
+      "start": 242,
+      "end": 247
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 454,
+      "end": 458
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 488,
+      "end": 493
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 582,
+      "end": 586
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais d’autres fois se mettait à tomber la pluie dont nous avait\nmenacés le capucin que l’opticien avait à sa devanture; les gouttes\nd’eau comme des oiseaux migrateurs qui prennent leur vol tous\nensemble, descendaient à rangs pressés du ciel",
+      "start": 0,
+      "end": 240
+    },
+    {
+      "text": "Elles ne se séparent\npoint, elles ne vont pas à l’aventure pendant la rapide traversée,\nmais chacune tenant sa place, attire à elle celle qui la suit et le\nciel en est plus obscurci qu’au départ des hirondelles",
+      "start": 241,
+      "end": 452
+    },
+    {
+      "text": "Nous nous\nréfugions dans le bois",
+      "start": 453,
+      "end": 486
+    },
+    {
+      "text": "Quand leur voyage semblait fini,\nquelques-unes, plus débiles, plus lentes, arrivaient encore",
+      "start": 487,
+      "end": 580
+    },
+    {
+      "text": "Mais nous\nressortions de notre abri, car les gouttes se plaisent aux feuillages,\net la terre était déjà presque séchée que plus d’une s’attardait à\njouer sur les nervures d’une feuille, et suspendue à la pointe,\nreposée, brillant au soleil, tout d’un coup se laissait glisser de\ntoute la hauteur de la branche et nous tombait sur le nez",
+      "start": 581,
+      "end": 918
+    }
+  ],
+  "tokens": 155,
+  "processed_at": "2025-03-16T02:10:55.532584"
+}

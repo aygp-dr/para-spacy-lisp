@@ -1,0 +1,60 @@
+{
+  "text": "Ce n’était pas seulement d’ailleurs la brillante phalange de\nvertueuses douairières, de généraux, d’académiciens, avec lesquels il\nétait particulièrement lié, que Swann forçait avec tant de cynisme à\nlui servir d’entremetteurs. Tous ses amis avaient l’habitude de\nrecevoir de temps en temps des lettres de lui où un mot de\nrecommandation ou d’introduction leur était demandé avec une habileté\ndiplomatique qui, persistant à travers les amours successives et les\nprétextes différents, accusait, plus que n’eussent fait les\nmaladresses, un caractère permanent et des buts identiques. Je me suis\nsouvent fait raconter bien des années plus tard, quand je commençai à\nm’intéresser à son caractère à cause des ressemblances qu’en de tout\nautres parties il offrait avec le mien, que quand il écrivait à mon\ngrand-père (qui ne l’était pas encore, car c’est vers l’époque de ma\nnaissance que commença la grande liaison de Swann et elle interrompit\nlongtemps ces pratiques) celui-ci, en reconnaissant sur l’enveloppe\nl’écriture de son ami, s’écriait: «Voilà Swann qui va demander quelque\nchose: à la garde!» Et soit méfiance, soit par le sentiment\ninconsciemment diabolique qui nous pousse à n’offrir une chose qu’aux\ngens qui n’en ont pas envie, mes grands-parents opposaient une fin de\nnon-recevoir absolue aux prières les plus faciles à satisfaire qu’il\nleur adressait, comme de le présenter à une jeune fille qui dînait\ntous les dimanches à la maison, et qu’ils étaient obligés, chaque fois\nque Swann leur en reparlait, de faire semblant de ne plus voir, alors\nque pendant toute la semaine on se demandait qui on pourrait bien\ninviter avec elle, finissant souvent par ne trouver personne, faute de\nfaire signe à celui qui en eût été si heureux.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 163,
+      "end": 168
+    },
+    {
+      "text": "Tous",
+      "label": "ORG",
+      "start": 228,
+      "end": 232
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 913,
+      "end": 918
+    },
+    {
+      "text": "«Voilà",
+      "label": "ORG",
+      "start": 1041,
+      "end": 1047
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1048,
+      "end": 1053
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1489,
+      "end": 1494
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ce n’était pas seulement d’ailleurs la brillante phalange de\nvertueuses douairières, de généraux, d’académiciens, avec lesquels il\nétait particulièrement lié, que Swann forçait avec tant de cynisme à\nlui servir d’entremetteurs",
+      "start": 0,
+      "end": 226
+    },
+    {
+      "text": "Tous ses amis avaient l’habitude de\nrecevoir de temps en temps des lettres de lui où un mot de\nrecommandation ou d’introduction leur était demandé avec une habileté\ndiplomatique qui, persistant à travers les amours successives et les\nprétextes différents, accusait, plus que n’eussent fait les\nmaladresses, un caractère permanent et des buts identiques",
+      "start": 227,
+      "end": 580
+    },
+    {
+      "text": "Je me suis\nsouvent fait raconter bien des années plus tard, quand je commençai à\nm’intéresser à son caractère à cause des ressemblances qu’en de tout\nautres parties il offrait avec le mien, que quand il écrivait à mon\ngrand-père (qui ne l’était pas encore, car c’est vers l’époque de ma\nnaissance que commença la grande liaison de Swann et elle interrompit\nlongtemps ces pratiques) celui-ci, en reconnaissant sur l’enveloppe\nl’écriture de son ami, s’écriait: «Voilà Swann qui va demander quelque\nchose: à la garde!» Et soit méfiance, soit par le sentiment\ninconsciemment diabolique qui nous pousse à n’offrir une chose qu’aux\ngens qui n’en ont pas envie, mes grands-parents opposaient une fin de\nnon-recevoir absolue aux prières les plus faciles à satisfaire qu’il\nleur adressait, comme de le présenter à une jeune fille qui dînait\ntous les dimanches à la maison, et qu’ils étaient obligés, chaque fois\nque Swann leur en reparlait, de faire semblant de ne plus voir, alors\nque pendant toute la semaine on se demandait qui on pourrait bien\ninviter avec elle, finissant souvent par ne trouver personne, faute de\nfaire signe à celui qui en eût été si heureux",
+      "start": 581,
+      "end": 1737
+    }
+  ],
+  "tokens": 279,
+  "processed_at": "2025-03-16T02:10:55.776915"
+}

@@ -1,0 +1,20 @@
+{
+  "text": "--«Vous êtes très indulgente pour moi», dit-il.",
+  "entities": [
+    {
+      "text": "--«Vous",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Vous êtes très indulgente pour moi», dit-il",
+      "start": 0,
+      "end": 46
+    }
+  ],
+  "tokens": 7,
+  "processed_at": "2025-03-16T02:10:55.952585"
+}

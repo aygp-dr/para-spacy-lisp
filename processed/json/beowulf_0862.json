@@ -1,0 +1,23 @@
+{
+  "text": "--«Ç’a été d’abord un nom de victoire, princesse, dit le général.\nQu’est-ce que vous voulez, pour un vieux briscard comme moi,\najouta-t-il en ôtant son monocle pour l’essuyer, comme il aurait\nchangé un pansement, tandis que la princesse détournait\ninstinctivement les yeux, cette noblesse d’Empire, c’est autre chose\nbien entendu, mais enfin, pour ce que c’est, c’est très beau dans son\ngenre, ce sont des gens qui en somme se sont battus en héros.»",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "--«Ç’a été d’abord un nom de victoire, princesse, dit le général",
+      "start": 0,
+      "end": 64
+    },
+    {
+      "text": "Qu’est-ce que vous voulez, pour un vieux briscard comme moi,\najouta-t-il en ôtant son monocle pour l’essuyer, comme il aurait\nchangé un pansement, tandis que la princesse détournait\ninstinctivement les yeux, cette noblesse d’Empire, c’est autre chose\nbien entendu, mais enfin, pour ce que c’est, c’est très beau dans son\ngenre, ce sont des gens qui en somme se sont battus en héros",
+      "start": 65,
+      "end": 447
+    },
+    {
+      "text": "»",
+      "start": 448,
+      "end": 449
+    }
+  ],
+  "tokens": 74,
+  "processed_at": "2025-03-16T02:10:57.141334"
+}

@@ -1,0 +1,32 @@
+{
+  "text": "--«Tiens, ce n’est pas Lorédan qui est sur le siège?», avec quelle joie\nmélancolique Swann lui répondait:",
+  "entities": [
+    {
+      "text": "--«Tiens,",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Lorédan",
+      "label": "ORG",
+      "start": 23,
+      "end": 30
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 85,
+      "end": 90
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Tiens, ce n’est pas Lorédan qui est sur le siège?», avec quelle joie\nmélancolique Swann lui répondait:",
+      "start": 0,
+      "end": 105
+    }
+  ],
+  "tokens": 17,
+  "processed_at": "2025-03-16T02:10:56.984824"
+}

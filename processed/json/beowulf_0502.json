@@ -1,0 +1,48 @@
+{
+  "text": "--«Ah! je vous crois qu’ils ne doivent pas être amusants ces déjeuners,\nvous avez de la vertu d’y aller, dit Mme Verdurin, à qui le Président\nde la République apparaissait comme un ennuyeux particulièrement\nredoutable parce qu’il disposait de moyens de séduction et de\ncontrainte qui, employés à l’égard des fidèles, eussent été capables\nde les faire lâcher. Il paraît qu’il est sourd comme un pot et qu’il\nmange avec ses doigts.»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 113,
+      "end": 122
+    },
+    {
+      "text": "Président",
+      "label": "ORG",
+      "start": 132,
+      "end": 141
+    },
+    {
+      "text": "République",
+      "label": "ORG",
+      "start": 148,
+      "end": 158
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! je vous crois qu’ils ne doivent pas être amusants ces déjeuners,\nvous avez de la vertu d’y aller, dit Mme Verdurin, à qui le Président\nde la République apparaissait comme un ennuyeux particulièrement\nredoutable parce qu’il disposait de moyens de séduction et de\ncontrainte qui, employés à l’égard des fidèles, eussent été capables\nde les faire lâcher",
+      "start": 0,
+      "end": 357
+    },
+    {
+      "text": "Il paraît qu’il est sourd comme un pot et qu’il\nmange avec ses doigts",
+      "start": 358,
+      "end": 428
+    },
+    {
+      "text": "»",
+      "start": 429,
+      "end": 430
+    }
+  ],
+  "tokens": 72,
+  "processed_at": "2025-03-16T02:10:56.060856"
+}

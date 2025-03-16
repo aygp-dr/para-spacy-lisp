@@ -1,0 +1,20 @@
+{
+  "text": "--Je crois pourtant qu’elle m’aime; elle est si gentille pour moi, ce\nque je fais ne lui est certainement pas indifférent.",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je crois pourtant qu’elle m’aime; elle est si gentille pour moi, ce\nque je fais ne lui est certainement pas indifférent",
+      "start": 0,
+      "end": 121
+    }
+  ],
+  "tokens": 21,
+  "processed_at": "2025-03-16T02:10:56.977570"
+}

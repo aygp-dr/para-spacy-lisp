@@ -1,0 +1,25 @@
+{
+  "text": "--«Eh bien! amenez-le votre ami, s’il est agréable.»",
+  "entities": [
+    {
+      "text": "--«Eh",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Eh bien! amenez-le votre ami, s’il est agréable",
+      "start": 0,
+      "end": 50
+    },
+    {
+      "text": "»",
+      "start": 51,
+      "end": 52
+    }
+  ],
+  "tokens": 8,
+  "processed_at": "2025-03-16T02:10:55.761797"
+}

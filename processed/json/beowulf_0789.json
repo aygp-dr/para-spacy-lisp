@@ -1,0 +1,59 @@
+{
+  "text": "Mais elle, de même qu’elle avait cru que son refus d’argent n’était\nqu’une feinte, ne voyait qu’un prétexte dans le renseignement que\nSwann venait lui demander, sur la voiture à repeindre, ou la valeur à\nacheter. Car elle ne reconstituait pas les diverses phases de ces\ncrises qu’il traversait et dans l’idée qu’elle s’en faisait, elle\nomettait d’en comprendre le mécanisme, ne croyant qu’à ce qu’elle\nconnaissait d’avance, à la nécessaire, à l’infaillible et toujours\nidentique terminaison. Idée incomplète,--d’autant plus profonde\npeut-être--si on la jugeait du point de vue de Swann qui eût sans doute\ntrouvé qu’il était incompris d’Odette, comme un morphinomane ou un\ntuberculeux, persuadés qu’ils ont été arrêtés, l’un par un événement\nextérieur au moment où il allait se délivrer de son habitude\ninvétérée, l’autre par une indisposition accidentelle au moment où il\nallait être enfin rétabli, se sentent incompris du médecin qui\nn’attache pas la même importance qu’eux à ces prétendues contingences,\nsimples déguisements, selon lui, revêtus, pour redevenir sensibles à\nses malades, par le vice et l’état morbide qui, en réalité, n’ont pas\ncessé de peser incurablement sur eux tandis qu’ils berçaient des rêves\nde sagesse ou de guérison. Et de fait, l’amour de Swann en était\narrivé à ce degré où le médecin et, dans certaines affections, le\nchirurgien le plus audacieux, se demandent si priver un malade de son\nvice ou lui ôter son mal, est encore raisonnable ou même possible.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 134,
+      "end": 139
+    },
+    {
+      "text": "Idée",
+      "label": "ORG",
+      "start": 492,
+      "end": 496
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 580,
+      "end": 585
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1266,
+      "end": 1271
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais elle, de même qu’elle avait cru que son refus d’argent n’était\nqu’une feinte, ne voyait qu’un prétexte dans le renseignement que\nSwann venait lui demander, sur la voiture à repeindre, ou la valeur à\nacheter",
+      "start": 0,
+      "end": 211
+    },
+    {
+      "text": "Car elle ne reconstituait pas les diverses phases de ces\ncrises qu’il traversait et dans l’idée qu’elle s’en faisait, elle\nomettait d’en comprendre le mécanisme, ne croyant qu’à ce qu’elle\nconnaissait d’avance, à la nécessaire, à l’infaillible et toujours\nidentique terminaison",
+      "start": 212,
+      "end": 490
+    },
+    {
+      "text": "Idée incomplète,--d’autant plus profonde\npeut-être--si on la jugeait du point de vue de Swann qui eût sans doute\ntrouvé qu’il était incompris d’Odette, comme un morphinomane ou un\ntuberculeux, persuadés qu’ils ont été arrêtés, l’un par un événement\nextérieur au moment où il allait se délivrer de son habitude\ninvétérée, l’autre par une indisposition accidentelle au moment où il\nallait être enfin rétabli, se sentent incompris du médecin qui\nn’attache pas la même importance qu’eux à ces prétendues contingences,\nsimples déguisements, selon lui, revêtus, pour redevenir sensibles à\nses malades, par le vice et l’état morbide qui, en réalité, n’ont pas\ncessé de peser incurablement sur eux tandis qu’ils berçaient des rêves\nde sagesse ou de guérison",
+      "start": 491,
+      "end": 1241
+    },
+    {
+      "text": "Et de fait, l’amour de Swann en était\narrivé à ce degré où le médecin et, dans certaines affections, le\nchirurgien le plus audacieux, se demandent si priver un malade de son\nvice ou lui ôter son mal, est encore raisonnable ou même possible",
+      "start": 1242,
+      "end": 1482
+    }
+  ],
+  "tokens": 238,
+  "processed_at": "2025-03-16T02:10:56.912696"
+}

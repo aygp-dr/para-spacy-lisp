@@ -1,0 +1,42 @@
+{
+  "text": "--Je ne sais pas ce que me doit le chapitre mais je sais que je suis\ntapée de cent francs tous les ans par le curé, ce dont je me\npasserais. Enfin ces Cambremer ont un nom bien étonnant. Il finit\njuste à temps, mais il finit mal! dit-elle en riant.",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Enfin",
+      "label": "ORG",
+      "start": 141,
+      "end": 146
+    },
+    {
+      "text": "Cambremer",
+      "label": "ORG",
+      "start": 151,
+      "end": 160
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je ne sais pas ce que me doit le chapitre mais je sais que je suis\ntapée de cent francs tous les ans par le curé, ce dont je me\npasserais",
+      "start": 0,
+      "end": 139
+    },
+    {
+      "text": "Enfin ces Cambremer ont un nom bien étonnant",
+      "start": 140,
+      "end": 185
+    },
+    {
+      "text": "Il finit\njuste à temps, mais il finit mal! dit-elle en riant",
+      "start": 186,
+      "end": 247
+    }
+  ],
+  "tokens": 51,
+  "processed_at": "2025-03-16T02:10:57.201693"
+}

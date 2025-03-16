@@ -1,0 +1,70 @@
+{
+  "text": "--«Françoise, mais pour qui donc a-t-on sonné la cloche des morts? Ah!\nmon Dieu, ce sera pour Mme Rousseau. Voilà-t-il pas que j’avais oublié\nqu’elle a passé l’autre nuit. Ah! il est temps que le Bon Dieu me\nrappelle, je ne sais plus ce que j’ai fait de ma tête depuis la mort\nde mon pauvre Octave. Mais je vous fais perdre votre temps, ma fille.»",
+  "entities": [
+    {
+      "text": "--«Françoise,",
+      "label": "ORG",
+      "start": 0,
+      "end": 13
+    },
+    {
+      "text": "Dieu,",
+      "label": "ORG",
+      "start": 75,
+      "end": 80
+    },
+    {
+      "text": "Rousseau.",
+      "label": "ORG",
+      "start": 98,
+      "end": 107
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 200,
+      "end": 204
+    },
+    {
+      "text": "Octave.",
+      "label": "ORG",
+      "start": 291,
+      "end": 298
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 299,
+      "end": 303
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Françoise, mais pour qui donc a-t-on sonné la cloche des morts? Ah!\nmon Dieu, ce sera pour Mme Rousseau",
+      "start": 0,
+      "end": 106
+    },
+    {
+      "text": "Voilà-t-il pas que j’avais oublié\nqu’elle a passé l’autre nuit",
+      "start": 107,
+      "end": 170
+    },
+    {
+      "text": "Ah! il est temps que le Bon Dieu me\nrappelle, je ne sais plus ce que j’ai fait de ma tête depuis la mort\nde mon pauvre Octave",
+      "start": 171,
+      "end": 297
+    },
+    {
+      "text": "Mais je vous fais perdre votre temps, ma fille",
+      "start": 298,
+      "end": 345
+    },
+    {
+      "text": "»",
+      "start": 346,
+      "end": 347
+    }
+  ],
+  "tokens": 66,
+  "processed_at": "2025-03-16T02:10:54.647081"
+}

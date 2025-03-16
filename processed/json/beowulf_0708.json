@@ -1,0 +1,25 @@
+{
+  "text": "--«Ne vous dérangez pas, je passais par là, j’ai vu de la lumière, j’ai\nvoulu savoir si vous n’étiez plus souffrante.»",
+  "entities": [
+    {
+      "text": "--«Ne",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ne vous dérangez pas, je passais par là, j’ai vu de la lumière, j’ai\nvoulu savoir si vous n’étiez plus souffrante",
+      "start": 0,
+      "end": 116
+    },
+    {
+      "text": "»",
+      "start": 117,
+      "end": 118
+    }
+  ],
+  "tokens": 21,
+  "processed_at": "2025-03-16T02:10:56.673141"
+}

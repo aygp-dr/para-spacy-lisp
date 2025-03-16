@@ -1,0 +1,59 @@
+{
+  "text": "Or, quelques minutes à peine après que le petit pianiste avait\ncommencé de jouer chez Mme Verdurin, tout d’un coup après une note\nhaute longuement tenue pendant deux mesures, il vit approcher,\ns’échappant de sous cette sonorité prolongée et tendue comme un rideau\nsonore pour cacher le mystère de son incubation, il reconnut, secrète,\nbruissante et divisée, la phrase aérienne et odorante qu’il aimait. Et\nelle était si particulière, elle avait un charme si individuel et\nqu’aucun autre n’aurait pu remplacer, que ce fut pour Swann comme s’il\neût rencontré dans un salon ami une personne qu’il avait admirée dans\nla rue et désespérait de jamais retrouver. À la fin, elle s’éloigna,\nindicatrice, diligente, parmi les ramifications de son parfum,\nlaissant sur le visage de Swann le reflet de son sourire. Mais\nmaintenant il pouvait demander le nom de son inconnue (on lui dit que\nc’était l’andante de la sonate pour piano et violon de Vinteuil), il\nla tenait, il pourrait l’avoir chez lui aussi souvent qu’il voudrait,\nessayer d’apprendre son langage et son secret.",
+  "entities": [
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 90,
+      "end": 99
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 526,
+      "end": 531
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 771,
+      "end": 776
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 803,
+      "end": 807
+    },
+    {
+      "text": "Vinteuil),",
+      "label": "ORG",
+      "start": 933,
+      "end": 943
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Or, quelques minutes à peine après que le petit pianiste avait\ncommencé de jouer chez Mme Verdurin, tout d’un coup après une note\nhaute longuement tenue pendant deux mesures, il vit approcher,\ns’échappant de sous cette sonorité prolongée et tendue comme un rideau\nsonore pour cacher le mystère de son incubation, il reconnut, secrète,\nbruissante et divisée, la phrase aérienne et odorante qu’il aimait",
+      "start": 0,
+      "end": 401
+    },
+    {
+      "text": "Et\nelle était si particulière, elle avait un charme si individuel et\nqu’aucun autre n’aurait pu remplacer, que ce fut pour Swann comme s’il\neût rencontré dans un salon ami une personne qu’il avait admirée dans\nla rue et désespérait de jamais retrouver",
+      "start": 402,
+      "end": 654
+    },
+    {
+      "text": "À la fin, elle s’éloigna,\nindicatrice, diligente, parmi les ramifications de son parfum,\nlaissant sur le visage de Swann le reflet de son sourire",
+      "start": 655,
+      "end": 801
+    },
+    {
+      "text": "Mais\nmaintenant il pouvait demander le nom de son inconnue (on lui dit que\nc’était l’andante de la sonate pour piano et violon de Vinteuil), il\nla tenait, il pourrait l’avoir chez lui aussi souvent qu’il voudrait,\nessayer d’apprendre son langage et son secret",
+      "start": 802,
+      "end": 1062
+    }
+  ],
+  "tokens": 175,
+  "processed_at": "2025-03-16T02:10:55.943312"
+}

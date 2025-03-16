@@ -1,0 +1,65 @@
+{
+  "text": "Le cocher revint, mais, au moment où il s’arrêta devant Swann,\ncelui-ci ne lui dit pas: «Avez-vous trouvé cette dame?» mais:\n«Faites-moi donc penser demain à commander du bois, je crois que la\nprovision doit commencer à s’épuiser.» Peut-être se disait-il que si\nRémi avait trouvé Odette dans un café où elle l’attendait, la fin de\nla soirée néfaste était déjà anéantie par la réalisation commencée de\nla fin de soirée bienheureuse et qu’il n’avait pas besoin de se\npresser d’atteindre un bonheur capturé et en lieu sûr, qui ne\ns’échapperait plus. Mais aussi c’était par force d’inertie; il avait\ndans l’âme le manque de souplesse que certains êtres ont dans le\ncorps, ceux-là qui au moment d’éviter un choc, d’éloigner une flamme\nde leur habit, d’accomplir un mouvement urgent, prennent leur temps,\ncommencent par rester une seconde dans la situation où ils étaient\nauparavant comme pour y trouver leur point d’appui, leur élan. Et sans\ndoute si le cocher l’avait interrompu en lui disant: «Cette dame est\nlà», il eut répondu: «Ah! oui, c’est vrai, la course que je vous avais\ndonnée, tiens je n’aurais pas cru», et aurait continué à lui parler\nprovision de bois pour lui cacher l’émotion qu’il avait eue et se\nlaisser à lui-même le temps de rompre avec l’inquiétude et de se\ndonner au bonheur.",
+  "entities": [
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 56,
+      "end": 62
+    },
+    {
+      "text": "Rémi",
+      "label": "ORG",
+      "start": 262,
+      "end": 266
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 280,
+      "end": 286
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 547,
+      "end": 551
+    },
+    {
+      "text": "«Cette",
+      "label": "ORG",
+      "start": 990,
+      "end": 996
+    },
+    {
+      "text": "«Ah!",
+      "label": "ORG",
+      "start": 1027,
+      "end": 1031
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le cocher revint, mais, au moment où il s’arrêta devant Swann,\ncelui-ci ne lui dit pas: «Avez-vous trouvé cette dame?» mais:\n«Faites-moi donc penser demain à commander du bois, je crois que la\nprovision doit commencer à s’épuiser",
+      "start": 0,
+      "end": 229
+    },
+    {
+      "text": "» Peut-être se disait-il que si\nRémi avait trouvé Odette dans un café où elle l’attendait, la fin de\nla soirée néfaste était déjà anéantie par la réalisation commencée de\nla fin de soirée bienheureuse et qu’il n’avait pas besoin de se\npresser d’atteindre un bonheur capturé et en lieu sûr, qui ne\ns’échapperait plus",
+      "start": 230,
+      "end": 545
+    },
+    {
+      "text": "Mais aussi c’était par force d’inertie; il avait\ndans l’âme le manque de souplesse que certains êtres ont dans le\ncorps, ceux-là qui au moment d’éviter un choc, d’éloigner une flamme\nde leur habit, d’accomplir un mouvement urgent, prennent leur temps,\ncommencent par rester une seconde dans la situation où ils étaient\nauparavant comme pour y trouver leur point d’appui, leur élan",
+      "start": 546,
+      "end": 927
+    },
+    {
+      "text": "Et sans\ndoute si le cocher l’avait interrompu en lui disant: «Cette dame est\nlà», il eut répondu: «Ah! oui, c’est vrai, la course que je vous avais\ndonnée, tiens je n’aurais pas cru», et aurait continué à lui parler\nprovision de bois pour lui cacher l’émotion qu’il avait eue et se\nlaisser à lui-même le temps de rompre avec l’inquiétude et de se\ndonner au bonheur",
+      "start": 928,
+      "end": 1293
+    }
+  ],
+  "tokens": 221,
+  "processed_at": "2025-03-16T02:10:56.175320"
+}

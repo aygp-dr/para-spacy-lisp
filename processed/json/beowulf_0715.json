@@ -1,0 +1,186 @@
+{
+  "text": "Quand il voulut dire adieu à Odette pour rentrer, elle lui demanda de\nrester encore et le retint même vivement, en lui prenant le bras, au\nmoment où il allait ouvrir là porte pour sortir. Mais il n’y prit pas\ngarde, car, dans la multitude des gestes, des propos, des petits\nincidents qui remplissent une conversation, il est inévitable que nous\npassions, sans y rien remarquer qui éveille notre attention, près de\nceux qui cachent une vérité que nos soupçons cherchent au hasard, et\nque nous nous arrêtions au contraire à ceux sous lesquels il n’y a\nrien. Elle lui redisait tout le temps: «Quel malheur que toi, qui ne\nviens jamais l’après-midi, pour une fois que cela t’arrive, je ne\nt’aie pas vu.» Il savait bien qu’elle n’était pas assez amoureuse de\nlui pour avoir un regret si vif d’avoir manqué sa visite, mais comme\nelle était bonne, désireuse de lui faire plaisir, et souvent triste\nquand elle l’avait contrarié, il trouva tout naturel qu’elle le fût\ncette fois de l’avoir privé de ce plaisir de passer une heure ensemble\nqui était très grand, non pour elle, mais pour lui. C’était pourtant\nune chose assez peu importante pour que l’air douloureux qu’elle\ncontinuait d’avoir finît par l’étonner. Elle rappelait ainsi plus\nencore qu’il ne le trouvait d’habitude, les figures de femmes du\npeintre de la Primavera. Elle avait en ce moment leur visage abattu et\nnavré qui semble succomber sous le poids d’une douleur trop lourde\npour elles, simplement quand elles laissent l’enfant Jésus jouer avec\nune grenade ou regardent Moïse verser de l’eau dans une auge. Il lui\navait déjà vu une fois une telle tristesse, mais ne savait plus quand.\nEt tout d’un coup, il se rappela: c’était quand Odette avait menti en\nparlant à Mme Verdurin le lendemain de ce dîner où elle n’était pas\nvenue sous prétexte qu’elle était malade et en réalité pour rester\navec Swann. Certes, eût-elle été la plus scrupuleuse des femmes\nqu’elle n’aurait pu avoir de remords d’un mensonge aussi innocent.\nMais ceux que faisait couramment Odette l’étaient moins et servaient à\nempêcher des découvertes qui auraient pu lui créer avec les uns ou\navec les autres, de terribles difficultés. Aussi quand elle mentait,\nprise de peur, se sentant peu armée pour se défendre, incertaine du\nsuccès, elle avait envie de pleurer, par fatigue, comme certains\nenfants qui n’ont pas dormi. Puis elle savait que son mensonge lésait\nd’ordinaire gravement l’homme à qui elle le faisait, et à la merci\nduquel elle allait peut-être tomber si elle mentait mal. Alors elle se\nsentait à la fois humble et coupable devant lui. Et quand elle avait à\nfaire un mensonge insignifiant et mondain, par association de\nsensations et de souvenirs, elle éprouvait le malaise d’un surmenage\net le regret d’une méchanceté.",
+  "entities": [
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 29,
+      "end": 35
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 188,
+      "end": 192
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 556,
+      "end": 560
+    },
+    {
+      "text": "«Quel",
+      "label": "ORG",
+      "start": 589,
+      "end": 594
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1204,
+      "end": 1208
+    },
+    {
+      "text": "Primavera.",
+      "label": "ORG",
+      "start": 1309,
+      "end": 1319
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1320,
+      "end": 1324
+    },
+    {
+      "text": "Jésus",
+      "label": "ORG",
+      "start": 1486,
+      "end": 1491
+    },
+    {
+      "text": "Moïse",
+      "label": "ORG",
+      "start": 1528,
+      "end": 1533
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1691,
+      "end": 1697
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 1727,
+      "end": 1735
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 1853,
+      "end": 1859
+    },
+    {
+      "text": "Certes,",
+      "label": "ORG",
+      "start": 1860,
+      "end": 1867
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1979,
+      "end": 1983
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 2012,
+      "end": 2018
+    },
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 2348,
+      "end": 2352
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quand il voulut dire adieu à Odette pour rentrer, elle lui demanda de\nrester encore et le retint même vivement, en lui prenant le bras, au\nmoment où il allait ouvrir là porte pour sortir",
+      "start": 0,
+      "end": 186
+    },
+    {
+      "text": "Mais il n’y prit pas\ngarde, car, dans la multitude des gestes, des propos, des petits\nincidents qui remplissent une conversation, il est inévitable que nous\npassions, sans y rien remarquer qui éveille notre attention, près de\nceux qui cachent une vérité que nos soupçons cherchent au hasard, et\nque nous nous arrêtions au contraire à ceux sous lesquels il n’y a\nrien",
+      "start": 187,
+      "end": 554
+    },
+    {
+      "text": "Elle lui redisait tout le temps: «Quel malheur que toi, qui ne\nviens jamais l’après-midi, pour une fois que cela t’arrive, je ne\nt’aie pas vu",
+      "start": 555,
+      "end": 697
+    },
+    {
+      "text": "» Il savait bien qu’elle n’était pas assez amoureuse de\nlui pour avoir un regret si vif d’avoir manqué sa visite, mais comme\nelle était bonne, désireuse de lui faire plaisir, et souvent triste\nquand elle l’avait contrarié, il trouva tout naturel qu’elle le fût\ncette fois de l’avoir privé de ce plaisir de passer une heure ensemble\nqui était très grand, non pour elle, mais pour lui",
+      "start": 698,
+      "end": 1080
+    },
+    {
+      "text": "C’était pourtant\nune chose assez peu importante pour que l’air douloureux qu’elle\ncontinuait d’avoir finît par l’étonner",
+      "start": 1081,
+      "end": 1202
+    },
+    {
+      "text": "Elle rappelait ainsi plus\nencore qu’il ne le trouvait d’habitude, les figures de femmes du\npeintre de la Primavera",
+      "start": 1203,
+      "end": 1318
+    },
+    {
+      "text": "Elle avait en ce moment leur visage abattu et\nnavré qui semble succomber sous le poids d’une douleur trop lourde\npour elles, simplement quand elles laissent l’enfant Jésus jouer avec\nune grenade ou regardent Moïse verser de l’eau dans une auge",
+      "start": 1319,
+      "end": 1563
+    },
+    {
+      "text": "Il lui\navait déjà vu une fois une telle tristesse, mais ne savait plus quand",
+      "start": 1564,
+      "end": 1641
+    },
+    {
+      "text": "Et tout d’un coup, il se rappela: c’était quand Odette avait menti en\nparlant à Mme Verdurin le lendemain de ce dîner où elle n’était pas\nvenue sous prétexte qu’elle était malade et en réalité pour rester\navec Swann",
+      "start": 1642,
+      "end": 1858
+    },
+    {
+      "text": "Certes, eût-elle été la plus scrupuleuse des femmes\nqu’elle n’aurait pu avoir de remords d’un mensonge aussi innocent",
+      "start": 1859,
+      "end": 1977
+    },
+    {
+      "text": "Mais ceux que faisait couramment Odette l’étaient moins et servaient à\nempêcher des découvertes qui auraient pu lui créer avec les uns ou\navec les autres, de terribles difficultés",
+      "start": 1978,
+      "end": 2158
+    },
+    {
+      "text": "Aussi quand elle mentait,\nprise de peur, se sentant peu armée pour se défendre, incertaine du\nsuccès, elle avait envie de pleurer, par fatigue, comme certains\nenfants qui n’ont pas dormi",
+      "start": 2159,
+      "end": 2346
+    },
+    {
+      "text": "Puis elle savait que son mensonge lésait\nd’ordinaire gravement l’homme à qui elle le faisait, et à la merci\nduquel elle allait peut-être tomber si elle mentait mal",
+      "start": 2347,
+      "end": 2511
+    },
+    {
+      "text": "Alors elle se\nsentait à la fois humble et coupable devant lui",
+      "start": 2512,
+      "end": 2574
+    },
+    {
+      "text": "Et quand elle avait à\nfaire un mensonge insignifiant et mondain, par association de\nsensations et de souvenirs, elle éprouvait le malaise d’un surmenage\net le regret d’une méchanceté",
+      "start": 2575,
+      "end": 2758
+    }
+  ],
+  "tokens": 469,
+  "processed_at": "2025-03-16T02:10:56.695991"
+}

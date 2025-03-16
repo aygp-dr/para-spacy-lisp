@@ -1,0 +1,75 @@
+{
+  "text": "--«Ah! à moins de ça, disait ma tante. Il faudrait qu’elle soit venue\npour les fêtes. C’est cela! Il n’y a pas besoin de chercher, elle sera\nvenue pour les fêtes. Mais alors nous pourrions bien voir tout à\nl’heure Mme Sazerat venir sonner chez sa sœur pour le déjeuner. Ce\nsera ça! J’ai vu le petit de chez Galopin qui passait avec une tarte!\nVous verrez que la tarte allait chez Mme Goupil.»",
+  "entities": [
+    {
+      "text": "--«Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 163,
+      "end": 167
+    },
+    {
+      "text": "Sazerat",
+      "label": "ORG",
+      "start": 218,
+      "end": 225
+    },
+    {
+      "text": "Galopin",
+      "label": "ORG",
+      "start": 307,
+      "end": 314
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 343,
+      "end": 347
+    },
+    {
+      "text": "Goupil.»",
+      "label": "ORG",
+      "start": 384,
+      "end": 392
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ah! à moins de ça, disait ma tante",
+      "start": 0,
+      "end": 37
+    },
+    {
+      "text": "Il faudrait qu’elle soit venue\npour les fêtes",
+      "start": 38,
+      "end": 84
+    },
+    {
+      "text": "C’est cela! Il n’y a pas besoin de chercher, elle sera\nvenue pour les fêtes",
+      "start": 85,
+      "end": 161
+    },
+    {
+      "text": "Mais alors nous pourrions bien voir tout à\nl’heure Mme Sazerat venir sonner chez sa sœur pour le déjeuner",
+      "start": 162,
+      "end": 268
+    },
+    {
+      "text": "Ce\nsera ça! J’ai vu le petit de chez Galopin qui passait avec une tarte!\nVous verrez que la tarte allait chez Mme Goupil",
+      "start": 269,
+      "end": 390
+    },
+    {
+      "text": "»",
+      "start": 391,
+      "end": 392
+    }
+  ],
+  "tokens": 74,
+  "processed_at": "2025-03-16T02:10:54.680856"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "--Mais si... protesta Swann.",
+  "entities": [
+    {
+      "text": "--Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 22,
+      "end": 28
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Mais si",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "protesta Swann",
+      "start": 12,
+      "end": 27
+    }
+  ],
+  "tokens": 4,
+  "processed_at": "2025-03-16T02:10:56.455909"
+}

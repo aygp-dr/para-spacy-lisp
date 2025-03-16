@@ -1,0 +1,20 @@
+{
+  "text": "Les Verdurin n’avaient parlé qu’à demi-voix et en termes vagues, mais\nle peintre, distrait sans doute, s’écria:",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 4,
+      "end": 12
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Les Verdurin n’avaient parlé qu’à demi-voix et en termes vagues, mais\nle peintre, distrait sans doute, s’écria:",
+      "start": 0,
+      "end": 111
+    }
+  ],
+  "tokens": 17,
+  "processed_at": "2025-03-16T02:10:56.721239"
+}

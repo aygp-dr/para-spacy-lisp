@@ -1,0 +1,20 @@
+{
+  "text": "Et lui, poursuivant l’idée de la noblesse de Forcheville qui\nl’occupait depuis le commencement du dîner, lui dit:",
+  "entities": [
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 45,
+      "end": 56
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et lui, poursuivant l’idée de la noblesse de Forcheville qui\nl’occupait depuis le commencement du dîner, lui dit:",
+      "start": 0,
+      "end": 113
+    }
+  ],
+  "tokens": 18,
+  "processed_at": "2025-03-16T02:10:56.517628"
+}

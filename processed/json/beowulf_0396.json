@@ -1,0 +1,30 @@
+{
+  "text": "--«Mais voyons, est-ce qu’on peut refuser quelque chose à une petite\nperfection comme ça. Taisez-vous, on ne vous demande pas votre avis,\nje vous dis que vous êtes une perfection.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais voyons, est-ce qu’on peut refuser quelque chose à une petite\nperfection comme ça",
+      "start": 0,
+      "end": 88
+    },
+    {
+      "text": "Taisez-vous, on ne vous demande pas votre avis,\nje vous dis que vous êtes une perfection",
+      "start": 89,
+      "end": 178
+    },
+    {
+      "text": "»",
+      "start": 179,
+      "end": 180
+    }
+  ],
+  "tokens": 30,
+  "processed_at": "2025-03-16T02:10:55.755263"
+}

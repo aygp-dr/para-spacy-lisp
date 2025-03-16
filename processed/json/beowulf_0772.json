@@ -1,0 +1,68 @@
+{
+  "text": "Mais, à d’autres moments, sa douleur le reprenait, il s’imaginait\nqu’Odette était la maîtresse de Forcheville et que quand tous deux\nl’avaient vu, du fond du landau des Verdurin, au Bois, la veille de la\nfête de Chatou où il n’avait pas été invité, la prier vainement, avec\ncet air de désespoir qu’avait remarqué jusqu’à son cocher, de revenir\navec lui, puis s’en retourner de son côté, seul et vaincu, elle avait\ndû avoir pour le désigner à Forcheville et lui dire: «Hein! ce qu’il\nrage!» les mêmes regards, brillants, malicieux, abaissés et sournois,\nque le jour où celui-ci avait chassé Saniette de chez les Verdurin.",
+  "entities": [
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 98,
+      "end": 109
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 169,
+      "end": 178
+    },
+    {
+      "text": "Bois,",
+      "label": "ORG",
+      "start": 182,
+      "end": 187
+    },
+    {
+      "text": "Chatou",
+      "label": "ORG",
+      "start": 212,
+      "end": 218
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 442,
+      "end": 453
+    },
+    {
+      "text": "«Hein!",
+      "label": "ORG",
+      "start": 467,
+      "end": 473
+    },
+    {
+      "text": "Saniette",
+      "label": "ORG",
+      "start": 590,
+      "end": 598
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 611,
+      "end": 620
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais, à d’autres moments, sa douleur le reprenait, il s’imaginait\nqu’Odette était la maîtresse de Forcheville et que quand tous deux\nl’avaient vu, du fond du landau des Verdurin, au Bois, la veille de la\nfête de Chatou où il n’avait pas été invité, la prier vainement, avec\ncet air de désespoir qu’avait remarqué jusqu’à son cocher, de revenir\navec lui, puis s’en retourner de son côté, seul et vaincu, elle avait\ndû avoir pour le désigner à Forcheville et lui dire: «Hein! ce qu’il\nrage!» les mêmes regards, brillants, malicieux, abaissés et sournois,\nque le jour où celui-ci avait chassé Saniette de chez les Verdurin",
+      "start": 0,
+      "end": 619
+    }
+  ],
+  "tokens": 106,
+  "processed_at": "2025-03-16T02:10:56.865264"
+}

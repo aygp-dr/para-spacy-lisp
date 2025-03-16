@@ -1,0 +1,26 @@
+{
+  "text": "--Comment, vous ne connaissez pas le fameux Brichot? il est célèbre\ndans toute l’Europe.",
+  "entities": [
+    {
+      "text": "--Comment,",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Brichot?",
+      "label": "ORG",
+      "start": 44,
+      "end": 52
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Comment, vous ne connaissez pas le fameux Brichot? il est célèbre\ndans toute l’Europe",
+      "start": 0,
+      "end": 87
+    }
+  ],
+  "tokens": 14,
+  "processed_at": "2025-03-16T02:10:56.325963"
+}

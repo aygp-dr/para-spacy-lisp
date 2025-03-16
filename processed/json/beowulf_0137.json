@@ -1,0 +1,51 @@
+{
+  "text": "J’éprouvais une petite déception, car cette jeune dame ne différait\npas des autres jolies femmes que j’avais vues quelquefois dans ma\nfamille notamment de la fille d’un de nos cousins chez lequel j’allais\ntous les ans le premier janvier. Mieux habillée seulement, l’amie de\nmon oncle avait le même regard vif et bon, elle avait l’air aussi\nfranc et aimant. Je ne lui trouvais rien de l’aspect théâtral que\nj’admirais dans les photographies d’actrices, ni de l’expression\ndiabolique qui eût été en rapport avec la vie qu’elle devait mener.\nJ’avais peine à croire que ce fût une cocotte et surtout je n’aurais\npas cru que ce fût une cocotte chic si je n’avais pas vu la voiture à\ndeux chevaux, la robe rose, le collier de perles, si je n’avais pas su\nque mon oncle n’en connaissait que de la plus haute volée. Mais je me\ndemandais comment le millionnaire qui lui donnait sa voiture et son\nhôtel et ses bijoux pouvait avoir du plaisir à manger sa fortune pour\nune personne qui avait l’air si simple et comme il faut. Et pourtant\nen pensant à ce que devait être sa vie, l’immoralité m’en troublait\npeut-être plus que si elle avait été concrétisée devant moi en une\napparence spéciale,--d’être ainsi invisible comme le secret de quelque\nroman, de quelque scandale qui avait fait sortir de chez ses parents\nbourgeois et voué à tout le monde, qui avait fait épanouir en beauté\net haussé jusqu’au demi-monde et à la notoriété celle que ses jeux de\nphysionomie, ses intonations de voix, pareils à tant d’autres que je\nconnaissais déjà, me faisaient malgré moi considérer comme une jeune\nfille de bonne famille, qui n’était plus d’aucune famille.",
+  "entities": [
+    {
+      "text": "Mieux",
+      "label": "ORG",
+      "start": 238,
+      "end": 243
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 808,
+      "end": 812
+    }
+  ],
+  "sentences": [
+    {
+      "text": "J’éprouvais une petite déception, car cette jeune dame ne différait\npas des autres jolies femmes que j’avais vues quelquefois dans ma\nfamille notamment de la fille d’un de nos cousins chez lequel j’allais\ntous les ans le premier janvier",
+      "start": 0,
+      "end": 236
+    },
+    {
+      "text": "Mieux habillée seulement, l’amie de\nmon oncle avait le même regard vif et bon, elle avait l’air aussi\nfranc et aimant",
+      "start": 237,
+      "end": 355
+    },
+    {
+      "text": "Je ne lui trouvais rien de l’aspect théâtral que\nj’admirais dans les photographies d’actrices, ni de l’expression\ndiabolique qui eût été en rapport avec la vie qu’elle devait mener",
+      "start": 356,
+      "end": 537
+    },
+    {
+      "text": "J’avais peine à croire que ce fût une cocotte et surtout je n’aurais\npas cru que ce fût une cocotte chic si je n’avais pas vu la voiture à\ndeux chevaux, la robe rose, le collier de perles, si je n’avais pas su\nque mon oncle n’en connaissait que de la plus haute volée",
+      "start": 538,
+      "end": 806
+    },
+    {
+      "text": "Mais je me\ndemandais comment le millionnaire qui lui donnait sa voiture et son\nhôtel et ses bijoux pouvait avoir du plaisir à manger sa fortune pour\nune personne qui avait l’air si simple et comme il faut",
+      "start": 807,
+      "end": 1012
+    },
+    {
+      "text": "Et pourtant\nen pensant à ce que devait être sa vie, l’immoralité m’en troublait\npeut-être plus que si elle avait été concrétisée devant moi en une\napparence spéciale,--d’être ainsi invisible comme le secret de quelque\nroman, de quelque scandale qui avait fait sortir de chez ses parents\nbourgeois et voué à tout le monde, qui avait fait épanouir en beauté\net haussé jusqu’au demi-monde et à la notoriété celle que ses jeux de\nphysionomie, ses intonations de voix, pareils à tant d’autres que je\nconnaissais déjà, me faisaient malgré moi considérer comme une jeune\nfille de bonne famille, qui n’était plus d’aucune famille",
+      "start": 1013,
+      "end": 1635
+    }
+  ],
+  "tokens": 284,
+  "processed_at": "2025-03-16T02:10:54.880136"
+}

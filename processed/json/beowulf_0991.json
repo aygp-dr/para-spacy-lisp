@@ -1,0 +1,139 @@
+{
+  "text": "Si elle me donnait parfois de ces marques d’amitié, elle me faisait\naussi de la peine en ayant l’air de ne pas avoir de plaisir à me voir,\net cela arrivait souvent les jours mêmes sur lesquels j’avais le plus\ncompté pour réaliser mes espérances. J’étais sûr que Gilberte\nviendrait aux Champs-Élysées et j’éprouvais une allégresse qui me\nparaissait seulement la vague anticipation d’un grand bonheur\nquand,--entrant dès le matin au salon pour embrasser maman déjà toute\nprête, la tour de ses cheveux noirs entièrement construite, et ses\nbelles mains blanches et potelées sentant encore le savon,--j’avais\nappris, en voyant une colonne de poussière se tenir debout toute seule\nau-dessus du piano, et en entendant un orgue de Barbarie jouer sous la\nfenêtre: «En revenant de la revue», que l’hiver recevait jusqu’au soir\nla visite inopinée et radieuse d’une journée de printemps. Pendant que\nnous déjeunions, en ouvrant sa croisée, la dame d’en face avait fait\ndécamper en un clin d’œil, d’à côté de ma chaise,--rayant d’un seul\nbond toute la largeur de notre salle à manger--un rayon qui y avait\ncommencé sa sieste et était déjà revenu la continuer l’instant\nd’après. Au collège, à la classe d’une heure, le soleil me faisait\nlanguir d’impatience et d’ennui en laissant traîner une lueur dorée\njusque sur mon pupitre, comme une invitation à la fête où je ne\npourrais arriver avant trois heures, jusqu’au moment où Françoise\nvenait me chercher à la sortie, et où nous nous acheminions vers les\nChamps-Élysées par les rues décorées de lumière, encombrées par la\nfoule, et où les balcons, descellés par le soleil et vaporeux,\nflottaient devant les maisons comme des nuages d’or. Hélas! aux\nChamps-Élysées je ne trouvais pas Gilberte, elle n’était pas encore\narrivée. Immobile sur la pelouse nourrie par le soleil invisible qui\nçà et là faisait flamboyer la pointe d’un brin d’herbe, et sur\nlaquelle les pigeons qui s’y étaient posés avaient l’air de sculptures\nantiques que la pioche du jardinier a ramenées à la surface d’un sol\nauguste, je restais les yeux fixés sur l’horizon, je m’attendais à\ntout moment à voir apparaître l’image de Gilberte suivant son\ninstitutrice, derrière la statue qui semblait tendre l’enfant qu’elle\nportait et qui ruisselait de rayons, à la bénédiction du soleil. La\nvieille lectrice des Débats était assise sur son fauteuil, toujours à\nla même place, elle interpellait un gardien à qui elle faisait un\ngeste amical de la main en lui criant: «Quel joli temps!» Et la\npréposée s’étant approchée d’elle pour percevoir le prix du fauteuil,\nelle faisait mille minauderies en mettant dans l’ouverture de son gant\nle ticket de dix centimes comme si ç’avait été un bouquet, pour qui\nelle cherchait, par amabilité pour le donateur, la place la plus\nflatteuse possible. Quand elle l’avait trouvée, elle faisait exécuter\nune évolution circulaire à son cou, redressait son boa, et plantait\nsur la chaisière, en lui montrant le bout de papier jaune qui\ndépassait sur son poignet, le beau sourire dont une femme, en\nindiquant son corsage à un jeune homme, lui dit: «Vous reconnaissez\nvos roses!»",
+  "entities": [
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 262,
+      "end": 270
+    },
+    {
+      "text": "Champs-Élysées",
+      "label": "ORG",
+      "start": 285,
+      "end": 299
+    },
+    {
+      "text": "Barbarie",
+      "label": "ORG",
+      "start": 723,
+      "end": 731
+    },
+    {
+      "text": "Pendant",
+      "label": "ORG",
+      "start": 876,
+      "end": 883
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1411,
+      "end": 1420
+    },
+    {
+      "text": "Champs-Élysées",
+      "label": "ORG",
+      "start": 1490,
+      "end": 1504
+    },
+    {
+      "text": "Hélas!",
+      "label": "ORG",
+      "start": 1673,
+      "end": 1679
+    },
+    {
+      "text": "Champs-Élysées",
+      "label": "ORG",
+      "start": 1684,
+      "end": 1698
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 1718,
+      "end": 1727
+    },
+    {
+      "text": "Immobile",
+      "label": "ORG",
+      "start": 1761,
+      "end": 1769
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 2132,
+      "end": 2140
+    },
+    {
+      "text": "Débats",
+      "label": "ORG",
+      "start": 2312,
+      "end": 2318
+    },
+    {
+      "text": "«Quel",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2471
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 2785,
+      "end": 2790
+    },
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 3076,
+      "end": 3081
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Si elle me donnait parfois de ces marques d’amitié, elle me faisait\naussi de la peine en ayant l’air de ne pas avoir de plaisir à me voir,\net cela arrivait souvent les jours mêmes sur lesquels j’avais le plus\ncompté pour réaliser mes espérances",
+      "start": 0,
+      "end": 244
+    },
+    {
+      "text": "J’étais sûr que Gilberte\nviendrait aux Champs-Élysées et j’éprouvais une allégresse qui me\nparaissait seulement la vague anticipation d’un grand bonheur\nquand,--entrant dès le matin au salon pour embrasser maman déjà toute\nprête, la tour de ses cheveux noirs entièrement construite, et ses\nbelles mains blanches et potelées sentant encore le savon,--j’avais\nappris, en voyant une colonne de poussière se tenir debout toute seule\nau-dessus du piano, et en entendant un orgue de Barbarie jouer sous la\nfenêtre: «En revenant de la revue», que l’hiver recevait jusqu’au soir\nla visite inopinée et radieuse d’une journée de printemps",
+      "start": 245,
+      "end": 874
+    },
+    {
+      "text": "Pendant que\nnous déjeunions, en ouvrant sa croisée, la dame d’en face avait fait\ndécamper en un clin d’œil, d’à côté de ma chaise,--rayant d’un seul\nbond toute la largeur de notre salle à manger--un rayon qui y avait\ncommencé sa sieste et était déjà revenu la continuer l’instant\nd’après",
+      "start": 875,
+      "end": 1163
+    },
+    {
+      "text": "Au collège, à la classe d’une heure, le soleil me faisait\nlanguir d’impatience et d’ennui en laissant traîner une lueur dorée\njusque sur mon pupitre, comme une invitation à la fête où je ne\npourrais arriver avant trois heures, jusqu’au moment où Françoise\nvenait me chercher à la sortie, et où nous nous acheminions vers les\nChamps-Élysées par les rues décorées de lumière, encombrées par la\nfoule, et où les balcons, descellés par le soleil et vaporeux,\nflottaient devant les maisons comme des nuages d’or",
+      "start": 1164,
+      "end": 1671
+    },
+    {
+      "text": "Hélas! aux\nChamps-Élysées je ne trouvais pas Gilberte, elle n’était pas encore\narrivée",
+      "start": 1672,
+      "end": 1759
+    },
+    {
+      "text": "Immobile sur la pelouse nourrie par le soleil invisible qui\nçà et là faisait flamboyer la pointe d’un brin d’herbe, et sur\nlaquelle les pigeons qui s’y étaient posés avaient l’air de sculptures\nantiques que la pioche du jardinier a ramenées à la surface d’un sol\nauguste, je restais les yeux fixés sur l’horizon, je m’attendais à\ntout moment à voir apparaître l’image de Gilberte suivant son\ninstitutrice, derrière la statue qui semblait tendre l’enfant qu’elle\nportait et qui ruisselait de rayons, à la bénédiction du soleil",
+      "start": 1760,
+      "end": 2286
+    },
+    {
+      "text": "La\nvieille lectrice des Débats était assise sur son fauteuil, toujours à\nla même place, elle interpellait un gardien à qui elle faisait un\ngeste amical de la main en lui criant: «Quel joli temps!» Et la\npréposée s’étant approchée d’elle pour percevoir le prix du fauteuil,\nelle faisait mille minauderies en mettant dans l’ouverture de son gant\nle ticket de dix centimes comme si ç’avait été un bouquet, pour qui\nelle cherchait, par amabilité pour le donateur, la place la plus\nflatteuse possible",
+      "start": 2287,
+      "end": 2783
+    },
+    {
+      "text": "Quand elle l’avait trouvée, elle faisait exécuter\nune évolution circulaire à son cou, redressait son boa, et plantait\nsur la chaisière, en lui montrant le bout de papier jaune qui\ndépassait sur son poignet, le beau sourire dont une femme, en\nindiquant son corsage à un jeune homme, lui dit: «Vous reconnaissez\nvos roses!»",
+      "start": 2784,
+      "end": 3106
+    }
+  ],
+  "tokens": 515,
+  "processed_at": "2025-03-16T02:10:57.553369"
+}

@@ -1,0 +1,70 @@
+{
+  "text": "--«Mais non, Françoise, disait ma tante, c’est-à-dire si, vous savez\nbien que maintenant les moments où je n’ai pas de faiblesse sont bien\nrares; un jour je passerai comme Mme Rousseau sans avoir eu le temps\nde me reconnaître; mais ce n’est pas pour cela que je sonne.\nCroyez-vous pas que je viens de voir comme je vous vois Mme Goupil\navec une fillette que je ne connais point. Allez donc chercher deux\nsous de sel chez Camus. C’est bien rare si Théodore ne peut pas vous\ndire qui c’est.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 13,
+      "end": 23
+    },
+    {
+      "text": "Rousseau",
+      "label": "ORG",
+      "start": 176,
+      "end": 184
+    },
+    {
+      "text": "Goupil",
+      "label": "ORG",
+      "start": 329,
+      "end": 335
+    },
+    {
+      "text": "Camus.",
+      "label": "ORG",
+      "start": 421,
+      "end": 427
+    },
+    {
+      "text": "Théodore",
+      "label": "ORG",
+      "start": 447,
+      "end": 455
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais non, Françoise, disait ma tante, c’est-à-dire si, vous savez\nbien que maintenant les moments où je n’ai pas de faiblesse sont bien\nrares; un jour je passerai comme Mme Rousseau sans avoir eu le temps\nde me reconnaître; mais ce n’est pas pour cela que je sonne",
+      "start": 0,
+      "end": 267
+    },
+    {
+      "text": "Croyez-vous pas que je viens de voir comme je vous vois Mme Goupil\navec une fillette que je ne connais point",
+      "start": 268,
+      "end": 377
+    },
+    {
+      "text": "Allez donc chercher deux\nsous de sel chez Camus",
+      "start": 378,
+      "end": 426
+    },
+    {
+      "text": "C’est bien rare si Théodore ne peut pas vous\ndire qui c’est",
+      "start": 427,
+      "end": 487
+    },
+    {
+      "text": "»",
+      "start": 488,
+      "end": 489
+    }
+  ],
+  "tokens": 90,
+  "processed_at": "2025-03-16T02:10:54.657746"
+}

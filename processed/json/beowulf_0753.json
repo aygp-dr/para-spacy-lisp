@@ -1,0 +1,102 @@
+{
+  "text": "--Je te jure, lui disait-il, quelques instants avant qu’elle partît\npour le théâtre, qu’en te demandant de ne pas sortir, tous mes\nsouhaits, si j’étais égoïste, seraient pour que tu me refuses, car\nj’ai mille choses à faire ce soir et je me trouverai moi-même pris au\npiège et bien ennuyé si contre toute attente tu me réponds que tu\nn’iras pas. Mais mes occupations, mes plaisirs, ne sont pas tout, je\ndois penser à toi. Il peut venir un jour où me voyant à jamais détaché\nde toi tu auras le droit de me reprocher de ne pas t’avoir avertie\ndans les minutes décisives où je sentais que j’allais porter sur toi\nun de ces jugements sévères auxquels l’amour ne résiste pas longtemps.\nVois-tu, «Une nuit de Cléopâtre» (quel titre!) n’est rien dans la\ncirconstance. Ce qu’il faut savoir c’est si vraiment tu es cet être\nqui est au dernier rang de l’esprit, et même du charme, l’être\nméprisable qui n’est pas capable de renoncer à un plaisir. Alors, si\ntu es cela, comment pourrait-on t’aimer, car tu n’es même pas une\npersonne, une créature définie, imparfaite, mais du moins perfectible?\nTu es une eau informe qui coule selon la pente qu’on lui offre, un\npoisson sans mémoire et sans réflexion qui tant qu’il vivra dans son\naquarium se heurtera cent fois par jour contre le vitrage qu’il\ncontinuera à prendre pour de l’eau. Comprends-tu que ta réponse, je ne\ndis pas aura pour effet que je cesserai de t’aimer immédiatement, bien\nentendu, mais te rendra moins séduisante à mes yeux quand je\ncomprendrai que tu n’es pas une personne, que tu es au-dessous de\ntoutes les choses et ne sais te placer au-dessus d’aucune? Évidemment\nj’aurais mieux aimé te demander comme une chose sans importance, de\nrenoncer à «Une nuit de Cléopâtre» (puisque tu m’obliges à me souiller\nles lèvres de ce nom abject) dans l’espoir que tu irais cependant.\nMais, décidé à tenir un tel compte, à tirer de telles conséquences de\nta réponse, j’ai trouvé plus loyal de t’en prévenir.»",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 346,
+      "end": 350
+    },
+    {
+      "text": "«Une",
+      "label": "ORG",
+      "start": 690,
+      "end": 694
+    },
+    {
+      "text": "Cléopâtre»",
+      "label": "ORG",
+      "start": 703,
+      "end": 713
+    },
+    {
+      "text": "Évidemment",
+      "label": "ORG",
+      "start": 1612,
+      "end": 1622
+    },
+    {
+      "text": "«Une",
+      "label": "ORG",
+      "start": 1702,
+      "end": 1706
+    },
+    {
+      "text": "Cléopâtre»",
+      "label": "ORG",
+      "start": 1715,
+      "end": 1725
+    },
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 1829,
+      "end": 1834
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je te jure, lui disait-il, quelques instants avant qu’elle partît\npour le théâtre, qu’en te demandant de ne pas sortir, tous mes\nsouhaits, si j’étais égoïste, seraient pour que tu me refuses, car\nj’ai mille choses à faire ce soir et je me trouverai moi-même pris au\npiège et bien ennuyé si contre toute attente tu me réponds que tu\nn’iras pas",
+      "start": 0,
+      "end": 344
+    },
+    {
+      "text": "Mais mes occupations, mes plaisirs, ne sont pas tout, je\ndois penser à toi",
+      "start": 345,
+      "end": 420
+    },
+    {
+      "text": "Il peut venir un jour où me voyant à jamais détaché\nde toi tu auras le droit de me reprocher de ne pas t’avoir avertie\ndans les minutes décisives où je sentais que j’allais porter sur toi\nun de ces jugements sévères auxquels l’amour ne résiste pas longtemps",
+      "start": 421,
+      "end": 679
+    },
+    {
+      "text": "Vois-tu, «Une nuit de Cléopâtre» (quel titre!) n’est rien dans la\ncirconstance",
+      "start": 680,
+      "end": 759
+    },
+    {
+      "text": "Ce qu’il faut savoir c’est si vraiment tu es cet être\nqui est au dernier rang de l’esprit, et même du charme, l’être\nméprisable qui n’est pas capable de renoncer à un plaisir",
+      "start": 760,
+      "end": 935
+    },
+    {
+      "text": "Alors, si\ntu es cela, comment pourrait-on t’aimer, car tu n’es même pas une\npersonne, une créature définie, imparfaite, mais du moins perfectible?\nTu es une eau informe qui coule selon la pente qu’on lui offre, un\npoisson sans mémoire et sans réflexion qui tant qu’il vivra dans son\naquarium se heurtera cent fois par jour contre le vitrage qu’il\ncontinuera à prendre pour de l’eau",
+      "start": 936,
+      "end": 1318
+    },
+    {
+      "text": "Comprends-tu que ta réponse, je ne\ndis pas aura pour effet que je cesserai de t’aimer immédiatement, bien\nentendu, mais te rendra moins séduisante à mes yeux quand je\ncomprendrai que tu n’es pas une personne, que tu es au-dessous de\ntoutes les choses et ne sais te placer au-dessus d’aucune? Évidemment\nj’aurais mieux aimé te demander comme une chose sans importance, de\nrenoncer à «Une nuit de Cléopâtre» (puisque tu m’obliges à me souiller\nles lèvres de ce nom abject) dans l’espoir que tu irais cependant",
+      "start": 1319,
+      "end": 1827
+    },
+    {
+      "text": "Mais, décidé à tenir un tel compte, à tirer de telles conséquences de\nta réponse, j’ai trouvé plus loyal de t’en prévenir",
+      "start": 1828,
+      "end": 1950
+    },
+    {
+      "text": "»",
+      "start": 712,
+      "end": 713
+    }
+  ],
+  "tokens": 344,
+  "processed_at": "2025-03-16T02:10:56.808190"
+}

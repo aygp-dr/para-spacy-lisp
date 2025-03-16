@@ -1,0 +1,180 @@
+{
+  "text": "Comme je n’avais aucune notion sur la hiérarchie sociale, depuis\nlongtemps l’impossibilité que mon père trouvait à ce que nous\nfréquentions Mme et Mlle Swann avait eu plutôt pour effet, en me\nfaisant imaginer entre elles et nous de grandes distances, de leur\ndonner à mes yeux du prestige. Je regrettais que ma mère ne se teignît\npas les cheveux et ne se mît pas de rouge aux lèvres comme j’avais\nentendu dire par notre voisine Mme Sazerat que Mme Swann le faisait\npour plaire, non à son mari, mais à M. de Charlus, et je pensais que\nnous devions être pour elle un objet de mépris, ce qui me peinait\nsurtout à cause de Mlle Swann qu’on m’avait dit être une si jolie\npetite fille et à laquelle je rêvais souvent en lui prêtant chaque\nfois un même visage arbitraire et charmant. Mais quand j’eus appris ce\njour-là que Mlle Swann était un être d’une condition si rare, baignant\ncomme dans son élément naturel au milieu de tant de privilèges, que\nquand elle demandait à ses parents s’il y avait quelqu’un à dîner, on\nlui répondait par ces syllabes remplies de lumière, par le nom de ce\nconvive d’or qui n’était pour elle qu’un vieil ami de sa famille:\nBergotte; que, pour elle, la causerie intime à table, ce qui\ncorrespondait à ce qu’était pour moi la conversation de ma\ngrand’tante, c’étaient des paroles de Bergotte sur tous ces sujets\nqu’il n’avait pu aborder dans ses livres, et sur lesquels j’aurais\nvoulu l’écouter rendre ses oracles, et qu’enfin, quand elle allait\nvisiter des villes, il cheminait à côté d’elle, inconnu et glorieux,\ncomme les Dieux qui descendaient au milieu des mortels, alors je\nsentis en même temps que le prix d’un être comme Mlle Swann, combien\nje lui paraîtrais grossier et ignorant, et j’éprouvai si vivement la\ndouceur et l’impossibilité qu’il y aurait pour moi à être son ami, que\nje fus rempli à la fois de désir et de désespoir. Le plus souvent\nmaintenant quand je pensais à elle, je la voyais devant le porche\nd’une cathédrale, m’expliquant la signification des statues, et, avec\nun sourire qui disait du bien de moi, me présentant comme son ami, à\nBergotte. Et toujours le charme de toutes les idées que faisaient\nnaître en moi les cathédrales, le charme des coteaux de\nl’Ile-de-France et des plaines de la Normandie faisait refluer ses\nreflets sur l’image que je me formais de Mlle Swann: c’était être tout\nprêt à l’aimer. Que nous croyions qu’un être participe à une vie\ninconnue où son amour nous ferait pénétrer, c’est, de tout ce qu’exige\nl’amour pour naître, ce à quoi il tient le plus, et qui lui fait faire\nbon marché du reste. Même les femmes qui prétendent ne juger un homme\nque sur son physique, voient en ce physique l’émanation d’une vie\nspéciale. C’est pourquoi elles aiment les militaires, les pompiers;\nl’uniforme les rend moins difficiles pour le visage; elles croient\nbaiser sous la cuirasse un cœur différent, aventureux et doux; et un\njeune souverain, un prince héritier, pour faire les plus flatteuses\nconquêtes, dans les pays étrangers qu’il visite, n’a pas besoin du\nprofil régulier qui serait peut-être indispensable à un coulissier.",
+  "entities": [
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 147,
+      "end": 151
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 152,
+      "end": 157
+    },
+    {
+      "text": "Sazerat",
+      "label": "ORG",
+      "start": 432,
+      "end": 439
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 448,
+      "end": 453
+    },
+    {
+      "text": "Charlus,",
+      "label": "ORG",
+      "start": 507,
+      "end": 515
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 619,
+      "end": 623
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 624,
+      "end": 629
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 777,
+      "end": 781
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 816,
+      "end": 820
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 821,
+      "end": 826
+    },
+    {
+      "text": "Bergotte;",
+      "label": "ORG",
+      "start": 1148,
+      "end": 1157
+    },
+    {
+      "text": "Bergotte",
+      "label": "ORG",
+      "start": 1306,
+      "end": 1314
+    },
+    {
+      "text": "Dieux",
+      "label": "ORG",
+      "start": 1548,
+      "end": 1553
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 1652,
+      "end": 1656
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1657,
+      "end": 1663
+    },
+    {
+      "text": "Bergotte.",
+      "label": "ORG",
+      "start": 2083,
+      "end": 2092
+    },
+    {
+      "text": "Normandie",
+      "label": "ORG",
+      "start": 2242,
+      "end": 2251
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 2313,
+      "end": 2317
+    },
+    {
+      "text": "Swann:",
+      "label": "ORG",
+      "start": 2318,
+      "end": 2324
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 2571,
+      "end": 2575
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Comme je n’avais aucune notion sur la hiérarchie sociale, depuis\nlongtemps l’impossibilité que mon père trouvait à ce que nous\nfréquentions Mme et Mlle Swann avait eu plutôt pour effet, en me\nfaisant imaginer entre elles et nous de grandes distances, de leur\ndonner à mes yeux du prestige",
+      "start": 0,
+      "end": 288
+    },
+    {
+      "text": "Je regrettais que ma mère ne se teignît\npas les cheveux et ne se mît pas de rouge aux lèvres comme j’avais\nentendu dire par notre voisine Mme Sazerat que Mme Swann le faisait\npour plaire, non à son mari, mais à M",
+      "start": 289,
+      "end": 502
+    },
+    {
+      "text": "de Charlus, et je pensais que\nnous devions être pour elle un objet de mépris, ce qui me peinait\nsurtout à cause de Mlle Swann qu’on m’avait dit être une si jolie\npetite fille et à laquelle je rêvais souvent en lui prêtant chaque\nfois un même visage arbitraire et charmant",
+      "start": 503,
+      "end": 775
+    },
+    {
+      "text": "Mais quand j’eus appris ce\njour-là que Mlle Swann était un être d’une condition si rare, baignant\ncomme dans son élément naturel au milieu de tant de privilèges, que\nquand elle demandait à ses parents s’il y avait quelqu’un à dîner, on\nlui répondait par ces syllabes remplies de lumière, par le nom de ce\nconvive d’or qui n’était pour elle qu’un vieil ami de sa famille:\nBergotte; que, pour elle, la causerie intime à table, ce qui\ncorrespondait à ce qu’était pour moi la conversation de ma\ngrand’tante, c’étaient des paroles de Bergotte sur tous ces sujets\nqu’il n’avait pu aborder dans ses livres, et sur lesquels j’aurais\nvoulu l’écouter rendre ses oracles, et qu’enfin, quand elle allait\nvisiter des villes, il cheminait à côté d’elle, inconnu et glorieux,\ncomme les Dieux qui descendaient au milieu des mortels, alors je\nsentis en même temps que le prix d’un être comme Mlle Swann, combien\nje lui paraîtrais grossier et ignorant, et j’éprouvai si vivement la\ndouceur et l’impossibilité qu’il y aurait pour moi à être son ami, que\nje fus rempli à la fois de désir et de désespoir",
+      "start": 776,
+      "end": 1860
+    },
+    {
+      "text": "Le plus souvent\nmaintenant quand je pensais à elle, je la voyais devant le porche\nd’une cathédrale, m’expliquant la signification des statues, et, avec\nun sourire qui disait du bien de moi, me présentant comme son ami, à\nBergotte",
+      "start": 1861,
+      "end": 2091
+    },
+    {
+      "text": "Et toujours le charme de toutes les idées que faisaient\nnaître en moi les cathédrales, le charme des coteaux de\nl’Ile-de-France et des plaines de la Normandie faisait refluer ses\nreflets sur l’image que je me formais de Mlle Swann: c’était être tout\nprêt à l’aimer",
+      "start": 2092,
+      "end": 2357
+    },
+    {
+      "text": "Que nous croyions qu’un être participe à une vie\ninconnue où son amour nous ferait pénétrer, c’est, de tout ce qu’exige\nl’amour pour naître, ce à quoi il tient le plus, et qui lui fait faire\nbon marché du reste",
+      "start": 2358,
+      "end": 2569
+    },
+    {
+      "text": "Même les femmes qui prétendent ne juger un homme\nque sur son physique, voient en ce physique l’émanation d’une vie\nspéciale",
+      "start": 2570,
+      "end": 2694
+    },
+    {
+      "text": "C’est pourquoi elles aiment les militaires, les pompiers;\nl’uniforme les rend moins difficiles pour le visage; elles croient\nbaiser sous la cuirasse un cœur différent, aventureux et doux; et un\njeune souverain, un prince héritier, pour faire les plus flatteuses\nconquêtes, dans les pays étrangers qu’il visite, n’a pas besoin du\nprofil régulier qui serait peut-être indispensable à un coulissier",
+      "start": 2695,
+      "end": 3091
+    }
+  ],
+  "tokens": 538,
+  "processed_at": "2025-03-16T02:10:55.157100"
+}

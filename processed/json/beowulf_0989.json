@@ -1,0 +1,47 @@
+{
+  "text": "Et il y eut un jour aussi où elle me dit: «Vous savez, vous pouvez\nm’appeler Gilberte, en tous cas moi, je vous appellerai par votre nom\nde baptême. C’est trop gênant.» Pourtant elle continua encore un\nmoment à se contenter de me dire «vous» et comme je le lui faisais\nremarquer, elle sourit, et composant, construisant une phrase comme\ncelles qui dans les grammaires étrangères n’ont d’autre but que de\nnous faire employer un mot nouveau, elle la termina par mon petit nom.\nEt me souvenant plus tard de ce que j’avais senti alors, j’y ai démêlé\nl’impression d’avoir été tenu un instant dans sa bouche, moi-même, nu,\nsans plus aucune des modalités sociales qui appartenaient aussi, soit\nà ses autres camarades, soit, quand elle disait mon nom de famille, à\nmes parents, et dont ses lèvres--en l’effort qu’elle faisait, un peu\ncomme son père, pour articuler les mots qu’elle voulait mettre en\nvaleur--eurent l’air de me dépouiller, de me dévêtir, comme de sa peau\nun fruit dont on ne peut avaler que la pulpe, tandis que son regard,\nse mettant au même degré nouveau d’intimité que prenait sa parole,\nm’atteignait aussi plus directement, non sans témoigner la conscience,\nle plaisir et jusque la gratitude qu’il en avait, en se faisant\naccompagner d’un sourire.",
+  "entities": [
+    {
+      "text": "«Vous",
+      "label": "ORG",
+      "start": 42,
+      "end": 47
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 77,
+      "end": 86
+    },
+    {
+      "text": "Pourtant",
+      "label": "ORG",
+      "start": 169,
+      "end": 177
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et il y eut un jour aussi où elle me dit: «Vous savez, vous pouvez\nm’appeler Gilberte, en tous cas moi, je vous appellerai par votre nom\nde baptême",
+      "start": 0,
+      "end": 147
+    },
+    {
+      "text": "C’est trop gênant",
+      "start": 148,
+      "end": 166
+    },
+    {
+      "text": "» Pourtant elle continua encore un\nmoment à se contenter de me dire «vous» et comme je le lui faisais\nremarquer, elle sourit, et composant, construisant une phrase comme\ncelles qui dans les grammaires étrangères n’ont d’autre but que de\nnous faire employer un mot nouveau, elle la termina par mon petit nom",
+      "start": 167,
+      "end": 473
+    },
+    {
+      "text": "Et me souvenant plus tard de ce que j’avais senti alors, j’y ai démêlé\nl’impression d’avoir été tenu un instant dans sa bouche, moi-même, nu,\nsans plus aucune des modalités sociales qui appartenaient aussi, soit\nà ses autres camarades, soit, quand elle disait mon nom de famille, à\nmes parents, et dont ses lèvres--en l’effort qu’elle faisait, un peu\ncomme son père, pour articuler les mots qu’elle voulait mettre en\nvaleur--eurent l’air de me dépouiller, de me dévêtir, comme de sa peau\nun fruit dont on ne peut avaler que la pulpe, tandis que son regard,\nse mettant au même degré nouveau d’intimité que prenait sa parole,\nm’atteignait aussi plus directement, non sans témoigner la conscience,\nle plaisir et jusque la gratitude qu’il en avait, en se faisant\naccompagner d’un sourire",
+      "start": 474,
+      "end": 1258
+    }
+  ],
+  "tokens": 215,
+  "processed_at": "2025-03-16T02:10:57.547953"
+}

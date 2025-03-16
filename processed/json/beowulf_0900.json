@@ -1,0 +1,32 @@
+{
+  "text": "--Vous connaissez quelqu’un rue La Pérouse? demanda Swann d’un air\nagité.",
+  "entities": [
+    {
+      "text": "--Vous",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Pérouse?",
+      "label": "ORG",
+      "start": 35,
+      "end": 43
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 52,
+      "end": 57
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Vous connaissez quelqu’un rue La Pérouse? demanda Swann d’un air\nagité",
+      "start": 0,
+      "end": 72
+    }
+  ],
+  "tokens": 11,
+  "processed_at": "2025-03-16T02:10:57.247895"
+}

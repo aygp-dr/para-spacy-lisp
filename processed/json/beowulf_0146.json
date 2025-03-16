@@ -1,0 +1,92 @@
+{
+  "text": "Mon oncle qui détestait prêter ses livres ne répondit rien et me\nconduisit jusqu’à l’antichambre. Éperdu d’amour pour la dame en rose,\nje couvris de baisers fous les joues pleines de tabac de mon vieil\noncle, et tandis qu’avec assez d’embarras il me laissait entendre sans\noser me le dire ouvertement qu’il aimerait autant que je ne parlasse\npas de cette visite à mes parents, je lui disais, les larmes aux yeux,\nque le souvenir de sa bonté était en moi si fort que je trouverais\nbien un jour le moyen de lui témoigner ma reconnaissance. Il était si\nfort en effet que deux heures plus tard, après quelques phrases\nmystérieuses et qui ne me parurent pas donner à mes parents une idée\nassez nette de la nouvelle importance dont j’étais doué, je trouvai\nplus explicite de leur raconter dans les moindres détails la visite\nque je venais de faire. Je ne croyais pas ainsi causer d’ennuis à mon\noncle. Comment l’aurais-je cru, puisque je ne le désirais pas. Et je\nne pouvais supposer que mes parents trouveraient du mal dans une\nvisite où je n’en trouvais pas. N’arrive-t-il pas tous les jours qu’un\nami nous demande de ne pas manquer de l’excuser auprès d’une femme à\nqui il a été empêché d’écrire, et que nous négligions de le faire\njugeant que cette personne ne peut pas attacher d’importance à un\nsilence qui n’en a pas pour nous? Je m’imaginais, comme tout le monde,\nque le cerveau des autres était un réceptacle inerte et docile, sans\npouvoir de réaction spécifique sur ce qu’on y introduisait; et je ne\ndoutais pas qu’en déposant dans celui de mes parents la nouvelle de la\nconnaissance que mon oncle m’avait fait faire, je ne leur transmisse\nen même temps comme je le souhaitais, le jugement bienveillant que je\nportais sur cette présentation. Mes parents malheureusement s’en\nremirent à des principes entièrement différents de ceux que je leur\nsuggérais d’adopter, quand ils voulurent apprécier l’action de mon\noncle. Mon père et mon grand-père eurent avec lui des explications\nviolentes; j’en fus indirectement informé. Quelques jours après,\ncroisant dehors mon oncle qui passait en voiture découverte, je\nressentis la douleur, la reconnaissance, le remords que j’aurais voulu\nlui exprimer. A côté de leur immensité, je trouvai qu’un coup de\nchapeau serait mesquin et pourrait faire supposer à mon oncle que je\nne me croyais pas tenu envers lui à plus qu’à une banale politesse. Je\nrésolus de m’abstenir de ce geste insuffisant et je détournai la tête.\nMon oncle pensa que je suivais en cela les ordres de mes parents, il\nne le leur pardonna pas, et il est mort bien des années après sans\nqu’aucun de nous l’ait jamais revu.",
+  "entities": [
+    {
+      "text": "Éperdu",
+      "label": "ORG",
+      "start": 98,
+      "end": 104
+    },
+    {
+      "text": "Comment",
+      "label": "ORG",
+      "start": 896,
+      "end": 903
+    },
+    {
+      "text": "Quelques",
+      "label": "ORG",
+      "start": 2024,
+      "end": 2032
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mon oncle qui détestait prêter ses livres ne répondit rien et me\nconduisit jusqu’à l’antichambre",
+      "start": 0,
+      "end": 96
+    },
+    {
+      "text": "Éperdu d’amour pour la dame en rose,\nje couvris de baisers fous les joues pleines de tabac de mon vieil\noncle, et tandis qu’avec assez d’embarras il me laissait entendre sans\noser me le dire ouvertement qu’il aimerait autant que je ne parlasse\npas de cette visite à mes parents, je lui disais, les larmes aux yeux,\nque le souvenir de sa bonté était en moi si fort que je trouverais\nbien un jour le moyen de lui témoigner ma reconnaissance",
+      "start": 97,
+      "end": 536
+    },
+    {
+      "text": "Il était si\nfort en effet que deux heures plus tard, après quelques phrases\nmystérieuses et qui ne me parurent pas donner à mes parents une idée\nassez nette de la nouvelle importance dont j’étais doué, je trouvai\nplus explicite de leur raconter dans les moindres détails la visite\nque je venais de faire",
+      "start": 537,
+      "end": 841
+    },
+    {
+      "text": "Je ne croyais pas ainsi causer d’ennuis à mon\noncle",
+      "start": 842,
+      "end": 894
+    },
+    {
+      "text": "Comment l’aurais-je cru, puisque je ne le désirais pas",
+      "start": 895,
+      "end": 950
+    },
+    {
+      "text": "Et je\nne pouvais supposer que mes parents trouveraient du mal dans une\nvisite où je n’en trouvais pas",
+      "start": 951,
+      "end": 1053
+    },
+    {
+      "text": "N’arrive-t-il pas tous les jours qu’un\nami nous demande de ne pas manquer de l’excuser auprès d’une femme à\nqui il a été empêché d’écrire, et que nous négligions de le faire\njugeant que cette personne ne peut pas attacher d’importance à un\nsilence qui n’en a pas pour nous? Je m’imaginais, comme tout le monde,\nque le cerveau des autres était un réceptacle inerte et docile, sans\npouvoir de réaction spécifique sur ce qu’on y introduisait; et je ne\ndoutais pas qu’en déposant dans celui de mes parents la nouvelle de la\nconnaissance que mon oncle m’avait fait faire, je ne leur transmisse\nen même temps comme je le souhaitais, le jugement bienveillant que je\nportais sur cette présentation",
+      "start": 1054,
+      "end": 1744
+    },
+    {
+      "text": "Mes parents malheureusement s’en\nremirent à des principes entièrement différents de ceux que je leur\nsuggérais d’adopter, quand ils voulurent apprécier l’action de mon\noncle",
+      "start": 1745,
+      "end": 1919
+    },
+    {
+      "text": "Mon père et mon grand-père eurent avec lui des explications\nviolentes; j’en fus indirectement informé",
+      "start": 1920,
+      "end": 2022
+    },
+    {
+      "text": "Quelques jours après,\ncroisant dehors mon oncle qui passait en voiture découverte, je\nressentis la douleur, la reconnaissance, le remords que j’aurais voulu\nlui exprimer",
+      "start": 2023,
+      "end": 2193
+    },
+    {
+      "text": "A côté de leur immensité, je trouvai qu’un coup de\nchapeau serait mesquin et pourrait faire supposer à mon oncle que je\nne me croyais pas tenu envers lui à plus qu’à une banale politesse",
+      "start": 2194,
+      "end": 2381
+    },
+    {
+      "text": "Je\nrésolus de m’abstenir de ce geste insuffisant et je détournai la tête",
+      "start": 2382,
+      "end": 2455
+    },
+    {
+      "text": "Mon oncle pensa que je suivais en cela les ordres de mes parents, il\nne le leur pardonna pas, et il est mort bien des années après sans\nqu’aucun de nous l’ait jamais revu",
+      "start": 2456,
+      "end": 2627
+    }
+  ],
+  "tokens": 455,
+  "processed_at": "2025-03-16T02:10:54.913737"
+}

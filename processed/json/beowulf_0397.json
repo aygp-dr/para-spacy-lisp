@@ -1,0 +1,26 @@
+{
+  "text": "--«Puisque vous le voulez, répondit Odette sur un ton de marivaudage,\net elle ajouta: vous savez que je ne suis pas «fishing for\ncompliments».",
+  "entities": [
+    {
+      "text": "--«Puisque",
+      "label": "ORG",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 36,
+      "end": 42
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Puisque vous le voulez, répondit Odette sur un ton de marivaudage,\net elle ajouta: vous savez que je ne suis pas «fishing for\ncompliments»",
+      "start": 0,
+      "end": 141
+    }
+  ],
+  "tokens": 24,
+  "processed_at": "2025-03-16T02:10:55.758408"
+}

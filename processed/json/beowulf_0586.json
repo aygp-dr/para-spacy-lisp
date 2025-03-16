@@ -1,0 +1,72 @@
+{
+  "text": "Dès le commencement du repas, comme M. de Forcheville, placé à la\ndroite de Mme Verdurin qui avait fait pour le «nouveau» de grands\nfrais de toilette, lui disait: «C’est original, cette robe blanche»,\nle docteur qui n’avait cessé de l’observer, tant il était curieux de\nsavoir comment était fait ce qu’il appelait un «de», et qui cherchait\nune occasion d’attirer son attention et d’entrer plus en contact avec\nlui, saisit au vol le mot «blanche» et, sans lever le nez de son\nassiette, dit: «blanche? Blanche de Castille?», puis sans bouger la\ntête lança furtivement de droite et de gauche des regards incertains\net souriants. Tandis que Swann, par l’effort douloureux et vain qu’il\nfit pour sourire, témoigna qu’il jugeait ce calembour stupide,\nForcheville avait montré à la fois qu’il en goûtait la finesse et\nqu’il savait vivre, en contenant dans de justes limites une gaieté\ndont la franchise avait charmé Mme Verdurin.",
+  "entities": [
+    {
+      "text": "Forcheville,",
+      "label": "ORG",
+      "start": 42,
+      "end": 54
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 80,
+      "end": 88
+    },
+    {
+      "text": "Blanche",
+      "label": "ORG",
+      "start": 500,
+      "end": 507
+    },
+    {
+      "text": "Castille?»,",
+      "label": "ORG",
+      "start": 511,
+      "end": 522
+    },
+    {
+      "text": "Tandis",
+      "label": "ORG",
+      "start": 626,
+      "end": 632
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 637,
+      "end": 643
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 745,
+      "end": 756
+    },
+    {
+      "text": "Verdurin.",
+      "label": "ORG",
+      "start": 913,
+      "end": 922
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Dès le commencement du repas, comme M",
+      "start": 0,
+      "end": 37
+    },
+    {
+      "text": "de Forcheville, placé à la\ndroite de Mme Verdurin qui avait fait pour le «nouveau» de grands\nfrais de toilette, lui disait: «C’est original, cette robe blanche»,\nle docteur qui n’avait cessé de l’observer, tant il était curieux de\nsavoir comment était fait ce qu’il appelait un «de», et qui cherchait\nune occasion d’attirer son attention et d’entrer plus en contact avec\nlui, saisit au vol le mot «blanche» et, sans lever le nez de son\nassiette, dit: «blanche? Blanche de Castille?», puis sans bouger la\ntête lança furtivement de droite et de gauche des regards incertains\net souriants",
+      "start": 38,
+      "end": 624
+    },
+    {
+      "text": "Tandis que Swann, par l’effort douloureux et vain qu’il\nfit pour sourire, témoigna qu’il jugeait ce calembour stupide,\nForcheville avait montré à la fois qu’il en goûtait la finesse et\nqu’il savait vivre, en contenant dans de justes limites une gaieté\ndont la franchise avait charmé Mme Verdurin",
+      "start": 625,
+      "end": 921
+    }
+  ],
+  "tokens": 154,
+  "processed_at": "2025-03-16T02:10:56.314085"
+}

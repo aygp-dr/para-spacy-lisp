@@ -1,0 +1,82 @@
+{
+  "text": "Le baron lui promit d’aller faire la visite qu’il désirait après qu’il\nl’aurait conduit jusqu’à la porte de l’hôtel Saint-Euverte, où Swann\narriva tranquillisé par la pensée que M. de Charlus passerait la\nsoirée rue La Pérouse, mais dans un état de mélancolique indifférence\nà toutes les choses qui ne touchaient pas Odette, et en particulier\naux choses mondaines, qui leur donnait le charme de ce qui, n’étant\nplus un but pour notre volonté, nous apparaît en soi-même. Dès sa\ndescente de voiture, au premier plan de ce résumé fictif de leur vie\ndomestique que les maîtresses de maison prétendent offrir à leurs\ninvités les jours de cérémonie et où elles cherchent à respecter la\nvérité du costume et celle du décor, Swann prit plaisir à voir les\nhéritiers des «tigres» de Balzac, les grooms, suivants ordinaires de\nla promenade, qui, chapeautés et bottés, restaient dehors devant\nl’hôtel sur le sol de l’avenue, ou devant les écuries, comme des\njardiniers auraient été rangés à l’entrée de leurs parterres. La\ndisposition particulière qu’il avait toujours eue à chercher des\nanalogies entre les êtres vivants et les portraits des musées\ns’exerçait encore mais d’une façon plus constante et plus générale;\nc’est la vie mondaine tout entière, maintenant qu’il en était détaché,\nqui se présentait à lui comme une suite de tableaux. Dans le vestibule\noù, autrefois, quand il était un mondain, il entrait enveloppé dans\nson pardessus pour en sortir en frac, mais sans savoir ce qui s’y\nétait passé, étant par la pensée, pendant les quelques instants qu’il\ny séjournait, ou bien encore dans la fête qu’il venait de quitter, ou\nbien déjà dans la fête où on allait l’introduire, pour la première\nfois il remarqua, réveillée par l’arrivée inopinée d’un invité aussi\ntardif, la meute éparse, magnifique et désœuvrée de grands valets de\npied qui dormaient çà et là sur des banquettes et des coffres et qui,\nsoulevant leurs nobles profils aigus de lévriers, se dressèrent et,\nrassemblés, formèrent le cercle autour de lui.",
+  "entities": [
+    {
+      "text": "Saint-Euverte,",
+      "label": "ORG",
+      "start": 116,
+      "end": 130
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 134,
+      "end": 139
+    },
+    {
+      "text": "Charlus",
+      "label": "ORG",
+      "start": 184,
+      "end": 191
+    },
+    {
+      "text": "Pérouse,",
+      "label": "ORG",
+      "start": 219,
+      "end": 227
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 317,
+      "end": 324
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 717,
+      "end": 722
+    },
+    {
+      "text": "Balzac,",
+      "label": "ORG",
+      "start": 773,
+      "end": 780
+    },
+    {
+      "text": "Dans",
+      "label": "ORG",
+      "start": 1330,
+      "end": 1334
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Le baron lui promit d’aller faire la visite qu’il désirait après qu’il\nl’aurait conduit jusqu’à la porte de l’hôtel Saint-Euverte, où Swann\narriva tranquillisé par la pensée que M",
+      "start": 0,
+      "end": 179
+    },
+    {
+      "text": "de Charlus passerait la\nsoirée rue La Pérouse, mais dans un état de mélancolique indifférence\nà toutes les choses qui ne touchaient pas Odette, et en particulier\naux choses mondaines, qui leur donnait le charme de ce qui, n’étant\nplus un but pour notre volonté, nous apparaît en soi-même",
+      "start": 180,
+      "end": 468
+    },
+    {
+      "text": "Dès sa\ndescente de voiture, au premier plan de ce résumé fictif de leur vie\ndomestique que les maîtresses de maison prétendent offrir à leurs\ninvités les jours de cérémonie et où elles cherchent à respecter la\nvérité du costume et celle du décor, Swann prit plaisir à voir les\nhéritiers des «tigres» de Balzac, les grooms, suivants ordinaires de\nla promenade, qui, chapeautés et bottés, restaient dehors devant\nl’hôtel sur le sol de l’avenue, ou devant les écuries, comme des\njardiniers auraient été rangés à l’entrée de leurs parterres",
+      "start": 469,
+      "end": 1006
+    },
+    {
+      "text": "La\ndisposition particulière qu’il avait toujours eue à chercher des\nanalogies entre les êtres vivants et les portraits des musées\ns’exerçait encore mais d’une façon plus constante et plus générale;\nc’est la vie mondaine tout entière, maintenant qu’il en était détaché,\nqui se présentait à lui comme une suite de tableaux",
+      "start": 1007,
+      "end": 1328
+    },
+    {
+      "text": "Dans le vestibule\noù, autrefois, quand il était un mondain, il entrait enveloppé dans\nson pardessus pour en sortir en frac, mais sans savoir ce qui s’y\nétait passé, étant par la pensée, pendant les quelques instants qu’il\ny séjournait, ou bien encore dans la fête qu’il venait de quitter, ou\nbien déjà dans la fête où on allait l’introduire, pour la première\nfois il remarqua, réveillée par l’arrivée inopinée d’un invité aussi\ntardif, la meute éparse, magnifique et désœuvrée de grands valets de\npied qui dormaient çà et là sur des banquettes et des coffres et qui,\nsoulevant leurs nobles profils aigus de lévriers, se dressèrent et,\nrassemblés, formèrent le cercle autour de lui",
+      "start": 1329,
+      "end": 2010
+    }
+  ],
+  "tokens": 334,
+  "processed_at": "2025-03-16T02:10:56.998815"
+}

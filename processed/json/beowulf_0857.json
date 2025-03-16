@@ -1,0 +1,32 @@
+{
+  "text": "--Ah! Mais Cambremer, c’est un nom authentique et ancien, dit le\ngénéral.",
+  "entities": [
+    {
+      "text": "--Ah!",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "Cambremer,",
+      "label": "ORG",
+      "start": 11,
+      "end": 21
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ah! Mais Cambremer, c’est un nom authentique et ancien, dit le\ngénéral",
+      "start": 0,
+      "end": 72
+    }
+  ],
+  "tokens": 12,
+  "processed_at": "2025-03-16T02:10:57.131009"
+}

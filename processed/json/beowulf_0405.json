@@ -1,0 +1,18 @@
+{
+  "text": "JE NE PUIS RIEN COMPRENDRE.»",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "JE NE PUIS RIEN COMPRENDRE",
+      "start": 0,
+      "end": 26
+    },
+    {
+      "text": "»",
+      "start": 27,
+      "end": 28
+    }
+  ],
+  "tokens": 5,
+  "processed_at": "2025-03-16T02:10:55.784434"
+}

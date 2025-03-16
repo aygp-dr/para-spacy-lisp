@@ -1,0 +1,32 @@
+{
+  "text": "--«On me paierait bien cher que je ne laisserais pas entrer ça chez\nmoi», conclut Mme Verdurin, en regardant Swann d’un air impérieux.",
+  "entities": [
+    {
+      "text": "--«On",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 86,
+      "end": 95
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 109,
+      "end": 114
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«On me paierait bien cher que je ne laisserais pas entrer ça chez\nmoi», conclut Mme Verdurin, en regardant Swann d’un air impérieux",
+      "start": 0,
+      "end": 133
+    }
+  ],
+  "tokens": 23,
+  "processed_at": "2025-03-16T02:10:56.426268"
+}

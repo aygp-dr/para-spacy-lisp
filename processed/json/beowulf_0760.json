@@ -1,0 +1,37 @@
+{
+  "text": "--«Penser qu’elle pourrait visiter de vrais monuments avec moi qui ai\nétudié l’architecture pendant dix ans et qui suis tout le temps\nsupplié de mener à Beauvais ou à Saint-Loup-de-Naud des gens de la\nplus haute valeur et ne le ferais que pour elle, et qu’à la place elle\nva avec les dernières des brutes s’extasier successivement devant les\ndéjections de Louis-Philippe et devant celles de Viollet-le-Duc! Il me\nsemble qu’il n’y a pas besoin d’être artiste pour cela et que, même\nsans flair particulièrement fin, on ne choisit pas d’aller\nvillégiaturer dans des latrines pour être plus à portée de respirer\ndes excréments.»",
+  "entities": [
+    {
+      "text": "--«Penser",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Beauvais",
+      "label": "ORG",
+      "start": 153,
+      "end": 161
+    },
+    {
+      "text": "Louis-Philippe",
+      "label": "ORG",
+      "start": 356,
+      "end": 370
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Penser qu’elle pourrait visiter de vrais monuments avec moi qui ai\nétudié l’architecture pendant dix ans et qui suis tout le temps\nsupplié de mener à Beauvais ou à Saint-Loup-de-Naud des gens de la\nplus haute valeur et ne le ferais que pour elle, et qu’à la place elle\nva avec les dernières des brutes s’extasier successivement devant les\ndéjections de Louis-Philippe et devant celles de Viollet-le-Duc! Il me\nsemble qu’il n’y a pas besoin d’être artiste pour cela et que, même\nsans flair particulièrement fin, on ne choisit pas d’aller\nvillégiaturer dans des latrines pour être plus à portée de respirer\ndes excréments",
+      "start": 0,
+      "end": 622
+    },
+    {
+      "text": "»",
+      "start": 623,
+      "end": 624
+    }
+  ],
+  "tokens": 104,
+  "processed_at": "2025-03-16T02:10:56.824809"
+}

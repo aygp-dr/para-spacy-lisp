@@ -1,0 +1,76 @@
+{
+  "text": "Mlle Vinteuil répondit par des paroles de doux reproche: «Voyons,\nvoyons», qui prouvaient la bonté de sa nature, non qu’elles fussent\ndictées par l’indignation que cette façon de parler de son père eût pu\nlui causer (évidemment c’était là un sentiment qu’elle s’était\nhabituée, à l’aide de quels sophismes? à faire taire en elle dans ces\nminutes-là), mais parce qu’elles étaient comme un frein que pour ne\npas se montrer égoïste elle mettait elle-même au plaisir que son amie\ncherchait à lui procurer. Et puis cette modération souriante en\nrépondant à ces blasphèmes, ce reproche hypocrite et tendre,\nparaissaient peut-être à sa nature franche et bonne, une forme\nparticulièrement infâme, une forme doucereuse de cette scélératesse\nqu’elle cherchait à s’assimiler. Mais elle ne put résister à l’attrait\ndu plaisir qu’elle éprouverait à être traitée avec douceur par une\npersonne si implacable envers un mort sans défense; elle sauta sur les\ngenoux de son amie, et lui tendit chastement son front à baiser comme\nelle aurait pu faire si elle avait été sa fille, sentant avec délices\nqu’elles allaient ainsi toutes deux au bout de la cruauté en ravissant\nà M. Vinteuil, jusque dans le tombeau, sa paternité. Son amie lui prit\nla tête entre ses mains et lui déposa un baiser sur le front avec\ncette docilité que lui rendait facile la grande affection qu’elle\navait pour Mlle Vinteuil et le désir de mettre quelque distraction\ndans la vie si triste maintenant de l’orpheline.",
+  "entities": [
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 5,
+      "end": 13
+    },
+    {
+      "text": "«Voyons,",
+      "label": "ORG",
+      "start": 57,
+      "end": 65
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 765,
+      "end": 769
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 1157,
+      "end": 1166
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 1366,
+      "end": 1370
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 1371,
+      "end": 1379
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mlle Vinteuil répondit par des paroles de doux reproche: «Voyons,\nvoyons», qui prouvaient la bonté de sa nature, non qu’elles fussent\ndictées par l’indignation que cette façon de parler de son père eût pu\nlui causer (évidemment c’était là un sentiment qu’elle s’était\nhabituée, à l’aide de quels sophismes? à faire taire en elle dans ces\nminutes-là), mais parce qu’elles étaient comme un frein que pour ne\npas se montrer égoïste elle mettait elle-même au plaisir que son amie\ncherchait à lui procurer",
+      "start": 0,
+      "end": 500
+    },
+    {
+      "text": "Et puis cette modération souriante en\nrépondant à ces blasphèmes, ce reproche hypocrite et tendre,\nparaissaient peut-être à sa nature franche et bonne, une forme\nparticulièrement infâme, une forme doucereuse de cette scélératesse\nqu’elle cherchait à s’assimiler",
+      "start": 501,
+      "end": 763
+    },
+    {
+      "text": "Mais elle ne put résister à l’attrait\ndu plaisir qu’elle éprouverait à être traitée avec douceur par une\npersonne si implacable envers un mort sans défense; elle sauta sur les\ngenoux de son amie, et lui tendit chastement son front à baiser comme\nelle aurait pu faire si elle avait été sa fille, sentant avec délices\nqu’elles allaient ainsi toutes deux au bout de la cruauté en ravissant\nà M",
+      "start": 764,
+      "end": 1155
+    },
+    {
+      "text": "Vinteuil, jusque dans le tombeau, sa paternité",
+      "start": 1156,
+      "end": 1203
+    },
+    {
+      "text": "Son amie lui prit\nla tête entre ses mains et lui déposa un baiser sur le front avec\ncette docilité que lui rendait facile la grande affection qu’elle\navait pour Mlle Vinteuil et le désir de mettre quelque distraction\ndans la vie si triste maintenant de l’orpheline",
+      "start": 1204,
+      "end": 1469
+    }
+  ],
+  "tokens": 244,
+  "processed_at": "2025-03-16T02:10:55.607199"
+}

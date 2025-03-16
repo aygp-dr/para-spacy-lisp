@@ -1,0 +1,165 @@
+{
+  "text": "Et comme les qualités qu’il croyait intrinsèques aux Verdurin\nn’étaient que le reflet sur eux de plaisirs qu’avait goûtés chez eux\nson amour pour Odette, ces qualités devenaient plus sérieuses, plus\nprofondes, plus vitales, quand ces plaisirs l’étaient aussi. Comme Mme\nVerdurin donnait parfois à Swann ce qui seul pouvait constituer pour\nlui le bonheur; comme, tel soir où il se sentait anxieux parce\nqu’Odette avait causé avec un invité plus qu’avec un autre, et où,\nirrité contre elle, il ne voulait pas prendre l’initiative de lui\ndemander si elle reviendrait avec lui, Mme Verdurin lui apportait la\npaix et la joie en disant spontanément: «Odette, vous allez ramener M.\nSwann, n’est-ce pas»? comme cet été qui venait et où il s’était\nd’abord demandé avec inquiétude si Odette ne s’absenterait pas sans\nlui, s’il pourrait continuer à la voir tous les jours, Mme Verdurin\nallait les inviter à le passer tous deux chez elle à la\ncampagne,--Swann laissant à son insu la reconnaissance et l’intérêt\ns’infiltrer dans son intelligence et influer sur ses idées, allait\njusqu’à proclamer que Mme Verdurin était une grande âme. De quelques\ngens exquis ou éminents que tel de ses anciens camarades de l’école du\nLouvre lui parlât: «Je préfère cent fois les Verdurin, lui\nrépondait-il.» Et, avec une solennité qui était nouvelle chez lui: «Ce\nsont des êtres magnanimes, et la magnanimité est, au fond, la seule\nchose qui importe et qui distingue ici-bas. Vois-tu, il n’y a que deux\nclasses d’êtres: les magnanimes et les autres; et je suis arrivé à un\nâge où il faut prendre parti, décider une fois pour toutes qui on veut\naimer et qui on veut dédaigner, se tenir à ceux qu’on aime et, pour\nréparer le temps qu’on a gâché avec les autres, ne plus les quitter\njusqu’à sa mort. Eh bien! ajoutait-il avec cette légère émotion qu’on\néprouve quand même sans bien s’en rendre compte, on dit une chose non\nparce qu’elle est vraie, mais parce qu’on a plaisir à la dire et qu’on\nl’écoute dans sa propre voix comme si elle venait d’ailleurs que de\nnous-mêmes, le sort en est jeté, j’ai choisi d’aimer les seuls cœurs\nmagnanimes et de ne plus vivre que dans la magnanimité. Tu me demandes\nsi Mme Verdurin est véritablement intelligente. Je t’assure qu’elle\nm’a donné les preuves d’une noblesse de cœur, d’une hauteur d’âme où,\nque veux-tu, on n’atteint pas sans une hauteur égale de pensée. Certes\nelle a la profonde intelligence des arts. Mais ce n’est peut-être pas\nlà qu’elle est le plus admirable; et telle petite action\ningénieusement, exquisement bonne, qu’elle a accomplie pour moi, telle\ngéniale attention, tel geste familièrement sublime, révèlent une\ncompréhension plus profonde de l’existence que tous les traités de\nphilosophie.»",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 53,
+      "end": 61
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 146,
+      "end": 153
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 260,
+      "end": 265
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 270,
+      "end": 278
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 297,
+      "end": 302
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 578,
+      "end": 586
+    },
+    {
+      "text": "«Odette,",
+      "label": "ORG",
+      "start": 644,
+      "end": 652
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 675,
+      "end": 681
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 774,
+      "end": 780
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 866,
+      "end": 874
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 1092,
+      "end": 1100
+    },
+    {
+      "text": "Louvre",
+      "label": "ORG",
+      "start": 1206,
+      "end": 1212
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 1251,
+      "end": 1260
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 2178,
+      "end": 2186
+    },
+    {
+      "text": "Certes",
+      "label": "ORG",
+      "start": 2373,
+      "end": 2379
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2422,
+      "end": 2426
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et comme les qualités qu’il croyait intrinsèques aux Verdurin\nn’étaient que le reflet sur eux de plaisirs qu’avait goûtés chez eux\nson amour pour Odette, ces qualités devenaient plus sérieuses, plus\nprofondes, plus vitales, quand ces plaisirs l’étaient aussi",
+      "start": 0,
+      "end": 258
+    },
+    {
+      "text": "Comme Mme\nVerdurin donnait parfois à Swann ce qui seul pouvait constituer pour\nlui le bonheur; comme, tel soir où il se sentait anxieux parce\nqu’Odette avait causé avec un invité plus qu’avec un autre, et où,\nirrité contre elle, il ne voulait pas prendre l’initiative de lui\ndemander si elle reviendrait avec lui, Mme Verdurin lui apportait la\npaix et la joie en disant spontanément: «Odette, vous allez ramener M",
+      "start": 259,
+      "end": 673
+    },
+    {
+      "text": "Swann, n’est-ce pas»? comme cet été qui venait et où il s’était\nd’abord demandé avec inquiétude si Odette ne s’absenterait pas sans\nlui, s’il pourrait continuer à la voir tous les jours, Mme Verdurin\nallait les inviter à le passer tous deux chez elle à la\ncampagne,--Swann laissant à son insu la reconnaissance et l’intérêt\ns’infiltrer dans son intelligence et influer sur ses idées, allait\njusqu’à proclamer que Mme Verdurin était une grande âme",
+      "start": 674,
+      "end": 1121
+    },
+    {
+      "text": "De quelques\ngens exquis ou éminents que tel de ses anciens camarades de l’école du\nLouvre lui parlât: «Je préfère cent fois les Verdurin, lui\nrépondait-il",
+      "start": 1122,
+      "end": 1277
+    },
+    {
+      "text": "» Et, avec une solennité qui était nouvelle chez lui: «Ce\nsont des êtres magnanimes, et la magnanimité est, au fond, la seule\nchose qui importe et qui distingue ici-bas",
+      "start": 1278,
+      "end": 1446
+    },
+    {
+      "text": "Vois-tu, il n’y a que deux\nclasses d’êtres: les magnanimes et les autres; et je suis arrivé à un\nâge où il faut prendre parti, décider une fois pour toutes qui on veut\naimer et qui on veut dédaigner, se tenir à ceux qu’on aime et, pour\nréparer le temps qu’on a gâché avec les autres, ne plus les quitter\njusqu’à sa mort",
+      "start": 1447,
+      "end": 1767
+    },
+    {
+      "text": "Eh bien! ajoutait-il avec cette légère émotion qu’on\néprouve quand même sans bien s’en rendre compte, on dit une chose non\nparce qu’elle est vraie, mais parce qu’on a plaisir à la dire et qu’on\nl’écoute dans sa propre voix comme si elle venait d’ailleurs que de\nnous-mêmes, le sort en est jeté, j’ai choisi d’aimer les seuls cœurs\nmagnanimes et de ne plus vivre que dans la magnanimité",
+      "start": 1768,
+      "end": 2154
+    },
+    {
+      "text": "Tu me demandes\nsi Mme Verdurin est véritablement intelligente",
+      "start": 2155,
+      "end": 2217
+    },
+    {
+      "text": "Je t’assure qu’elle\nm’a donné les preuves d’une noblesse de cœur, d’une hauteur d’âme où,\nque veux-tu, on n’atteint pas sans une hauteur égale de pensée",
+      "start": 2218,
+      "end": 2371
+    },
+    {
+      "text": "Certes\nelle a la profonde intelligence des arts",
+      "start": 2372,
+      "end": 2420
+    },
+    {
+      "text": "Mais ce n’est peut-être pas\nlà qu’elle est le plus admirable; et telle petite action\ningénieusement, exquisement bonne, qu’elle a accomplie pour moi, telle\ngéniale attention, tel geste familièrement sublime, révèlent une\ncompréhension plus profonde de l’existence que tous les traités de\nphilosophie",
+      "start": 2421,
+      "end": 2721
+    },
+    {
+      "text": "»",
+      "start": 694,
+      "end": 695
+    }
+  ],
+  "tokens": 457,
+  "processed_at": "2025-03-16T02:10:56.296514"
+}

@@ -1,0 +1,32 @@
+{
+  "text": "--«Qu’est-ce que vous lisez, on peut regarder? Tiens, du Bergotte? Qui\ndonc vous a indiqué ses ouvrages?» Je lui dis que c’était Bloch.",
+  "entities": [
+    {
+      "text": "Tiens,",
+      "label": "ORG",
+      "start": 47,
+      "end": 53
+    },
+    {
+      "text": "Bergotte?",
+      "label": "ORG",
+      "start": 57,
+      "end": 66
+    },
+    {
+      "text": "Bloch.",
+      "label": "ORG",
+      "start": 129,
+      "end": 135
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Qu’est-ce que vous lisez, on peut regarder? Tiens, du Bergotte? Qui\ndonc vous a indiqué ses ouvrages?» Je lui dis que c’était Bloch",
+      "start": 0,
+      "end": 134
+    }
+  ],
+  "tokens": 23,
+  "processed_at": "2025-03-16T02:10:55.133990"
+}

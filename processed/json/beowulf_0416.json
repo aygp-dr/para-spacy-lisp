@@ -1,0 +1,26 @@
+{
+  "text": "Et sans doute, en se rappelant ainsi leurs entretiens, en pensant\nainsi à elle quand il était seul, il faisait seulement jouer son image\nentre beaucoup d’autres images de femmes dans des rêveries\nromanesques; mais si, grâce à une circonstance quelconque (ou même\npeut-être sans que ce fût grâce à elle, la circonstance qui se\nprésente au moment où un état, latent jusque-là, se déclare, pouvant\nn’avoir influé en rien sur lui) l’image d’Odette de Crécy venait à\nabsorber toutes ces rêveries, si celles-ci n’étaient plus séparables\nde son souvenir, alors l’imperfection de son corps ne garderait plus\naucune importance, ni qu’il eût été, plus ou moins qu’un autre corps,\nselon le goût de Swann, puisque devenu le corps de celle qu’il aimait,\nil serait désormais le seul qui fût capable de lui causer des joies et\ndes tourments.",
+  "entities": [
+    {
+      "text": "Crécy",
+      "label": "ORG",
+      "start": 447,
+      "end": 452
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 687,
+      "end": 693
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et sans doute, en se rappelant ainsi leurs entretiens, en pensant\nainsi à elle quand il était seul, il faisait seulement jouer son image\nentre beaucoup d’autres images de femmes dans des rêveries\nromanesques; mais si, grâce à une circonstance quelconque (ou même\npeut-être sans que ce fût grâce à elle, la circonstance qui se\nprésente au moment où un état, latent jusque-là, se déclare, pouvant\nn’avoir influé en rien sur lui) l’image d’Odette de Crécy venait à\nabsorber toutes ces rêveries, si celles-ci n’étaient plus séparables\nde son souvenir, alors l’imperfection de son corps ne garderait plus\naucune importance, ni qu’il eût été, plus ou moins qu’un autre corps,\nselon le goût de Swann, puisque devenu le corps de celle qu’il aimait,\nil serait désormais le seul qui fût capable de lui causer des joies et\ndes tourments",
+      "start": 0,
+      "end": 825
+    }
+  ],
+  "tokens": 139,
+  "processed_at": "2025-03-16T02:10:55.816987"
+}

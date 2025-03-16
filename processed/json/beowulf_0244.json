@@ -1,0 +1,286 @@
+{
+  "text": "--Je crois qu’elle n’a pourtant pas à se plaindre, soupirait Françoise,\nqui avait une tendance à considérer comme de la menue monnaie tout ce\nque lui donnait ma tante pour elle ou pour ses enfants, et comme des\ntrésors follement gaspillés pour une ingrate les piécettes mises\nchaque dimanche dans la main d’Eulalie, mais si discrètement que\nFrançoise n’arrivait jamais à les voir. Ce n’est pas que l’argent que\nma tante donnait à Eulalie, Françoise l’eût voulu pour elle. Elle\njouissait suffisamment de ce que ma tante possédait, sachant que les\nrichesses de la maîtresse du même coup élèvent et embellissent aux\nyeux de tous sa servante; et qu’elle, Françoise, était insigne et\nglorifiée dans Combray, Jouy-le-Vicomte et autres lieux, pour les\nnombreuses fermes de ma tante, les visites fréquentes et prolongées du\ncuré, le nombre singulier des bouteilles d’eau de Vichy consommées.\nElle n’était avare que pour ma tante; si elle avait géré sa fortune,\nce qui eût été son rêve, elle l’aurait préservée des entreprises\nd’autrui avec une férocité maternelle. Elle n’aurait pourtant pas\ntrouvé grand mal à ce que ma tante, qu’elle savait incurablement\ngénéreuse, se fût laissée aller à donner, si au moins ç’avait été à\ndes riches. Peut-être pensait-elle que ceux-là, n’ayant pas besoin des\ncadeaux de ma tante, ne pouvaient être soupçonnés de l’aimer à cause\nd’eux. D’ailleurs offerts à des personnes d’une grande position de\nfortune, à Mme Sazerat, à M. Swann, à M. Legrandin, à Mme Goupil, à\ndes personnes «de même rang» que ma tante et qui «allaient bien\nensemble», ils lui apparaissaient comme faisant partie des usages de\ncette vie étrange et brillante des gens riches qui chassent, se\ndonnent des bals, se font des visites et qu’elle admirait en souriant.\nMais il n’en allait plus de même si les bénéficiaires de la générosité\nde ma tante étaient de ceux que Françoise appelait «des gens comme\nmoi, des gens qui ne sont pas plus que moi» et qui étaient ceux\nqu’elle méprisait le plus à moins qu’ils ne l’appelassent «Madame\nFrançoise» et ne se considérassent comme étant «moins qu’elle». Et\nquand elle vit que, malgré ses conseils, ma tante n’en faisait qu’à sa\ntête et jetait l’argent--Françoise le croyait du moins--pour des\ncréatures indignes, elle commença à trouver bien petits les dons que\nma tante lui faisait en comparaison des sommes imaginaires prodiguées\nà Eulalie. Il n’y avait pas dans les environs de Combray de ferme si\nconséquente que Françoise ne supposât qu’Eulalie eût pu facilement\nl’acheter, avec tout ce que lui rapporteraient ses visites. Il est\nvrai qu’Eulalie faisait la même estimation des richesses immenses et\ncachées de Françoise. Habituellement, quand Eulalie était partie,\nFrançoise prophétisait sans bienveillance sur son compte. Elle la\nhaïssait, mais elle la craignait et se croyait tenue, quand elle était\nlà, à lui faire «bon visage». Elle se rattrapait après son départ,\nsans la nommer jamais à vrai dire, mais en proférant des oracles\nsibyllins, des sentences d’un caractère général telles que celles de\nl’Ecclésiaste, mais dont l’application ne pouvait échapper à ma tante.\nAprès avoir regardé par le coin du rideau si Eulalie avait refermé la\nporte: «Les personnes flatteuses savent se faire bien venir et\nramasser les pépettes; mais patience, le bon Dieu les punit toutes par\nun beau jour», disait-elle, avec le regard latéral et l’insinuation de\nJoas pensant exclusivement à Athalie quand il dit:",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 61,
+      "end": 71
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 341,
+      "end": 350
+    },
+    {
+      "text": "Eulalie,",
+      "label": "ORG",
+      "start": 430,
+      "end": 438
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 439,
+      "end": 448
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 472,
+      "end": 476
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 651,
+      "end": 661
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 694,
+      "end": 702
+    },
+    {
+      "text": "Vichy",
+      "label": "ORG",
+      "start": 866,
+      "end": 871
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 884,
+      "end": 888
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1057,
+      "end": 1061
+    },
+    {
+      "text": "Sazerat,",
+      "label": "ORG",
+      "start": 1439,
+      "end": 1447
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1453,
+      "end": 1459
+    },
+    {
+      "text": "Legrandin,",
+      "label": "ORG",
+      "start": 1465,
+      "end": 1475
+    },
+    {
+      "text": "Goupil,",
+      "label": "ORG",
+      "start": 1482,
+      "end": 1489
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1760,
+      "end": 1764
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1863,
+      "end": 1872
+    },
+    {
+      "text": "«Madame",
+      "label": "ORG",
+      "start": 2020,
+      "end": 2027
+    },
+    {
+      "text": "Françoise»",
+      "label": "ORG",
+      "start": 2028,
+      "end": 2038
+    },
+    {
+      "text": "Eulalie.",
+      "label": "ORG",
+      "start": 2372,
+      "end": 2380
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 2419,
+      "end": 2426
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 2455,
+      "end": 2464
+    },
+    {
+      "text": "Françoise.",
+      "label": "ORG",
+      "start": 2653,
+      "end": 2663
+    },
+    {
+      "text": "Habituellement,",
+      "label": "ORG",
+      "start": 2664,
+      "end": 2679
+    },
+    {
+      "text": "Eulalie",
+      "label": "ORG",
+      "start": 2686,
+      "end": 2693
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 2708,
+      "end": 2717
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 2766,
+      "end": 2770
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2879
+    },
+    {
+      "text": "Eulalie",
+      "label": "ORG",
+      "start": 3162,
+      "end": 3169
+    },
+    {
+      "text": "«Les",
+      "label": "ORG",
+      "start": 3194,
+      "end": 3198
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 3295,
+      "end": 3299
+    },
+    {
+      "text": "Joas",
+      "label": "ORG",
+      "start": 3392,
+      "end": 3396
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je crois qu’elle n’a pourtant pas à se plaindre, soupirait Françoise,\nqui avait une tendance à considérer comme de la menue monnaie tout ce\nque lui donnait ma tante pour elle ou pour ses enfants, et comme des\ntrésors follement gaspillés pour une ingrate les piécettes mises\nchaque dimanche dans la main d’Eulalie, mais si discrètement que\nFrançoise n’arrivait jamais à les voir",
+      "start": 0,
+      "end": 379
+    },
+    {
+      "text": "Ce n’est pas que l’argent que\nma tante donnait à Eulalie, Françoise l’eût voulu pour elle",
+      "start": 380,
+      "end": 470
+    },
+    {
+      "text": "Elle\njouissait suffisamment de ce que ma tante possédait, sachant que les\nrichesses de la maîtresse du même coup élèvent et embellissent aux\nyeux de tous sa servante; et qu’elle, Françoise, était insigne et\nglorifiée dans Combray, Jouy-le-Vicomte et autres lieux, pour les\nnombreuses fermes de ma tante, les visites fréquentes et prolongées du\ncuré, le nombre singulier des bouteilles d’eau de Vichy consommées",
+      "start": 471,
+      "end": 882
+    },
+    {
+      "text": "Elle n’était avare que pour ma tante; si elle avait géré sa fortune,\nce qui eût été son rêve, elle l’aurait préservée des entreprises\nd’autrui avec une férocité maternelle",
+      "start": 883,
+      "end": 1055
+    },
+    {
+      "text": "Elle n’aurait pourtant pas\ntrouvé grand mal à ce que ma tante, qu’elle savait incurablement\ngénéreuse, se fût laissée aller à donner, si au moins ç’avait été à\ndes riches",
+      "start": 1056,
+      "end": 1227
+    },
+    {
+      "text": "Peut-être pensait-elle que ceux-là, n’ayant pas besoin des\ncadeaux de ma tante, ne pouvaient être soupçonnés de l’aimer à cause\nd’eux",
+      "start": 1228,
+      "end": 1362
+    },
+    {
+      "text": "D’ailleurs offerts à des personnes d’une grande position de\nfortune, à Mme Sazerat, à M",
+      "start": 1363,
+      "end": 1451
+    },
+    {
+      "text": "Swann, à M",
+      "start": 1452,
+      "end": 1463
+    },
+    {
+      "text": "Legrandin, à Mme Goupil, à\ndes personnes «de même rang» que ma tante et qui «allaient bien\nensemble», ils lui apparaissaient comme faisant partie des usages de\ncette vie étrange et brillante des gens riches qui chassent, se\ndonnent des bals, se font des visites et qu’elle admirait en souriant",
+      "start": 1464,
+      "end": 1758
+    },
+    {
+      "text": "Mais il n’en allait plus de même si les bénéficiaires de la générosité\nde ma tante étaient de ceux que Françoise appelait «des gens comme\nmoi, des gens qui ne sont pas plus que moi» et qui étaient ceux\nqu’elle méprisait le plus à moins qu’ils ne l’appelassent «Madame\nFrançoise» et ne se considérassent comme étant «moins qu’elle»",
+      "start": 1759,
+      "end": 2090
+    },
+    {
+      "text": "Et\nquand elle vit que, malgré ses conseils, ma tante n’en faisait qu’à sa\ntête et jetait l’argent--Françoise le croyait du moins--pour des\ncréatures indignes, elle commença à trouver bien petits les dons que\nma tante lui faisait en comparaison des sommes imaginaires prodiguées\nà Eulalie",
+      "start": 2091,
+      "end": 2379
+    },
+    {
+      "text": "Il n’y avait pas dans les environs de Combray de ferme si\nconséquente que Françoise ne supposât qu’Eulalie eût pu facilement\nl’acheter, avec tout ce que lui rapporteraient ses visites",
+      "start": 2380,
+      "end": 2564
+    },
+    {
+      "text": "Il est\nvrai qu’Eulalie faisait la même estimation des richesses immenses et\ncachées de Françoise",
+      "start": 2565,
+      "end": 2662
+    },
+    {
+      "text": "Habituellement, quand Eulalie était partie,\nFrançoise prophétisait sans bienveillance sur son compte",
+      "start": 2663,
+      "end": 2764
+    },
+    {
+      "text": "Elle la\nhaïssait, mais elle la craignait et se croyait tenue, quand elle était\nlà, à lui faire «bon visage»",
+      "start": 2765,
+      "end": 2873
+    },
+    {
+      "text": "Elle se rattrapait après son départ,\nsans la nommer jamais à vrai dire, mais en proférant des oracles\nsibyllins, des sentences d’un caractère général telles que celles de\nl’Ecclésiaste, mais dont l’application ne pouvait échapper à ma tante",
+      "start": 2874,
+      "end": 3115
+    },
+    {
+      "text": "Après avoir regardé par le coin du rideau si Eulalie avait refermé la\nporte: «Les personnes flatteuses savent se faire bien venir et\nramasser les pépettes; mais patience, le bon Dieu les punit toutes par\nun beau jour», disait-elle, avec le regard latéral et l’insinuation de\nJoas pensant exclusivement à Athalie quand il dit:",
+      "start": 3116,
+      "end": 3442
+    }
+  ],
+  "tokens": 564,
+  "processed_at": "2025-03-16T02:10:55.268372"
+}

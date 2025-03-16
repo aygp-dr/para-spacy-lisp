@@ -1,0 +1,170 @@
+{
+  "text": "Mais ces paroles en pénétrant dans les ondes du sommeil où Swann était\nplongé, n’étaient arrivées jusqu’à sa conscience qu’en subissant cette\ndéviation qui fait qu’au fond de l’eau un rayon paraît un soleil, de\nmême qu’un moment auparavant le bruit de la sonnette prenant au fond\nde ces abîmes une sonorité de tocsin avait enfanté l’épisode de\nl’incendie. Cependant le décor qu’il avait sous les yeux vola en\npoussière, il ouvrit les yeux, entendit une dernière fois le bruit\nd’une des vagues de la mer qui s’éloignait. Il toucha sa joue. Elle\nétait sèche. Et pourtant il se rappelait la sensation de l’eau froide\net le goût du sel. Il se leva, s’habilla. Il avait fait venir le\ncoiffeur de bonne heure parce qu’il avait écrit la veille à mon\ngrand-père qu’il irait dans l’après-midi à Combray, ayant appris que\nMme de Cambremer--Mlle Legrandin--devait y passer quelques jours.\nAssociant dans son souvenir au charme de ce jeune visage celui d’une\ncampagne où il n’était pas allé depuis si longtemps, ils lui offraient\nensemble un attrait qui l’avait décidé à quitter enfin Paris pour\nquelques jours. Comme les différents hasards qui nous mettent en\nprésence de certaines personnes ne coïncident pas avec le temps où\nnous les aimons, mais, le dépassant, peuvent se produire avant qu’il\ncommence et se répéter après qu’il a fini, les premières apparitions\nque fait dans notre vie un être destiné plus tard à nous plaire,\nprennent rétrospectivement à nos yeux une valeur d’avertissement, de\nprésage. C’est de cette façon que Swann s’était souvent reporté à\nl’image d’Odette rencontrée au théâtre, ce premier soir où il ne\nsongeait pas à la revoir jamais,--et qu’il se rappelait maintenant la\nsoirée de Mme de Saint-Euverte où il avait présenté le général de\nFroberville à Mme de Cambremer. Les intérêts de notre vie sont si\nmultiples qu’il n’est pas rare que dans une même circonstance les\njalons d’un bonheur qui n’existe pas encore soient posés à côté de\nl’aggravation d’un chagrin dont nous souffrons. Et sans doute cela\naurait pu arriver à Swann ailleurs que chez Mme de Saint-Euverte. Qui\nsait même, dans le cas où, ce soir-là, il se fût trouvé ailleurs, si\nd’autres bonheurs, d’autres chagrins ne lui seraient pas arrivés, et\nqui ensuite lui eussent paru avoir été inévitables? Mais ce qui lui\nsemblait l’avoir été, c’était ce qui avait eu lieu, et il n’était pas\nloin de voir quelque chose de providentiel dans ce qu’il se fût décidé\nà aller à la soirée de Mme de Saint-Euverte, parce que son esprit\ndésireux d’admirer la richesse d’invention de la vie et incapable de\nse poser longtemps une question difficile, comme de savoir ce qui eût\nété le plus à souhaiter, considérait dans les souffrances qu’il avait\néprouvées ce soir-là et les plaisirs encore insoupçonnés qui germaient\ndéjà,--et entre lesquels la balance était trop difficile à établir--,\nune sorte d’enchaînement nécessaire.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 59,
+      "end": 64
+    },
+    {
+      "text": "Cependant",
+      "label": "ORG",
+      "start": 356,
+      "end": 365
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 539,
+      "end": 543
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 786,
+      "end": 794
+    },
+    {
+      "text": "Cambremer--Mlle",
+      "label": "ORG",
+      "start": 819,
+      "end": 834
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 1073,
+      "end": 1078
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1100,
+      "end": 1105
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1522,
+      "end": 1527
+    },
+    {
+      "text": "Saint-Euverte",
+      "label": "ORG",
+      "start": 1706,
+      "end": 1719
+    },
+    {
+      "text": "Froberville",
+      "label": "ORG",
+      "start": 1755,
+      "end": 1766
+    },
+    {
+      "text": "Cambremer.",
+      "label": "ORG",
+      "start": 1776,
+      "end": 1786
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2041,
+      "end": 2046
+    },
+    {
+      "text": "Saint-Euverte.",
+      "label": "ORG",
+      "start": 2072,
+      "end": 2086
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2281,
+      "end": 2285
+    },
+    {
+      "text": "Saint-Euverte,",
+      "label": "ORG",
+      "start": 2468,
+      "end": 2482
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais ces paroles en pénétrant dans les ondes du sommeil où Swann était\nplongé, n’étaient arrivées jusqu’à sa conscience qu’en subissant cette\ndéviation qui fait qu’au fond de l’eau un rayon paraît un soleil, de\nmême qu’un moment auparavant le bruit de la sonnette prenant au fond\nde ces abîmes une sonorité de tocsin avait enfanté l’épisode de\nl’incendie",
+      "start": 0,
+      "end": 354
+    },
+    {
+      "text": "Cependant le décor qu’il avait sous les yeux vola en\npoussière, il ouvrit les yeux, entendit une dernière fois le bruit\nd’une des vagues de la mer qui s’éloignait",
+      "start": 355,
+      "end": 518
+    },
+    {
+      "text": "Il toucha sa joue",
+      "start": 519,
+      "end": 537
+    },
+    {
+      "text": "Elle\nétait sèche",
+      "start": 538,
+      "end": 555
+    },
+    {
+      "text": "Et pourtant il se rappelait la sensation de l’eau froide\net le goût du sel",
+      "start": 556,
+      "end": 631
+    },
+    {
+      "text": "Il se leva, s’habilla",
+      "start": 632,
+      "end": 654
+    },
+    {
+      "text": "Il avait fait venir le\ncoiffeur de bonne heure parce qu’il avait écrit la veille à mon\ngrand-père qu’il irait dans l’après-midi à Combray, ayant appris que\nMme de Cambremer--Mlle Legrandin--devait y passer quelques jours",
+      "start": 655,
+      "end": 876
+    },
+    {
+      "text": "Associant dans son souvenir au charme de ce jeune visage celui d’une\ncampagne où il n’était pas allé depuis si longtemps, ils lui offraient\nensemble un attrait qui l’avait décidé à quitter enfin Paris pour\nquelques jours",
+      "start": 877,
+      "end": 1098
+    },
+    {
+      "text": "Comme les différents hasards qui nous mettent en\nprésence de certaines personnes ne coïncident pas avec le temps où\nnous les aimons, mais, le dépassant, peuvent se produire avant qu’il\ncommence et se répéter après qu’il a fini, les premières apparitions\nque fait dans notre vie un être destiné plus tard à nous plaire,\nprennent rétrospectivement à nos yeux une valeur d’avertissement, de\nprésage",
+      "start": 1099,
+      "end": 1495
+    },
+    {
+      "text": "C’est de cette façon que Swann s’était souvent reporté à\nl’image d’Odette rencontrée au théâtre, ce premier soir où il ne\nsongeait pas à la revoir jamais,--et qu’il se rappelait maintenant la\nsoirée de Mme de Saint-Euverte où il avait présenté le général de\nFroberville à Mme de Cambremer",
+      "start": 1496,
+      "end": 1785
+    },
+    {
+      "text": "Les intérêts de notre vie sont si\nmultiples qu’il n’est pas rare que dans une même circonstance les\njalons d’un bonheur qui n’existe pas encore soient posés à côté de\nl’aggravation d’un chagrin dont nous souffrons",
+      "start": 1786,
+      "end": 2000
+    },
+    {
+      "text": "Et sans doute cela\naurait pu arriver à Swann ailleurs que chez Mme de Saint-Euverte",
+      "start": 2001,
+      "end": 2085
+    },
+    {
+      "text": "Qui\nsait même, dans le cas où, ce soir-là, il se fût trouvé ailleurs, si\nd’autres bonheurs, d’autres chagrins ne lui seraient pas arrivés, et\nqui ensuite lui eussent paru avoir été inévitables? Mais ce qui lui\nsemblait l’avoir été, c’était ce qui avait eu lieu, et il n’était pas\nloin de voir quelque chose de providentiel dans ce qu’il se fût décidé\nà aller à la soirée de Mme de Saint-Euverte, parce que son esprit\ndésireux d’admirer la richesse d’invention de la vie et incapable de\nse poser longtemps une question difficile, comme de savoir ce qui eût\nété le plus à souhaiter, considérait dans les souffrances qu’il avait\néprouvées ce soir-là et les plaisirs encore insoupçonnés qui germaient\ndéjà,--et entre lesquels la balance était trop difficile à établir--,\nune sorte d’enchaînement nécessaire",
+      "start": 2086,
+      "end": 2889
+    }
+  ],
+  "tokens": 484,
+  "processed_at": "2025-03-16T02:10:57.467231"
+}

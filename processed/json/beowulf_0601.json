@@ -1,0 +1,37 @@
+{
+  "text": "--Quand je vous disais qu’on ne peut pas garder son sérieux avec lui,\ndit Mme Verdurin à Forcheville. Au moment où on s’y attend le moins,\nil vous sort une calembredaine.",
+  "entities": [
+    {
+      "text": "--Quand",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 78,
+      "end": 86
+    },
+    {
+      "text": "Forcheville.",
+      "label": "ORG",
+      "start": 89,
+      "end": 101
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Quand je vous disais qu’on ne peut pas garder son sérieux avec lui,\ndit Mme Verdurin à Forcheville",
+      "start": 0,
+      "end": 100
+    },
+    {
+      "text": "Au moment où on s’y attend le moins,\nil vous sort une calembredaine",
+      "start": 101,
+      "end": 169
+    }
+  ],
+  "tokens": 31,
+  "processed_at": "2025-03-16T02:10:56.354598"
+}

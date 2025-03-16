@@ -1,0 +1,102 @@
+{
+  "text": "En rentrant de la messe, nous rencontrions souvent M. Legrandin qui,\nretenu à Paris par sa profession d’ingénieur, ne pouvait, en dehors\ndes grandes vacances, venir à sa propriété de Combray que du samedi\nsoir au lundi matin. C’était un de ces hommes qui, en dehors d’une\ncarrière scientifique où ils ont d’ailleurs brillamment réussi,\npossèdent une culture toute différente, littéraire, artistique, que\nleur spécialisation professionnelle n’utilise pas et dont profite leur\nconversation. Plus lettrés que bien des littérateurs (nous ne savions\npas à cette époque que M. Legrandin eût une certaine réputation comme\nécrivain et nous fûmes très étonnés de voir qu’un musicien célèbre\navait composé une mélodie sur des vers de lui), doués de plus de\n«facilité» que bien des peintres, ils s’imaginent que la vie qu’ils\nmènent n’est pas celle qui leur aurait convenu et apportent à leurs\noccupations positives soit une insouciance mêlée de fantaisie, soit\nune application soutenue et hautaine, méprisante, amère et\nconsciencieuse. Grand, avec une belle tournure, un visage pensif et\nfin aux longues moustaches blondes, au regard bleu et désenchanté,\nd’une politesse raffinée, causeur comme nous n’en avions jamais\nentendu, il était aux yeux de ma famille qui le citait toujours en\nexemple, le type de l’homme d’élite, prenant la vie de la façon la\nplus noble et la plus délicate. Ma grand’mère lui reprochait seulement\nde parler un peu trop bien, un peu trop comme un livre, de ne pas\navoir dans son langage le naturel qu’il y avait dans ses cravates\nlavallière toujours flottantes, dans son veston droit presque\nd’écolier. Elle s’étonnait aussi des tirades enflammées qu’il entamait\nsouvent contre l’aristocratie, la vie mondaine, le snobisme,\n«certainement le péché auquel pense saint Paul quand il parle du péché\npour lequel il n’y a pas de rémission.»",
+  "entities": [
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 54,
+      "end": 63
+    },
+    {
+      "text": "Paris",
+      "label": "ORG",
+      "start": 78,
+      "end": 83
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 183,
+      "end": 190
+    },
+    {
+      "text": "Plus",
+      "label": "ORG",
+      "start": 489,
+      "end": 493
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 571,
+      "end": 580
+    },
+    {
+      "text": "Grand,",
+      "label": "ORG",
+      "start": 1026,
+      "end": 1032
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1619,
+      "end": 1623
+    },
+    {
+      "text": "Paul",
+      "label": "ORG",
+      "start": 1782,
+      "end": 1786
+    }
+  ],
+  "sentences": [
+    {
+      "text": "En rentrant de la messe, nous rencontrions souvent M",
+      "start": 0,
+      "end": 52
+    },
+    {
+      "text": "Legrandin qui,\nretenu à Paris par sa profession d’ingénieur, ne pouvait, en dehors\ndes grandes vacances, venir à sa propriété de Combray que du samedi\nsoir au lundi matin",
+      "start": 53,
+      "end": 224
+    },
+    {
+      "text": "C’était un de ces hommes qui, en dehors d’une\ncarrière scientifique où ils ont d’ailleurs brillamment réussi,\npossèdent une culture toute différente, littéraire, artistique, que\nleur spécialisation professionnelle n’utilise pas et dont profite leur\nconversation",
+      "start": 225,
+      "end": 487
+    },
+    {
+      "text": "Plus lettrés que bien des littérateurs (nous ne savions\npas à cette époque que M",
+      "start": 488,
+      "end": 569
+    },
+    {
+      "text": "Legrandin eût une certaine réputation comme\nécrivain et nous fûmes très étonnés de voir qu’un musicien célèbre\navait composé une mélodie sur des vers de lui), doués de plus de\n«facilité» que bien des peintres, ils s’imaginent que la vie qu’ils\nmènent n’est pas celle qui leur aurait convenu et apportent à leurs\noccupations positives soit une insouciance mêlée de fantaisie, soit\nune application soutenue et hautaine, méprisante, amère et\nconsciencieuse",
+      "start": 570,
+      "end": 1024
+    },
+    {
+      "text": "Grand, avec une belle tournure, un visage pensif et\nfin aux longues moustaches blondes, au regard bleu et désenchanté,\nd’une politesse raffinée, causeur comme nous n’en avions jamais\nentendu, il était aux yeux de ma famille qui le citait toujours en\nexemple, le type de l’homme d’élite, prenant la vie de la façon la\nplus noble et la plus délicate",
+      "start": 1025,
+      "end": 1373
+    },
+    {
+      "text": "Ma grand’mère lui reprochait seulement\nde parler un peu trop bien, un peu trop comme un livre, de ne pas\navoir dans son langage le naturel qu’il y avait dans ses cravates\nlavallière toujours flottantes, dans son veston droit presque\nd’écolier",
+      "start": 1374,
+      "end": 1617
+    },
+    {
+      "text": "Elle s’étonnait aussi des tirades enflammées qu’il entamait\nsouvent contre l’aristocratie, la vie mondaine, le snobisme,\n«certainement le péché auquel pense saint Paul quand il parle du péché\npour lequel il n’y a pas de rémission",
+      "start": 1618,
+      "end": 1848
+    },
+    {
+      "text": "»",
+      "start": 756,
+      "end": 757
+    }
+  ],
+  "tokens": 296,
+  "processed_at": "2025-03-16T02:10:54.769735"
+}

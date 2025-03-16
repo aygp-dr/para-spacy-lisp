@@ -1,0 +1,97 @@
+{
+  "text": "--«Là comme partout, je connais tout le monde et je ne connais\npersonne, répondit Legrandin qui ne se rendait pas si vite; beaucoup\nles choses et fort peu les personnes. Mais les choses elles-mêmes y\nsemblent des personnes, des personnes rares, d’une essence délicate et\nque la vie aurait déçues. Parfois c’est un castel que vous rencontrez\nsur la falaise, au bord du chemin où il s’est arrêté pour confronter\nson chagrin au soir encore rose où monte la lune d’or et dont les\nbarques qui rentrent en striant l’eau diaprée hissent à leurs mâts la\nflamme et portent les couleurs; parfois c’est une simple maison\nsolitaire, plutôt laide, l’air timide mais romanesque, qui cache à\ntous les yeux quelque secret impérissable de bonheur et de\ndésenchantement. Ce pays sans vérité, ajouta-t-il avec une délicatesse\nmachiavélique, ce pays de pure fiction est d’une mauvaise lecture pour\nun enfant, et ce n’est certes pas lui que je choisirais et\nrecommanderais pour mon petit ami déjà si enclin à la tristesse, pour\nson cœur prédisposé. Les climats de confidence amoureuse et de regret\ninutile peuvent convenir au vieux désabusé que je suis, ils sont\ntoujours malsains pour un tempérament qui n’est pas formé. Croyez-moi,\nreprit-il avec insistance, les eaux de cette baie, déjà à moitié\nbretonne, peuvent exercer une action sédative, d’ailleurs discutable,\nsur un cœur qui n’est plus intact comme le mien, sur un cœur dont la\nlésion n’est plus compensée. Elles sont contre-indiquées à votre âge,\npetit garçon. Bonne nuit, voisins», ajouta-t-il en nous quittant avec\ncette brusquerie évasive dont il avait l’habitude et, se retournant\nvers nous avec un doigt levé de docteur, il résuma sa consultation:\n«Pas de Balbec avant cinquante ans et encore cela dépend de l’état du\ncœur», nous cria-t-il.",
+  "entities": [
+    {
+      "text": "--«Là",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Legrandin",
+      "label": "ORG",
+      "start": 82,
+      "end": 91
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 170,
+      "end": 174
+    },
+    {
+      "text": "Parfois",
+      "label": "ORG",
+      "start": 297,
+      "end": 304
+    },
+    {
+      "text": "Elles",
+      "label": "ORG",
+      "start": 1446,
+      "end": 1451
+    },
+    {
+      "text": "Bonne",
+      "label": "ORG",
+      "start": 1501,
+      "end": 1506
+    },
+    {
+      "text": "«Pas",
+      "label": "ORG",
+      "start": 1693,
+      "end": 1697
+    },
+    {
+      "text": "Balbec",
+      "label": "ORG",
+      "start": 1701,
+      "end": 1707
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Là comme partout, je connais tout le monde et je ne connais\npersonne, répondit Legrandin qui ne se rendait pas si vite; beaucoup\nles choses et fort peu les personnes",
+      "start": 0,
+      "end": 168
+    },
+    {
+      "text": "Mais les choses elles-mêmes y\nsemblent des personnes, des personnes rares, d’une essence délicate et\nque la vie aurait déçues",
+      "start": 169,
+      "end": 295
+    },
+    {
+      "text": "Parfois c’est un castel que vous rencontrez\nsur la falaise, au bord du chemin où il s’est arrêté pour confronter\nson chagrin au soir encore rose où monte la lune d’or et dont les\nbarques qui rentrent en striant l’eau diaprée hissent à leurs mâts la\nflamme et portent les couleurs; parfois c’est une simple maison\nsolitaire, plutôt laide, l’air timide mais romanesque, qui cache à\ntous les yeux quelque secret impérissable de bonheur et de\ndésenchantement",
+      "start": 296,
+      "end": 751
+    },
+    {
+      "text": "Ce pays sans vérité, ajouta-t-il avec une délicatesse\nmachiavélique, ce pays de pure fiction est d’une mauvaise lecture pour\nun enfant, et ce n’est certes pas lui que je choisirais et\nrecommanderais pour mon petit ami déjà si enclin à la tristesse, pour\nson cœur prédisposé",
+      "start": 752,
+      "end": 1026
+    },
+    {
+      "text": "Les climats de confidence amoureuse et de regret\ninutile peuvent convenir au vieux désabusé que je suis, ils sont\ntoujours malsains pour un tempérament qui n’est pas formé",
+      "start": 1027,
+      "end": 1199
+    },
+    {
+      "text": "Croyez-moi,\nreprit-il avec insistance, les eaux de cette baie, déjà à moitié\nbretonne, peuvent exercer une action sédative, d’ailleurs discutable,\nsur un cœur qui n’est plus intact comme le mien, sur un cœur dont la\nlésion n’est plus compensée",
+      "start": 1200,
+      "end": 1444
+    },
+    {
+      "text": "Elles sont contre-indiquées à votre âge,\npetit garçon",
+      "start": 1445,
+      "end": 1499
+    },
+    {
+      "text": "Bonne nuit, voisins», ajouta-t-il en nous quittant avec\ncette brusquerie évasive dont il avait l’habitude et, se retournant\nvers nous avec un doigt levé de docteur, il résuma sa consultation:\n«Pas de Balbec avant cinquante ans et encore cela dépend de l’état du\ncœur», nous cria-t-il",
+      "start": 1500,
+      "end": 1784
+    }
+  ],
+  "tokens": 294,
+  "processed_at": "2025-03-16T02:10:55.431817"
+}

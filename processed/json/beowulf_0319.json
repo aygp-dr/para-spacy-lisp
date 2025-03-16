@@ -1,0 +1,202 @@
+{
+  "text": "Pour ceux qui comme nous virent à cette époque M. Vinteuil éviter les\npersonnes qu’il connaissait, se détourner quand il les apercevait,\nvieillir en quelques mois, s’absorber dans son chagrin, devenir\nincapable de tout effort qui n’avait pas directement le bonheur de sa\nfille pour but, passer des journées entières devant la tombe de sa\nfemme,--il eût été difficile de ne pas comprendre qu’il était en train\nde mourir de chagrin, et de supposer qu’il ne se rendait pas compte\ndes propos qui couraient. Il les connaissait, peut-être même y\najoutait-il foi. Il n’est peut-être pas une personne, si grande que\nsoit sa vertu, que la complexité des circonstances ne puisse amener à\nvivre un jour dans la familiarité du vice qu’elle condamne le plus\nformellement,--sans qu’elle le reconnaisse d’ailleurs tout à fait sous\nle déguisement de faits particuliers qu’il revêt pour entrer en\ncontact avec elle et la faire souffrir: paroles bizarres, attitude\ninexplicable, un certain soir, de tel être qu’elle a par ailleurs tant\nde raisons pour aimer. Mais pour un homme comme M. Vinteuil il devait\nentrer bien plus de souffrance que pour un autre dans la résignation à\nune de ces situations qu’on croit à tort être l’apanage exclusif du\nmonde de la bohème: elles se produisent chaque fois qu’a besoin de se\nréserver la place et la sécurité qui lui sont nécessaires, un vice que\nla nature elle-même fait épanouir chez un enfant, parfois rien qu’en\nmêlant les vertus de son père et de sa mère, comme la couleur de ses\nyeux. Mais de ce que M. Vinteuil connaissait peut-être la conduite de\nsa fille, il ne s’ensuit pas que son culte pour elle en eût été\ndiminué. Les faits ne pénètrent pas dans le monde où vivent nos\ncroyances, ils n’ont pas fait naître celles-ci, ils ne les détruisent\npas; ils peuvent leur infliger les plus constants démentis sans les\naffaiblir, et une avalanche de malheurs ou de maladies se succédant\nsans interruption dans une famille, ne la fera pas douter de la bonté\nde son Dieu ou du talent de son médecin. Mais quand M. Vinteuil\nsongeait à sa fille et à lui-même du point de vue du monde, du point\nde vue de leur réputation, quand il cherchait à se situer avec elle au\nrang qu’ils occupaient dans l’estime générale, alors ce jugement\nd’ordre social, il le portait exactement comme l’eût fait l’habitant\nde Combray qui lui eût été le plus hostile, il se voyait avec sa fille\ndans le dernier bas-fond, et ses manières en avaient reçu depuis peu\ncette humilité, ce respect pour ceux qui se trouvaient au-dessus de\nlui et qu’il voyait d’en bas (eussent-ils été fort au-dessous de lui\njusque-là), cette tendance à chercher à remonter jusqu’à eux, qui est\nune résultante presque mécanique de toutes les déchéances. Un jour que\nnous marchions avec Swann dans une rue de Combray, M. Vinteuil qui\ndébouchait d’une autre, s’était trouvé trop brusquement en face de\nnous pour avoir le temps de nous éviter; et Swann avec cette\norgueilleuse charité de l’homme du monde qui, au milieu de la\ndissolution de tous ses préjugés moraux, ne trouve dans l’infamie\nd’autrui qu’une raison d’exercer envers lui une bienveillance dont les\ntémoignages chatouillent d’autant plus l’amour-propre de celui qui les\ndonne, qu’il les sent plus précieux à celui qui les reçoit, avait\nlonguement causé avec M. Vinteuil, à qui, jusque-là il n’adressait pas\nla parole, et lui avait demandé avant de nous quitter s’il n’enverrait\npas un jour sa fille jouer à Tansonville. C’était une invitation qui,\nil y a deux ans, eût indigné M. Vinteuil, mais qui, maintenant, le\nremplissait de sentiments si reconnaissants qu’il se croyait obligé\npar eux, à ne pas avoir l’indiscrétion de l’accepter. L’amabilité de\nSwann envers sa fille lui semblait être en soi-même un appui si\nhonorable et si délicieux qu’il pensait qu’il valait peut-être mieux\nne pas s’en servir, pour avoir la douceur toute platonique de le\nconserver.",
+  "entities": [
+    {
+      "text": "Pour",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 50,
+      "end": 58
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1041,
+      "end": 1045
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 1069,
+      "end": 1077
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1512,
+      "end": 1516
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 1530,
+      "end": 1538
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 1987,
+      "end": 1991
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2021,
+      "end": 2025
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 2035,
+      "end": 2043
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 2321,
+      "end": 2328
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2756,
+      "end": 2761
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 2778,
+      "end": 2786
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 2790,
+      "end": 2798
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2914,
+      "end": 2919
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 3292,
+      "end": 3301
+    },
+    {
+      "text": "Tansonville.",
+      "label": "ORG",
+      "start": 3438,
+      "end": 3450
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 3511,
+      "end": 3520
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3683,
+      "end": 3688
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pour ceux qui comme nous virent à cette époque M",
+      "start": 0,
+      "end": 48
+    },
+    {
+      "text": "Vinteuil éviter les\npersonnes qu’il connaissait, se détourner quand il les apercevait,\nvieillir en quelques mois, s’absorber dans son chagrin, devenir\nincapable de tout effort qui n’avait pas directement le bonheur de sa\nfille pour but, passer des journées entières devant la tombe de sa\nfemme,--il eût été difficile de ne pas comprendre qu’il était en train\nde mourir de chagrin, et de supposer qu’il ne se rendait pas compte\ndes propos qui couraient",
+      "start": 49,
+      "end": 501
+    },
+    {
+      "text": "Il les connaissait, peut-être même y\najoutait-il foi",
+      "start": 502,
+      "end": 555
+    },
+    {
+      "text": "Il n’est peut-être pas une personne, si grande que\nsoit sa vertu, que la complexité des circonstances ne puisse amener à\nvivre un jour dans la familiarité du vice qu’elle condamne le plus\nformellement,--sans qu’elle le reconnaisse d’ailleurs tout à fait sous\nle déguisement de faits particuliers qu’il revêt pour entrer en\ncontact avec elle et la faire souffrir: paroles bizarres, attitude\ninexplicable, un certain soir, de tel être qu’elle a par ailleurs tant\nde raisons pour aimer",
+      "start": 556,
+      "end": 1039
+    },
+    {
+      "text": "Mais pour un homme comme M",
+      "start": 1040,
+      "end": 1067
+    },
+    {
+      "text": "Vinteuil il devait\nentrer bien plus de souffrance que pour un autre dans la résignation à\nune de ces situations qu’on croit à tort être l’apanage exclusif du\nmonde de la bohème: elles se produisent chaque fois qu’a besoin de se\nréserver la place et la sécurité qui lui sont nécessaires, un vice que\nla nature elle-même fait épanouir chez un enfant, parfois rien qu’en\nmêlant les vertus de son père et de sa mère, comme la couleur de ses\nyeux",
+      "start": 1068,
+      "end": 1510
+    },
+    {
+      "text": "Mais de ce que M",
+      "start": 1511,
+      "end": 1528
+    },
+    {
+      "text": "Vinteuil connaissait peut-être la conduite de\nsa fille, il ne s’ensuit pas que son culte pour elle en eût été\ndiminué",
+      "start": 1529,
+      "end": 1647
+    },
+    {
+      "text": "Les faits ne pénètrent pas dans le monde où vivent nos\ncroyances, ils n’ont pas fait naître celles-ci, ils ne les détruisent\npas; ils peuvent leur infliger les plus constants démentis sans les\naffaiblir, et une avalanche de malheurs ou de maladies se succédant\nsans interruption dans une famille, ne la fera pas douter de la bonté\nde son Dieu ou du talent de son médecin",
+      "start": 1648,
+      "end": 2019
+    },
+    {
+      "text": "Mais quand M",
+      "start": 2020,
+      "end": 2033
+    },
+    {
+      "text": "Vinteuil\nsongeait à sa fille et à lui-même du point de vue du monde, du point\nde vue de leur réputation, quand il cherchait à se situer avec elle au\nrang qu’ils occupaient dans l’estime générale, alors ce jugement\nd’ordre social, il le portait exactement comme l’eût fait l’habitant\nde Combray qui lui eût été le plus hostile, il se voyait avec sa fille\ndans le dernier bas-fond, et ses manières en avaient reçu depuis peu\ncette humilité, ce respect pour ceux qui se trouvaient au-dessus de\nlui et qu’il voyait d’en bas (eussent-ils été fort au-dessous de lui\njusque-là), cette tendance à chercher à remonter jusqu’à eux, qui est\nune résultante presque mécanique de toutes les déchéances",
+      "start": 2034,
+      "end": 2722
+    },
+    {
+      "text": "Un jour que\nnous marchions avec Swann dans une rue de Combray, M",
+      "start": 2723,
+      "end": 2788
+    },
+    {
+      "text": "Vinteuil qui\ndébouchait d’une autre, s’était trouvé trop brusquement en face de\nnous pour avoir le temps de nous éviter; et Swann avec cette\norgueilleuse charité de l’homme du monde qui, au milieu de la\ndissolution de tous ses préjugés moraux, ne trouve dans l’infamie\nd’autrui qu’une raison d’exercer envers lui une bienveillance dont les\ntémoignages chatouillent d’autant plus l’amour-propre de celui qui les\ndonne, qu’il les sent plus précieux à celui qui les reçoit, avait\nlonguement causé avec M",
+      "start": 2789,
+      "end": 3290
+    },
+    {
+      "text": "Vinteuil, à qui, jusque-là il n’adressait pas\nla parole, et lui avait demandé avant de nous quitter s’il n’enverrait\npas un jour sa fille jouer à Tansonville",
+      "start": 3291,
+      "end": 3449
+    },
+    {
+      "text": "C’était une invitation qui,\nil y a deux ans, eût indigné M",
+      "start": 3450,
+      "end": 3509
+    },
+    {
+      "text": "Vinteuil, mais qui, maintenant, le\nremplissait de sentiments si reconnaissants qu’il se croyait obligé\npar eux, à ne pas avoir l’indiscrétion de l’accepter",
+      "start": 3510,
+      "end": 3666
+    },
+    {
+      "text": "L’amabilité de\nSwann envers sa fille lui semblait être en soi-même un appui si\nhonorable et si délicieux qu’il pensait qu’il valait peut-être mieux\nne pas s’en servir, pour avoir la douceur toute platonique de le\nconserver",
+      "start": 3667,
+      "end": 3890
+    }
+  ],
+  "tokens": 662,
+  "processed_at": "2025-03-16T02:10:55.518273"
+}

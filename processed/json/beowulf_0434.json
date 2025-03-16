@@ -1,0 +1,47 @@
+{
+  "text": "De ce poste élevé elle participait avec entrain à la conversation des\nfidèles et s’égayait de leurs «fumisteries», mais depuis l’accident\nqui était arrivé à sa mâchoire, elle avait renoncé à prendre la peine\nde pouffer effectivement et se livrait à la place à une mimique\nconventionnelle qui signifiait sans fatigue ni risques pour elle,\nqu’elle riait aux larmes. Au moindre mot que lâchait un habitué contre\nun ennuyeux ou contre un ancien habitué rejeté au camp des\nennuyeux,--et pour le plus grand désespoir de M. Verdurin qui avait eu\nlongtemps la prétention d’être aussi aimable que sa femme, mais qui\nriant pour de bon s’essoufflait vite et avait été distancé et vaincu\npar cette ruse d’une incessante et fictive hilarité--, elle poussait un\npetit cri, fermait entièrement ses yeux d’oiseau qu’une taie\ncommençait à voiler, et brusquement, comme si elle n’eût eu que le\ntemps de cacher un spectacle indécent ou de parer à un accès mortel,\nplongeant sa figure dans ses mains qui la recouvraient et n’en\nlaissaient plus rien voir, elle avait l’air de s’efforcer de réprimer,\nd’anéantir un rire qui, si elle s’y fût abandonnée, l’eût conduite à\nl’évanouissement. Telle, étourdie par la gaieté des fidèles, ivre de\ncamaraderie, de médisance et d’assentiment, Mme Verdurin, juchée sur\nson perchoir, pareille à un oiseau dont on eût trempé le colifichet\ndans du vin chaud, sanglotait d’amabilité.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 517,
+      "end": 525
+    },
+    {
+      "text": "Telle,",
+      "label": "ORG",
+      "start": 1166,
+      "end": 1172
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 1265,
+      "end": 1274
+    }
+  ],
+  "sentences": [
+    {
+      "text": "De ce poste élevé elle participait avec entrain à la conversation des\nfidèles et s’égayait de leurs «fumisteries», mais depuis l’accident\nqui était arrivé à sa mâchoire, elle avait renoncé à prendre la peine\nde pouffer effectivement et se livrait à la place à une mimique\nconventionnelle qui signifiait sans fatigue ni risques pour elle,\nqu’elle riait aux larmes",
+      "start": 0,
+      "end": 362
+    },
+    {
+      "text": "Au moindre mot que lâchait un habitué contre\nun ennuyeux ou contre un ancien habitué rejeté au camp des\nennuyeux,--et pour le plus grand désespoir de M",
+      "start": 363,
+      "end": 515
+    },
+    {
+      "text": "Verdurin qui avait eu\nlongtemps la prétention d’être aussi aimable que sa femme, mais qui\nriant pour de bon s’essoufflait vite et avait été distancé et vaincu\npar cette ruse d’une incessante et fictive hilarité--, elle poussait un\npetit cri, fermait entièrement ses yeux d’oiseau qu’une taie\ncommençait à voiler, et brusquement, comme si elle n’eût eu que le\ntemps de cacher un spectacle indécent ou de parer à un accès mortel,\nplongeant sa figure dans ses mains qui la recouvraient et n’en\nlaissaient plus rien voir, elle avait l’air de s’efforcer de réprimer,\nd’anéantir un rire qui, si elle s’y fût abandonnée, l’eût conduite à\nl’évanouissement",
+      "start": 516,
+      "end": 1164
+    },
+    {
+      "text": "Telle, étourdie par la gaieté des fidèles, ivre de\ncamaraderie, de médisance et d’assentiment, Mme Verdurin, juchée sur\nson perchoir, pareille à un oiseau dont on eût trempé le colifichet\ndans du vin chaud, sanglotait d’amabilité",
+      "start": 1165,
+      "end": 1395
+    }
+  ],
+  "tokens": 229,
+  "processed_at": "2025-03-16T02:10:55.867948"
+}

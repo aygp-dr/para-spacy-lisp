@@ -1,0 +1,31 @@
+{
+  "text": "--«Comment, trois heures? s’écriait tout à coup ma tante en pâlissant,\nmais alors les vêpres sont commencées, j’ai oublié ma pepsine! Je\ncomprends maintenant pourquoi mon eau de Vichy me restait sur\nl’estomac.»",
+  "entities": [
+    {
+      "text": "--«Comment,",
+      "label": "ORG",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "text": "Vichy",
+      "label": "ORG",
+      "start": 178,
+      "end": 183
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Comment, trois heures? s’écriait tout à coup ma tante en pâlissant,\nmais alors les vêpres sont commencées, j’ai oublié ma pepsine! Je\ncomprends maintenant pourquoi mon eau de Vichy me restait sur\nl’estomac",
+      "start": 0,
+      "end": 208
+    },
+    {
+      "text": "»",
+      "start": 209,
+      "end": 210
+    }
+  ],
+  "tokens": 33,
+  "processed_at": "2025-03-16T02:10:55.179042"
+}

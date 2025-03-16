@@ -1,0 +1,37 @@
+{
+  "text": "--«Il n’y aurait rien d’étonnant qu’elles viennent de chez M. le Curé»,\ndisait Françoise.",
+  "entities": [
+    {
+      "text": "--«Il",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Curé»,",
+      "label": "ORG",
+      "start": 65,
+      "end": 71
+    },
+    {
+      "text": "Françoise.",
+      "label": "ORG",
+      "start": 79,
+      "end": 89
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Il n’y aurait rien d’étonnant qu’elles viennent de chez M",
+      "start": 0,
+      "end": 60
+    },
+    {
+      "text": "le Curé»,\ndisait Françoise",
+      "start": 61,
+      "end": 88
+    }
+  ],
+  "tokens": 14,
+  "processed_at": "2025-03-16T02:10:54.625137"
+}

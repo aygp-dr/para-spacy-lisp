@@ -1,0 +1,40 @@
+{
+  "text": "Un homme qui dort, tient en cercle autour de lui le fil des heures,\nl’ordre des années et des mondes. Il les consulte d’instinct en\ns’éveillant et y lit en une seconde le point de la terre qu’il occupe,\nle temps qui s’est écoulé jusqu’à son réveil; mais leurs rangs peuvent\nse mêler, se rompre. Que vers le matin après quelque insomnie, le\nsommeil le prenne en train de lire, dans une posture trop différente\nde celle où il dort habituellement, il suffit de son bras soulevé pour\narrêter et faire reculer le soleil, et à la première minute de son\nréveil, il ne saura plus l’heure, il estimera qu’il vient à peine de\nse coucher. Que s’il s’assoupit dans une position encore plus déplacée\net divergente, par exemple après dîner assis dans un fauteuil, alors\nle bouleversement sera complet dans les mondes désorbités, le fauteuil\nmagique le fera voyager à toute vitesse dans le temps et dans\nl’espace, et au moment d’ouvrir les paupières, il se croira couché\nquelques mois plus tôt dans une autre contrée. Mais il suffisait que,\ndans mon lit même, mon sommeil fût profond et détendît entièrement mon\nesprit; alors celui-ci lâchait le plan du lieu où je m’étais endormi,\net quand je m’éveillais au milieu de la nuit, comme j’ignorais où je\nme trouvais, je ne savais même pas au premier instant qui j’étais;\nj’avais seulement dans sa simplicité première, le sentiment de\nl’existence comme il peut frémir au fond d’un animal: j’étais plus\ndénué que l’homme des cavernes; mais alors le souvenir--non encore du\nlieu où j’étais, mais de quelques-uns de ceux que j’avais habités et\noù j’aurais pu être--venait à moi comme un secours d’en haut pour me\ntirer du néant d’où je n’aurais pu sortir tout seul; je passais en une\nseconde par-dessus des siècles de civilisation, et l’image confusément\nentrevue de lampes à pétrole, puis de chemises à col rabattu,\nrecomposaient peu à peu les traits originaux de mon moi.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1007
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Un homme qui dort, tient en cercle autour de lui le fil des heures,\nl’ordre des années et des mondes",
+      "start": 0,
+      "end": 100
+    },
+    {
+      "text": "Il les consulte d’instinct en\ns’éveillant et y lit en une seconde le point de la terre qu’il occupe,\nle temps qui s’est écoulé jusqu’à son réveil; mais leurs rangs peuvent\nse mêler, se rompre",
+      "start": 101,
+      "end": 293
+    },
+    {
+      "text": "Que vers le matin après quelque insomnie, le\nsommeil le prenne en train de lire, dans une posture trop différente\nde celle où il dort habituellement, il suffit de son bras soulevé pour\narrêter et faire reculer le soleil, et à la première minute de son\nréveil, il ne saura plus l’heure, il estimera qu’il vient à peine de\nse coucher",
+      "start": 294,
+      "end": 626
+    },
+    {
+      "text": "Que s’il s’assoupit dans une position encore plus déplacée\net divergente, par exemple après dîner assis dans un fauteuil, alors\nle bouleversement sera complet dans les mondes désorbités, le fauteuil\nmagique le fera voyager à toute vitesse dans le temps et dans\nl’espace, et au moment d’ouvrir les paupières, il se croira couché\nquelques mois plus tôt dans une autre contrée",
+      "start": 627,
+      "end": 1001
+    },
+    {
+      "text": "Mais il suffisait que,\ndans mon lit même, mon sommeil fût profond et détendît entièrement mon\nesprit; alors celui-ci lâchait le plan du lieu où je m’étais endormi,\net quand je m’éveillais au milieu de la nuit, comme j’ignorais où je\nme trouvais, je ne savais même pas au premier instant qui j’étais;\nj’avais seulement dans sa simplicité première, le sentiment de\nl’existence comme il peut frémir au fond d’un animal: j’étais plus\ndénué que l’homme des cavernes; mais alors le souvenir--non encore du\nlieu où j’étais, mais de quelques-uns de ceux que j’avais habités et\noù j’aurais pu être--venait à moi comme un secours d’en haut pour me\ntirer du néant d’où je n’aurais pu sortir tout seul; je passais en une\nseconde par-dessus des siècles de civilisation, et l’image confusément\nentrevue de lampes à pétrole, puis de chemises à col rabattu,\nrecomposaient peu à peu les traits originaux de mon moi",
+      "start": 1002,
+      "end": 1900
+    }
+  ],
+  "tokens": 330,
+  "processed_at": "2025-03-16T02:10:54.390521"
+}

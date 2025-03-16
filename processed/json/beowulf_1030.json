@@ -1,0 +1,94 @@
+{
+  "text": "Cette complexité du bois de Boulogne qui en fait un lieu factice et,\ndans le sens zoologique ou mythologique du mot, un Jardin, je l’ai\nretrouvée cette année comme je le traversais pour aller à Trianon, un\ndes premiers matins de ce mois de novembre où, à Paris, dans les\nmaisons, la proximité et la privation du spectacle de l’automne qui\ns’achève si vite sans qu’on y assiste, donnent une nostalgie, une\nvéritable fièvre des feuilles mortes qui peut aller jusqu’à empêcher\nde dormir. Dans ma chambre fermée, elles s’interposaient depuis un\nmois, évoquées par mon désir de les voir, entre ma pensée et n’importe\nquel objet auquel je m’appliquais, et tourbillonnaient comme ces\ntaches jaunes qui parfois, quoi que nous regardions, dansent devant\nnos yeux. Et ce matin-là, n’entendant plus la pluie tomber comme les\njours précédents, voyant le beau temps sourire aux coins des rideaux\nfermés comme aux coins d’une bouche close qui laisse échapper le\nsecret de son bonheur, j’avais senti que ces feuilles jaunes, je\npourrais les regarder traversées par la lumière, dans leur suprême\nbeauté; et ne pouvant pas davantage me tenir d’aller voir des arbres\nqu’autrefois, quand le vent soufflait trop fort dans ma cheminée, de\npartir pour le bord de la mer, j’étais sorti pour aller à Trianon, en\npassant par le bois de Boulogne. C’était l’heure et c’était la saison\noù le Bois semble peut-être le plus multiple, non seulement parce\nqu’il est plus subdivisé, mais encore parce qu’il l’est autrement.\nMême dans les parties découvertes où l’on embrasse un grand espace, çà\net là, en face des sombres masses lointaines des arbres qui n’avaient\npas de feuilles ou qui avaient encore leurs feuilles de l’été, un\ndouble rang de marronniers orangés semblait, comme dans un tableau à\npeine commencé, avoir seul encore été peint par le décorateur qui\nn’aurait pas mis de couleur sur le reste, et tendait son allée en\npleine lumière pour la promenade épisodique de personnages qui ne\nseraient ajoutés que plus tard.",
+  "entities": [
+    {
+      "text": "Cette",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Boulogne",
+      "label": "ORG",
+      "start": 28,
+      "end": 36
+    },
+    {
+      "text": "Jardin,",
+      "label": "ORG",
+      "start": 120,
+      "end": 127
+    },
+    {
+      "text": "Trianon,",
+      "label": "ORG",
+      "start": 194,
+      "end": 202
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 255,
+      "end": 261
+    },
+    {
+      "text": "Dans",
+      "label": "ORG",
+      "start": 485,
+      "end": 489
+    },
+    {
+      "text": "Trianon,",
+      "label": "ORG",
+      "start": 1276,
+      "end": 1284
+    },
+    {
+      "text": "Boulogne.",
+      "label": "ORG",
+      "start": 1311,
+      "end": 1320
+    },
+    {
+      "text": "Bois",
+      "label": "ORG",
+      "start": 1364,
+      "end": 1368
+    },
+    {
+      "text": "Même",
+      "label": "ORG",
+      "start": 1491,
+      "end": 1495
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cette complexité du bois de Boulogne qui en fait un lieu factice et,\ndans le sens zoologique ou mythologique du mot, un Jardin, je l’ai\nretrouvée cette année comme je le traversais pour aller à Trianon, un\ndes premiers matins de ce mois de novembre où, à Paris, dans les\nmaisons, la proximité et la privation du spectacle de l’automne qui\ns’achève si vite sans qu’on y assiste, donnent une nostalgie, une\nvéritable fièvre des feuilles mortes qui peut aller jusqu’à empêcher\nde dormir",
+      "start": 0,
+      "end": 483
+    },
+    {
+      "text": "Dans ma chambre fermée, elles s’interposaient depuis un\nmois, évoquées par mon désir de les voir, entre ma pensée et n’importe\nquel objet auquel je m’appliquais, et tourbillonnaient comme ces\ntaches jaunes qui parfois, quoi que nous regardions, dansent devant\nnos yeux",
+      "start": 484,
+      "end": 753
+    },
+    {
+      "text": "Et ce matin-là, n’entendant plus la pluie tomber comme les\njours précédents, voyant le beau temps sourire aux coins des rideaux\nfermés comme aux coins d’une bouche close qui laisse échapper le\nsecret de son bonheur, j’avais senti que ces feuilles jaunes, je\npourrais les regarder traversées par la lumière, dans leur suprême\nbeauté; et ne pouvant pas davantage me tenir d’aller voir des arbres\nqu’autrefois, quand le vent soufflait trop fort dans ma cheminée, de\npartir pour le bord de la mer, j’étais sorti pour aller à Trianon, en\npassant par le bois de Boulogne",
+      "start": 754,
+      "end": 1319
+    },
+    {
+      "text": "C’était l’heure et c’était la saison\noù le Bois semble peut-être le plus multiple, non seulement parce\nqu’il est plus subdivisé, mais encore parce qu’il l’est autrement",
+      "start": 1320,
+      "end": 1489
+    },
+    {
+      "text": "Même dans les parties découvertes où l’on embrasse un grand espace, çà\net là, en face des sombres masses lointaines des arbres qui n’avaient\npas de feuilles ou qui avaient encore leurs feuilles de l’été, un\ndouble rang de marronniers orangés semblait, comme dans un tableau à\npeine commencé, avoir seul encore été peint par le décorateur qui\nn’aurait pas mis de couleur sur le reste, et tendait son allée en\npleine lumière pour la promenade épisodique de personnages qui ne\nseraient ajoutés que plus tard",
+      "start": 1490,
+      "end": 1995
+    }
+  ],
+  "tokens": 335,
+  "processed_at": "2025-03-16T02:10:57.619893"
+}

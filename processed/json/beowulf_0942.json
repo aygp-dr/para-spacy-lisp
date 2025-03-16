@@ -1,0 +1,20 @@
+{
+  "text": "--Tu es un misérable, tu te plais à me torturer, à me faire faire des\nmensonges que je dis afin que tu me laisses tranquille.",
+  "entities": [
+    {
+      "text": "--Tu",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Tu es un misérable, tu te plais à me torturer, à me faire faire des\nmensonges que je dis afin que tu me laisses tranquille",
+      "start": 0,
+      "end": 124
+    }
+  ],
+  "tokens": 25,
+  "processed_at": "2025-03-16T02:10:57.388233"
+}

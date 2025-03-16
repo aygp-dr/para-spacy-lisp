@@ -1,0 +1,42 @@
+{
+  "text": "Comme il avait dû lui faire de la peine! Certes il trouvait des\nraisons valables à son ressentiment contre elle, mais elles n’auraient\npas suffi à le lui faire éprouver s’il ne l’avait pas autant aimée.\nN’avait-il pas eu des griefs aussi graves contre d’autres femmes,\nauxquelles il eût néanmoins volontiers rendu service aujourd’hui,\nétant contre elles sans colère parce qu’il ne les aimait plus. S’il\ndevait jamais un jour se trouver dans le même état d’indifférence\nvis-à-vis d’Odette, il comprendrait que c’était sa jalousie seule qui\nlui avait fait trouver quelque chose d’atroce, d’impardonnable, à ce\ndésir, au fond si naturel, provenant d’un peu d’enfantillage et aussi\nd’une certaine délicatesse d’âme, de pouvoir à son tour, puisqu’une\noccasion s’en présentait, rendre des politesses aux Verdurin, jouer à\nla maîtresse de maison.",
+  "entities": [
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Certes",
+      "label": "ORG",
+      "start": 41,
+      "end": 47
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 798,
+      "end": 807
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Comme il avait dû lui faire de la peine! Certes il trouvait des\nraisons valables à son ressentiment contre elle, mais elles n’auraient\npas suffi à le lui faire éprouver s’il ne l’avait pas autant aimée",
+      "start": 0,
+      "end": 201
+    },
+    {
+      "text": "N’avait-il pas eu des griefs aussi graves contre d’autres femmes,\nauxquelles il eût néanmoins volontiers rendu service aujourd’hui,\nétant contre elles sans colère parce qu’il ne les aimait plus",
+      "start": 202,
+      "end": 396
+    },
+    {
+      "text": "S’il\ndevait jamais un jour se trouver dans le même état d’indifférence\nvis-à-vis d’Odette, il comprendrait que c’était sa jalousie seule qui\nlui avait fait trouver quelque chose d’atroce, d’impardonnable, à ce\ndésir, au fond si naturel, provenant d’un peu d’enfantillage et aussi\nd’une certaine délicatesse d’âme, de pouvoir à son tour, puisqu’une\noccasion s’en présentait, rendre des politesses aux Verdurin, jouer à\nla maîtresse de maison",
+      "start": 397,
+      "end": 838
+    }
+  ],
+  "tokens": 132,
+  "processed_at": "2025-03-16T02:10:56.888326"
+}

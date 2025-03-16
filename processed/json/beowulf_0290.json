@@ -1,0 +1,25 @@
+{
+  "text": "--«Ce n’est pas cela que je voulais dire, interrompit mon père, aussi\nobstiné que les arbres et aussi impitoyable que le ciel. Je demandais\npour le cas où il arriverait n’importe quoi à ma belle-mère et où elle\naurait besoin de ne pas se sentir là-bas en pays perdu, si vous y\nconnaissez du monde?»",
+  "entities": [
+    {
+      "text": "--«Ce",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Ce n’est pas cela que je voulais dire, interrompit mon père, aussi\nobstiné que les arbres et aussi impitoyable que le ciel",
+      "start": 0,
+      "end": 125
+    },
+    {
+      "text": "Je demandais\npour le cas où il arriverait n’importe quoi à ma belle-mère et où elle\naurait besoin de ne pas se sentir là-bas en pays perdu, si vous y\nconnaissez du monde?»",
+      "start": 126,
+      "end": 298
+    }
+  ],
+  "tokens": 55,
+  "processed_at": "2025-03-16T02:10:55.428404"
+}

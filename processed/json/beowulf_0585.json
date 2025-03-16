@@ -1,0 +1,53 @@
+{
+  "text": "Il y avait, à ce dîner, en dehors des habitués, un professeur de la\nSorbonne, Brichot, qui avait rencontré M. et Mme Verdurin aux eaux et\nsi ses fonctions universitaires et ses travaux d’érudition n’avaient\npas rendu très rares ses moments de liberté, serait volontiers venu\nsouvent chez eux. Car il avait cette curiosité, cette superstition de\nla vie, qui unie à un certain scepticisme relatif à l’objet de leurs\nétudes, donne dans n’importe quelle profession, à certains hommes\nintelligents, médecins qui ne croient pas à la médecine, professeurs\nde lycée qui ne croient pas au thème latin, la réputation d’esprits\nlarges, brillants, et même supérieurs. Il affectait, chez Mme\nVerdurin, de chercher ses comparaisons dans ce qu’il y avait de plus\nactuel quand il parlait de philosophie et d’histoire, d’abord parce\nqu’il croyait qu’elles ne sont qu’une préparation à la vie et qu’il\ns’imaginait trouver en action dans le petit clan ce qu’il n’avait\nconnu jusqu’ici que dans les livres, puis peut-être aussi parce que,\ns’étant vu inculquer autrefois, et ayant gardé à son insu, le respect\nde certains sujets, il croyait dépouiller l’universitaire en prenant\navec eux des hardiesses qui, au contraire, ne lui paraissaient telles,\nque parce qu’il l’était resté.",
+  "entities": [
+    {
+      "text": "Sorbonne,",
+      "label": "ORG",
+      "start": 68,
+      "end": 77
+    },
+    {
+      "text": "Brichot,",
+      "label": "ORG",
+      "start": 78,
+      "end": 86
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 117,
+      "end": 125
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 679,
+      "end": 688
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il y avait, à ce dîner, en dehors des habitués, un professeur de la\nSorbonne, Brichot, qui avait rencontré M",
+      "start": 0,
+      "end": 108
+    },
+    {
+      "text": "et Mme Verdurin aux eaux et\nsi ses fonctions universitaires et ses travaux d’érudition n’avaient\npas rendu très rares ses moments de liberté, serait volontiers venu\nsouvent chez eux",
+      "start": 109,
+      "end": 291
+    },
+    {
+      "text": "Car il avait cette curiosité, cette superstition de\nla vie, qui unie à un certain scepticisme relatif à l’objet de leurs\nétudes, donne dans n’importe quelle profession, à certains hommes\nintelligents, médecins qui ne croient pas à la médecine, professeurs\nde lycée qui ne croient pas au thème latin, la réputation d’esprits\nlarges, brillants, et même supérieurs",
+      "start": 292,
+      "end": 654
+    },
+    {
+      "text": "Il affectait, chez Mme\nVerdurin, de chercher ses comparaisons dans ce qu’il y avait de plus\nactuel quand il parlait de philosophie et d’histoire, d’abord parce\nqu’il croyait qu’elles ne sont qu’une préparation à la vie et qu’il\ns’imaginait trouver en action dans le petit clan ce qu’il n’avait\nconnu jusqu’ici que dans les livres, puis peut-être aussi parce que,\ns’étant vu inculquer autrefois, et ayant gardé à son insu, le respect\nde certains sujets, il croyait dépouiller l’universitaire en prenant\navec eux des hardiesses qui, au contraire, ne lui paraissaient telles,\nque parce qu’il l’était resté",
+      "start": 655,
+      "end": 1258
+    }
+  ],
+  "tokens": 203,
+  "processed_at": "2025-03-16T02:10:56.312103"
+}

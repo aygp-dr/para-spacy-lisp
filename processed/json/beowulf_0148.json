@@ -1,0 +1,83 @@
+{
+  "text": "Malgré toute l’admiration que M. Swann professait pour ces figures de\nGiotto, je n’eus longtemps aucun plaisir à considérer dans notre salle\nd’études, où on avait accroché les copies qu’il m’en avait rapportées,\ncette Charité sans charité, cette Envie qui avait l’air d’une planche\nillustrant seulement dans un livre de médecine la compression de la\nglotte ou de la luette par une tumeur de la langue ou par\nl’introduction de l’instrument de l’opérateur, une Justice, dont le\nvisage grisâtre et mesquinement régulier était celui-là même qui, à\nCombray, caractérisait certaines jolies bourgeoises pieuses et sèches\nque je voyais à la messe et dont plusieurs étaient enrôlées d’avance\ndans les milices de réserve de l’Injustice. Mais plus tard j’ai\ncompris que l’étrangeté saisissante, la beauté spéciale de ces\nfresques tenait à la grande place que le symbole y occupait, et que le\nfait qu’il fût représenté non comme un symbole puisque la pensée\nsymbolisée n’était pas exprimée, mais comme réel, comme effectivement\nsubi ou matériellement manié, donnait à la signification de l’œuvre\nquelque chose de plus littéral et de plus précis, à son enseignement\nquelque chose de plus concret et de plus frappant. Chez la pauvre\nfille de cuisine, elle aussi, l’attention n’était-elle pas sans cesse\nramenée à son ventre par le poids qui le tirait; et de même encore,\nbien souvent la pensée des agonisants est tournée vers le côté\neffectif, douloureux, obscur, viscéral, vers cet envers de la mort qui\nest précisément le côté qu’elle leur présente, qu’elle leur fait\nrudement sentir et qui ressemble beaucoup plus à un fardeau qui les\nécrase, à une difficulté de respirer, à un besoin de boire, qu’à ce\nque nous appelons l’idée de la mort.",
+  "entities": [
+    {
+      "text": "Malgré",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 33,
+      "end": 38
+    },
+    {
+      "text": "Giotto,",
+      "label": "ORG",
+      "start": 70,
+      "end": 77
+    },
+    {
+      "text": "Charité",
+      "label": "ORG",
+      "start": 218,
+      "end": 225
+    },
+    {
+      "text": "Envie",
+      "label": "ORG",
+      "start": 246,
+      "end": 251
+    },
+    {
+      "text": "Justice,",
+      "label": "ORG",
+      "start": 459,
+      "end": 467
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 544,
+      "end": 552
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 727,
+      "end": 731
+    },
+    {
+      "text": "Chez",
+      "label": "ORG",
+      "start": 1204,
+      "end": 1208
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Malgré toute l’admiration que M",
+      "start": 0,
+      "end": 31
+    },
+    {
+      "text": "Swann professait pour ces figures de\nGiotto, je n’eus longtemps aucun plaisir à considérer dans notre salle\nd’études, où on avait accroché les copies qu’il m’en avait rapportées,\ncette Charité sans charité, cette Envie qui avait l’air d’une planche\nillustrant seulement dans un livre de médecine la compression de la\nglotte ou de la luette par une tumeur de la langue ou par\nl’introduction de l’instrument de l’opérateur, une Justice, dont le\nvisage grisâtre et mesquinement régulier était celui-là même qui, à\nCombray, caractérisait certaines jolies bourgeoises pieuses et sèches\nque je voyais à la messe et dont plusieurs étaient enrôlées d’avance\ndans les milices de réserve de l’Injustice",
+      "start": 32,
+      "end": 725
+    },
+    {
+      "text": "Mais plus tard j’ai\ncompris que l’étrangeté saisissante, la beauté spéciale de ces\nfresques tenait à la grande place que le symbole y occupait, et que le\nfait qu’il fût représenté non comme un symbole puisque la pensée\nsymbolisée n’était pas exprimée, mais comme réel, comme effectivement\nsubi ou matériellement manié, donnait à la signification de l’œuvre\nquelque chose de plus littéral et de plus précis, à son enseignement\nquelque chose de plus concret et de plus frappant",
+      "start": 726,
+      "end": 1202
+    },
+    {
+      "text": "Chez la pauvre\nfille de cuisine, elle aussi, l’attention n’était-elle pas sans cesse\nramenée à son ventre par le poids qui le tirait; et de même encore,\nbien souvent la pensée des agonisants est tournée vers le côté\neffectif, douloureux, obscur, viscéral, vers cet envers de la mort qui\nest précisément le côté qu’elle leur présente, qu’elle leur fait\nrudement sentir et qui ressemble beaucoup plus à un fardeau qui les\nécrase, à une difficulté de respirer, à un besoin de boire, qu’à ce\nque nous appelons l’idée de la mort",
+      "start": 1203,
+      "end": 1727
+    }
+  ],
+  "tokens": 283,
+  "processed_at": "2025-03-16T02:10:54.922517"
+}

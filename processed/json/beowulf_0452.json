@@ -1,0 +1,58 @@
+{
+  "text": "--«Taisez-vous, vous êtes un vilain. Au fond, dit-elle en se tournant\nvers Swann, on nous défend à nous autres femmes des choses moins\nvoluptueuses que cela. Mais il n’y a pas une chair comparable à cela!\nQuand M. Verdurin me faisait l’honneur d’être jaloux de moi--allons,\nsois poli au moins, ne dis pas que tu ne l’as jamais été...--»",
+  "entities": [
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 75,
+      "end": 81
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 158,
+      "end": 162
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 205,
+      "end": 210
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 214,
+      "end": 222
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Taisez-vous, vous êtes un vilain",
+      "start": 0,
+      "end": 35
+    },
+    {
+      "text": "Au fond, dit-elle en se tournant\nvers Swann, on nous défend à nous autres femmes des choses moins\nvoluptueuses que cela",
+      "start": 36,
+      "end": 156
+    },
+    {
+      "text": "Mais il n’y a pas une chair comparable à cela!\nQuand M",
+      "start": 157,
+      "end": 212
+    },
+    {
+      "text": "Verdurin me faisait l’honneur d’être jaloux de moi--allons,\nsois poli au moins, ne dis pas que tu ne l’as jamais été",
+      "start": 213,
+      "end": 330
+    },
+    {
+      "text": "--»",
+      "start": 333,
+      "end": 336
+    }
+  ],
+  "tokens": 59,
+  "processed_at": "2025-03-16T02:10:55.919142"
+}

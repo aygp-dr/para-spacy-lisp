@@ -1,0 +1,31 @@
+{
+  "text": "--C’est drôle qu’il aille même chez la mère Saint-Euverte, dit Mme de\nGallardon. Oh! je sais qu’il est intelligent, ajouta-t-elle en voulant\ndire par là intrigant, mais cela ne fait rien, un juif chez la sœur et\nla belle-sœur de deux archevêques!",
+  "entities": [
+    {
+      "text": "Saint-Euverte,",
+      "label": "ORG",
+      "start": 44,
+      "end": 58
+    },
+    {
+      "text": "Gallardon.",
+      "label": "ORG",
+      "start": 70,
+      "end": 80
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--C’est drôle qu’il aille même chez la mère Saint-Euverte, dit Mme de\nGallardon",
+      "start": 0,
+      "end": 79
+    },
+    {
+      "text": "Oh! je sais qu’il est intelligent, ajouta-t-elle en voulant\ndire par là intrigant, mais cela ne fait rien, un juif chez la sœur et\nla belle-sœur de deux archevêques!",
+      "start": 80,
+      "end": 246
+    }
+  ],
+  "tokens": 42,
+  "processed_at": "2025-03-16T02:10:57.067768"
+}

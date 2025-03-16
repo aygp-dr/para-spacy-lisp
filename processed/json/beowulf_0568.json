@@ -1,0 +1,64 @@
+{
+  "text": "--et plus ou moins affaibli dans la mesure où l’on est distant du\ncentre de leur intimité--, dans le cercle de leurs amis ou des amis de\nleurs amis dont les noms forment une sorte de répertoire. Les gens du\nmonde le possèdent dans leur mémoire, ils ont sur ces matières une\nérudition d’où ils ont extrait une sorte de goût, de tact, si bien que\nSwann par exemple, sans avoir besoin de faire appel à son savoir\nmondain, s’il lisait dans un journal les noms des personnes qui se\ntrouvaient à un dîner pouvait dire immédiatement la nuance du chic de\nce dîner, comme un lettré, à la simple lecture d’une phrase, apprécie\nexactement la qualité littéraire de son auteur. Mais Odette faisait\npartie des personnes (extrêmement nombreuses quoi qu’en pensent les\ngens du monde, et comme il y en a dans toutes les classes de la\nsociété), qui ne possèdent pas ces notions, imaginent un chic tout\nautre, qui revêt divers aspects selon le milieu auquel elles\nappartiennent, mais a pour caractère particulier,--que ce soit celui\ndont rêvait Odette, ou celui devant lequel s’inclinait Mme\nCottard,--d’être directement accessible à tous. L’autre, celui des gens\ndu monde, l’est à vrai dire aussi, mais il y faut quelque délai.\nOdette disait de quelqu’un:",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 345,
+      "end": 350
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 665,
+      "end": 669
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 670,
+      "end": 676
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 1026,
+      "end": 1033
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 1210,
+      "end": 1216
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--et plus ou moins affaibli dans la mesure où l’on est distant du\ncentre de leur intimité--, dans le cercle de leurs amis ou des amis de\nleurs amis dont les noms forment une sorte de répertoire",
+      "start": 0,
+      "end": 193
+    },
+    {
+      "text": "Les gens du\nmonde le possèdent dans leur mémoire, ils ont sur ces matières une\nérudition d’où ils ont extrait une sorte de goût, de tact, si bien que\nSwann par exemple, sans avoir besoin de faire appel à son savoir\nmondain, s’il lisait dans un journal les noms des personnes qui se\ntrouvaient à un dîner pouvait dire immédiatement la nuance du chic de\nce dîner, comme un lettré, à la simple lecture d’une phrase, apprécie\nexactement la qualité littéraire de son auteur",
+      "start": 194,
+      "end": 663
+    },
+    {
+      "text": "Mais Odette faisait\npartie des personnes (extrêmement nombreuses quoi qu’en pensent les\ngens du monde, et comme il y en a dans toutes les classes de la\nsociété), qui ne possèdent pas ces notions, imaginent un chic tout\nautre, qui revêt divers aspects selon le milieu auquel elles\nappartiennent, mais a pour caractère particulier,--que ce soit celui\ndont rêvait Odette, ou celui devant lequel s’inclinait Mme\nCottard,--d’être directement accessible à tous",
+      "start": 664,
+      "end": 1119
+    },
+    {
+      "text": "L’autre, celui des gens\ndu monde, l’est à vrai dire aussi, mais il y faut quelque délai",
+      "start": 1120,
+      "end": 1208
+    },
+    {
+      "text": "Odette disait de quelqu’un:",
+      "start": 1209,
+      "end": 1237
+    }
+  ],
+  "tokens": 213,
+  "processed_at": "2025-03-16T02:10:56.259449"
+}

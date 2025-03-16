@@ -1,0 +1,20 @@
+{
+  "text": "--Monsieur, il est huit heures et le coiffeur est là, je lui ai dit de\nrepasser dans une heure.",
+  "entities": [
+    {
+      "text": "--Monsieur,",
+      "label": "ORG",
+      "start": 0,
+      "end": 11
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Monsieur, il est huit heures et le coiffeur est là, je lui ai dit de\nrepasser dans une heure",
+      "start": 0,
+      "end": 94
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:57.464254"
+}

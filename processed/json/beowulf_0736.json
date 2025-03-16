@@ -1,0 +1,26 @@
+{
+  "text": "--Adieu, lui dit Odette en lui tendant la main.",
+  "entities": [
+    {
+      "text": "--Adieu,",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 17,
+      "end": 23
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Adieu, lui dit Odette en lui tendant la main",
+      "start": 0,
+      "end": 46
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:56.755540"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "Et quand la voiture de Mme Verdurin fut partie et que celle de Swann\ns’avança, son cocher le regardant lui demanda s’il n’était pas malade\nou s’il n’était pas arrivé de malheur.",
+  "entities": [
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 27,
+      "end": 35
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 63,
+      "end": 68
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Et quand la voiture de Mme Verdurin fut partie et que celle de Swann\ns’avança, son cocher le regardant lui demanda s’il n’était pas malade\nou s’il n’était pas arrivé de malheur",
+      "start": 0,
+      "end": 176
+    }
+  ],
+  "tokens": 32,
+  "processed_at": "2025-03-16T02:10:56.768993"
+}

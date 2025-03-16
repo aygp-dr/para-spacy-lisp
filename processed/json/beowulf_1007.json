@@ -1,0 +1,108 @@
+{
+  "text": "Je m’arrangeais à tout propos à faire prononcer à mes parents le nom\nde Swann: certes je me le répétais mentalement sans cesse: mais\nj’avais besoin aussi d’entendre sa sonorité délicieuse et de me faire\njouer cette musique dont la lecture muette ne me suffisait pas. Ce nom\nde Swann d’ailleurs que je connaissais depuis si longtemps, était\nmaintenant pour moi, ainsi qu’il arrive à certains aphasiques à\nl’égard des mots les plus usuels, un nom nouveau. Il était toujours\nprésent à ma pensée et pourtant elle ne pouvait pas s’habituer à lui.\nJe le décomposais, je l’épelais, son orthographe était pour moi une\nsurprise. Et en même temps que d’être familier, il avait cessé de me\nparaître innocent. Les joies que je prenais à l’entendre, je les\ncroyais si coupables, qu’il me semblait qu’on devinait ma pensée et\nqu’on changeait la conversation si je cherchais à l’y amener. Je me\nrabattais sur les sujets qui touchaient encore à Gilberte, je\nrabâchais sans fin les mêmes paroles, et j’avais beau savoir que ce\nn’était que des paroles,--des paroles prononcées loin d’elle, qu’elle\nn’entendait pas, des paroles sans vertu qui répétaient ce qui était,\nmais ne le pouvaient modifier,--pourtant il me semblait qu’à force de\nmanier, de brasser ainsi tout ce qui avoisinait Gilberte j’en ferais\npeut-être sortir quelque chose d’heureux. Je redisais à mes parents\nque Gilberte aimait bien son institutrice, comme si cette proposition\nénoncée pour la centième fois allait avoir enfin pour effet de faire\nbrusquement entrer Gilberte venant à tout jamais vivre avec nous. Je\nreprenais l’éloge de la vieille dame qui lisait les Débats (j’avais\ninsinué à mes parents que c’était une ambassadrice ou peut-être une\naltesse) et je continuais à célébrer sa beauté, sa magnificence, sa\nnoblesse, jusqu’au jour où je dis que d’après le nom qu’avait prononcé\nGilberte elle devait s’appeler Mme Blatin.",
+  "entities": [
+    {
+      "text": "Swann:",
+      "label": "ORG",
+      "start": 72,
+      "end": 78
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 277,
+      "end": 282
+    },
+    {
+      "text": "Gilberte,",
+      "label": "ORG",
+      "start": 929,
+      "end": 938
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1267,
+      "end": 1275
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1360,
+      "end": 1368
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1514,
+      "end": 1522
+    },
+    {
+      "text": "Débats",
+      "label": "ORG",
+      "start": 1616,
+      "end": 1622
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 1839,
+      "end": 1847
+    },
+    {
+      "text": "Blatin.",
+      "label": "ORG",
+      "start": 1874,
+      "end": 1881
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Je m’arrangeais à tout propos à faire prononcer à mes parents le nom\nde Swann: certes je me le répétais mentalement sans cesse: mais\nj’avais besoin aussi d’entendre sa sonorité délicieuse et de me faire\njouer cette musique dont la lecture muette ne me suffisait pas",
+      "start": 0,
+      "end": 265
+    },
+    {
+      "text": "Ce nom\nde Swann d’ailleurs que je connaissais depuis si longtemps, était\nmaintenant pour moi, ainsi qu’il arrive à certains aphasiques à\nl’égard des mots les plus usuels, un nom nouveau",
+      "start": 266,
+      "end": 452
+    },
+    {
+      "text": "Il était toujours\nprésent à ma pensée et pourtant elle ne pouvait pas s’habituer à lui",
+      "start": 453,
+      "end": 540
+    },
+    {
+      "text": "Je le décomposais, je l’épelais, son orthographe était pour moi une\nsurprise",
+      "start": 541,
+      "end": 618
+    },
+    {
+      "text": "Et en même temps que d’être familier, il avait cessé de me\nparaître innocent",
+      "start": 619,
+      "end": 696
+    },
+    {
+      "text": "Les joies que je prenais à l’entendre, je les\ncroyais si coupables, qu’il me semblait qu’on devinait ma pensée et\nqu’on changeait la conversation si je cherchais à l’y amener",
+      "start": 697,
+      "end": 872
+    },
+    {
+      "text": "Je me\nrabattais sur les sujets qui touchaient encore à Gilberte, je\nrabâchais sans fin les mêmes paroles, et j’avais beau savoir que ce\nn’était que des paroles,--des paroles prononcées loin d’elle, qu’elle\nn’entendait pas, des paroles sans vertu qui répétaient ce qui était,\nmais ne le pouvaient modifier,--pourtant il me semblait qu’à force de\nmanier, de brasser ainsi tout ce qui avoisinait Gilberte j’en ferais\npeut-être sortir quelque chose d’heureux",
+      "start": 873,
+      "end": 1328
+    },
+    {
+      "text": "Je redisais à mes parents\nque Gilberte aimait bien son institutrice, comme si cette proposition\nénoncée pour la centième fois allait avoir enfin pour effet de faire\nbrusquement entrer Gilberte venant à tout jamais vivre avec nous",
+      "start": 1329,
+      "end": 1559
+    },
+    {
+      "text": "Je\nreprenais l’éloge de la vieille dame qui lisait les Débats (j’avais\ninsinué à mes parents que c’était une ambassadrice ou peut-être une\naltesse) et je continuais à célébrer sa beauté, sa magnificence, sa\nnoblesse, jusqu’au jour où je dis que d’après le nom qu’avait prononcé\nGilberte elle devait s’appeler Mme Blatin",
+      "start": 1560,
+      "end": 1880
+    }
+  ],
+  "tokens": 309,
+  "processed_at": "2025-03-16T02:10:57.591549"
+}

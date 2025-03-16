@@ -1,0 +1,32 @@
+{
+  "text": "--«Mais c’est assommant, on nous verra», répondit Mlle Vinteuil.",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 50,
+      "end": 54
+    },
+    {
+      "text": "Vinteuil.",
+      "label": "ORG",
+      "start": 55,
+      "end": 64
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais c’est assommant, on nous verra», répondit Mlle Vinteuil",
+      "start": 0,
+      "end": 63
+    }
+  ],
+  "tokens": 9,
+  "processed_at": "2025-03-16T02:10:55.577481"
+}

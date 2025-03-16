@@ -1,0 +1,31 @@
+{
+  "text": "--Je sais qu’il est converti, et même déjà ses parents et ses\ngrands-parents. Mais on dit que les convertis restent plus attachés à\nleur religion que les autres, que c’est une frime, est-ce vrai?",
+  "entities": [
+    {
+      "text": "--Je",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 78,
+      "end": 82
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Je sais qu’il est converti, et même déjà ses parents et ses\ngrands-parents",
+      "start": 0,
+      "end": 76
+    },
+    {
+      "text": "Mais on dit que les convertis restent plus attachés à\nleur religion que les autres, que c’est une frime, est-ce vrai?",
+      "start": 77,
+      "end": 195
+    }
+  ],
+  "tokens": 34,
+  "processed_at": "2025-03-16T02:10:57.076201"
+}

@@ -1,0 +1,70 @@
+{
+  "text": "Swann n’avait donc pas tort de croire que la phrase de la sonate\nexistât réellement. Certes, humaine à ce point de vue, elle\nappartenait pourtant à un ordre de créatures surnaturelles et que nous\nn’avons jamais vues, mais que malgré cela nous reconnaissons avec\nravissement quand quelque explorateur de l’invisible arrive à en\ncapter une, à l’amener, du monde divin où il a accès, briller quelques\ninstants au-dessus du nôtre. C’est ce que Vinteuil avait fait pour la\npetite phrase. Swann sentait que le compositeur s’était contenté, avec\nses instruments de musique, de la dévoiler, de la rendre visible, d’en\nsuivre et d’en respecter le dessin d’une main si tendre, si prudente,\nsi délicate et si sûre que le son s’altérait à tout moment,\ns’estompant pour indiquer une ombre, revivifié quand il lui fallait\nsuivre à la piste un plus hardi contour. Et une preuve que Swann ne se\ntrompait pas quand il croyait à l’existence réelle de cette phrase,\nc’est que tout amateur un peu fin se fût tout de suite aperçu de\nl’imposture, si Vinteuil ayant eu moins de puissance pour en voir et\nen rendre les formes, avait cherché à dissimuler, en ajoutant çà et là\ndes traits de son cru, les lacunes de sa vision ou les défaillances de\nsa main.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Certes,",
+      "label": "ORG",
+      "start": 85,
+      "end": 92
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 440,
+      "end": 448
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 483,
+      "end": 488
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 867,
+      "end": 872
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1036
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Swann n’avait donc pas tort de croire que la phrase de la sonate\nexistât réellement",
+      "start": 0,
+      "end": 83
+    },
+    {
+      "text": "Certes, humaine à ce point de vue, elle\nappartenait pourtant à un ordre de créatures surnaturelles et que nous\nn’avons jamais vues, mais que malgré cela nous reconnaissons avec\nravissement quand quelque explorateur de l’invisible arrive à en\ncapter une, à l’amener, du monde divin où il a accès, briller quelques\ninstants au-dessus du nôtre",
+      "start": 84,
+      "end": 425
+    },
+    {
+      "text": "C’est ce que Vinteuil avait fait pour la\npetite phrase",
+      "start": 426,
+      "end": 481
+    },
+    {
+      "text": "Swann sentait que le compositeur s’était contenté, avec\nses instruments de musique, de la dévoiler, de la rendre visible, d’en\nsuivre et d’en respecter le dessin d’une main si tendre, si prudente,\nsi délicate et si sûre que le son s’altérait à tout moment,\ns’estompant pour indiquer une ombre, revivifié quand il lui fallait\nsuivre à la piste un plus hardi contour",
+      "start": 482,
+      "end": 847
+    },
+    {
+      "text": "Et une preuve que Swann ne se\ntrompait pas quand il croyait à l’existence réelle de cette phrase,\nc’est que tout amateur un peu fin se fût tout de suite aperçu de\nl’imposture, si Vinteuil ayant eu moins de puissance pour en voir et\nen rendre les formes, avait cherché à dissimuler, en ajoutant çà et là\ndes traits de son cru, les lacunes de sa vision ou les défaillances de\nsa main",
+      "start": 848,
+      "end": 1230
+    }
+  ],
+  "tokens": 215,
+  "processed_at": "2025-03-16T02:10:57.286461"
+}

@@ -1,0 +1,48 @@
+{
+  "text": "--«M. de Forcheville trouve Odette charmante», dit M. Verdurin à sa\nfemme.",
+  "entities": [
+    {
+      "text": "--«M.",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 9,
+      "end": 20
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 28,
+      "end": 34
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 54,
+      "end": 62
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«M",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "de Forcheville trouve Odette charmante», dit M",
+      "start": 5,
+      "end": 52
+    },
+    {
+      "text": "Verdurin à sa\nfemme",
+      "start": 53,
+      "end": 73
+    }
+  ],
+  "tokens": 12,
+  "processed_at": "2025-03-16T02:10:56.511006"
+}

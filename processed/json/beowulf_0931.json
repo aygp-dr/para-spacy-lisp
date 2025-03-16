@@ -1,0 +1,79 @@
+{
+  "text": "--Tu as bien tort de te figurer que je t’en voudrais le moins du monde,\nOdette, lui dit-il avec une douceur persuasive et menteuse. Je ne te\nparle jamais que de ce que je sais, et j’en sais toujours bien plus\nlong que je ne dis. Mais toi seule peux adoucir par ton aveu ce qui me\nfait te haïr tant que cela ne m’a été dénoncé que par d’autres. Ma\ncolère contre toi ne vient pas de tes actions, je te pardonne tout\npuisque je t’aime, mais de ta fausseté, de ta fausseté absurde qui te\nfait persévérer à nier des choses que je sais. Mais comment veux-tu\nque je puisse continuer à t’aimer, quand je te vois me soutenir, me\njurer une chose que je sais fausse. Odette, ne prolonge pas cet\ninstant qui est une torture pour nous deux. Si tu le veux ce sera fini\ndans une seconde, tu seras pour toujours délivrée. Dis-moi sur ta\nmédaille, si oui ou non, tu as jamais fais ces choses.",
+  "entities": [
+    {
+      "text": "--Tu",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 72,
+      "end": 79
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 229,
+      "end": 233
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 531,
+      "end": 535
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 656,
+      "end": 663
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Tu as bien tort de te figurer que je t’en voudrais le moins du monde,\nOdette, lui dit-il avec une douceur persuasive et menteuse",
+      "start": 0,
+      "end": 130
+    },
+    {
+      "text": "Je ne te\nparle jamais que de ce que je sais, et j’en sais toujours bien plus\nlong que je ne dis",
+      "start": 131,
+      "end": 227
+    },
+    {
+      "text": "Mais toi seule peux adoucir par ton aveu ce qui me\nfait te haïr tant que cela ne m’a été dénoncé que par d’autres",
+      "start": 228,
+      "end": 342
+    },
+    {
+      "text": "Ma\ncolère contre toi ne vient pas de tes actions, je te pardonne tout\npuisque je t’aime, mais de ta fausseté, de ta fausseté absurde qui te\nfait persévérer à nier des choses que je sais",
+      "start": 343,
+      "end": 529
+    },
+    {
+      "text": "Mais comment veux-tu\nque je puisse continuer à t’aimer, quand je te vois me soutenir, me\njurer une chose que je sais fausse",
+      "start": 530,
+      "end": 654
+    },
+    {
+      "text": "Odette, ne prolonge pas cet\ninstant qui est une torture pour nous deux",
+      "start": 655,
+      "end": 726
+    },
+    {
+      "text": "Si tu le veux ce sera fini\ndans une seconde, tu seras pour toujours délivrée",
+      "start": 727,
+      "end": 804
+    },
+    {
+      "text": "Dis-moi sur ta\nmédaille, si oui ou non, tu as jamais fais ces choses",
+      "start": 805,
+      "end": 874
+    }
+  ],
+  "tokens": 171,
+  "processed_at": "2025-03-16T02:10:57.351784"
+}

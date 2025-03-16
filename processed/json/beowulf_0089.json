@@ -1,0 +1,38 @@
+{
+  "text": "--«Dès l’instant que Mme Goupil a de la visite, madame Octave, vous\nn’allez pas tarder à voir tout son monde rentrer pour le déjeuner, car\nil commence à ne plus être de bonne heure», disait Françoise qui,\npressé de redescendre s’occuper du déjeuner, n’était pas fâchée de\nlaisser à ma tante cette distraction en perspective.",
+  "entities": [
+    {
+      "text": "--«Dès",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Goupil",
+      "label": "ORG",
+      "start": 25,
+      "end": 31
+    },
+    {
+      "text": "Octave,",
+      "label": "ORG",
+      "start": 55,
+      "end": 62
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 190,
+      "end": 199
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Dès l’instant que Mme Goupil a de la visite, madame Octave, vous\nn’allez pas tarder à voir tout son monde rentrer pour le déjeuner, car\nil commence à ne plus être de bonne heure», disait Françoise qui,\npressé de redescendre s’occuper du déjeuner, n’était pas fâchée de\nlaisser à ma tante cette distraction en perspective",
+      "start": 0,
+      "end": 323
+    }
+  ],
+  "tokens": 55,
+  "processed_at": "2025-03-16T02:10:54.685204"
+}

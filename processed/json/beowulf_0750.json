@@ -1,0 +1,37 @@
+{
+  "text": "--«Mais j’espère bien que non! s’écria Mme Verdurin, Dieu nous en\npréserve, il est assommant, bête et mal élevé.»",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 43,
+      "end": 52
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 53,
+      "end": 57
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais j’espère bien que non! s’écria Mme Verdurin, Dieu nous en\npréserve, il est assommant, bête et mal élevé",
+      "start": 0,
+      "end": 111
+    },
+    {
+      "text": "»",
+      "start": 112,
+      "end": 113
+    }
+  ],
+  "tokens": 19,
+  "processed_at": "2025-03-16T02:10:56.795702"
+}

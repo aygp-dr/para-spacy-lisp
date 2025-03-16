@@ -1,0 +1,20 @@
+{
+  "text": "Mais, ne la lâchant pas, comme un chirurgien attend la fin du spasme\nqui interrompt son intervention mais ne l’y fait pas renoncer:",
+  "entities": [
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais, ne la lâchant pas, comme un chirurgien attend la fin du spasme\nqui interrompt son intervention mais ne l’y fait pas renoncer:",
+      "start": 0,
+      "end": 131
+    }
+  ],
+  "tokens": 23,
+  "processed_at": "2025-03-16T02:10:57.348301"
+}

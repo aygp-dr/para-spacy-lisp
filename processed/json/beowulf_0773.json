@@ -1,0 +1,133 @@
+{
+  "text": "Alors Swann la détestait. «Mais aussi, je suis trop bête, se\ndisait-il, je paie avec mon argent le plaisir des autres. Elle fera\ntout de même bien de faire attention et de ne pas trop tirer sur la\ncorde, car je pourrais bien ne plus rien donner du tout. En tous cas,\nrenonçons provisoirement aux gentillesses supplémentaires! Penser que\npas plus tard qu’hier, comme elle disait avoir envie d’assister à la\nsaison de Bayreuth, j’ai eu la bêtise de lui proposer de louer un des\njolis châteaux du roi de Bavière pour nous deux dans les environs. Et\nd’ailleurs elle n’a pas paru plus ravie que cela, elle n’a encore dit\nni oui ni non; espérons qu’elle refusera, grand Dieu! Entendre du\nWagner pendant quinze jours avec elle qui s’en soucie comme un poisson\nd’une pomme, ce serait gai!» Et sa haine, tout comme son amour, ayant\nbesoin de se manifester et d’agir, il se plaisait à pousser de plus en\nplus loin ses imaginations mauvaises, parce que, grâce aux perfidies\nqu’il prêtait à Odette, il la détestait davantage et pourrait si--ce\nqu’il cherchait à se figurer--elles se trouvaient être vraies, avoir\nune occasion de la punir et d’assouvir sur elle sa rage grandissante.\nIl alla ainsi jusqu’à supposer qu’il allait recevoir une lettre d’elle\noù elle lui demanderait de l’argent pour louer ce château près de\nBayreuth, mais en le prévenant qu’il n’y pourrait pas venir, parce\nqu’elle avait promis à Forcheville et aux Verdurin de les inviter. Ah!\ncomme il eût aimé qu’elle pût avoir cette audace. Quelle joie il\naurait à refuser, à rédiger la réponse vengeresse dont il se\ncomplaisait à choisir, à énoncer tout haut les termes, comme s’il\navait reçu la lettre en réalité.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 6,
+      "end": 11
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 26,
+      "end": 31
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 119,
+      "end": 123
+    },
+    {
+      "text": "Penser",
+      "label": "ORG",
+      "start": 326,
+      "end": 332
+    },
+    {
+      "text": "Bayreuth,",
+      "label": "ORG",
+      "start": 416,
+      "end": 425
+    },
+    {
+      "text": "Bavière",
+      "label": "ORG",
+      "start": 501,
+      "end": 508
+    },
+    {
+      "text": "Dieu!",
+      "label": "ORG",
+      "start": 664,
+      "end": 669
+    },
+    {
+      "text": "Entendre",
+      "label": "ORG",
+      "start": 670,
+      "end": 678
+    },
+    {
+      "text": "Wagner",
+      "label": "ORG",
+      "start": 682,
+      "end": 688
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 979,
+      "end": 986
+    },
+    {
+      "text": "Bayreuth,",
+      "label": "ORG",
+      "start": 1308,
+      "end": 1317
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 1398,
+      "end": 1409
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 1417,
+      "end": 1425
+    },
+    {
+      "text": "Quelle",
+      "label": "ORG",
+      "start": 1496,
+      "end": 1502
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Alors Swann la détestait",
+      "start": 0,
+      "end": 24
+    },
+    {
+      "text": "«Mais aussi, je suis trop bête, se\ndisait-il, je paie avec mon argent le plaisir des autres",
+      "start": 25,
+      "end": 117
+    },
+    {
+      "text": "Elle fera\ntout de même bien de faire attention et de ne pas trop tirer sur la\ncorde, car je pourrais bien ne plus rien donner du tout",
+      "start": 118,
+      "end": 252
+    },
+    {
+      "text": "En tous cas,\nrenonçons provisoirement aux gentillesses supplémentaires! Penser que\npas plus tard qu’hier, comme elle disait avoir envie d’assister à la\nsaison de Bayreuth, j’ai eu la bêtise de lui proposer de louer un des\njolis châteaux du roi de Bavière pour nous deux dans les environs",
+      "start": 253,
+      "end": 541
+    },
+    {
+      "text": "Et\nd’ailleurs elle n’a pas paru plus ravie que cela, elle n’a encore dit\nni oui ni non; espérons qu’elle refusera, grand Dieu! Entendre du\nWagner pendant quinze jours avec elle qui s’en soucie comme un poisson\nd’une pomme, ce serait gai!» Et sa haine, tout comme son amour, ayant\nbesoin de se manifester et d’agir, il se plaisait à pousser de plus en\nplus loin ses imaginations mauvaises, parce que, grâce aux perfidies\nqu’il prêtait à Odette, il la détestait davantage et pourrait si--ce\nqu’il cherchait à se figurer--elles se trouvaient être vraies, avoir\nune occasion de la punir et d’assouvir sur elle sa rage grandissante",
+      "start": 542,
+      "end": 1169
+    },
+    {
+      "text": "Il alla ainsi jusqu’à supposer qu’il allait recevoir une lettre d’elle\noù elle lui demanderait de l’argent pour louer ce château près de\nBayreuth, mais en le prévenant qu’il n’y pourrait pas venir, parce\nqu’elle avait promis à Forcheville et aux Verdurin de les inviter",
+      "start": 1170,
+      "end": 1440
+    },
+    {
+      "text": "Ah!\ncomme il eût aimé qu’elle pût avoir cette audace",
+      "start": 1441,
+      "end": 1494
+    },
+    {
+      "text": "Quelle joie il\naurait à refuser, à rédiger la réponse vengeresse dont il se\ncomplaisait à choisir, à énoncer tout haut les termes, comme s’il\navait reçu la lettre en réalité",
+      "start": 1495,
+      "end": 1669
+    }
+  ],
+  "tokens": 290,
+  "processed_at": "2025-03-16T02:10:56.868003"
+}

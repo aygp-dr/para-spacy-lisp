@@ -1,0 +1,82 @@
+{
+  "text": "Un jour que des réflexions de ce genre le ramenaient encore au\nsouvenir du temps où on lui avait parlé d’Odette comme d’une femme\nentretenue, et où une fois de plus il s’amusait à opposer cette\npersonnification étrange: la femme entretenue,--chatoyant amalgame\nd’éléments inconnus et diaboliques, serti, comme une apparition de\nGustave Moreau, de fleurs vénéneuses entrelacées à des joyaux\nprécieux,--et cette Odette sur le visage de qui il avait vu passer les\nmêmes sentiments de pitié pour un malheureux, de révolte contre une\ninjustice, de gratitude pour un bienfait, qu’il avait vu éprouver\nautrefois par sa propre mère, par ses amis, cette Odette dont les\npropos avaient si souvent trait aux choses qu’il connaissait le mieux\nlui-même, à ses collections, à sa chambre, à son vieux domestique, au\nbanquier chez qui il avait ses titres, il se trouva que cette dernière\nimage du banquier lui rappela qu’il aurait à y prendre de l’argent. En\neffet, si ce mois-ci il venait moins largement à l’aide d’Odette dans\nses difficultés matérielles qu’il n’avait fait le mois dernier où il\nlui avait donné cinq mille francs, et s’il ne lui offrait pas une\nrivière de diamants qu’elle désirait, il ne renouvellerait pas en elle\ncette admiration qu’elle avait pour sa générosité, cette\nreconnaissance, qui le rendaient si heureux, et même il risquerait de\nlui faire croire que son amour pour elle, comme elle en verrait les\nmanifestations devenir moins grandes, avait diminué. Alors, tout d’un\ncoup, il se demanda si cela, ce n’était pas précisément l’«entretenir»\n(comme si, en effet, cette notion d’entretenir pouvait être extraite\nd’éléments non pas mystérieux ni pervers, mais appartenant au fond\nquotidien et privé de sa vie, tels que ce billet de mille francs,\ndomestique et familier, déchiré et recollé, que son valet de chambre,\naprès lui avoir payé les comptes du mois et le terme, avait serré dans\nle tiroir du vieux bureau où Swann l’avait repris pour l’envoyer avec\nquatre autres à Odette) et si on ne pouvait pas appliquer à Odette,\ndepuis qu’il la connaissait (car il ne soupçonna pas un instant\nqu’elle eût jamais pu recevoir d’argent de personne avant lui), ce mot\nqu’il avait cru si inconciliable avec elle, de «femme entretenue». Il\nne put approfondir cette idée, car un accès d’une paresse d’esprit,\nqui était chez lui congénitale, intermittente et providentielle, vint\nà ce moment éteindre toute lumière dans son intelligence, aussi\nbrusquement que, plus tard, quand on eut installé partout l’éclairage\nélectrique, on put couper l’électricité dans une maison. Sa pensée\ntâtonna un instant dans l’obscurité, il retira ses lunettes, en essuya\nles verres, se passa la main sur les yeux, et ne revit la lumière que\nquand il se retrouva en présence d’une idée toute différente, à savoir\nqu’il faudrait tâcher d’envoyer le mois prochain six ou sept mille\nfrancs à Odette au lieu de cinq, à cause de la surprise et de la joie\nque cela lui causerait.",
+  "entities": [
+    {
+      "text": "Gustave",
+      "label": "ORG",
+      "start": 328,
+      "end": 335
+    },
+    {
+      "text": "Moreau,",
+      "label": "ORG",
+      "start": 336,
+      "end": 343
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 410,
+      "end": 416
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 645,
+      "end": 651
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1927,
+      "end": 1932
+    },
+    {
+      "text": "Odette)",
+      "label": "ORG",
+      "start": 1984,
+      "end": 1991
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 2028,
+      "end": 2035
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 2868,
+      "end": 2874
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Un jour que des réflexions de ce genre le ramenaient encore au\nsouvenir du temps où on lui avait parlé d’Odette comme d’une femme\nentretenue, et où une fois de plus il s’amusait à opposer cette\npersonnification étrange: la femme entretenue,--chatoyant amalgame\nd’éléments inconnus et diaboliques, serti, comme une apparition de\nGustave Moreau, de fleurs vénéneuses entrelacées à des joyaux\nprécieux,--et cette Odette sur le visage de qui il avait vu passer les\nmêmes sentiments de pitié pour un malheureux, de révolte contre une\ninjustice, de gratitude pour un bienfait, qu’il avait vu éprouver\nautrefois par sa propre mère, par ses amis, cette Odette dont les\npropos avaient si souvent trait aux choses qu’il connaissait le mieux\nlui-même, à ses collections, à sa chambre, à son vieux domestique, au\nbanquier chez qui il avait ses titres, il se trouva que cette dernière\nimage du banquier lui rappela qu’il aurait à y prendre de l’argent",
+      "start": 0,
+      "end": 938
+    },
+    {
+      "text": "En\neffet, si ce mois-ci il venait moins largement à l’aide d’Odette dans\nses difficultés matérielles qu’il n’avait fait le mois dernier où il\nlui avait donné cinq mille francs, et s’il ne lui offrait pas une\nrivière de diamants qu’elle désirait, il ne renouvellerait pas en elle\ncette admiration qu’elle avait pour sa générosité, cette\nreconnaissance, qui le rendaient si heureux, et même il risquerait de\nlui faire croire que son amour pour elle, comme elle en verrait les\nmanifestations devenir moins grandes, avait diminué",
+      "start": 939,
+      "end": 1465
+    },
+    {
+      "text": "Alors, tout d’un\ncoup, il se demanda si cela, ce n’était pas précisément l’«entretenir»\n(comme si, en effet, cette notion d’entretenir pouvait être extraite\nd’éléments non pas mystérieux ni pervers, mais appartenant au fond\nquotidien et privé de sa vie, tels que ce billet de mille francs,\ndomestique et familier, déchiré et recollé, que son valet de chambre,\naprès lui avoir payé les comptes du mois et le terme, avait serré dans\nle tiroir du vieux bureau où Swann l’avait repris pour l’envoyer avec\nquatre autres à Odette) et si on ne pouvait pas appliquer à Odette,\ndepuis qu’il la connaissait (car il ne soupçonna pas un instant\nqu’elle eût jamais pu recevoir d’argent de personne avant lui), ce mot\nqu’il avait cru si inconciliable avec elle, de «femme entretenue»",
+      "start": 1466,
+      "end": 2236
+    },
+    {
+      "text": "Il\nne put approfondir cette idée, car un accès d’une paresse d’esprit,\nqui était chez lui congénitale, intermittente et providentielle, vint\nà ce moment éteindre toute lumière dans son intelligence, aussi\nbrusquement que, plus tard, quand on eut installé partout l’éclairage\nélectrique, on put couper l’électricité dans une maison",
+      "start": 2237,
+      "end": 2568
+    },
+    {
+      "text": "Sa pensée\ntâtonna un instant dans l’obscurité, il retira ses lunettes, en essuya\nles verres, se passa la main sur les yeux, et ne revit la lumière que\nquand il se retrouva en présence d’une idée toute différente, à savoir\nqu’il faudrait tâcher d’envoyer le mois prochain six ou sept mille\nfrancs à Odette au lieu de cinq, à cause de la surprise et de la joie\nque cela lui causerait",
+      "start": 2569,
+      "end": 2951
+    }
+  ],
+  "tokens": 490,
+  "processed_at": "2025-03-16T02:10:56.617927"
+}

@@ -1,0 +1,28 @@
+{
+  "text": "Il en est ainsi de notre passé. C’est peine perdue que nous cherchions\nà l’évoquer, tous les efforts de notre intelligence sont inutiles. Il\nest caché hors de son domaine et de sa portée, en quelque objet\nmatériel (en la sensation que nous donnerait cet objet matériel), que\nnous ne soupçonnons pas. Cet objet, il dépend du hasard que nous le\nrencontrions avant de mourir, ou que nous ne le rencontrions pas.",
+  "entities": [],
+  "sentences": [
+    {
+      "text": "Il en est ainsi de notre passé",
+      "start": 0,
+      "end": 30
+    },
+    {
+      "text": "C’est peine perdue que nous cherchions\nà l’évoquer, tous les efforts de notre intelligence sont inutiles",
+      "start": 31,
+      "end": 136
+    },
+    {
+      "text": "Il\nest caché hors de son domaine et de sa portée, en quelque objet\nmatériel (en la sensation que nous donnerait cet objet matériel), que\nnous ne soupçonnons pas",
+      "start": 137,
+      "end": 298
+    },
+    {
+      "text": "Cet objet, il dépend du hasard que nous le\nrencontrions avant de mourir, ou que nous ne le rencontrions pas",
+      "start": 299,
+      "end": 407
+    }
+  ],
+  "tokens": 72,
+  "processed_at": "2025-03-16T02:10:54.552204"
+}

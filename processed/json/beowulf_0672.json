@@ -1,0 +1,30 @@
+{
+  "text": "--«Mais si, madame, beaucoup, j’ai été ravi. Il est peut-être un peu\npéremptoire et un peu jovial pour mon goût. Je lui voudrais parfois un\npeu d’hésitations et de douceur, mais on sent qu’il sait tant de\nchoses et il a l’air d’un bien brave homme.",
+  "entities": [
+    {
+      "text": "--«Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Mais si, madame, beaucoup, j’ai été ravi",
+      "start": 0,
+      "end": 43
+    },
+    {
+      "text": "Il est peut-être un peu\npéremptoire et un peu jovial pour mon goût",
+      "start": 44,
+      "end": 111
+    },
+    {
+      "text": "Je lui voudrais parfois un\npeu d’hésitations et de douceur, mais on sent qu’il sait tant de\nchoses et il a l’air d’un bien brave homme",
+      "start": 112,
+      "end": 247
+    }
+  ],
+  "tokens": 46,
+  "processed_at": "2025-03-16T02:10:56.557765"
+}

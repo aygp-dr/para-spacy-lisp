@@ -1,0 +1,119 @@
+{
+  "text": "Il regarda. Devant lui, deux vieux messieurs étaient à la fenêtre,\nl’un tenant une lampe, et alors, il vit la chambre, une chambre\ninconnue. Ayant l’habitude, quand il venait chez Odette très tard, de\nreconnaître sa fenêtre à ce que c’était la seule éclairée entre les\nfenêtres toutes pareilles, il s’était trompé et avait frappé à la\nfenêtre suivante qui appartenait à la maison voisine. Il s’éloigna en\ns’excusant et rentra chez lui, heureux que la satisfaction de sa\ncuriosité eût laissé leur amour intact et qu’après avoir simulé depuis\nsi longtemps vis-à-vis d’Odette une sorte d’indifférence, il ne lui\neût pas donné, par sa jalousie, cette preuve qu’il l’aimait trop, qui,\nentre deux amants, dispense, à tout jamais, d’aimer assez, celui qui\nla reçoit. Il ne lui parla pas de cette mésaventure, lui-même n’y\nsongeait plus. Mais, par moments, un mouvement de sa pensée venait en\nrencontrer le souvenir qu’elle n’avait pas aperçu, le heurtait,\nl’enfonçait plus avant et Swann avait ressenti une douleur brusque et\nprofonde. Comme si ç’avait été une douleur physique, les pensées de\nSwann ne pouvaient pas l’amoindrir; mais du moins la douleur physique,\nparce qu’elle est indépendante de la pensée, la pensée peut s’arrêter\nsur elle, constater qu’elle a diminué, qu’elle a momentanément cessé!\nMais cette douleur-là, la pensée, rien qu’en se la rappelant, la\nrecréait. Vouloir n’y pas penser, c’était y penser encore, en souffrir\nencore. Et quand, causant avec des amis, il oubliait son mal, tout\nd’un coup un mot qu’on lui disait le faisait changer de visage, comme\nun blessé dont un maladroit vient de toucher sans précaution le membre\ndouloureux. Quand il quittait Odette, il était heureux, il se sentait\ncalme, il se rappelait les sourires qu’elle avait eus, railleurs, en\nparlant de tel ou tel autre, et tendres pour lui, la lourdeur de sa\ntête qu’elle avait détachée de son axe pour l’incliner, la laisser\ntomber, presque malgré elle, sur ses lèvres, comme elle avait fait la\npremière fois en voiture, les regards mourants qu’elle lui avait jetés\npendant qu’elle était dans ses bras, tout en contractant frileusement\ncontre l’épaule sa tête inclinée.",
+  "entities": [
+    {
+      "text": "Devant",
+      "label": "ORG",
+      "start": 12,
+      "end": 18
+    },
+    {
+      "text": "Odette",
+      "label": "ORG",
+      "start": 180,
+      "end": 186
+    },
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 830,
+      "end": 835
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 975,
+      "end": 980
+    },
+    {
+      "text": "Comme",
+      "label": "ORG",
+      "start": 1029,
+      "end": 1034
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1087,
+      "end": 1092
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1298,
+      "end": 1302
+    },
+    {
+      "text": "Vouloir",
+      "label": "ORG",
+      "start": 1373,
+      "end": 1380
+    },
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 1654,
+      "end": 1659
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 1672,
+      "end": 1679
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Il regarda",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "Devant lui, deux vieux messieurs étaient à la fenêtre,\nl’un tenant une lampe, et alors, il vit la chambre, une chambre\ninconnue",
+      "start": 11,
+      "end": 139
+    },
+    {
+      "text": "Ayant l’habitude, quand il venait chez Odette très tard, de\nreconnaître sa fenêtre à ce que c’était la seule éclairée entre les\nfenêtres toutes pareilles, il s’était trompé et avait frappé à la\nfenêtre suivante qui appartenait à la maison voisine",
+      "start": 140,
+      "end": 387
+    },
+    {
+      "text": "Il s’éloigna en\ns’excusant et rentra chez lui, heureux que la satisfaction de sa\ncuriosité eût laissé leur amour intact et qu’après avoir simulé depuis\nsi longtemps vis-à-vis d’Odette une sorte d’indifférence, il ne lui\neût pas donné, par sa jalousie, cette preuve qu’il l’aimait trop, qui,\nentre deux amants, dispense, à tout jamais, d’aimer assez, celui qui\nla reçoit",
+      "start": 388,
+      "end": 758
+    },
+    {
+      "text": "Il ne lui parla pas de cette mésaventure, lui-même n’y\nsongeait plus",
+      "start": 759,
+      "end": 828
+    },
+    {
+      "text": "Mais, par moments, un mouvement de sa pensée venait en\nrencontrer le souvenir qu’elle n’avait pas aperçu, le heurtait,\nl’enfonçait plus avant et Swann avait ressenti une douleur brusque et\nprofonde",
+      "start": 829,
+      "end": 1027
+    },
+    {
+      "text": "Comme si ç’avait été une douleur physique, les pensées de\nSwann ne pouvaient pas l’amoindrir; mais du moins la douleur physique,\nparce qu’elle est indépendante de la pensée, la pensée peut s’arrêter\nsur elle, constater qu’elle a diminué, qu’elle a momentanément cessé!\nMais cette douleur-là, la pensée, rien qu’en se la rappelant, la\nrecréait",
+      "start": 1028,
+      "end": 1371
+    },
+    {
+      "text": "Vouloir n’y pas penser, c’était y penser encore, en souffrir\nencore",
+      "start": 1372,
+      "end": 1440
+    },
+    {
+      "text": "Et quand, causant avec des amis, il oubliait son mal, tout\nd’un coup un mot qu’on lui disait le faisait changer de visage, comme\nun blessé dont un maladroit vient de toucher sans précaution le membre\ndouloureux",
+      "start": 1441,
+      "end": 1652
+    },
+    {
+      "text": "Quand il quittait Odette, il était heureux, il se sentait\ncalme, il se rappelait les sourires qu’elle avait eus, railleurs, en\nparlant de tel ou tel autre, et tendres pour lui, la lourdeur de sa\ntête qu’elle avait détachée de son axe pour l’incliner, la laisser\ntomber, presque malgré elle, sur ses lèvres, comme elle avait fait la\npremière fois en voiture, les regards mourants qu’elle lui avait jetés\npendant qu’elle était dans ses bras, tout en contractant frileusement\ncontre l’épaule sa tête inclinée",
+      "start": 1653,
+      "end": 2159
+    }
+  ],
+  "tokens": 354,
+  "processed_at": "2025-03-16T02:10:56.675552"
+}

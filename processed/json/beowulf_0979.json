@@ -1,0 +1,86 @@
+{
+  "text": "Aussi si le ciel était douteux, dès le matin je ne cessais de\nl’interroger et je tenais compte de tous les présages. Si je voyais la\ndame d’en face qui, près de la fenêtre, mettait son chapeau, je me\ndisais: «Cette dame va sortir; donc il fait un temps où l’on peut\nsortir: pourquoi Gilberte ne ferait-elle pas comme cette dame?» Mais\nle temps s’assombrissait, ma mère disait qu’il pouvait se lever\nencore, qu’il suffirait pour cela d’un rayon de soleil, mais que plus\nprobablement il pleuvrait; et s’il pleuvait à quoi bon aller aux\nChamps-Élysées? Aussi depuis le déjeuner mes regards anxieux ne\nquittaient plus le ciel incertain et nuageux. Il restait sombre.\nDevant la fenêtre, le balcon était gris. Tout d’un coup, sur sa pierre\nmaussade je ne voyais pas une couleur moins terne, mais je sentais\ncomme un effort vers une couleur moins terne, la pulsation d’un rayon\nhésitant qui voudrait libérer sa lumière. Un instant après, le balcon\nétait pâle et réfléchissant comme une eau matinale, et mille reflets\nde la ferronnerie de son treillage étaient venus s’y poser. Un souffle\nde vent les dispersait, la pierre s’était de nouveau assombrie, mais,\ncomme apprivoisés, ils revenaient; elle recommençait imperceptiblement\nà blanchir et par un de ces crescendos continus comme ceux qui, en\nmusique, à la fin d’une Ouverture, mènent une seule note jusqu’au\nfortissimo suprême en la faisant passer rapidement par tous les degrés\nintermédiaires, je la voyais atteindre à cet or inaltérable et fixe\ndes beaux jours, sur lequel l’ombre découpée de l’appui ouvragé de la\nbalustrade se détachait en noir comme une végétation capricieuse, avec\nune ténuité dans la délinéation des moindres détails qui semblait\ntrahir une conscience appliquée, une satisfaction d’artiste, et avec\nun tel relief, un tel velours dans le repos de ses masses sombres et\nheureuses qu’en vérité ces reflets larges et feuillus qui reposaient\nsur ce lac de soleil semblaient savoir qu’ils étaient des gages de\ncalme et de bonheur.",
+  "entities": [
+    {
+      "text": "«Cette",
+      "label": "ORG",
+      "start": 208,
+      "end": 214
+    },
+    {
+      "text": "Gilberte",
+      "label": "ORG",
+      "start": 283,
+      "end": 291
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 330,
+      "end": 334
+    },
+    {
+      "text": "Champs-Élysées?",
+      "label": "ORG",
+      "start": 534,
+      "end": 549
+    },
+    {
+      "text": "Devant",
+      "label": "ORG",
+      "start": 663,
+      "end": 669
+    },
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 704,
+      "end": 708
+    },
+    {
+      "text": "Ouverture,",
+      "label": "ORG",
+      "start": 1313,
+      "end": 1323
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Aussi si le ciel était douteux, dès le matin je ne cessais de\nl’interroger et je tenais compte de tous les présages",
+      "start": 0,
+      "end": 115
+    },
+    {
+      "text": "Si je voyais la\ndame d’en face qui, près de la fenêtre, mettait son chapeau, je me\ndisais: «Cette dame va sortir; donc il fait un temps où l’on peut\nsortir: pourquoi Gilberte ne ferait-elle pas comme cette dame?» Mais\nle temps s’assombrissait, ma mère disait qu’il pouvait se lever\nencore, qu’il suffirait pour cela d’un rayon de soleil, mais que plus\nprobablement il pleuvrait; et s’il pleuvait à quoi bon aller aux\nChamps-Élysées? Aussi depuis le déjeuner mes regards anxieux ne\nquittaient plus le ciel incertain et nuageux",
+      "start": 116,
+      "end": 642
+    },
+    {
+      "text": "Il restait sombre",
+      "start": 643,
+      "end": 661
+    },
+    {
+      "text": "Devant la fenêtre, le balcon était gris",
+      "start": 662,
+      "end": 702
+    },
+    {
+      "text": "Tout d’un coup, sur sa pierre\nmaussade je ne voyais pas une couleur moins terne, mais je sentais\ncomme un effort vers une couleur moins terne, la pulsation d’un rayon\nhésitant qui voudrait libérer sa lumière",
+      "start": 703,
+      "end": 911
+    },
+    {
+      "text": "Un instant après, le balcon\nétait pâle et réfléchissant comme une eau matinale, et mille reflets\nde la ferronnerie de son treillage étaient venus s’y poser",
+      "start": 912,
+      "end": 1068
+    },
+    {
+      "text": "Un souffle\nde vent les dispersait, la pierre s’était de nouveau assombrie, mais,\ncomme apprivoisés, ils revenaient; elle recommençait imperceptiblement\nà blanchir et par un de ces crescendos continus comme ceux qui, en\nmusique, à la fin d’une Ouverture, mènent une seule note jusqu’au\nfortissimo suprême en la faisant passer rapidement par tous les degrés\nintermédiaires, je la voyais atteindre à cet or inaltérable et fixe\ndes beaux jours, sur lequel l’ombre découpée de l’appui ouvragé de la\nbalustrade se détachait en noir comme une végétation capricieuse, avec\nune ténuité dans la délinéation des moindres détails qui semblait\ntrahir une conscience appliquée, une satisfaction d’artiste, et avec\nun tel relief, un tel velours dans le repos de ses masses sombres et\nheureuses qu’en vérité ces reflets larges et feuillus qui reposaient\nsur ce lac de soleil semblaient savoir qu’ils étaient des gages de\ncalme et de bonheur",
+      "start": 1069,
+      "end": 1994
+    }
+  ],
+  "tokens": 330,
+  "processed_at": "2025-03-16T02:10:57.513095"
+}

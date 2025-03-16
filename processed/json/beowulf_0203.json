@@ -1,0 +1,20 @@
+{
+  "text": "Un dimanche, pendant ma lecture au jardin, je fus dérangé par Swann\nqui venait voir mes parents.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 62,
+      "end": 67
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Un dimanche, pendant ma lecture au jardin, je fus dérangé par Swann\nqui venait voir mes parents",
+      "start": 0,
+      "end": 95
+    }
+  ],
+  "tokens": 17,
+  "processed_at": "2025-03-16T02:10:55.128425"
+}

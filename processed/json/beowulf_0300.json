@@ -1,0 +1,120 @@
+{
+  "text": "Quand on voulait aller du côté de Méséglise, on sortait (pas trop tôt\net même si le ciel était couvert, parce que la promenade n’était pas\nbien longue et n’entraînait pas trop) comme pour aller n’importe où,\npar la grande porte de la maison de ma tante sur la rue du\nSaint-Esprit. On était salué par l’armurier, on jetait ses lettres à\nla boîte, on disait en passant à Théodore, de la part de Françoise,\nqu’elle n’avait plus d’huile ou de café, et l’on sortait de la ville\npar le chemin qui passait le long de la barrière blanche du parc de M.\nSwann. Avant d’y arriver, nous rencontrions, venue au-devant des\nétrangers, l’odeur de ses lilas. Eux-mêmes, d’entre les petits cœurs\nverts et frais de leurs feuilles, levaient curieusement au-dessus de\nla barrière du parc leurs panaches de plumes mauves ou blanches que\nlustrait, même à l’ombre, le soleil où elles avaient baigné.\nQuelques-uns, à demi cachés par la petite maison en tuiles appelée\nmaison des Archers, où logeait le gardien, dépassaient son pignon\ngothique de leur rose minaret. Les Nymphes du printemps eussent semblé\nvulgaires, auprès de ces jeunes houris qui gardaient dans ce jardin\nfrançais les tons vifs et purs des miniatures de la Perse. Malgré mon\ndésir d’enlacer leur taille souple et d’attirer à moi les boucles\nétoilées de leur tête odorante, nous passions sans nous arrêter, mes\nparents n’allant plus à Tansonville depuis le mariage de Swann, et,\npour ne pas avoir l’air de regarder dans le parc, au lieu de prendre\nle chemin qui longe sa clôture et qui monte directement aux champs,\nnous en prenions un autre qui y conduit aussi, mais obliquement, et\nnous faisait déboucher trop loin. Un jour, mon grand-père dit à mon\npère:",
+  "entities": [
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Méséglise,",
+      "label": "ORG",
+      "start": 34,
+      "end": 44
+    },
+    {
+      "text": "Saint-Esprit.",
+      "label": "ORG",
+      "start": 267,
+      "end": 280
+    },
+    {
+      "text": "Théodore,",
+      "label": "ORG",
+      "start": 369,
+      "end": 378
+    },
+    {
+      "text": "Françoise,",
+      "label": "ORG",
+      "start": 393,
+      "end": 403
+    },
+    {
+      "text": "Swann.",
+      "label": "ORG",
+      "start": 544,
+      "end": 550
+    },
+    {
+      "text": "Nymphes",
+      "label": "ORG",
+      "start": 1044,
+      "end": 1051
+    },
+    {
+      "text": "Perse.",
+      "label": "ORG",
+      "start": 1200,
+      "end": 1206
+    },
+    {
+      "text": "Malgré",
+      "label": "ORG",
+      "start": 1207,
+      "end": 1213
+    },
+    {
+      "text": "Tansonville",
+      "label": "ORG",
+      "start": 1377,
+      "end": 1388
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 1410,
+      "end": 1416
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quand on voulait aller du côté de Méséglise, on sortait (pas trop tôt\net même si le ciel était couvert, parce que la promenade n’était pas\nbien longue et n’entraînait pas trop) comme pour aller n’importe où,\npar la grande porte de la maison de ma tante sur la rue du\nSaint-Esprit",
+      "start": 0,
+      "end": 279
+    },
+    {
+      "text": "On était salué par l’armurier, on jetait ses lettres à\nla boîte, on disait en passant à Théodore, de la part de Françoise,\nqu’elle n’avait plus d’huile ou de café, et l’on sortait de la ville\npar le chemin qui passait le long de la barrière blanche du parc de M",
+      "start": 280,
+      "end": 542
+    },
+    {
+      "text": "Swann",
+      "start": 543,
+      "end": 549
+    },
+    {
+      "text": "Avant d’y arriver, nous rencontrions, venue au-devant des\nétrangers, l’odeur de ses lilas",
+      "start": 550,
+      "end": 640
+    },
+    {
+      "text": "Eux-mêmes, d’entre les petits cœurs\nverts et frais de leurs feuilles, levaient curieusement au-dessus de\nla barrière du parc leurs panaches de plumes mauves ou blanches que\nlustrait, même à l’ombre, le soleil où elles avaient baigné",
+      "start": 641,
+      "end": 874
+    },
+    {
+      "text": "Quelques-uns, à demi cachés par la petite maison en tuiles appelée\nmaison des Archers, où logeait le gardien, dépassaient son pignon\ngothique de leur rose minaret",
+      "start": 875,
+      "end": 1038
+    },
+    {
+      "text": "Les Nymphes du printemps eussent semblé\nvulgaires, auprès de ces jeunes houris qui gardaient dans ce jardin\nfrançais les tons vifs et purs des miniatures de la Perse",
+      "start": 1039,
+      "end": 1205
+    },
+    {
+      "text": "Malgré mon\ndésir d’enlacer leur taille souple et d’attirer à moi les boucles\nétoilées de leur tête odorante, nous passions sans nous arrêter, mes\nparents n’allant plus à Tansonville depuis le mariage de Swann, et,\npour ne pas avoir l’air de regarder dans le parc, au lieu de prendre\nle chemin qui longe sa clôture et qui monte directement aux champs,\nnous en prenions un autre qui y conduit aussi, mais obliquement, et\nnous faisait déboucher trop loin",
+      "start": 1206,
+      "end": 1658
+    },
+    {
+      "text": "Un jour, mon grand-père dit à mon\npère:",
+      "start": 1659,
+      "end": 1699
+    }
+  ],
+  "tokens": 294,
+  "processed_at": "2025-03-16T02:10:55.457814"
+}

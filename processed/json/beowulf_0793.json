@@ -1,0 +1,95 @@
+{
+  "text": "Mais, par les intimités déjà anciennes qu’il avait parmi eux, les gens\ndu monde, dans une certaine mesure, faisaient aussi partie de sa\nmaison, de son domestique et de sa famille. Il se sentait, à\nconsidérer ses brillantes amitiés, le même appui hors de lui-même, le\nmême confort, qu’à regarder les belles terres, la belle argenterie, le\nbeau linge de table, qui lui venaient des siens. Et la pensée que s’il\ntombait chez lui frappé d’une attaque ce serait tout naturellement le\nduc de Chartres, le prince de Reuss, le duc de Luxembourg et le baron\nde Charlus, que son valet de chambre courrait chercher, lui apportait\nla même consolation qu’à notre vieille Françoise de savoir qu’elle\nserait ensevelie dans des draps fins à elle, marqués, non reprisés (ou\nsi finement que cela ne donnait qu’une plus haute idée du soin de\nl’ouvrière), linceul de l’image fréquente duquel elle tirait une\ncertaine satisfaction, sinon de bien-être, au moins d’amour-propre.\nMais surtout, comme dans toutes celles de ses actions, et de ses\npensées qui se rapportaient à Odette, Swann était constamment dominé\net dirigé par le sentiment inavoué qu’il lui était peut-être pas moins\ncher, mais moins agréable à voir que quiconque, que le plus ennuyeux\nfidèle des Verdurin, quand il se reportait à un monde pour qui il\nétait l’homme exquis par excellence, qu’on faisait tout pour attirer,\nqu’on se désolait de ne pas voir, il recommençait à croire à\nl’existence d’une vie plus heureuse, presque à en éprouver l’appétit,\ncomme il arrive à un malade alité depuis des mois, à la diète, et qui\naperçoit dans un journal le menu d’un déjeuner officiel ou l’annonce\nd’une croisière en Sicile.",
+  "entities": [
+    {
+      "text": "Mais,",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Chartres,",
+      "label": "ORG",
+      "start": 486,
+      "end": 495
+    },
+    {
+      "text": "Reuss,",
+      "label": "ORG",
+      "start": 509,
+      "end": 515
+    },
+    {
+      "text": "Luxembourg",
+      "label": "ORG",
+      "start": 526,
+      "end": 536
+    },
+    {
+      "text": "Charlus,",
+      "label": "ORG",
+      "start": 552,
+      "end": 560
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 658,
+      "end": 667
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 956,
+      "end": 960
+    },
+    {
+      "text": "Odette,",
+      "label": "ORG",
+      "start": 1051,
+      "end": 1058
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1064
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 1241,
+      "end": 1250
+    },
+    {
+      "text": "Sicile.",
+      "label": "ORG",
+      "start": 1655,
+      "end": 1662
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais, par les intimités déjà anciennes qu’il avait parmi eux, les gens\ndu monde, dans une certaine mesure, faisaient aussi partie de sa\nmaison, de son domestique et de sa famille",
+      "start": 0,
+      "end": 178
+    },
+    {
+      "text": "Il se sentait, à\nconsidérer ses brillantes amitiés, le même appui hors de lui-même, le\nmême confort, qu’à regarder les belles terres, la belle argenterie, le\nbeau linge de table, qui lui venaient des siens",
+      "start": 179,
+      "end": 385
+    },
+    {
+      "text": "Et la pensée que s’il\ntombait chez lui frappé d’une attaque ce serait tout naturellement le\nduc de Chartres, le prince de Reuss, le duc de Luxembourg et le baron\nde Charlus, que son valet de chambre courrait chercher, lui apportait\nla même consolation qu’à notre vieille Françoise de savoir qu’elle\nserait ensevelie dans des draps fins à elle, marqués, non reprisés (ou\nsi finement que cela ne donnait qu’une plus haute idée du soin de\nl’ouvrière), linceul de l’image fréquente duquel elle tirait une\ncertaine satisfaction, sinon de bien-être, au moins d’amour-propre",
+      "start": 386,
+      "end": 954
+    },
+    {
+      "text": "Mais surtout, comme dans toutes celles de ses actions, et de ses\npensées qui se rapportaient à Odette, Swann était constamment dominé\net dirigé par le sentiment inavoué qu’il lui était peut-être pas moins\ncher, mais moins agréable à voir que quiconque, que le plus ennuyeux\nfidèle des Verdurin, quand il se reportait à un monde pour qui il\nétait l’homme exquis par excellence, qu’on faisait tout pour attirer,\nqu’on se désolait de ne pas voir, il recommençait à croire à\nl’existence d’une vie plus heureuse, presque à en éprouver l’appétit,\ncomme il arrive à un malade alité depuis des mois, à la diète, et qui\naperçoit dans un journal le menu d’un déjeuner officiel ou l’annonce\nd’une croisière en Sicile",
+      "start": 955,
+      "end": 1661
+    }
+  ],
+  "tokens": 280,
+  "processed_at": "2025-03-16T02:10:56.925847"
+}

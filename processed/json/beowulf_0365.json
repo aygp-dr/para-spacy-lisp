@@ -1,0 +1,174 @@
+{
+  "text": "Puis il arriva que sur le côté de Guermantes je passai parfois devant\nde petits enclos humides où montaient des grappes de fleurs sombres.\nJe m’arrêtais, croyant acquérir une notion précieuse, car il me\nsemblait avoir sous les yeux un fragment de cette région fluviatile,\nque je désirais tant connaître depuis que je l’avais vue décrite par\nun de mes écrivains préférés. Et ce fut avec elle, avec son sol\nimaginaire traversé de cours d’eau bouillonnants, que Guermantes,\nchangeant d’aspect dans ma pensée, s’identifia, quand j’eus entendu le\ndocteur Percepied nous parler des fleurs et des belles eaux vives\nqu’il y avait dans le parc du château. Je rêvais que Mme de Guermantes\nm’y faisait venir, éprise pour moi d’un soudain caprice; tout le jour\nelle y pêchait la truite avec moi. Et le soir me tenant par la main,\nen passant devant les petits jardins de ses vassaux, elle me montrait\nle long des murs bas, les fleurs qui y appuient leurs quenouilles\nviolettes et rouges et m’apprenait leurs noms. Elle me faisait lui\ndire le sujet des poèmes que j’avais l’intention de composer. Et ces\nrêves m’avertissaient que puisque je voulais un jour être un écrivain,\nil était temps de savoir ce que je comptais écrire. Mais dès que je me\nle demandais, tâchant de trouver un sujet où je pusse faire tenir une\nsignification philosophique infinie, mon esprit s’arrêtait de\nfonctionner, je ne voyais plus que le vide en face de mon attention,\nje sentais que je n’avais pas de génie ou peut-être une maladie\ncérébrale l’empêchait de naître. Parfois je comptais sur mon père pour\narranger cela. Il était si puissant, si en faveur auprès des gens en\nplace qu’il arrivait à nous faire transgresser les lois que Françoise\nm’avait appris à considérer comme plus inéluctables que celles de la\nvie et de la mort, à faire retarder d’un an pour notre maison, seule\nde tout le quartier, les travaux de «ravalement», à obtenir du\nministre pour le fils de Mme Sazerat qui voulait aller aux eaux,\nl’autorisation qu’il passât le baccalauréat deux mois d’avance, dans\nla série des candidats dont le nom commençait par un A au lieu\nd’attendre le tour des S. Si j’étais tombé gravement malade, si\nj’avais été capturé par des brigands, persuadé que mon père avait trop\nd’intelligences avec les puissances suprêmes, de trop irrésistibles\nlettres de recommandation auprès du bon Dieu, pour que ma maladie ou\nma captivité pussent être autre chose que de vains simulacres sans\ndanger pour moi, j’aurais attendu avec calme l’heure inévitable du\nretour à la bonne réalité, l’heure de la délivrance ou de la guérison;\npeut-être cette absence de génie, ce trou noir qui se creusait dans\nmon esprit quand je cherchais le sujet de mes écrits futurs,\nn’était-il aussi qu’une illusion sans consistance, et cesserait-elle\npar l’intervention de mon père qui avait dû convenir avec le\nGouvernement et avec la Providence que je serais le premier écrivain\nde l’époque. Mais d’autres fois tandis que mes parents\ns’impatientaient de me voir rester en arrière et ne pas les suivre, ma\nvie actuelle au lieu de me sembler une création artificielle de mon\npère et qu’il pouvait modifier à son gré, m’apparaissait au contraire\ncomme comprise dans une réalité qui n’était pas faite pour moi, contre\nlaquelle il n’y avait pas de recours, au cœur de laquelle je n’avais\npas d’allié, qui ne cachait rien au delà d’elle-même. Il me semblait\nalors que j’existais de la même façon que les autres hommes, que je\nvieillirais, que je mourrais comme eux, et que parmi eux j’étais\nseulement du nombre de ceux qui n’ont pas de dispositions pour écrire.\nAussi, découragé, je renonçais à jamais à la littérature, malgré les\nencouragements que m’avait donnés Bloch. Ce sentiment intime,\nimmédiat, que j’avais du néant de ma pensée, prévalait contre toutes\nles paroles flatteuses qu’on pouvait me prodiguer, comme chez un\nméchant dont chacun vante les bonnes actions, les remords de sa\nconscience.",
+  "entities": [
+    {
+      "text": "Puis",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 34,
+      "end": 44
+    },
+    {
+      "text": "Guermantes,",
+      "label": "ORG",
+      "start": 459,
+      "end": 470
+    },
+    {
+      "text": "Percepied",
+      "label": "PERSON",
+      "start": 550,
+      "end": 559
+    },
+    {
+      "text": "Guermantes",
+      "label": "ORG",
+      "start": 668,
+      "end": 678
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 1001,
+      "end": 1005
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 1213,
+      "end": 1217
+    },
+    {
+      "text": "Parfois",
+      "label": "ORG",
+      "start": 1530,
+      "end": 1537
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 1697,
+      "end": 1706
+    },
+    {
+      "text": "Sazerat",
+      "label": "ORG",
+      "start": 1937,
+      "end": 1944
+    },
+    {
+      "text": "Dieu,",
+      "label": "ORG",
+      "start": 2348,
+      "end": 2353
+    },
+    {
+      "text": "Gouvernement",
+      "label": "ORG",
+      "start": 2841,
+      "end": 2853
+    },
+    {
+      "text": "Providence",
+      "label": "ORG",
+      "start": 2865,
+      "end": 2875
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 2923,
+      "end": 2927
+    },
+    {
+      "text": "Bloch.",
+      "label": "ORG",
+      "start": 3690,
+      "end": 3696
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Puis il arriva que sur le côté de Guermantes je passai parfois devant\nde petits enclos humides où montaient des grappes de fleurs sombres",
+      "start": 0,
+      "end": 137
+    },
+    {
+      "text": "Je m’arrêtais, croyant acquérir une notion précieuse, car il me\nsemblait avoir sous les yeux un fragment de cette région fluviatile,\nque je désirais tant connaître depuis que je l’avais vue décrite par\nun de mes écrivains préférés",
+      "start": 138,
+      "end": 369
+    },
+    {
+      "text": "Et ce fut avec elle, avec son sol\nimaginaire traversé de cours d’eau bouillonnants, que Guermantes,\nchangeant d’aspect dans ma pensée, s’identifia, quand j’eus entendu le\ndocteur Percepied nous parler des fleurs et des belles eaux vives\nqu’il y avait dans le parc du château",
+      "start": 370,
+      "end": 645
+    },
+    {
+      "text": "Je rêvais que Mme de Guermantes\nm’y faisait venir, éprise pour moi d’un soudain caprice; tout le jour\nelle y pêchait la truite avec moi",
+      "start": 646,
+      "end": 782
+    },
+    {
+      "text": "Et le soir me tenant par la main,\nen passant devant les petits jardins de ses vassaux, elle me montrait\nle long des murs bas, les fleurs qui y appuient leurs quenouilles\nviolettes et rouges et m’apprenait leurs noms",
+      "start": 783,
+      "end": 999
+    },
+    {
+      "text": "Elle me faisait lui\ndire le sujet des poèmes que j’avais l’intention de composer",
+      "start": 1000,
+      "end": 1081
+    },
+    {
+      "text": "Et ces\nrêves m’avertissaient que puisque je voulais un jour être un écrivain,\nil était temps de savoir ce que je comptais écrire",
+      "start": 1082,
+      "end": 1211
+    },
+    {
+      "text": "Mais dès que je me\nle demandais, tâchant de trouver un sujet où je pusse faire tenir une\nsignification philosophique infinie, mon esprit s’arrêtait de\nfonctionner, je ne voyais plus que le vide en face de mon attention,\nje sentais que je n’avais pas de génie ou peut-être une maladie\ncérébrale l’empêchait de naître",
+      "start": 1212,
+      "end": 1528
+    },
+    {
+      "text": "Parfois je comptais sur mon père pour\narranger cela",
+      "start": 1529,
+      "end": 1581
+    },
+    {
+      "text": "Il était si puissant, si en faveur auprès des gens en\nplace qu’il arrivait à nous faire transgresser les lois que Françoise\nm’avait appris à considérer comme plus inéluctables que celles de la\nvie et de la mort, à faire retarder d’un an pour notre maison, seule\nde tout le quartier, les travaux de «ravalement», à obtenir du\nministre pour le fils de Mme Sazerat qui voulait aller aux eaux,\nl’autorisation qu’il passât le baccalauréat deux mois d’avance, dans\nla série des candidats dont le nom commençait par un A au lieu\nd’attendre le tour des S",
+      "start": 1582,
+      "end": 2129
+    },
+    {
+      "text": "Si j’étais tombé gravement malade, si\nj’avais été capturé par des brigands, persuadé que mon père avait trop\nd’intelligences avec les puissances suprêmes, de trop irrésistibles\nlettres de recommandation auprès du bon Dieu, pour que ma maladie ou\nma captivité pussent être autre chose que de vains simulacres sans\ndanger pour moi, j’aurais attendu avec calme l’heure inévitable du\nretour à la bonne réalité, l’heure de la délivrance ou de la guérison;\npeut-être cette absence de génie, ce trou noir qui se creusait dans\nmon esprit quand je cherchais le sujet de mes écrits futurs,\nn’était-il aussi qu’une illusion sans consistance, et cesserait-elle\npar l’intervention de mon père qui avait dû convenir avec le\nGouvernement et avec la Providence que je serais le premier écrivain\nde l’époque",
+      "start": 2130,
+      "end": 2921
+    },
+    {
+      "text": "Mais d’autres fois tandis que mes parents\ns’impatientaient de me voir rester en arrière et ne pas les suivre, ma\nvie actuelle au lieu de me sembler une création artificielle de mon\npère et qu’il pouvait modifier à son gré, m’apparaissait au contraire\ncomme comprise dans une réalité qui n’était pas faite pour moi, contre\nlaquelle il n’y avait pas de recours, au cœur de laquelle je n’avais\npas d’allié, qui ne cachait rien au delà d’elle-même",
+      "start": 2922,
+      "end": 3366
+    },
+    {
+      "text": "Il me semblait\nalors que j’existais de la même façon que les autres hommes, que je\nvieillirais, que je mourrais comme eux, et que parmi eux j’étais\nseulement du nombre de ceux qui n’ont pas de dispositions pour écrire",
+      "start": 3367,
+      "end": 3585
+    },
+    {
+      "text": "Aussi, découragé, je renonçais à jamais à la littérature, malgré les\nencouragements que m’avait donnés Bloch",
+      "start": 3586,
+      "end": 3695
+    },
+    {
+      "text": "Ce sentiment intime,\nimmédiat, que j’avais du néant de ma pensée, prévalait contre toutes\nles paroles flatteuses qu’on pouvait me prodiguer, comme chez un\nméchant dont chacun vante les bonnes actions, les remords de sa\nconscience",
+      "start": 3696,
+      "end": 3926
+    }
+  ],
+  "tokens": 663,
+  "processed_at": "2025-03-16T02:10:55.663760"
+}

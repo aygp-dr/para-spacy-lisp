@@ -1,0 +1,20 @@
+{
+  "text": "--Ma chérie, lui dit-il, c’est fini, était-ce avec une personne que je\nconnais?",
+  "entities": [
+    {
+      "text": "--Ma",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Ma chérie, lui dit-il, c’est fini, était-ce avec une personne que je\nconnais?",
+      "start": 0,
+      "end": 79
+    }
+  ],
+  "tokens": 13,
+  "processed_at": "2025-03-16T02:10:57.362875"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "Ces petites manies de mon grand-père n’impliquaient aucun sentiment\nmalveillant à l’endroit de mes camarades. Mais Bloch avait déplu à mes\nparents pour d’autres raisons. Il avait commencé par agacer mon père\nqui, le voyant mouillé, lui avait dit avec intérêt:",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 110,
+      "end": 114
+    },
+    {
+      "text": "Bloch",
+      "label": "ORG",
+      "start": 115,
+      "end": 120
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ces petites manies de mon grand-père n’impliquaient aucun sentiment\nmalveillant à l’endroit de mes camarades",
+      "start": 0,
+      "end": 108
+    },
+    {
+      "text": "Mais Bloch avait déplu à mes\nparents pour d’autres raisons",
+      "start": 109,
+      "end": 168
+    },
+    {
+      "text": "Il avait commencé par agacer mon père\nqui, le voyant mouillé, lui avait dit avec intérêt:",
+      "start": 169,
+      "end": 259
+    }
+  ],
+  "tokens": 41,
+  "processed_at": "2025-03-16T02:10:55.078836"
+}

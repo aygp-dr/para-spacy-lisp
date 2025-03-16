@@ -1,0 +1,113 @@
+{
+  "text": "L’angoisse que je venais d’éprouver, je pensais que Swann s’en serait\nbien moqué s’il avait lu ma lettre et en avait deviné le but; or, au\ncontraire, comme je l’ai appris plus tard, une angoisse semblable fut\nle tourment de longues années de sa vie et personne, aussi bien que\nlui peut-être, n’aurait pu me comprendre; lui, cette angoisse qu’il y\na à sentir l’être qu’on aime dans un lieu de plaisir où l’on n’est\npas, où l’on ne peut pas le rejoindre, c’est l’amour qui la lui a fait\nconnaître, l’amour auquel elle est en quelque sorte prédestinée, par\nlequel elle sera accaparée, spécialisée; mais quand, comme pour moi,\nelle est entrée en nous avant qu’il ait encore fait son apparition\ndans notre vie, elle flotte en l’attendant, vague et libre, sans\naffectation déterminée, au service un jour d’un sentiment, le\nlendemain d’un autre, tantôt de la tendresse filiale ou de l’amitié\npour un camarade. Et la joie avec laquelle je fis mon premier\napprentissage quand Françoise revint me dire que ma lettre serait\nremise, Swann l’avait bien connue aussi cette joie trompeuse que nous\ndonne quelque ami, quelque parent de la femme que nous aimons, quand\narrivant à l’hôtel ou au théâtre où elle se trouve, pour quelque bal,\nredoute, ou première où il va la retrouver, cet ami nous aperçoit\nerrant dehors, attendant désespérément quelque occasion de communiquer\navec elle. Il nous reconnaît, nous aborde familièrement, nous demande\nce que nous faisons là. Et comme nous inventons que nous avons quelque\nchose d’urgent à dire à sa parente ou amie, il nous assure que rien\nn’est plus simple, nous fait entrer dans le vestibule et nous promet\nde nous l’envoyer avant cinq minutes. Que nous l’aimons--comme en ce\nmoment j’aimais Françoise--, l’intermédiaire bien intentionné qui d’un\nmot vient de nous rendre supportable, humaine et presque propice la\nfête inconcevable, infernale, au sein de laquelle nous croyions que\ndes tourbillons ennemis, pervers et délicieux entraînaient loin de\nnous, la faisant rire de nous, celle que nous aimons. Si nous en\njugeons par lui, le parent qui nous a accosté et qui est lui aussi un\ndes initiés des cruels mystères, les autres invités de la fête ne\ndoivent rien avoir de bien démoniaque. Ces heures inaccessibles et\nsuppliciantes où elle allait goûter des plaisirs inconnus, voici que\npar une brèche inespérée nous y pénétrons; voici qu’un des moments\ndont la succession les aurait composées, un moment aussi réel que les\nautres, même peut-être plus important pour nous, parce que notre\nmaîtresse y est plus mêlée, nous nous le représentons, nous le\npossédons, nous y intervenons, nous l’avons créé presque: le moment où\non va lui dire que nous sommes là, en bas. Et sans doute les autres\nmoments de la fête ne devaient pas être d’une essence bien différente\nde celui-là, ne devaient rien avoir de plus délicieux et qui dût tant\nnous faire souffrir puisque l’ami bienveillant nous a dit: «Mais elle\nsera ravie de descendre! Cela lui fera beaucoup plus de plaisir de\ncauser avec vous que de s’ennuyer là-haut.» Hélas! Swann en avait fait\nl’expérience, les bonnes intentions d’un tiers sont sans pouvoir sur\nune femme qui s’irrite de se sentir poursuivie jusque dans une fête\npar quelqu’un qu’elle n’aime pas. Souvent, l’ami redescend seul.",
+  "entities": [
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 52,
+      "end": 57
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 967,
+      "end": 976
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1021,
+      "end": 1026
+    },
+    {
+      "text": "Françoise--,",
+      "label": "ORG",
+      "start": 1722,
+      "end": 1734
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 2920,
+      "end": 2925
+    },
+    {
+      "text": "Cela",
+      "label": "ORG",
+      "start": 2956,
+      "end": 2960
+    },
+    {
+      "text": "Hélas!",
+      "label": "ORG",
+      "start": 3042,
+      "end": 3048
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 3049,
+      "end": 3054
+    },
+    {
+      "text": "Souvent,",
+      "label": "ORG",
+      "start": 3240,
+      "end": 3248
+    }
+  ],
+  "sentences": [
+    {
+      "text": "L’angoisse que je venais d’éprouver, je pensais que Swann s’en serait\nbien moqué s’il avait lu ma lettre et en avait deviné le but; or, au\ncontraire, comme je l’ai appris plus tard, une angoisse semblable fut\nle tourment de longues années de sa vie et personne, aussi bien que\nlui peut-être, n’aurait pu me comprendre; lui, cette angoisse qu’il y\na à sentir l’être qu’on aime dans un lieu de plaisir où l’on n’est\npas, où l’on ne peut pas le rejoindre, c’est l’amour qui la lui a fait\nconnaître, l’amour auquel elle est en quelque sorte prédestinée, par\nlequel elle sera accaparée, spécialisée; mais quand, comme pour moi,\nelle est entrée en nous avant qu’il ait encore fait son apparition\ndans notre vie, elle flotte en l’attendant, vague et libre, sans\naffectation déterminée, au service un jour d’un sentiment, le\nlendemain d’un autre, tantôt de la tendresse filiale ou de l’amitié\npour un camarade",
+      "start": 0,
+      "end": 901
+    },
+    {
+      "text": "Et la joie avec laquelle je fis mon premier\napprentissage quand Françoise revint me dire que ma lettre serait\nremise, Swann l’avait bien connue aussi cette joie trompeuse que nous\ndonne quelque ami, quelque parent de la femme que nous aimons, quand\narrivant à l’hôtel ou au théâtre où elle se trouve, pour quelque bal,\nredoute, ou première où il va la retrouver, cet ami nous aperçoit\nerrant dehors, attendant désespérément quelque occasion de communiquer\navec elle",
+      "start": 902,
+      "end": 1368
+    },
+    {
+      "text": "Il nous reconnaît, nous aborde familièrement, nous demande\nce que nous faisons là",
+      "start": 1369,
+      "end": 1451
+    },
+    {
+      "text": "Et comme nous inventons que nous avons quelque\nchose d’urgent à dire à sa parente ou amie, il nous assure que rien\nn’est plus simple, nous fait entrer dans le vestibule et nous promet\nde nous l’envoyer avant cinq minutes",
+      "start": 1452,
+      "end": 1673
+    },
+    {
+      "text": "Que nous l’aimons--comme en ce\nmoment j’aimais Françoise--, l’intermédiaire bien intentionné qui d’un\nmot vient de nous rendre supportable, humaine et presque propice la\nfête inconcevable, infernale, au sein de laquelle nous croyions que\ndes tourbillons ennemis, pervers et délicieux entraînaient loin de\nnous, la faisant rire de nous, celle que nous aimons",
+      "start": 1674,
+      "end": 2032
+    },
+    {
+      "text": "Si nous en\njugeons par lui, le parent qui nous a accosté et qui est lui aussi un\ndes initiés des cruels mystères, les autres invités de la fête ne\ndoivent rien avoir de bien démoniaque",
+      "start": 2033,
+      "end": 2218
+    },
+    {
+      "text": "Ces heures inaccessibles et\nsuppliciantes où elle allait goûter des plaisirs inconnus, voici que\npar une brèche inespérée nous y pénétrons; voici qu’un des moments\ndont la succession les aurait composées, un moment aussi réel que les\nautres, même peut-être plus important pour nous, parce que notre\nmaîtresse y est plus mêlée, nous nous le représentons, nous le\npossédons, nous y intervenons, nous l’avons créé presque: le moment où\non va lui dire que nous sommes là, en bas",
+      "start": 2219,
+      "end": 2694
+    },
+    {
+      "text": "Et sans doute les autres\nmoments de la fête ne devaient pas être d’une essence bien différente\nde celui-là, ne devaient rien avoir de plus délicieux et qui dût tant\nnous faire souffrir puisque l’ami bienveillant nous a dit: «Mais elle\nsera ravie de descendre! Cela lui fera beaucoup plus de plaisir de\ncauser avec vous que de s’ennuyer là-haut",
+      "start": 2695,
+      "end": 3039
+    },
+    {
+      "text": "» Hélas! Swann en avait fait\nl’expérience, les bonnes intentions d’un tiers sont sans pouvoir sur\nune femme qui s’irrite de se sentir poursuivie jusque dans une fête\npar quelqu’un qu’elle n’aime pas",
+      "start": 3040,
+      "end": 3238
+    },
+    {
+      "text": "Souvent, l’ami redescend seul",
+      "start": 3239,
+      "end": 3269
+    }
+  ],
+  "tokens": 550,
+  "processed_at": "2025-03-16T02:10:54.491171"
+}

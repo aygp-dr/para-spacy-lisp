@@ -1,0 +1,47 @@
+{
+  "text": "Mlle Vinteuil frémit et se leva. Son cœur scrupuleux et sensible\nignorait quelles paroles devaient spontanément venir s’adapter à la\nscène que ses sens réclamaient. Elle cherchait le plus loin qu’elle\npouvait de sa vraie nature morale, à trouver le langage propre à la\nfille vicieuse qu’elle désirait d’être, mais les mots qu’elle pensait\nque celle-ci eût prononcés sincèrement lui paraissaient faux dans sa\nbouche. Et le peu qu’elle s’en permettait était dit sur un ton guindé\noù ses habitudes de timidité paralysaient ses velléités d’audace, et\ns’entremêlait de: «tu n’as pas froid, tu n’as pas trop chaud, tu n’as\npas envie d’être seule et de lire?»",
+  "entities": [
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 5,
+      "end": 13
+    },
+    {
+      "text": "Elle",
+      "label": "ORG",
+      "start": 165,
+      "end": 169
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mlle Vinteuil frémit et se leva",
+      "start": 0,
+      "end": 31
+    },
+    {
+      "text": "Son cœur scrupuleux et sensible\nignorait quelles paroles devaient spontanément venir s’adapter à la\nscène que ses sens réclamaient",
+      "start": 32,
+      "end": 163
+    },
+    {
+      "text": "Elle cherchait le plus loin qu’elle\npouvait de sa vraie nature morale, à trouver le langage propre à la\nfille vicieuse qu’elle désirait d’être, mais les mots qu’elle pensait\nque celle-ci eût prononcés sincèrement lui paraissaient faux dans sa\nbouche",
+      "start": 164,
+      "end": 414
+    },
+    {
+      "text": "Et le peu qu’elle s’en permettait était dit sur un ton guindé\noù ses habitudes de timidité paralysaient ses velléités d’audace, et\ns’entremêlait de: «tu n’as pas froid, tu n’as pas trop chaud, tu n’as\npas envie d’être seule et de lire?»",
+      "start": 415,
+      "end": 652
+    }
+  ],
+  "tokens": 107,
+  "processed_at": "2025-03-16T02:10:55.593263"
+}

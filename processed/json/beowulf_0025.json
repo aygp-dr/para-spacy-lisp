@@ -1,0 +1,186 @@
+{
+  "text": "Nous restions tous suspendus aux nouvelles que ma grand’mère allait\nnous apporter de l’ennemi, comme si on eût pu hésiter entre un grand\nnombre possible d’assaillants, et bientôt après mon grand-père disait:\n«Je reconnais la voix de Swann.» On ne le reconnaissait en effet qu’à\nla voix, on distinguait mal son visage au nez busqué, aux yeux verts,\nsous un haut front entouré de cheveux blonds presque roux, coiffés à\nla Bressant, parce que nous gardions le moins de lumière possible au\njardin pour ne pas attirer les moustiques et j’allais, sans en avoir\nl’air, dire qu’on apportât les sirops; ma grand’mère attachait\nbeaucoup d’importance, trouvant cela plus aimable, à ce qu’ils\nn’eussent pas l’air de figurer d’une façon exceptionnelle, et pour les\nvisites seulement. M. Swann, quoique beaucoup plus jeune que lui,\nétait très lié avec mon grand-père qui avait été un des meilleurs amis\nde son père, homme excellent mais singulier, chez qui, paraît-il, un\nrien suffisait parfois pour interrompre les élans du cœur, changer le\ncours de la pensée. J’entendais plusieurs fois par an mon grand-père\nraconter à table des anecdotes toujours les mêmes sur l’attitude\nqu’avait eue M. Swann le père, à la mort de sa femme qu’il avait\nveillée jour et nuit. Mon grand-père qui ne l’avait pas vu depuis\nlongtemps était accouru auprès de lui dans la propriété que les Swann\npossédaient aux environs de Combray, et avait réussi, pour qu’il\nn’assistât pas à la mise en bière, à lui faire quitter un moment, tout\nen pleurs, la chambre mortuaire. Ils firent quelques pas dans le parc\noù il y avait un peu de soleil. Tout d’un coup, M. Swann prenant mon\ngrand-père par le bras, s’était écrié: «Ah! mon vieil ami, quel\nbonheur de se promener ensemble par ce beau temps. Vous ne trouvez pas\nça joli tous ces arbres, ces aubépines et mon étang dont vous ne\nm’avez jamais félicité? Vous avez l’air comme un bonnet de nuit.\nSentez-vous ce petit vent? Ah! on a beau dire, la vie a du bon tout de\nmême, mon cher Amédée!» Brusquement le souvenir de sa femme morte lui\nrevint, et trouvant sans doute trop compliqué de chercher comment il\navait pu à un pareil moment se laisser aller à un mouvement de joie,\nil se contenta, par un geste qui lui était familier chaque fois qu’une\nquestion ardue se présentait à son esprit, de passer la main sur son\nfront, d’essuyer ses yeux et les verres de son lorgnon. Il ne put\npourtant pas se consoler de la mort de sa femme, mais pendant les deux\nannées qu’il lui survécut, il disait à mon grand-père: «C’est drôle,\nje pense très souvent à ma pauvre femme, mais je ne peux y penser\nbeaucoup à la fois.» «Souvent, mais peu à la fois, comme le pauvre\npère Swann», était devenu une des phrases favorites de mon grand-père\nqui la prononçait à propos des choses les plus différentes. Il\nm’aurait paru que ce père de Swann était un monstre, si mon grand-père\nque je considérais comme meilleur juge et dont la sentence faisant\njurisprudence pour moi, m’a souvent servi dans la suite à absoudre des\nfautes que j’aurais été enclin à condamner, ne s’était récrié: «Mais\ncomment? c’était un cœur d’or!»",
+  "entities": [
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann.»",
+      "label": "ORG",
+      "start": 233,
+      "end": 240
+    },
+    {
+      "text": "Bressant,",
+      "label": "ORG",
+      "start": 420,
+      "end": 429
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 774,
+      "end": 780
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1178,
+      "end": 1183
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1357,
+      "end": 1362
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 1391,
+      "end": 1399
+    },
+    {
+      "text": "Tout",
+      "label": "ORG",
+      "start": 1601,
+      "end": 1605
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 1620,
+      "end": 1625
+    },
+    {
+      "text": "«Ah!",
+      "label": "ORG",
+      "start": 1677,
+      "end": 1681
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 1753,
+      "end": 1757
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 1862,
+      "end": 1866
+    },
+    {
+      "text": "Brusquement",
+      "label": "ORG",
+      "start": 1998,
+      "end": 2009
+    },
+    {
+      "text": "«Souvent,",
+      "label": "ORG",
+      "start": 2615,
+      "end": 2624
+    },
+    {
+      "text": "Swann»,",
+      "label": "ORG",
+      "start": 2666,
+      "end": 2673
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 2823,
+      "end": 2828
+    },
+    {
+      "text": "«Mais",
+      "label": "ORG",
+      "start": 3066,
+      "end": 3071
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Nous restions tous suspendus aux nouvelles que ma grand’mère allait\nnous apporter de l’ennemi, comme si on eût pu hésiter entre un grand\nnombre possible d’assaillants, et bientôt après mon grand-père disait:\n«Je reconnais la voix de Swann",
+      "start": 0,
+      "end": 238
+    },
+    {
+      "text": "» On ne le reconnaissait en effet qu’à\nla voix, on distinguait mal son visage au nez busqué, aux yeux verts,\nsous un haut front entouré de cheveux blonds presque roux, coiffés à\nla Bressant, parce que nous gardions le moins de lumière possible au\njardin pour ne pas attirer les moustiques et j’allais, sans en avoir\nl’air, dire qu’on apportât les sirops; ma grand’mère attachait\nbeaucoup d’importance, trouvant cela plus aimable, à ce qu’ils\nn’eussent pas l’air de figurer d’une façon exceptionnelle, et pour les\nvisites seulement",
+      "start": 239,
+      "end": 769
+    },
+    {
+      "text": "M",
+      "start": 770,
+      "end": 772
+    },
+    {
+      "text": "Swann, quoique beaucoup plus jeune que lui,\nétait très lié avec mon grand-père qui avait été un des meilleurs amis\nde son père, homme excellent mais singulier, chez qui, paraît-il, un\nrien suffisait parfois pour interrompre les élans du cœur, changer le\ncours de la pensée",
+      "start": 773,
+      "end": 1046
+    },
+    {
+      "text": "J’entendais plusieurs fois par an mon grand-père\nraconter à table des anecdotes toujours les mêmes sur l’attitude\nqu’avait eue M",
+      "start": 1047,
+      "end": 1176
+    },
+    {
+      "text": "Swann le père, à la mort de sa femme qu’il avait\nveillée jour et nuit",
+      "start": 1177,
+      "end": 1247
+    },
+    {
+      "text": "Mon grand-père qui ne l’avait pas vu depuis\nlongtemps était accouru auprès de lui dans la propriété que les Swann\npossédaient aux environs de Combray, et avait réussi, pour qu’il\nn’assistât pas à la mise en bière, à lui faire quitter un moment, tout\nen pleurs, la chambre mortuaire",
+      "start": 1248,
+      "end": 1530
+    },
+    {
+      "text": "Ils firent quelques pas dans le parc\noù il y avait un peu de soleil",
+      "start": 1531,
+      "end": 1599
+    },
+    {
+      "text": "Tout d’un coup, M",
+      "start": 1600,
+      "end": 1618
+    },
+    {
+      "text": "Swann prenant mon\ngrand-père par le bras, s’était écrié: «Ah! mon vieil ami, quel\nbonheur de se promener ensemble par ce beau temps",
+      "start": 1619,
+      "end": 1751
+    },
+    {
+      "text": "Vous ne trouvez pas\nça joli tous ces arbres, ces aubépines et mon étang dont vous ne\nm’avez jamais félicité? Vous avez l’air comme un bonnet de nuit",
+      "start": 1752,
+      "end": 1901
+    },
+    {
+      "text": "Sentez-vous ce petit vent? Ah! on a beau dire, la vie a du bon tout de\nmême, mon cher Amédée!» Brusquement le souvenir de sa femme morte lui\nrevint, et trouvant sans doute trop compliqué de chercher comment il\navait pu à un pareil moment se laisser aller à un mouvement de joie,\nil se contenta, par un geste qui lui était familier chaque fois qu’une\nquestion ardue se présentait à son esprit, de passer la main sur son\nfront, d’essuyer ses yeux et les verres de son lorgnon",
+      "start": 1902,
+      "end": 2376
+    },
+    {
+      "text": "Il ne put\npourtant pas se consoler de la mort de sa femme, mais pendant les deux\nannées qu’il lui survécut, il disait à mon grand-père: «C’est drôle,\nje pense très souvent à ma pauvre femme, mais je ne peux y penser\nbeaucoup à la fois",
+      "start": 2377,
+      "end": 2612
+    },
+    {
+      "text": "» «Souvent, mais peu à la fois, comme le pauvre\npère Swann», était devenu une des phrases favorites de mon grand-père\nqui la prononçait à propos des choses les plus différentes",
+      "start": 2613,
+      "end": 2789
+    },
+    {
+      "text": "Il\nm’aurait paru que ce père de Swann était un monstre, si mon grand-père\nque je considérais comme meilleur juge et dont la sentence faisant\njurisprudence pour moi, m’a souvent servi dans la suite à absoudre des\nfautes que j’aurais été enclin à condamner, ne s’était récrié: «Mais\ncomment? c’était un cœur d’or!»",
+      "start": 2790,
+      "end": 3103
+    }
+  ],
+  "tokens": 544,
+  "processed_at": "2025-03-16T02:10:54.430434"
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Quelquefois tel couple ami de mes grands-parents et qui jusque-là\ns’était plaint de ne jamais voir Swann, leur annonçait avec\nsatisfaction et peut-être un peu le désir d’exciter l’envie, qu’il\nétait devenu tout ce qu’il y a de plus charmant pour eux, qu’il ne les\nquittait plus. Mon grand-père ne voulait pas troubler leur plaisir\nmais regardait ma grand’mère en fredonnant:",
+  "entities": [
+    {
+      "text": "Quelquefois",
+      "label": "ORG",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 99,
+      "end": 105
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quelquefois tel couple ami de mes grands-parents et qui jusque-là\ns’était plaint de ne jamais voir Swann, leur annonçait avec\nsatisfaction et peut-être un peu le désir d’exciter l’envie, qu’il\nétait devenu tout ce qu’il y a de plus charmant pour eux, qu’il ne les\nquittait plus",
+      "start": 0,
+      "end": 277
+    },
+    {
+      "text": "Mon grand-père ne voulait pas troubler leur plaisir\nmais regardait ma grand’mère en fredonnant:",
+      "start": 278,
+      "end": 374
+    }
+  ],
+  "tokens": 61,
+  "processed_at": "2025-03-16T02:10:55.779361"
+}

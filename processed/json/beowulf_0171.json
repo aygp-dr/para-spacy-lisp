@@ -1,0 +1,43 @@
+{
+  "text": "Sauf ces jours-là, je pouvais d’habitude, au contraire, lire\ntranquille. Mais l’interruption et le commentaire qui furent apportés\nune fois par une visite de Swann à la lecture que j’étais en train de\nfaire du livre d’un auteur tout nouveau pour moi, Bergotte, eut cette\nconséquence que, pour longtemps, ce ne fut plus sur un mur décoré de\nfleurs violettes en quenouille, mais sur un fond tout autre, devant le\nportail d’une cathédrale gothique, que se détacha désormais l’image\nd’une des femmes dont je rêvais.",
+  "entities": [
+    {
+      "text": "Sauf",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 73,
+      "end": 77
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 158,
+      "end": 163
+    },
+    {
+      "text": "Bergotte,",
+      "label": "ORG",
+      "start": 251,
+      "end": 260
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sauf ces jours-là, je pouvais d’habitude, au contraire, lire\ntranquille",
+      "start": 0,
+      "end": 71
+    },
+    {
+      "text": "Mais l’interruption et le commentaire qui furent apportés\nune fois par une visite de Swann à la lecture que j’étais en train de\nfaire du livre d’un auteur tout nouveau pour moi, Bergotte, eut cette\nconséquence que, pour longtemps, ce ne fut plus sur un mur décoré de\nfleurs violettes en quenouille, mais sur un fond tout autre, devant le\nportail d’une cathédrale gothique, que se détacha désormais l’image\nd’une des femmes dont je rêvais",
+      "start": 72,
+      "end": 510
+    }
+  ],
+  "tokens": 85,
+  "processed_at": "2025-03-16T02:10:55.018573"
+}

@@ -1,0 +1,61 @@
+{
+  "text": "Quand les Verdurin l’emmenaient à Saint-Germain, à Chatou, à Meulan,\nsouvent, si c’était dans la belle saison, ils proposaient, sur place,\nde rester à coucher et de ne revenir que le lendemain. Mme Verdurin\ncherchait à apaiser les scrupules du pianiste dont la tante était\nrestée à Paris.",
+  "entities": [
+    {
+      "text": "Quand",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 10,
+      "end": 18
+    },
+    {
+      "text": "Saint-Germain,",
+      "label": "ORG",
+      "start": 34,
+      "end": 48
+    },
+    {
+      "text": "Chatou,",
+      "label": "ORG",
+      "start": 51,
+      "end": 58
+    },
+    {
+      "text": "Meulan,",
+      "label": "ORG",
+      "start": 61,
+      "end": 68
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 198,
+      "end": 206
+    },
+    {
+      "text": "Paris.",
+      "label": "ORG",
+      "start": 282,
+      "end": 288
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quand les Verdurin l’emmenaient à Saint-Germain, à Chatou, à Meulan,\nsouvent, si c’était dans la belle saison, ils proposaient, sur place,\nde rester à coucher et de ne revenir que le lendemain",
+      "start": 0,
+      "end": 192
+    },
+    {
+      "text": "Mme Verdurin\ncherchait à apaiser les scrupules du pianiste dont la tante était\nrestée à Paris",
+      "start": 193,
+      "end": 287
+    }
+  ],
+  "tokens": 48,
+  "processed_at": "2025-03-16T02:10:56.816900"
+}

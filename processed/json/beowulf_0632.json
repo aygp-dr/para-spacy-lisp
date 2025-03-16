@@ -1,0 +1,20 @@
+{
+  "text": "Si bien que Mme Verdurin, sentant que, par ce seul infidèle, elle\nserait empêchée de réaliser l’unité morale du petit noyau, ne put pas\ns’empêcher dans sa rage contre cet obstiné qui ne voyait pas combien\nses paroles la faisaient souffrir, de lui crier du fond du cœur:",
+  "entities": [
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 16,
+      "end": 25
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Si bien que Mme Verdurin, sentant que, par ce seul infidèle, elle\nserait empêchée de réaliser l’unité morale du petit noyau, ne put pas\ns’empêcher dans sa rage contre cet obstiné qui ne voyait pas combien\nses paroles la faisaient souffrir, de lui crier du fond du cœur:",
+      "start": 0,
+      "end": 269
+    }
+  ],
+  "tokens": 48,
+  "processed_at": "2025-03-16T02:10:56.446030"
+}

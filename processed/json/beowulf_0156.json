@@ -1,0 +1,31 @@
+{
+  "text": "Ce n’était pas seulement parce qu’une image dont nous rêvons reste\ntoujours marquée, s’embellit et bénéficie du reflet des couleurs\nétrangères qui par hasard l’entourent dans notre rêverie; car ces\npaysages des livres que je lisais n’étaient pas pour moi que des\npaysages plus vivement représentés à mon imagination que ceux que\nCombray mettait sous mes yeux, mais qui eussent été analogues. Par le\nchoix qu’en avait fait l’auteur, par la foi avec laquelle ma pensée\nallait au-devant de sa parole comme d’une révélation, ils me\nsemblaient être--impression que ne me donnait guère le pays où je me\ntrouvais, et surtout notre jardin, produit sans prestige de la\ncorrecte fantaisie du jardinier que méprisait ma grand’mère--une part\nvéritable de la Nature elle-même, digne d’être étudiée et approfondie.",
+  "entities": [
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 329,
+      "end": 336
+    },
+    {
+      "text": "Nature",
+      "label": "ORG",
+      "start": 746,
+      "end": 752
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ce n’était pas seulement parce qu’une image dont nous rêvons reste\ntoujours marquée, s’embellit et bénéficie du reflet des couleurs\nétrangères qui par hasard l’entourent dans notre rêverie; car ces\npaysages des livres que je lisais n’étaient pas pour moi que des\npaysages plus vivement représentés à mon imagination que ceux que\nCombray mettait sous mes yeux, mais qui eussent été analogues",
+      "start": 0,
+      "end": 390
+    },
+    {
+      "text": "Par le\nchoix qu’en avait fait l’auteur, par la foi avec laquelle ma pensée\nallait au-devant de sa parole comme d’une révélation, ils me\nsemblaient être--impression que ne me donnait guère le pays où je me\ntrouvais, et surtout notre jardin, produit sans prestige de la\ncorrecte fantaisie du jardinier que méprisait ma grand’mère--une part\nvéritable de la Nature elle-même, digne d’être étudiée et approfondie",
+      "start": 391,
+      "end": 799
+    }
+  ],
+  "tokens": 127,
+  "processed_at": "2025-03-16T02:10:54.962930"
+}

@@ -1,0 +1,152 @@
+{
+  "text": "Nous causions un moment avec M. Vinteuil devant le porche en sortant\nde l’église. Il intervenait entre les gamins qui se chamaillaient sur\nla place, prenait la défense des petits, faisait des sermons aux\ngrands. Si sa fille nous disait de sa grosse voix combien elle avait\nété contente de nous voir, aussitôt il semblait qu’en elle-même une\nsœur plus sensible rougissait de ce propos de bon garçon étourdi qui\navait pu nous faire croire qu’elle sollicitait d’être invitée chez\nnous. Son père lui jetait un manteau sur les épaules, ils montaient\ndans un petit buggy qu’elle conduisait elle-même et tous deux\nretournaient à Montjouvain. Quant à nous, comme c’était le lendemain\ndimanche et qu’on ne se lèverait que pour la grand’messe, s’il faisait\nclair de lune et que l’air fût chaud, au lieu de nous faire rentrer\ndirectement, mon père, par amour de la gloire, nous faisait faire par\nle calvaire une longue promenade, que le peu d’aptitude de ma mère à\ns’orienter et à se reconnaître dans son chemin, lui faisait considérer\ncomme la prouesse d’un génie stratégique. Parfois nous allions\njusqu’au viaduc, dont les enjambées de pierre commençaient à la gare\net me représentaient l’exil et la détresse hors du monde civilisé\nparce que chaque année en venant de Paris, on nous recommandait de\nfaire bien attention, quand ce serait Combray, de ne pas laisser\npasser la station, d’être prêts d’avance car le train repartait au\nbout de deux minutes et s’engageait sur le viaduc au delà des pays\nchrétiens dont Combray marquait pour moi l’extrême limite. Nous\nrevenions par le boulevard de la gare, où étaient les plus agréables\nvillas de la commune. Dans chaque jardin le clair de lune, comme\nHubert Robert, semait ses degrés rompus de marbre blanc, ses jets\nd’eau, ses grilles entr’ouvertes. Sa lumière avait détruit le bureau\ndu télégraphe. Il n’en subsistait plus qu’une colonne à demi brisée,\nmais qui gardait la beauté d’une ruine immortelle. Je traînais la\njambe, je tombais de sommeil, l’odeur des tilleuls qui embaumait\nm’apparaissait comme une récompense qu’on ne pouvait obtenir qu’au\nprix des plus grandes fatigues et qui n’en valait pas la peine. De\ngrilles fort éloignées les unes des autres, des chiens réveillés par\nnos pas solitaires faisaient alterner des aboiements comme il m’arrive\nencore quelquefois d’en entendre le soir, et entre lesquels dut venir\n(quand sur son emplacement on créa le jardin public de Combray) se\nréfugier le boulevard de la gare, car, où que je me trouve, dès qu’ils\ncommencent à retentir et à se répondre, je l’aperçois, avec ses\ntilleuls et son trottoir éclairé par la lune.",
+  "entities": [
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Vinteuil",
+      "label": "ORG",
+      "start": 32,
+      "end": 40
+    },
+    {
+      "text": "Montjouvain.",
+      "label": "ORG",
+      "start": 622,
+      "end": 634
+    },
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 635,
+      "end": 640
+    },
+    {
+      "text": "Parfois",
+      "label": "ORG",
+      "start": 1067,
+      "end": 1074
+    },
+    {
+      "text": "Paris,",
+      "label": "ORG",
+      "start": 1259,
+      "end": 1265
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 1328,
+      "end": 1336
+    },
+    {
+      "text": "Combray",
+      "label": "ORG",
+      "start": 1504,
+      "end": 1511
+    },
+    {
+      "text": "Nous",
+      "label": "ORG",
+      "start": 1548,
+      "end": 1552
+    },
+    {
+      "text": "Dans",
+      "label": "ORG",
+      "start": 1644,
+      "end": 1648
+    },
+    {
+      "text": "Hubert",
+      "label": "ORG",
+      "start": 1687,
+      "end": 1693
+    },
+    {
+      "text": "Robert,",
+      "label": "ORG",
+      "start": 1694,
+      "end": 1701
+    },
+    {
+      "text": "Combray)",
+      "label": "ORG",
+      "start": 2421,
+      "end": 2429
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Nous causions un moment avec M",
+      "start": 0,
+      "end": 30
+    },
+    {
+      "text": "Vinteuil devant le porche en sortant\nde l’église",
+      "start": 31,
+      "end": 80
+    },
+    {
+      "text": "Il intervenait entre les gamins qui se chamaillaient sur\nla place, prenait la défense des petits, faisait des sermons aux\ngrands",
+      "start": 81,
+      "end": 210
+    },
+    {
+      "text": "Si sa fille nous disait de sa grosse voix combien elle avait\nété contente de nous voir, aussitôt il semblait qu’en elle-même une\nsœur plus sensible rougissait de ce propos de bon garçon étourdi qui\navait pu nous faire croire qu’elle sollicitait d’être invitée chez\nnous",
+      "start": 211,
+      "end": 481
+    },
+    {
+      "text": "Son père lui jetait un manteau sur les épaules, ils montaient\ndans un petit buggy qu’elle conduisait elle-même et tous deux\nretournaient à Montjouvain",
+      "start": 482,
+      "end": 633
+    },
+    {
+      "text": "Quant à nous, comme c’était le lendemain\ndimanche et qu’on ne se lèverait que pour la grand’messe, s’il faisait\nclair de lune et que l’air fût chaud, au lieu de nous faire rentrer\ndirectement, mon père, par amour de la gloire, nous faisait faire par\nle calvaire une longue promenade, que le peu d’aptitude de ma mère à\ns’orienter et à se reconnaître dans son chemin, lui faisait considérer\ncomme la prouesse d’un génie stratégique",
+      "start": 634,
+      "end": 1065
+    },
+    {
+      "text": "Parfois nous allions\njusqu’au viaduc, dont les enjambées de pierre commençaient à la gare\net me représentaient l’exil et la détresse hors du monde civilisé\nparce que chaque année en venant de Paris, on nous recommandait de\nfaire bien attention, quand ce serait Combray, de ne pas laisser\npasser la station, d’être prêts d’avance car le train repartait au\nbout de deux minutes et s’engageait sur le viaduc au delà des pays\nchrétiens dont Combray marquait pour moi l’extrême limite",
+      "start": 1066,
+      "end": 1546
+    },
+    {
+      "text": "Nous\nrevenions par le boulevard de la gare, où étaient les plus agréables\nvillas de la commune",
+      "start": 1547,
+      "end": 1642
+    },
+    {
+      "text": "Dans chaque jardin le clair de lune, comme\nHubert Robert, semait ses degrés rompus de marbre blanc, ses jets\nd’eau, ses grilles entr’ouvertes",
+      "start": 1643,
+      "end": 1785
+    },
+    {
+      "text": "Sa lumière avait détruit le bureau\ndu télégraphe",
+      "start": 1786,
+      "end": 1835
+    },
+    {
+      "text": "Il n’en subsistait plus qu’une colonne à demi brisée,\nmais qui gardait la beauté d’une ruine immortelle",
+      "start": 1836,
+      "end": 1940
+    },
+    {
+      "text": "Je traînais la\njambe, je tombais de sommeil, l’odeur des tilleuls qui embaumait\nm’apparaissait comme une récompense qu’on ne pouvait obtenir qu’au\nprix des plus grandes fatigues et qui n’en valait pas la peine",
+      "start": 1941,
+      "end": 2151
+    },
+    {
+      "text": "De\ngrilles fort éloignées les unes des autres, des chiens réveillés par\nnos pas solitaires faisaient alterner des aboiements comme il m’arrive\nencore quelquefois d’en entendre le soir, et entre lesquels dut venir\n(quand sur son emplacement on créa le jardin public de Combray) se\nréfugier le boulevard de la gare, car, où que je me trouve, dès qu’ils\ncommencent à retentir et à se répondre, je l’aperçois, avec ses\ntilleuls et son trottoir éclairé par la lune",
+      "start": 2152,
+      "end": 2612
+    }
+  ],
+  "tokens": 437,
+  "processed_at": "2025-03-16T02:10:55.316496"
+}

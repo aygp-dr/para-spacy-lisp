@@ -1,0 +1,55 @@
+{
+  "text": "Mais tous ces gens qui faisaient profession d’admirer ce musicien\n(quand Swann avait dit que sa sonate était vraiment belle, Mme\nVerdurin s’était écriée: «Je vous crois un peu qu’elle est belle! Mais\non n’avoue pas qu’on ne connaît pas la sonate de Vinteuil, on n’a pas\nle droit de ne pas la connaître», et le peintre avait ajouté: «Ah!\nc’est tout à fait une très grande machine, n’est-ce pas. Ce n’est pas\nsi vous voulez la chose «cher» et «public», n’est-ce pas, mais c’est\nla très grosse impression pour les artistes»), ces gens semblaient ne\ns’être jamais posé ces questions car ils furent incapables d’y\nrépondre.",
+  "entities": [
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 73,
+      "end": 78
+    },
+    {
+      "text": "Verdurin",
+      "label": "ORG",
+      "start": 129,
+      "end": 137
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 195,
+      "end": 199
+    },
+    {
+      "text": "Vinteuil,",
+      "label": "ORG",
+      "start": 249,
+      "end": 258
+    },
+    {
+      "text": "«Ah!",
+      "label": "ORG",
+      "start": 332,
+      "end": 336
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Mais tous ces gens qui faisaient profession d’admirer ce musicien\n(quand Swann avait dit que sa sonate était vraiment belle, Mme\nVerdurin s’était écriée: «Je vous crois un peu qu’elle est belle! Mais\non n’avoue pas qu’on ne connaît pas la sonate de Vinteuil, on n’a pas\nle droit de ne pas la connaître», et le peintre avait ajouté: «Ah!\nc’est tout à fait une très grande machine, n’est-ce pas",
+      "start": 0,
+      "end": 392
+    },
+    {
+      "text": "Ce n’est pas\nsi vous voulez la chose «cher» et «public», n’est-ce pas, mais c’est\nla très grosse impression pour les artistes»), ces gens semblaient ne\ns’être jamais posé ces questions car ils furent incapables d’y\nrépondre",
+      "start": 393,
+      "end": 617
+    }
+  ],
+  "tokens": 107,
+  "processed_at": "2025-03-16T02:10:55.958480"
+}

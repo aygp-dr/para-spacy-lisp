@@ -1,0 +1,43 @@
+{
+  "text": "--Tout dépend de ce que vous appelez intelligence, dit Forcheville qui\nvoulait briller à son tour. Voyons, Swann, qu’entendez-vous par\nintelligence?",
+  "entities": [
+    {
+      "text": "--Tout",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Forcheville",
+      "label": "ORG",
+      "start": 55,
+      "end": 66
+    },
+    {
+      "text": "Voyons,",
+      "label": "ORG",
+      "start": 99,
+      "end": 106
+    },
+    {
+      "text": "Swann,",
+      "label": "ORG",
+      "start": 107,
+      "end": 113
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Tout dépend de ce que vous appelez intelligence, dit Forcheville qui\nvoulait briller à son tour",
+      "start": 0,
+      "end": 97
+    },
+    {
+      "text": "Voyons, Swann, qu’entendez-vous par\nintelligence?",
+      "start": 98,
+      "end": 148
+    }
+  ],
+  "tokens": 21,
+  "processed_at": "2025-03-16T02:10:56.450837"
+}

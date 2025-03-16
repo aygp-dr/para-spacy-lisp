@@ -1,0 +1,48 @@
+{
+  "text": "--Quel charmeur, n’est-ce pas, dit-elle à Swann; la comprend-il assez,\nsa sonate, le petit misérable? Vous ne saviez pas que le piano pouvait\natteindre à ça. C’est tout excepté du piano, ma parole! Chaque fois\nj’y suis reprise, je crois entendre un orchestre. C’est même plus beau\nque l’orchestre, plus complet.",
+  "entities": [
+    {
+      "text": "--Quel",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "Swann;",
+      "label": "ORG",
+      "start": 42,
+      "end": 48
+    },
+    {
+      "text": "Vous",
+      "label": "ORG",
+      "start": 102,
+      "end": 106
+    },
+    {
+      "text": "Chaque",
+      "label": "ORG",
+      "start": 198,
+      "end": 204
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--Quel charmeur, n’est-ce pas, dit-elle à Swann; la comprend-il assez,\nsa sonate, le petit misérable? Vous ne saviez pas que le piano pouvait\natteindre à ça",
+      "start": 0,
+      "end": 156
+    },
+    {
+      "text": "C’est tout excepté du piano, ma parole! Chaque fois\nj’y suis reprise, je crois entendre un orchestre",
+      "start": 157,
+      "end": 258
+    },
+    {
+      "text": "C’est même plus beau\nque l’orchestre, plus complet",
+      "start": 259,
+      "end": 310
+    }
+  ],
+  "tokens": 51,
+  "processed_at": "2025-03-16T02:10:55.947662"
+}

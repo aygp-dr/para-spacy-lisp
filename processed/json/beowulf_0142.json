@@ -1,0 +1,30 @@
+{
+  "text": "--«Comme il est gentil! il est déjà galant, il a un petit œil pour les\nfemmes: il tient de son oncle. Ce sera un parfait gentleman»,\najouta-t-elle en serrant les dents pour donner à la phrase un accent\nlégèrement britannique. «Est-ce qu’il ne pourrait pas venir une fois\nprendre a cup of tea, comme disent nos voisins les Anglais; il\nn’aurait qu’à m’envoyer un «bleu» le matin.",
+  "entities": [
+    {
+      "text": "--«Comme",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«Comme il est gentil! il est déjà galant, il a un petit œil pour les\nfemmes: il tient de son oncle",
+      "start": 0,
+      "end": 100
+    },
+    {
+      "text": "Ce sera un parfait gentleman»,\najouta-t-elle en serrant les dents pour donner à la phrase un accent\nlégèrement britannique",
+      "start": 101,
+      "end": 224
+    },
+    {
+      "text": "«Est-ce qu’il ne pourrait pas venir une fois\nprendre a cup of tea, comme disent nos voisins les Anglais; il\nn’aurait qu’à m’envoyer un «bleu» le matin",
+      "start": 225,
+      "end": 376
+    }
+  ],
+  "tokens": 67,
+  "processed_at": "2025-03-16T02:10:54.897393"
+}

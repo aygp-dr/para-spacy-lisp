@@ -1,0 +1,110 @@
+{
+  "text": "Une fois dans les champs, on ne les quittait plus pendant tout le\nreste de la promenade qu’on faisait du côté de Méséglise. Ils étaient\nperpétuellement parcourus, comme par un chemineau invisible, par le\nvent qui était pour moi le génie particulier de Combray. Chaque année,\nle jour de notre arrivée, pour sentir que j’étais bien à Combray, je\nmontais le retrouver qui courait dans les sayons et me faisait courir\nà sa suite. On avait toujours le vent à côté de soi du côté de\nMéséglise, sur cette plaine bombée où pendant des lieues il ne\nrencontre aucun accident de terrain. Je savais que Mlle Swann allait\nsouvent à Laon passer quelques jours et, bien que ce fût à plusieurs\nlieues, la distance se trouvant compensée par l’absence de tout\nobstacle, quand, par les chauds après-midi, je voyais un même souffle,\nvenu de l’extrême horizon, abaisser les blés les plus éloignés, se\npropager comme un flot sur toute l’immense étendue et venir se\ncoucher, murmurant et tiède, parmi les sainfoins et les trèfles, à mes\npieds, cette plaine qui nous était commune à tous deux semblait nous\nrapprocher, nous unir, je pensais que ce souffle avait passé auprès\nd’elle, que c’était quelque message d’elle qu’il me chuchotait sans\nque je pusse le comprendre, et je l’embrassais au passage. A gauche\nétait un village qui s’appelait Champieu (Campus Pagani, selon le\ncuré). Sur la droite, on apercevait par delà les blés, les deux\nclochers ciselés et rustiques de Saint-André-des-Champs, eux-mêmes\neffilés, écailleux, imbriqués d’alvéoles, guillochés, jaunissants et\ngrumeleux, comme deux épis.",
+  "entities": [
+    {
+      "text": "Méséglise.",
+      "label": "ORG",
+      "start": 113,
+      "end": 123
+    },
+    {
+      "text": "Combray.",
+      "label": "ORG",
+      "start": 252,
+      "end": 260
+    },
+    {
+      "text": "Chaque",
+      "label": "ORG",
+      "start": 261,
+      "end": 267
+    },
+    {
+      "text": "Combray,",
+      "label": "ORG",
+      "start": 332,
+      "end": 340
+    },
+    {
+      "text": "Méséglise,",
+      "label": "ORG",
+      "start": 477,
+      "end": 487
+    },
+    {
+      "text": "Mlle",
+      "label": "ORG",
+      "start": 591,
+      "end": 595
+    },
+    {
+      "text": "Swann",
+      "label": "ORG",
+      "start": 596,
+      "end": 601
+    },
+    {
+      "text": "Laon",
+      "label": "ORG",
+      "start": 619,
+      "end": 623
+    },
+    {
+      "text": "Champieu",
+      "label": "ORG",
+      "start": 1319,
+      "end": 1327
+    },
+    {
+      "text": "(Campus",
+      "label": "ORG",
+      "start": 1328,
+      "end": 1335
+    },
+    {
+      "text": "Pagani,",
+      "label": "ORG",
+      "start": 1336,
+      "end": 1343
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Une fois dans les champs, on ne les quittait plus pendant tout le\nreste de la promenade qu’on faisait du côté de Méséglise",
+      "start": 0,
+      "end": 122
+    },
+    {
+      "text": "Ils étaient\nperpétuellement parcourus, comme par un chemineau invisible, par le\nvent qui était pour moi le génie particulier de Combray",
+      "start": 123,
+      "end": 259
+    },
+    {
+      "text": "Chaque année,\nle jour de notre arrivée, pour sentir que j’étais bien à Combray, je\nmontais le retrouver qui courait dans les sayons et me faisait courir\nà sa suite",
+      "start": 260,
+      "end": 424
+    },
+    {
+      "text": "On avait toujours le vent à côté de soi du côté de\nMéséglise, sur cette plaine bombée où pendant des lieues il ne\nrencontre aucun accident de terrain",
+      "start": 425,
+      "end": 575
+    },
+    {
+      "text": "Je savais que Mlle Swann allait\nsouvent à Laon passer quelques jours et, bien que ce fût à plusieurs\nlieues, la distance se trouvant compensée par l’absence de tout\nobstacle, quand, par les chauds après-midi, je voyais un même souffle,\nvenu de l’extrême horizon, abaisser les blés les plus éloignés, se\npropager comme un flot sur toute l’immense étendue et venir se\ncoucher, murmurant et tiède, parmi les sainfoins et les trèfles, à mes\npieds, cette plaine qui nous était commune à tous deux semblait nous\nrapprocher, nous unir, je pensais que ce souffle avait passé auprès\nd’elle, que c’était quelque message d’elle qu’il me chuchotait sans\nque je pusse le comprendre, et je l’embrassais au passage",
+      "start": 576,
+      "end": 1276
+    },
+    {
+      "text": "A gauche\nétait un village qui s’appelait Champieu (Campus Pagani, selon le\ncuré)",
+      "start": 1277,
+      "end": 1358
+    },
+    {
+      "text": "Sur la droite, on apercevait par delà les blés, les deux\nclochers ciselés et rustiques de Saint-André-des-Champs, eux-mêmes\neffilés, écailleux, imbriqués d’alvéoles, guillochés, jaunissants et\ngrumeleux, comme deux épis",
+      "start": 1359,
+      "end": 1579
+    }
+  ],
+  "tokens": 261,
+  "processed_at": "2025-03-16T02:10:55.503687"
+}

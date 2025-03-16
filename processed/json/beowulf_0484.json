@@ -1,0 +1,31 @@
+{
+  "text": "Quant à M. Verdurin, trouvant que c’était un peu fatigant de se mettre\nà rire pour si peu, il se contenta de tirer une bouffée de sa pipe en\nsongeant avec tristesse qu’il ne pouvait plus rattraper sa femme sur\nle terrain de l’amabilité.",
+  "entities": [
+    {
+      "text": "Quant",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Verdurin,",
+      "label": "ORG",
+      "start": 11,
+      "end": 20
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Quant à M",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Verdurin, trouvant que c’était un peu fatigant de se mettre\nà rire pour si peu, il se contenta de tirer une bouffée de sa pipe en\nsongeant avec tristesse qu’il ne pouvait plus rattraper sa femme sur\nle terrain de l’amabilité",
+      "start": 10,
+      "end": 235
+    }
+  ],
+  "tokens": 44,
+  "processed_at": "2025-03-16T02:10:56.010032"
+}

@@ -1,0 +1,71 @@
+{
+  "text": "--«De ne pas tenir à la vie? Mais à quoi donc qu’il faut tenir, si ce\nn’est pas à la vie, le seul cadeau que le bon Dieu ne fasse jamais\ndeux fois. Hélas! mon Dieu! C’est pourtant vrai qu’ils n’y tiennent\npas! Je les ai vus en 70; ils n’ont plus peur de la mort, dans ces\nmisérables guerres; c’est ni plus ni moins des fous; et puis ils ne\nvalent plus la corde pour les pendre, ce n’est pas des hommes, c’est\ndes lions.» (Pour Françoise la comparaison d’un homme à un lion,\nqu’elle prononçait li-on, n’avait rien de flatteur.)",
+  "entities": [
+    {
+      "text": "--«De",
+      "label": "ORG",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "Mais",
+      "label": "ORG",
+      "start": 29,
+      "end": 33
+    },
+    {
+      "text": "Dieu",
+      "label": "ORG",
+      "start": 116,
+      "end": 120
+    },
+    {
+      "text": "Hélas!",
+      "label": "ORG",
+      "start": 148,
+      "end": 154
+    },
+    {
+      "text": "Dieu!",
+      "label": "ORG",
+      "start": 159,
+      "end": 164
+    },
+    {
+      "text": "(Pour",
+      "label": "ORG",
+      "start": 421,
+      "end": 426
+    },
+    {
+      "text": "Françoise",
+      "label": "ORG",
+      "start": 427,
+      "end": 436
+    }
+  ],
+  "sentences": [
+    {
+      "text": "--«De ne pas tenir à la vie? Mais à quoi donc qu’il faut tenir, si ce\nn’est pas à la vie, le seul cadeau que le bon Dieu ne fasse jamais\ndeux fois",
+      "start": 0,
+      "end": 146
+    },
+    {
+      "text": "Hélas! mon Dieu! C’est pourtant vrai qu’ils n’y tiennent\npas! Je les ai vus en 70; ils n’ont plus peur de la mort, dans ces\nmisérables guerres; c’est ni plus ni moins des fous; et puis ils ne\nvalent plus la corde pour les pendre, ce n’est pas des hommes, c’est\ndes lions",
+      "start": 147,
+      "end": 418
+    },
+    {
+      "text": "» (Pour Françoise la comparaison d’un homme à un lion,\nqu’elle prononçait li-on, n’avait rien de flatteur",
+      "start": 419,
+      "end": 524
+    },
+    {
+      "text": ")",
+      "start": 525,
+      "end": 526
+    }
+  ],
+  "tokens": 102,
+  "processed_at": "2025-03-16T02:10:54.992956"
+}

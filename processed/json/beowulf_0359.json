@@ -1,0 +1,70 @@
+{
+  "text": "Bientôt le cours de la Vivonne s’obstrue de plantes d’eau. Il y en a\nd’abord d’isolées comme tel nénufar à qui le courant au travers duquel\nil était placé d’une façon malheureuse laissait si peu de repos que\ncomme un bac actionné mécaniquement il n’abordait une rive que pour\nretourner à celle d’où il était venu, refaisant éternellement la\ndouble traversée. Poussé vers la rive, son pédoncule se dépliait,\ns’allongeait, filait, atteignait l’extrême limite de sa tension\njusqu’au bord où le courant le reprenait, le vert cordage se repliait\nsur lui-même et ramenait la pauvre plante à ce qu’on peut d’autant\nmieux appeler son point de départ qu’elle n’y restait pas une seconde\nsans en repartir par une répétition de la même manœuvre. Je la\nretrouvais de promenade en promenade, toujours dans la même situation,\nfaisant penser à certains neurasthéniques au nombre desquels mon\ngrand-père comptait ma tante Léonie, qui nous offrent sans changement\nau cours des années le spectacle des habitudes bizarres qu’ils se\ncroient chaque fois à la veille de secouer et qu’ils gardent toujours;\npris dans l’engrenage de leurs malaises et de leurs manies, les\nefforts dans lesquels ils se débattent inutilement pour en sortir ne\nfont qu’assurer le fonctionnement et faire jouer le déclic de leur\ndiététique étrange, inéluctable et funeste. Tel était ce nénufar,\npareil aussi à quelqu’un de ces malheureux dont le tourment singulier,\nqui se répète indéfiniment durant l’éternité, excitait la curiosité de\nDante et dont il se serait fait raconter plus longuement les\nparticularités et la cause par le supplicié lui-même, si Virgile,\ns’éloignant à grands pas, ne l’avait forcé à le rattraper au plus\nvite, comme moi mes parents.",
+  "entities": [
+    {
+      "text": "Bientôt",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Vivonne",
+      "label": "ORG",
+      "start": 23,
+      "end": 30
+    },
+    {
+      "text": "Poussé",
+      "label": "ORG",
+      "start": 359,
+      "end": 365
+    },
+    {
+      "text": "Léonie,",
+      "label": "ORG",
+      "start": 906,
+      "end": 913
+    },
+    {
+      "text": "Dante",
+      "label": "ORG",
+      "start": 1492,
+      "end": 1497
+    },
+    {
+      "text": "Virgile,",
+      "label": "ORG",
+      "start": 1610,
+      "end": 1618
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Bientôt le cours de la Vivonne s’obstrue de plantes d’eau",
+      "start": 0,
+      "end": 57
+    },
+    {
+      "text": "Il y en a\nd’abord d’isolées comme tel nénufar à qui le courant au travers duquel\nil était placé d’une façon malheureuse laissait si peu de repos que\ncomme un bac actionné mécaniquement il n’abordait une rive que pour\nretourner à celle d’où il était venu, refaisant éternellement la\ndouble traversée",
+      "start": 58,
+      "end": 357
+    },
+    {
+      "text": "Poussé vers la rive, son pédoncule se dépliait,\ns’allongeait, filait, atteignait l’extrême limite de sa tension\njusqu’au bord où le courant le reprenait, le vert cordage se repliait\nsur lui-même et ramenait la pauvre plante à ce qu’on peut d’autant\nmieux appeler son point de départ qu’elle n’y restait pas une seconde\nsans en repartir par une répétition de la même manœuvre",
+      "start": 358,
+      "end": 733
+    },
+    {
+      "text": "Je la\nretrouvais de promenade en promenade, toujours dans la même situation,\nfaisant penser à certains neurasthéniques au nombre desquels mon\ngrand-père comptait ma tante Léonie, qui nous offrent sans changement\nau cours des années le spectacle des habitudes bizarres qu’ils se\ncroient chaque fois à la veille de secouer et qu’ils gardent toujours;\npris dans l’engrenage de leurs malaises et de leurs manies, les\nefforts dans lesquels ils se débattent inutilement pour en sortir ne\nfont qu’assurer le fonctionnement et faire jouer le déclic de leur\ndiététique étrange, inéluctable et funeste",
+      "start": 734,
+      "end": 1326
+    },
+    {
+      "text": "Tel était ce nénufar,\npareil aussi à quelqu’un de ces malheureux dont le tourment singulier,\nqui se répète indéfiniment durant l’éternité, excitait la curiosité de\nDante et dont il se serait fait raconter plus longuement les\nparticularités et la cause par le supplicié lui-même, si Virgile,\ns’éloignant à grands pas, ne l’avait forcé à le rattraper au plus\nvite, comme moi mes parents",
+      "start": 1327,
+      "end": 1712
+    }
+  ],
+  "tokens": 278,
+  "processed_at": "2025-03-16T02:10:55.644395"
+}
